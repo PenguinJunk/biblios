@@ -26755,10 +26755,36 @@ Code was ultimately open sourced and other governments used it.},
   date             = {2022-11-23},
   title            = {Innovations need bureaucracy},
   url              = {https://medium.com/iipp-blog/innovations-need-bureaucracy-e13b3a79222c},
-  comment          = {Blog post summarising the book How to Make and Entreprenaurial State: Why Innovation Needs Bureaucracy},
+  comment          = {Blog post summarising the book How to Make and Entreprenaurial State: Why Innovation Needs Bureaucracy
+
+Begins with the example of Physikalisch-Technische Reichsanstalt PTR established in Germany in 1887 for developing physical standards using funding, land and organisational design by Werner Siemens. Aim to build up scientific bureaucracy - blueprint of how to move from agile and start-up phase to more stable delivery-focus. 
+
+Siemens is a `bureaucracy hacker'
+
+Appointed a charismatic leader
+
+Mission Mystique (term coined by Charles Goodsell in 2010) enables the innovation bureaucracy to cope with the risks and uncertainties associated with innovaiton and lead dynamic changes
+
+Such innovation bureaucracies are established to deal with emerging technological or socio-economic challanges. This was predicted by Max Weber who described how charismatic authority becomes bureaucratic authority and then back to charismatic. Particular categories of organisation - charismatic networks and expert organisations - is often an oscillation between these extremes: agile stability
+
+Looks at two present-day examples
+
+Vinnova, Swedish Innovation Agency, working now being reframed from focusing primarily on technological issues to tackling socio-economic challenges such as rethinking food systems to privde healthy sustainable food in schools.
+
+Government Data Service GDS, changed governement's digital transformation mindset enabling the break-up of oligopolistic markets broken by creation of many SME contracts. gov.uk created. People hired into GDS were from places like BBC.},
   creationdate     = {2023-01-14T16:06:23},
-  modificationdate = {2023-01-14T16:08:00},
+  modificationdate = {2023-01-15T07:43:41},
   owner            = {izzy_olivine},
+}
+
+@Article{Kattel2022,
+  author           = {Rainer Kattel},
+  title            = {Dynamic capabilities of the public sector: Towards a new synthesis},
+  series           = {IIPP Working paper},
+  creationdate     = {2023-01-15T08:13:00},
+  modificationdate = {2023-01-15T08:13:57},
+  owner            = {izzy_olivine},
+  year             = {2022},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
