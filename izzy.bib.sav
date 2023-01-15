@@ -22138,7 +22138,7 @@ Scientists could use focus of the work itself, discovery and immersion to protec
 @TechReport{KattelMRS2018,
   author           = {Rainer Kattel and Mariana Mazzucato and Josh Ryan-Collins and Simon Sharpe},
   date             = {2018-07-01},
-  institution      = {Institute for Innovation and Public Purpose},
+  institution      = {UCL Institute for Innovation and Public Purpose},
   title            = {The economics of change: Policy and appraisal for missions, market shaping and public purpose},
   url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2018/jul/economics-change-policy-and-appraisal-missions-market-shaping-and-public},
   comment          = {''argue that market-shaping, ‘mission-oriented’ policies should be evaluated on three levels: enhancing user experience and engagement; expanding technological frontiers; and broader macroeconomic multiplier effects. To do this, governments need to embrace and experiment with new tools and methodologies focused on user needs and dynamic – rather than allocative – efficiency. These include techniques from service design research that focuses on user experience and co-creation practice; and strands of evolutionary economics that focus on shifting and shaping technology and innovation frontiers and managing complex systems under conditions of uncertainty.''
@@ -22179,7 +22179,7 @@ Deleidi studies demonstrated a larger multiplier affect with mission-oriented in
 to achieve changes over time and so is concerned with innovation, investment, improvement and growth – including, perhaps most importantly, the creation of new resources (technologies) and shifting technology frontiers (Huerta de Soto 2009).''},
   creationdate     = {2022-10-05T19:06:09},
   keywords         = {economics, policy, missions},
-  modificationdate = {2023-01-13T11:26:50},
+  modificationdate = {2023-01-15T14:59:01},
   owner            = {ISargent},
 }
 
@@ -22795,7 +22795,7 @@ Suggests a series of reform options - the chapters in the final section.},
 @TechReport{BEISIIPP2020,
   author           = {Mariana Mazzucato and Rainer Kattel and Sarah Albala and George Dibb and Martha McPherson and Asker Voldsgaard},
   date             = {2020-10-01},
-  institution      = {Institute for Innovation and Public Purpose / Department for Business, Energy and Industrial Strategy},
+  institution      = {UCL Institute for Innovation and Public Purpose / Department for Business, Energy and Industrial Strategy},
   title            = {Alternative policy evaluation frameworks and tools},
   subtitle         = {Exploratory study},
   titleaddon       = {BEIS Research Paper Number 2020/044},
@@ -22821,7 +22821,7 @@ Recommendations
 - A community of practise and analysis and testing of ways in which mainstream and alternative appraisal and evaluation tools can be brought together},
   creationdate     = {2022-10-16T14:35:04},
   keywords         = {economics, policy, evaluation},
-  modificationdate = {2022-10-16T14:40:15},
+  modificationdate = {2023-01-15T14:59:12},
   owner            = {ISargent},
 }
 
@@ -26777,14 +26777,40 @@ Government Data Service GDS, changed governement's digital transformation mindse
   owner            = {izzy_olivine},
 }
 
-@Article{Kattel2022,
+@TechReport{Kattel2022,
   author           = {Rainer Kattel},
+  date             = {2022-03-31},
+  institution      = {Institute of Innovation and Public Purpose},
   title            = {Dynamic capabilities of the public sector: Towards a new synthesis},
-  series           = {IIPP Working paper},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2022/mar/dynamic-capabilities-public-sector-towards-new-synthesis},
   creationdate     = {2023-01-15T08:13:00},
-  modificationdate = {2023-01-15T08:13:57},
+  modificationdate = {2023-01-15T08:15:17},
   owner            = {izzy_olivine},
+  series           = {IIPP Working paper},
   year             = {2022},
+}
+
+@TechReport{Bouckaert2022,
+  author           = {Geert Bouckaert},
+  date             = {2022-06-27},
+  institution      = {UCL Institute for Innovation for Public Purpose},
+  title            = {The neo-Weberian state: From ideal type model to reality?},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2022/jun/neo-weberian-state-ideal-type-model-reality},
+  comment          = {I think this paper proposes the name ``neo-Weberian state'' (NWS) to fit many European states, or at least builds on earlier work by the author to propose the name. I would need to look more widely to understand better.
+
+Reference earlier work that identifies 4 ideal types: maintain, modernise, marketise and minimise. Find that in realit, states can be hybrids or blends of these. Maintain and modernise combine in NWS. A combination of marketise and minimised is a fit with New Public Management (NPM).
+
+OECD promosed NPM and New Zealand showcased this. However, reform is more than simply "more or less" NPM, there are other types of modernisation such as NWS.
+
+Weber considered the difference between  ‘community’ (Gemeinschaft) to ‘society’ (Gesellschaft). He considered rational spirit of bureaucracy as efficient and powerful. This paper describes the Weberian state model as holding space between bureaucracy, society and business.
+
+Develops the `driver'-space which is defined by different mechanisms: hierachy (H), markets (M) and networks (N). NWS is more about H and some N, and less M. I find Table 1 which describes the Weberian and Neo components of NWS. One of the Neo elements is ``Shift from an internal orientation towards bureaucratic rulefollowing towards an external orientation towards meeting citizens’ needs and wishes. The primary route to achieving this is not the employment of market mechanisms (although they may occasionally come in handy), but the creation of a professional culture of quality and service. ''
+
+NPM is more about M and some N, much less H. New Public Governance (NPG) has the bias towards N, some M and not much H.},
+  creationdate     = {2023-01-15T14:56:36},
+  keywords         = {economics, bureaucracy},
+  modificationdate = {2023-01-15T15:39:20},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
