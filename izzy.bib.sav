@@ -24032,10 +24032,12 @@ Discussion of regulation of supply, the flexibility of supply and the quality of
 The producers interests should count for very little - the consumer should be priority. p151 
 But CBA nets the consumers' losses with the producers' gains p152
 
-``certain things are not well known and those who propose solutions are either charlatans or fools'' p153},
+``certain things are not well known and those who propose solutions are either charlatans or fools'' p153
+
+From Kattel lecture - this books says that we cannot solve the ghetto problem if we continue to look for answers in science - these problems are too complex.},
   creationdate     = {2022-11-07T16:01:36},
   keywords         = {economics, policy, innovation, organisations},
-  modificationdate = {2022-11-25T19:01:09},
+  modificationdate = {2023-01-16T14:32:49},
   owner            = {ISargent},
 }
 
@@ -27056,10 +27058,33 @@ Simon1991 also talks about the difficulty of defining rewards as motivators},
   title            = {Explaining the {API} Revolution to your CEO},
   url              = {https://www.forbes.com/sites/danwoods/2011/12/15/explaining-the-api-revolution-to-your-ceo/},
   urldate          = {2023-01-16},
-  comment          = {Brief article, a bit out of date. Main conclusion I gleaned was to make internal APIs that could then be externalised having been tested.},
+  comment          = {Brief article, a bit out of date. Main conclusion I gleaned was to make internal APIs that could then be externalised having been tested.
+
+APIs:
+* are channel to new customers and markets
+* can be private
+* promote innovation
+* are a better way to organize IT
+* are not only for huge companies
+* create a path to lots of Apps
+* to create lots of apps that can lead to lots of customers},
   creationdate     = {2023-01-16T13:54:08},
   keywords         = {transformation, technology},
-  modificationdate = {2023-01-16T14:07:08},
+  modificationdate = {2023-01-16T14:08:30},
+  owner            = {izzy_olivine},
+}
+
+@Misc{Kattel2022,
+  author           = {Rainer Kattel},
+  date             = {2022},
+  title            = {Case study: Physikalisch-Technische Reichsanstalt},
+  comment          = {Case study for MPA module: Creative Bureaucracies
+
+Outlines the PTR, how it arose
+
+Scientific bureaucracy},
+  creationdate     = {2023-01-16T14:14:34},
+  modificationdate = {2023-01-16T14:16:33},
   owner            = {izzy_olivine},
 }
 
