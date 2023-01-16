@@ -27031,13 +27031,35 @@ Normative model has 5 elements:
 * Responsibility
 * Judgement
 
+Discuss governing managment
+
+``If people believe that government is bumbling and bureaucratic, then that is what it will be''
+
+Businesses can learn from governments, not just vice versa
+
+``the mistaken belief that those who have managed something can manage anything''
+
+``Private sector values are now pervading all of society''
 
 DunleavyMBT2006 has a useful perspective on Mintzberg's earlier work on which this article is built, I believe
 
 Simon1991 also talks about the difficulty of defining rewards as motivators},
   creationdate     = {2023-01-16T11:04:54},
   keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-16T13:07:48},
+  modificationdate = {2023-01-16T13:10:18},
+  owner            = {izzy_olivine},
+}
+
+@Online{Woods2011,
+  author           = {Dan Woods},
+  date             = {2011-12-15},
+  title            = {Explaining the {API} Revolution to your CEO},
+  url              = {https://www.forbes.com/sites/danwoods/2011/12/15/explaining-the-api-revolution-to-your-ceo/},
+  urldate          = {2023-01-16},
+  comment          = {Brief article, a bit out of date. Main conclusion I gleaned was to make internal APIs that could then be externalised having been tested.},
+  creationdate     = {2023-01-16T13:54:08},
+  keywords         = {transformation, technology},
+  modificationdate = {2023-01-16T14:07:08},
   owner            = {izzy_olivine},
 }
 
