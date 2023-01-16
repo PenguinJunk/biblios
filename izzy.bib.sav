@@ -26903,7 +26903,7 @@ Argue that:
   journaltitle     = {NISPAcee Journal of Public Administration and Policy},
   title            = {What would Max Weber say about public sector innovation},
   url              = {https://content.sciendo.com/configurable/contentpage/journals$002fnispa$002f8$002f1$002farticle-p9.xml},
-  comment          = {``Th e aim of this article is to, fi rst, give a brief overview of prevailing attempts to conceptualize (define) public-sector innovation and, second, contrast it with older literature on innovation''
+  comment          = {``The aim of this article is to, fi rst, give a brief overview of prevailing attempts to conceptualize (define) public-sector innovation and, second, contrast it with older literature on innovation''
 
 conceptualise public sector innovation in 3 periods:
 1. the Schumpeterian period - public sector innovation related to wider theories of evolutionary change
@@ -26911,9 +26911,81 @@ conceptualise public sector innovation in 3 periods:
 3. the autochthonous-theory period - dissociating public and private innovation},
   creationdate     = {2023-01-15T17:43:07},
   keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-15T18:47:46},
+  modificationdate = {2023-01-15T18:48:45},
   owner            = {izzy_olivine},
   year             = {2015},
+}
+
+@InBook{DunleavyMBT2006,
+  author           = {Patrick Dunleavy and Helen Margetts and Simon Bastow and Jane Tinkler},
+  booktitle        = {Digital Era Governance: IT Corporations, the State, and e-Government},
+  date             = {2006},
+  title            = {The Theory of Modern Bureaucracy and theNeglected Role of IT},
+  chapter          = {1},
+  doi              = {10.1093/acprof:oso/9780199296194.001.0001},
+  comment          = {Public administration literature tends to marginalise IT.
+
+Suggests that Weber was not original in his observation of modern bureaucracies as German Brockhaus encyclopedia of 1819 complains about the use of pens when word of mouth has previously done the work.
+
+Weber's analysis was distinctive in how he identified that it was necessary to bring together qualified officials with a systematized organisation.
+
+Give nice history of bureaucracy from paper-based systems, including search, to IT.
+
+The Weberian concept with in-house operations seemed an inadequate idea by the 1990s when much IT is done by external agencies.
+
+Mintzberg (e.g. Mintzberg1996) characterised some Weberian bureaucracies as `machine bureaucracies'. Within this model, IT services are not core but part of the support services. They may even be out-sourced.
+
+``Machine bureaucracies tend to be the dominant organizational form for the biggest users of civilian government IT at national government level''
+
+``there is unlikely to be a director of IT on the management board''
+
+Shows Hood's categorisation of government roles, each having detector (finding out) and effector (getting done) tools:
+* Nodality - government is central to society's information networks
+* Authority - make laws and regulation that coerce/enforce
+* Treasure - secure the provision of goods and services
+* Organisation - delivery of services
+* Expertise - accumulation [and application?]  of knowledge
+
+Herbert Simon argued that computers could reshape an organisation in 3 ways:
+* creating more accessible organisational `memory'
+* more information and more potential to problem-solve in modern societies
+* increasing the decision-processing capacity - anticipating web and internet impacts
+
+Nice quote from Rose 1990 about how technology is not just the hardware and software but also ``the inculcation of a form of life, the reshaping of various roles for human practices, the mental techniques required in terms of certain practices of communication, the practices of the self orientated around the mobile telephone, the word processor, the World Wide Web, and so forth.''
+
+`audit explosion’ - a growth of internal regulators and the linking of key performance indicators (KPIs) to NPM reorganizations (Power 1994).
+
+IT systems effect on policy:
+1. can limit  policy-makers' discretionary action whereas that other constaints can be overcome
+2. Work-arounds with IT systems can be time/money/capacity prohibative
+3. The costs, complexity, and difficulty of IT investments and renewals tend to grow over time
+4. The above have feedback implications for administrators' behaviour
+5. This can lead to contracting out IT which means specifying what the service and capability should be, which can be less flexible, as can simply working with contractor rather than in-house
+
+Contractors generally reckoned that by winning a contract they would be able to earn much more by requests for new capacity or specification changes.
+
+The Weberian model seemed partial, almost from the start, because it could not explain many real-world examples (including Britain). 
+
+In many systems, those who enter the civil service are trained (to an elite level) in a range of (often general) skills but not IT - and so machine bureaucracies (unlike welfare state agencies - Mintzberg's Professional bureaucracies) tended to be led by IT illiterate managers.  [Does this reflect Mintzberg1996 - if they've managed something, they can manage anything?]. In US, in contrast, departments were run by relevant specialists - although this also seems to be the case.},
+  creationdate     = {2023-01-16T10:39:36},
+  keywords         = {economics, bureaucracy, transformation},
+  modificationdate = {2023-01-16T11:57:02},
+  owner            = {izzy_olivine},
+  year             = {2006},
+}
+
+@Article{Mintzberg1996,
+  author           = {Henry Mintzberg},
+  date             = {1996},
+  journaltitle     = {Harvard Business Review},
+  title            = {Managing Government, Governing Management},
+  comment          = {DunleavyMBT2006 has a useful perspective on Mintzberg's earlier work on which this article is built, I believe
+
+Simon1991 also talks about the difficulty of defining rewards as motivators},
+  creationdate     = {2023-01-16T11:04:54},
+  keywords         = {economics, bureaucracy},
+  modificationdate = {2023-01-16T11:15:08},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
