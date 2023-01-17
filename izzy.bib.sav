@@ -27186,7 +27186,7 @@ US food stamp service, SNAP, and particularly California's version, CalFresh},
   owner            = {izzy_olivine},
 }
 
-@Article{MergelGW2020,
+@Article{MergelGW2021,
   author           = {Ines Mergel and Sukumar Ganapati and Andrew B. Whitford},
   date             = {2021},
   journaltitle     = {Public Administration Review},
@@ -27230,8 +27230,41 @@ outside-in from vendors or consultants)''
 ``Agile Is Antithetical to Many Typical Bureaucratic Line Organizations...managers who need to take responsibility for actions may not be willing to do so given how cross-functional agile teams work ... If experimentation is not part of the toolbox, and if bureaus value organizational reputation and avoid public failures, agile never gains traction ... in organizations largely characterized by “we have seen this before, let’s wait until the next wave comes in,” traditionalists could see agile as another fad that will be replaced''},
   creationdate     = {2023-01-17T13:04:51},
   keywords         = {policy, transformation},
-  modificationdate = {2023-01-17T13:31:39},
+  modificationdate = {2023-01-17T13:32:20},
   owner            = {izzy_olivine},
+}
+
+@Book{HerdM2018,
+  author           = {Pamela Herd and Donald Moynihan},
+  date             = {2018},
+  title            = {Administrative Burden: Policymaking by other means},
+  doi              = {10.7758/9781610448789},
+  url              = {https://www.jstor.org/stable/10.7758/9781610448789},
+  comment          = {Loads of examples of how administrative burden can be used to enact policies, sometimes in a convert manner, for public good or sometimes bad.
+
+Examples include voter registration, polling stations, food stamps, health insurance, abortion, tax credits, old age benefits, social security,
+
+``focus on the costs that people encounter when they search for information about public services (learning costs), comply with rules and requirements (compliance costs), and experience the stresses, loss of autonomy, or stigma that come from such encounters (psychological costs)''
+
+``Individuals care as much or more about the process of their interactions with the state as they do about the outcome''
+
+Burdens can be a policy instrument which thwart people's access - could be easier for gov to do than legislature required for more visible policymaking.
+
+``Higher voter participation tends to increase the share of low-income voters, resulting in more generous welfare services, greater equality, more progressive taxation, and less restrictive welfare participation rules. If policymakers and administrators use their authority to influence who votes in elections, they are also influencing the policies that will be adopted after the election, and the burdens that accompany those policies''
+
+Some policies create their own industries which can then lobby for the extention of the policy - e.g. tax credits in US, the tax preparation service lobbied not only for the expansion of the policy but also to maintain enough documentation requirements to ensure tax credit remains
+burdensome enough that low-income workers seek professional tax preparation help
+
+``Shifting burdens away from citizens requires a well-functioning administrative state''
+
+``Republicans figured out how to build a politics of burdens that Democrats have been unable or unwilling to develop. Republicans have done so despite the fact that in other areas—such as the regulation of businesses, campaign donations, or firearms—they have also been successful in opposing governmentally imposed burdens in the name of liberty''
+
+highlights: https://highlights.sawyerh.com/volumes/vB9VLalTilxmp1ivWjpV},
+  creationdate     = {2023-01-17T13:57:28},
+  keywords         = {economics, policy, transformation},
+  modificationdate = {2023-01-17T14:42:34},
+  owner            = {izzy_olivine},
+  year             = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
