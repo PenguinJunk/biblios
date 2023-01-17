@@ -27292,4 +27292,16 @@ Agile ``has achieved best success to date within certain settings; notably, high
   owner            = {izzy_olivine},
 }
 
+@Online{AdHocUSDSPlaybook,
+  author           = {{Ad Hoc}},
+  title            = {The Ad Hoc Government Digital Services Playbook},
+  url              = {https://adhoc.team/playbook/},
+  comment          = {``This playbook is for agencies ready to replace enterprise software patterns with proven techniques from the world of commercial software''
+
+includes roles of users, subject matter experts},
+  creationdate     = {2023-01-17T14:58:12},
+  modificationdate = {2023-01-17T15:04:29},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
