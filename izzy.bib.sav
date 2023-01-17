@@ -27074,7 +27074,7 @@ APIs:
   owner            = {izzy_olivine},
 }
 
-@Misc{Kattel2022,
+@Misc{Kattel2022PTR,
   author           = {Rainer Kattel},
   date             = {2022},
   title            = {Case study: Physikalisch-Technische Reichsanstalt},
@@ -27084,8 +27084,92 @@ Outlines the PTR, how it arose
 
 Scientific bureaucracy},
   creationdate     = {2023-01-16T14:14:34},
-  modificationdate = {2023-01-16T14:16:33},
+  modificationdate = {2023-01-16T17:57:13},
   owner            = {izzy_olivine},
+}
+
+@Misc{Kattel2022Estonia,
+  author           = {Rainer Kattel},
+  date             = {2022},
+  title            = {Case study: Estonia},
+  comment          = {Description of Estonia's digital government
+
+Developed as a crazy idea, bureaucracy hacking, mission mystique
+
+Decentralised 
+
+Infrastructure is x-road
+
+Digital ID is compulsory
+
+However, there are problems more recently
+
+Maybe the time of agile bottom up transformation has had its time and perhaps more stronger and more formalised coordination structures are now required?},
+  creationdate     = {2023-01-16T17:56:36},
+  modificationdate = {2023-01-16T18:02:57},
+  owner            = {izzy_olivine},
+}
+
+@Article{Peters2021,
+  author           = {B Guy Peters},
+  date             = {2021-12-22},
+  journaltitle     = {Oxford Research Encyclodeia: Politics},
+  title            = {Administrative Traditions: Concepts and Variables},
+  doi              = {10.1093/acrefore/9780190228637.013.1451},
+  url              = {https://oxfordre.com/politics/display/10.1093/acrefore/9780190228637.001.0001/acrefore-9780190228637-e-1451},
+  comment          = {``that once patterns of administration or policy have been established, they tend to persist'' sometimes reemerging after other patterns have been overlayed on top.
+
+The institution shapes individuals' preferences - New Instituitionalism
+
+Identifies the elements of administrative traditions:
+1. state and society
+   * organic - state linked and not particularly destict from society, reform would alter fundamental nature of state
+   * contractarian - state arises from conscious social and political contract, constitution, reformable, e.g anglo-american
+2. law versus management
+   * legalistic: public administration is for administering public law, virtually Weberian, administrators trained as lawyers  e.g. German and French systems (althought NPM has overlayed managerialist ideas)
+   * managerialist: public administration is to get things done, law is the beginning (not the end) for PA, e.g. NPM, UK, NZ
+   * senior public servant as policy advisor somewhat cuts across these two conceptions - capacity to draft law but also advise on possible social, economic, political consequences of policy
+3. administration and politics
+   * some traditions assert that public service should be politically neutral, although it often isn't, government should accept administrators (or quietly move them aside)
+   * others see political involvement as acceptible even beneficial, government is expected to appoint its own administrators
+   * ``NPM devalues the concept of a career, neutral civil service in favor of a more committed and perhaps temporary service''
+4. the career
+   * career civil servants, in some cases trained in dedicated educational establishments
+   * recruitment into and out of civil service
+5. state and society II - the role of social interest in government decision making
+   * involvement of societal actors can seen seen as legitimating the state and restraining its autonomy, corporatism is common example
+   * societal interests represented by advisory commitees, interest groups, NGOs
+   * interest groups undermine the authority of the state
+   * government fosters support from interest groups
+6. uniformity - in policy and administration
+   * create uniformity across the nation e.g. France; French, Belgian, Portungese direct rule over colonies
+   * recognise differences across the nation e.g. German federal system; British idirect rule over India
+   * equality versus self-determination
+   * more co-ordinated federalism may result in greater uniformity
+7. accountability
+   * controls enforced by political actors and legislature versus accountability is primarily internal action
+   * accountability enforced after action, or action requires approval
+   * perception of corruption leading to NPM (but some NPM reforms have reduced accountability)
+
+Uses these variable to define 4 traditions in Westerrn administration:
+* Anglo-American - (some US divergence)
+* Germanic
+* Napoleonic
+* Scandinavian
+
+- Variation within traditions
+- Dilution in former colonies
+- Netherlands, and to some extent Belgium, combine Germnaic with Napoleonic
+- Finland is Scandinavian but with some elements remaining from Russian, whilst this was overlaid on Swedish
+- Czech Republic, Slovakia, Hungary recent Russian and earlier Germanic from Austro-Hungarian Empire
+- Japan Germanic and Napoleonic from late 19th Century, with Indigenous and Anglo-American from constitution from after WWII
+
+(There are other administration traditions in the world: Islamic, Confucian, Latin American and African)},
+  creationdate     = {2023-01-17T09:21:01},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-01-17T10:42:21},
+  owner            = {izzy_olivine},
+  year             = {2021},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
