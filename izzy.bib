@@ -13017,7 +13017,7 @@ There are some glaring typos that are repeated throughout the manuscript includi
 
  The addition of ``s'' after many of the abbreviations is confusing - particularly in ``CNNs'' and ``CRFs''. Sometimes this is a plural and sometimes its seems to indicate possession i.e. ``CNN's parameters''. In many cases, the authors would be better saying something like ``the fine-tuning of the CNN'', ``CNN architecture'' and ``An introduction the FC-CRF approach''.
 
- Subscripts are missing, such as line 175 x_i. Also, please ensure that the same font is used for symbols in equations as is used in the main text.
+ Subscripts are missing, such as line 175 $x_i$. Also, please ensure that the same font is used for symbols in equations as is used in the main text.
 
 The two sentences, lines 217-220 don't seem to add to this section, I'm not sure how they are relevant.
 
@@ -13437,8 +13437,6 @@ I would be very interested to see how well the multi-scale features performed as
   title        = {Comparing deep neural networks, ensemble classifiers, and support vector machine for object-based urban land use/cover classification},
   comment      = {return to this paper for comments on XGBoost , working with multiple scales, key parameters for SVM and XGBoost, balancing training data with SMOTE
 
-______________________
-
 Paper describes research comparing the land use/land cover ability of 10 examples of classifiers, which fall into 3 catergories: deep neural networks, ensemble classifiers and support vector machines. By comparing classification accuracy for two different data sets - of different scene complexities - the conclusion is drawn that given the problem, a multi-layer perceptron performs best, that autoencoders as feature extractors do not improve classification results and that traditional machine learning is still relevant. 
 
 
@@ -13579,7 +13577,7 @@ Transfer trained model to segmenting DeepGlobe data ``We then train a modified v
   author       = {Nikolaus Kriegeskorte and Marieke Mur and Ruff, Douglas A. and Roozbeh Kiani and Jerzy Bodurka and Hossein Esteky and Keiji Tanaka and Bandettini, Peter A.},
   date         = {2008-12-26},
   title        = {Matching Categorical Object Representations in Inferior Temporal Cortex of Man and Monkey},
-  comment      = {From video https://www.youtube.com/watch?v=_-D4S0x5AFc ``Our working hypothesis is the (Inferior temporal) IT may emply featuers that are optimised for distinguising conventional categories - that would suggest its not enough to do unsupervised learning and just represent natural shapes but behaviourally relevant divisions might inform the selection of those basis functions in IT''},
+  comment      = {From video \url{https://www.youtube.com/watch?v=_-D4S0x5AFc} ``Our working hypothesis is the (Inferior temporal) IT may emply featuers that are optimised for distinguising conventional categories - that would suggest its not enough to do unsupervised learning and just represent natural shapes but behaviourally relevant divisions might inform the selection of those basis functions in IT''},
   creationdate = {2019-07-30},
   journal      = {Neuron},
   keywords     = {Unsupervised learning},
@@ -13593,7 +13591,7 @@ Transfer trained model to segmenting DeepGlobe data ``We then train a modified v
   journal   = {Frontiers in System Neuroscience},
   year      = {2008},
   date      = {2008-05-19},
-  comment   = {Describes the use of representation similarity analysis or  representational dissimilarlity matrices by which the measure of similarity of brain response between two stimuli is placed in a matrix. When comparing the matrices for humans and monkeys, they show similar patterns of finding, for example, faces have low dissimilarity from each other. Demonstrated in https://www.youtube.com/watch?v=_-D4S0x5AFc},
+  comment   = {Describes the use of representation similarity analysis or  representational dissimilarlity matrices by which the measure of similarity of brain response between two stimuli is placed in a matrix. When comparing the matrices for humans and monkeys, they show similar patterns of finding, for example, faces have low dissimilarity from each other. Demonstrated in \url{https://www.youtube.com/watch?v=_-D4S0x5AFc}},
   keywords  = {Toponet Metrics; Quality},
   owner     = {ISargent},
   creationdate = {2019-07-30},
@@ -13835,7 +13833,7 @@ The training image can be of any type, ranging from an image to statistical prop
   booktitle    = {The Fourth Conference of Research Software Engineering},
   title        = {(Research Software) Engineering is not Research (Software Engineering)},
   url          = {https://www.cs.ox.ac.uk/projects/RSE/rse_post/rseconf_talk/},
-  comment      = {Write up of this talk can be found on the url link. Discusses how to create meaningful goals for research software engineering. Starts with looking at Agile design principles (http://agilemanifesto.org/principles.html). Some of these are relevant but others less so e.g. ``Our highest priority is to satisfy the customer through early and continuous delivery of valuable software'', ``Deliver working software frequently…Working software is the primary measure of progress'', ``Business people and developers must work together daily throughout the project'' largely because they can be impractical in a research setting.
+  comment      = {Write up of this talk can be found on the url link. Discusses how to create meaningful goals for research software engineering. Starts with looking at Agile design principles (\url{http://agilemanifesto.org/principles.html}). Some of these are relevant but others less so e.g. ``Our highest priority is to satisfy the customer through early and continuous delivery of valuable software'', ``Deliver working software frequently…Working software is the primary measure of progress'', ``Business people and developers must work together daily throughout the project'' largely because they can be impractical in a research setting.
 
 Those principles that are applicable include ``At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behaviour accordingly.'', ``Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.'', ``Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.''
 
@@ -14865,8 +14863,8 @@ Once representations are learned (the paper seems to indicate that this doesn't 
 • Non-linear classiﬁcation using a single hidden layer neural network (200 units) with dropout. This is a proxy on MI of the representation with the labels separate from linear separability as measured with the SVM above. 
 • Semi-supervised learning (STL-10 here), that is, ﬁne-tuning the complete encoder by adding a small neural network on top of the last convolutional layer (matching architectures with a standard fully-supervised classiﬁer). 
 • MS-SSIM(Wang et al., 2003), using a decoder trained on the L2 reconstruction loss. This is a proxy for the total MI between the input and the representation and can indicate the amount of encoded pixel-level information. 
-• Mutual information neural estimate (MINE),b Iρ(X,Eψ(x)), between the input, X, and theoutputrepresentation, Eψ(x),bytrainingadiscriminatorwithparameters \rho tomaximize the DV estimator of the KL-divergence. 
-• Neural dependency measure (NDM) using a second discriminator that measures the KL between Eψ(x) and a batch-wise shufﬂed version of Eψ(x). ``
+• Mutual information neural estimate (MINE) to maximize the DV estimator of the KL-divergence. 
+• Neural dependency measure (NDM) using a second discriminator that measures the KL between Ew(x) and a batch-wise shufﬂed version of Ew(x). ``
 
 Also sort of described in this podcast: https://blubrry.com/microsoftresearch/60482376/115-diving-into-deep-infomax-with-dr-devon-hjelm: ``Training a classifier between images that go together and images that don't go together ... takes a full image, presents it through a deep NN -  if you look at different layers - different locations of the CNN have been processed by different patches of the image - you can think of features at different loations being part of the input. Deep InfoMax says all those features go together so I'm going to group them all togehter and present them to a classifier and say tell me that these go together. Then take combinations of those patch representations with images that came from somewhere else and say that these don't go together. MINE - things that go together are samples from the same joint distribution - things that don't go together are samples from the product of marginals. When you train a classifier to distinguish between these two you train the model in a similar way to interpret the dependencies between things that go together - that make them go together, ike why do they go together? - encode it into the idea about the joint distribution - this is like estimating Mutual Information (MI). In Deep InfoMax we don't really care about estimating MI, we just want a model that estimates whether there is more or less MI so that we can use that as a learning signal to train the encoder...because I'm effectively doing a comparison between patches of the same image, it needs to undestand why those patches are related....doesn't need to understand the texture because maybe that's not understandable [un]like the shape or the colour. The model will focus on those things that are easy to pick up  - how we design breaking up the data matters more than the objective that we use...architectures like ResNet quickly expand the receptive field so it is larger than the input. If you want to really leverage the locations from the natural architecture you have to be more careful how you apply the architectures. DIM tried to leverage the internal structure of the model over messing with the data and designing losses on top of that.''
 
@@ -19261,7 +19259,7 @@ From discusison with Blair - contrastive learning is much more sensitive that LG
 
 ''We empirically observe that different scaling dimensions are not independent. Intuitively, for higher resolution images, we should increase network depth, such that the larger receptive fields can help capture similar features that include more pixels in bigger images''
 ''we propose a new compound scaling method, which use a compound coefficient φ to uniformly scales network width, depth, and resolution in a principled way''
-''Notably, the FLOPS of a regular convolution op is proportional to d, w^2, r^2, i.e., doubling network depth will double FLOPS, but doubling network width or resolution will increase FLOPS by four times.''.},
+''Notably, the FLOPS of a regular convolution op is proportional to d, $w^2$, $r^2$, i.e., doubling network depth will double FLOPS, but doubling network width or resolution will increase FLOPS by four times.''.},
   creationdate  = {2021-10-19},
   keywords      = {convolutional neural networks, deep learning, architecture, training},
   owner         = {ISargent},
@@ -21148,7 +21146,7 @@ See TayEtAl2022 for more on memorisation},
   url              = {https://openreview.net/forum?id=bwq6O4Cwdl},
   comment          = {The fact that siamese networks can be trained without negative examples and yet do not collapsing (`dimensional collapse``) to some trivial solution was considered by this paper. The the first approach not to use negative examples was SimSiam (\cite{ChenH2021}) who said that this was because they didn't backpropogate the gradient over one of the encoders (called ``stop gradient``). However, this work finds that the real reason is to do with opposition in the directions of two components of the representation vector (the centre component and the residual). They also refute the claim in work similar to SimSiam, BYOL (Bootstrap Your On Latent) ~\cite{GrillEtAl2020} that batch normalisation is essential.
 The paper also gives a nice summary of self-supervised, mainly siamese, approaches.},
-  comments         = {Poster From <https://iclr.cc/virtual/2022/poster/6629> The paper itself has a nice summary of recently published self-supervised - mainly siamese - approaches. Claims to be similar to the work in BardesPL2021 which introduced VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning. Contrastive learning has negative examples (''repulsive component'') and this has been thought to help avoid collapse, aka dimensional collapse, aka ``the collapsing problem'' - where the representations learned are constant and trivial (my intuition is that this is like a supervised predictor always predicting the most likely class). SimSiam does not have negative examples and yet does not collapse and it was claimed by the authors that is because it has a stop gradient (not backpropogating the gradient over one encoder) on one side and predictor on the other. Refutes this claim of original SimSiam ChenH2021 paper, first demonstrating that symmetric architectures with and without predictor lead to collapse. Their analysis decomposes the (l_2 normalised) representation vector into the centre component (the average/expected value for this vector), as approximated over the mini-batch, and the residual component. Collapse is when all vectors approaches the centre component and the opposite is desirable. They look at the contribution of these two components to the negative gradient when a negative sample is supplied and find that the negative centre component provides de-centring and the negative residual provides de-correlation. Demonstrate that this unifies InfoNCE and SimSiam. Also, from their paper, I learn that an earlier work refuted claim that batch normalisation is essential in BYOL (GrillEtAl2020).},
+  comments         = {Poster From <https://iclr.cc/virtual/2022/poster/6629> The paper itself has a nice summary of recently published self-supervised - mainly siamese - approaches. Claims to be similar to the work in BardesPL2021 which introduced VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning. Contrastive learning has negative examples (''repulsive component'') and this has been thought to help avoid collapse, aka dimensional collapse, aka ``the collapsing problem'' - where the representations learned are constant and trivial (my intuition is that this is like a supervised predictor always predicting the most likely class). SimSiam does not have negative examples and yet does not collapse and it was claimed by the authors that is because it has a stop gradient (not backpropogating the gradient over one encoder) on one side and predictor on the other. Refutes this claim of original SimSiam ChenH2021 paper, first demonstrating that symmetric architectures with and without predictor lead to collapse. Their analysis decomposes the ($l_2$ normalised) representation vector into the centre component (the average/expected value for this vector), as approximated over the mini-batch, and the residual component. Collapse is when all vectors approaches the centre component and the opposite is desirable. They look at the contribution of these two components to the negative gradient when a negative sample is supplied and find that the negative centre component provides de-centring and the negative residual provides de-correlation. Demonstrate that this unifies InfoNCE and SimSiam. Also, from their paper, I learn that an earlier work refuted claim that batch normalisation is essential in BYOL (GrillEtAl2020).},
   creationdate     = {2022-05-08T15:25:22},
   keywords         = {siamese, algorithm analysis},
   modificationdate = {2022-06-28T20:54:18},
@@ -26014,7 +26012,7 @@ Artificial intelligence can also help remedy the debilitating cost of healthcare
 The American health care system needs a serious reboot, and artificial intelligence is just the thing to press the restart button. As innovative as it is hopeful, Deep Medicine ultimately shows us how we can leverage artificial intelligence for better care at lower costs with more empathy, for the benefit of patients and physicians alike.},
   comment          = {Book about how medicine could be revolutionised by AI
 
-https://www.google.co.uk/books/edition/Deep_Medicine/_EFlDwAAQBAJ},
+\url{https://www.google.co.uk/books/edition/Deep_Medicine/_EFlDwAAQBAJ}},
   creationdate     = {2022-12-09T21:23:10},
   keywords         = {artificial intelligence, medicine},
   lccn             = {2018043932},
@@ -26752,7 +26750,7 @@ Code was ultimately open sourced and other governments used it.},
   creationdate     = {2023-01-14T15:55:22},
   keywords         = {policy, health, covid-9},
   modificationdate = {2023-01-14T16:06:16},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Online{KattelDK2022,
@@ -26779,7 +26777,7 @@ Vinnova, Swedish Innovation Agency, working now being reframed from focusing pri
 Government Data Service GDS, changed governement's digital transformation mindset enabling the break-up of oligopolistic markets broken by creation of many SME contracts. gov.uk created. People hired into GDS were from places like BBC.},
   creationdate     = {2023-01-14T16:06:23},
   modificationdate = {2023-01-15T07:43:41},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @TechReport{Kattel2022,
@@ -26820,7 +26818,7 @@ Sources of dynamic capabilities:
   creationdate     = {2023-01-15T08:13:00},
   keywords         = {economics, bureaucracy},
   modificationdate = {2023-01-15T16:33:01},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   series           = {IIPP Working paper},
   year             = {2022},
 }
@@ -26847,7 +26845,7 @@ NPM is more about M and some N, much less H. New Public Governance (NPG) has the
   creationdate     = {2023-01-15T14:56:36},
   keywords         = {economics, bureaucracy},
   modificationdate = {2023-01-15T16:01:56},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Article{TonuristKL2017,
@@ -26899,7 +26897,7 @@ Argue that:
   creationdate     = {2023-01-15T16:48:21},
   keywords         = {economics, bureaucracy},
   modificationdate = {2023-01-15T17:44:04},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   year             = {2017},
 }
 
@@ -26917,7 +26915,7 @@ conceptualise public sector innovation in 3 periods:
   creationdate     = {2023-01-15T17:43:07},
   keywords         = {economics, bureaucracy},
   modificationdate = {2023-01-15T18:48:45},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   year             = {2015},
 }
 
@@ -26975,7 +26973,7 @@ In many systems, those who enter the civil service are trained (to an elite leve
   creationdate     = {2023-01-16T10:39:36},
   keywords         = {economics, bureaucracy, transformation},
   modificationdate = {2023-01-18T09:30:56},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   year             = {2006},
 }
 
@@ -27052,7 +27050,7 @@ Simon1991 also talks about the difficulty of defining rewards as motivators},
   creationdate     = {2023-01-16T11:04:54},
   keywords         = {economics, bureaucracy},
   modificationdate = {2023-01-16T13:10:18},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Online{Woods2011,
@@ -27074,7 +27072,7 @@ APIs:
   creationdate     = {2023-01-16T13:54:08},
   keywords         = {transformation, technology},
   modificationdate = {2023-01-16T14:08:30},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Misc{Kattel2022PTR,
@@ -27088,7 +27086,7 @@ Outlines the PTR, how it arose
 Scientific bureaucracy},
   creationdate     = {2023-01-16T14:14:34},
   modificationdate = {2023-01-16T17:57:13},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Misc{Kattel2022Estonia,
@@ -27110,7 +27108,7 @@ However, there are problems more recently
 Maybe the time of agile bottom up transformation has had its time and perhaps more stronger and more formalised coordination structures are now required?},
   creationdate     = {2023-01-16T17:56:36},
   modificationdate = {2023-01-16T18:02:57},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Article{Peters2021,
@@ -27171,7 +27169,7 @@ Uses these variable to define 4 traditions in Westerrn administration:
   creationdate     = {2023-01-17T09:21:01},
   keywords         = {economics, policy, bureaucracy},
   modificationdate = {2023-01-17T10:44:40},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   year             = {2021},
 }
 
@@ -27186,7 +27184,7 @@ Uses these variable to define 4 traditions in Westerrn administration:
 US food stamp service, SNAP, and particularly California's version, CalFresh},
   creationdate     = {2023-01-17T12:56:49},
   modificationdate = {2023-01-17T13:00:29},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Article{MergelGW2021,
@@ -27234,7 +27232,7 @@ outside-in from vendors or consultants)''
   creationdate     = {2023-01-17T13:04:51},
   keywords         = {policy, transformation},
   modificationdate = {2023-01-17T13:32:20},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Book{HerdM2018,
@@ -27266,7 +27264,7 @@ highlights:  \url{https://highlights.sawyerh.com/volumes/vB9VLalTilxmp1ivWjpV}},
   creationdate     = {2023-01-17T13:57:28},
   keywords         = {economics, policy, transformation},
   modificationdate = {2023-01-17T14:42:34},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
   year             = {2018},
 }
 
@@ -27292,7 +27290,7 @@ Agile ``has achieved best success to date within certain settings; notably, high
   creationdate     = {2023-01-17T14:45:16},
   keywords         = {Success, Agile, Methodology, Efficiency},
   modificationdate = {2023-01-17T14:54:36},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Online{AdHocUSDSPlaybook,
@@ -27319,7 +27317,7 @@ The Plays
   creationdate     = {2023-01-17T14:58:12},
   keywords         = {transformation},
   modificationdate = {2023-01-18T18:02:05},
-  owner            = {izzy_olivine},
+  owner            = {izzyolivine},
 }
 
 @Article{DouglasJonesWS2021,
