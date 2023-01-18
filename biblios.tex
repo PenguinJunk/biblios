@@ -28,6 +28,30 @@
 %----------------------------------------------------------------------------------------
 \usepackage{csquotes}
 \usepackage{gensymb}
+\usepackage[utf8]{inputenc} % Required for inputting international characters
+\usepackage[T1]{fontenc} % Use 8-bit encoding
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor={[rgb]{0,0.5,0}},
+    filecolor=blue,
+    citecolor={[rgb]{0,0.5,0}},
+    urlcolor={[rgb]{0,0.5,0}},
+    pdftitle={Overleaf Example},
+    pdfpagemode=UseOutlines%,FullScreen,
+    }
+\urlstyle{same}
+\usepackage[a4paper]{geometry} % Required for adjusting page dimensions and margins
+\geometry{
+	top=2.5cm, % Top margin should be 2.5cm
+	bottom=3cm, % Bottom margin should be 3cm
+	left=3cm, % Left margin should be 3cm
+	right=3cm, % Right margin should be 3cm
+	headheight=0.75cm, % Header height
+	footskip=1.5cm, % Space from the bottom margin to the baseline of the footer
+	headsep=0.75cm, % Space from the top margin to the baseline of the header
+	%showframe, % Uncomment to show how the type block is set on the page
+}
 %\usepackage{filecontents}
 \begin{filecontents*}{comment.dbx}
 \ProvidesFile{comment.dbx}[2022/10/30 add comment field to biblatex data model]
