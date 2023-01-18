@@ -24987,7 +24987,7 @@ t reduces the income tax additional rate threshold from £150,000 to £125,140, 
 
  The Energy Profits Levy will be increased by 10 percentage points to 35\% and extended to the end of March 2028, and a new, temporary 45\% Electricity Generator Levy will be applied on the extraordinary returns being made by electricity generators.
 
-for the years beyond the current Spending Review period, planned departmental resource spending will continue to grow, but slower than the economy, at 1% a year in real terms until 2027-28
+for the years beyond the current Spending Review period, planned departmental resource spending will continue to grow, but slower than the economy, at 1\% a year in real terms until 2027-28
 
 make available up to £4.7 billion in 2024-25 for adult social care system in England
 
@@ -25000,7 +25000,7 @@ national ambition to reduce energy consumption by 15% by 2030, delivered through
 additional support to increase labour market participation; increasing public investment in infrastructure across this Parliament; delivering planned skills reforms; and supporting R&D by increasing public funding to £20 billion in 2024-25},
   creationdate     = {2022-11-27T10:06:10},
   keywords         = {economics, deficit, policy, inequality},
-  modificationdate = {2022-12-03T14:18:56},
+  modificationdate = {2023-01-18T20:41:57},
   owner            = {ISargent},
 }
 
@@ -25247,7 +25247,7 @@ place matters – living in a deprived area of the North East is worse for your 
 
 @Article{LeesonT2021,
   author           = {Leeson, Peter T, and Henry A Thompson},
-  date             = {22/03/2021},
+  date             = {2021-03-22},
   journaltitle     = {Public choice},
   title            = {Public choice and public health},
   doi              = {10.1007/s11127-021-00900-2},
@@ -25264,7 +25264,7 @@ but then this is a public choice paper!
 It also notes that there is very little analysis on contageous disease and hopes that an outcome of Covid-19 pandemic will rectify this},
   creationdate     = {2022-12-01T22:27:43},
   keywords         = {economics, policy, health},
-  modificationdate = {2022-12-01T22:40:00},
+  modificationdate = {2023-01-18T20:50:03},
   owner            = {ISargent},
 }
 
@@ -25614,7 +25614,7 @@ UK has failed to meet at least 14 of the 19 Aichi biodiversity targets},
 @InBook{Cornia2020,
   author           = {Giovanni Andrea Cornia},
   booktitle        = {The Macroeconomics of Developing Countries: An Intermediate Textbook},
-  date             = {26/03/2020},
+  date             = {2020-03-26},
   title            = {Genesis, context, focus, and accounting relations of standard macroeconomics},
   isbn             = {9780198856672},
   comment          = {Macroeconomic analysis uses macro prices:
@@ -25652,7 +25652,7 @@ Finally section on the Evolution of theory of macroeconomics:
 6. Structuralist},
   creationdate     = {2022-12-08T16:41:09},
   keywords         = {economics},
-  modificationdate = {2022-12-08T18:23:21},
+  modificationdate = {2023-01-18T20:49:39},
   owner            = {ISargent},
   year             = {2020},
 }
@@ -26714,7 +26714,7 @@ the spill over of pathogens from animal hosts to people may have more than tripl
 }
 
 @InBook{IPCCSR15Ch2,
-  author           = {IPCC},
+  author           = {{IPCC}},
   booktitle        = {Global Warming of 1.5°C. An IPCC Special Report on the impacts of global warming of 1.5°C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty},
   date             = {2018},
   title            = {Mitigation pathways compatible with 1.5°C in the context of sustainable development},
@@ -26729,7 +26729,7 @@ See also summary articles in Zotero (``IPCC: Not just a carbon price, but a real
   creationdate     = {2023-01-08T09:10:54},
   institution      = {United Nations Intergovernmental Panel on Climate Change},
   keywords         = {economics, climate},
-  modificationdate = {2023-01-08T09:59:50},
+  modificationdate = {2023-01-18T20:50:45},
   owner            = {ISargent},
 }
 
@@ -27350,7 +27350,7 @@ Topics in the issues:
 * data's capacity to produce new social compositions while indexing the old},
   creationdate     = {2023-01-18T08:51:28},
   keywords         = {data, anthropology},
-  modificationdate = {2023-01-18T18:01:41},
+  modificationdate = {2023-01-18T20:09:57},
   owner            = {ISargent},
   year             = {2021},
 }
