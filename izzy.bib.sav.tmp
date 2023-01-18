@@ -14181,6 +14181,8 @@ Usefrom from section 2 onwards. Well worth returning to periodically to consider
 
 @TechReport{MorenoSF2016,
   author           = {Camila Moreno and Daniel Speich Chassé and Lili Fuhr},
+  date             = {2016},
+  institution      = {Heinrich Böll Foundation},
   title            = {Carbon Metrics – Global abstractions and ecological epistemicide},
   url              = {https://www.boell.de/en/2015/11/09/carbon-metrics},
   comment          = {Carbon must not become the new GDP. Metrics are part of colonialism and capitalism. Great overview of history of GDP and problems with GDP as a measure of economy because it is a model that doesn't fit everywhere and it makes many things invisible, oversimplified and overcertain.
@@ -14253,7 +14255,7 @@ Economic models don't work everywhere, e.g. Phyllis Dean found that areas were l
   creationdate     = {2020-02-19},
   editor           = {The Heinrich Böll Foundation},
   keywords         = {Carbon Metrics, Social Science, Environment, economics, policy},
-  modificationdate = {2022-11-25T18:18:42},
+  modificationdate = {2023-01-18T19:55:56},
   owner            = {ISargent},
   priority         = {prio1},
   series           = {Publication Series Ecology},
@@ -27381,4 +27383,3 @@ Overarching conclusions:
 Recording standard information for sharing amongst a community either within a sector or more widely would help others understand how they can deploy at scale.
 Departments and other public sector organisations need a committed multi-year budget to be able to start to deliver at scale.
 15. Clear direction on expectations for departments and other public sector organisations would support the development of scaled decarbonisation plans.
-16. More guidance and collaboration across Government, to support shared lear
