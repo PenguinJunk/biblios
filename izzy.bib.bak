@@ -27323,6 +27323,7 @@ The Plays
   journaltitle     = {Journal of the Royal Anthropological Institute},
   title            = {Introduction: Towards an anthropology of data},
   issue            = {S1: TOWARDS AN ANTHROPOLOGY OF DATA},
+  url              = {https://rai.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9655.13477?saml_referrer},
   volume           = {27},
   comment          = {Introduction to a spection issue. Describes data not as something that is a break with the past but as something that continues from the past.
 
@@ -27330,9 +27331,23 @@ The Plays
 
 Discusses the response to data in many fields and then in anthropology and likens the new questions that have emerged to the questions around kinship that emerged around new reproductive technologies in 1990s.
 
-``permitting the exploration of other charismatic and emergent forms of social distribution, perhaps along the lines of what Michelle Murphy (2015) calls‘phantasmagrams ... intangible form[s] brought into sensibility as a palpable presencewith the help of quantitative practices’ (see also Murphy 2017). Murphy is here thinkingspecifically of economic forms, but we might also think of the way recommendationalgorithms draw on vast amounts of consumer data to redistribute people accordingto logics of ‘likeness’ and ‘liking’ (Lury & Day 2019; Seaver 2012)''},
+``permitting the exploration of other charismatic and emergent forms of social distribution, perhaps along the lines of what Michelle Murphy (2015) calls‘phantasmagrams ... intangible form[s] brought into sensibility as a palpable presencewith the help of quantitative practices’ (see also Murphy 2017). Murphy is here thinkingspecifically of economic forms, but we might also think of the way recommendationalgorithms draw on vast amounts of consumer data to redistribute people accordingto logics of ‘likeness’ and ‘liking’ (Lury & Day 2019; Seaver 2012)''
+
+Topics in the issues:
+* Aadhaar, the nation-wide biometric identity programme of the Government of India - as the system took shape, the programme’scentral task turned from verifying ‘are you who you say you are’ to the much morevexed question of ‘who are you?
+*  the representation of culture as a mathematized, mappable space
+* ‘data is always a temporal formation’ – it isdated, sampled from a particular moment in time. But anthropologists can do morethan relocate data in its proper temporal context: we can examine how data is enlistedin efforts to produce new temporalities
+* taxonomies, DNA of biological species, finding the temporalitiesof both data collection and storage entangled with the history of colonialism
+* the creation of bunkers for data conceptualised as a vulnerable collection of networked traces,always at risk of being wiped out of existence by catastrophic events
+* energy trackers: the value of data is both about saving money on heating bills and about a newunderstanding of the home gained through working with the data sets over large coffeeshop tables at meet-ups
+* dataeconomies of the Large-Scale Biosphere-Atmosphere project: environmental data collaborations in the Brazilian Amazon
+* Scandinavian communities convened around the use of everyday tracking devices, the sovereign body, and Indigenous Data Sovereignty
+* an account of a report on the environmental and health effects of toxins flowing through Lake Athabasca in Alberta, Canada
+*  late nineteenth-century crowd theory, connection and contagion,  and online `crowds'
+* data's capacity to produce new social compositions while indexing the old},
   creationdate     = {2023-01-18T08:51:28},
-  modificationdate = {2023-01-18T09:07:50},
+  keywords         = {data, anthropology},
+  modificationdate = {2023-01-18T18:01:41},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -27367,8 +27382,8 @@ Departments and other public sector organisations need a committed multi-year bu
 15. Clear direction on expectations for departments and other public sector organisations would support the development of scaled decarbonisation plans.
 16. More guidance and collaboration across Government, to support shared learning and speed of uptake efficiently.},
   creationdate     = {2023-01-18T16:54:26},
-  keywords         = {climate, bureaucracy},
-  modificationdate = {2023-01-18T17:01:35},
+  keywords         = {climate, bureaucracy, economics, transition},
+  modificationdate = {2023-01-18T17:04:29},
   owner            = {ISargent},
 }
 
