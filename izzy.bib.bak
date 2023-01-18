@@ -14181,6 +14181,8 @@ Usefrom from section 2 onwards. Well worth returning to periodically to consider
 
 @TechReport{MorenoSF2016,
   author           = {Camila Moreno and Daniel Speich Chassé and Lili Fuhr},
+  date             = {2016},
+  institution      = {Heinrich Böll Foundation},
   title            = {Carbon Metrics – Global abstractions and ecological epistemicide},
   url              = {https://www.boell.de/en/2015/11/09/carbon-metrics},
   comment          = {Carbon must not become the new GDP. Metrics are part of colonialism and capitalism. Great overview of history of GDP and problems with GDP as a measure of economy because it is a model that doesn't fit everywhere and it makes many things invisible, oversimplified and overcertain.
@@ -14253,7 +14255,7 @@ Economic models don't work everywhere, e.g. Phyllis Dean found that areas were l
   creationdate     = {2020-02-19},
   editor           = {The Heinrich Böll Foundation},
   keywords         = {Carbon Metrics, Social Science, Environment, economics, policy},
-  modificationdate = {2022-11-25T18:18:42},
+  modificationdate = {2023-01-18T19:55:56},
   owner            = {ISargent},
   priority         = {prio1},
   series           = {Publication Series Ecology},
@@ -25866,7 +25868,7 @@ Between 2015 and 2018 the green economy grew at 5\% ayear (ONS report from 2018)
 
 Green economy could provide good quality jobs e.g. 10,000 direct jobs in offshore wind could triple by 2030
 
-Claim that ``the average UK manufacturer spends five times as much on resource costs as on labour...'' I'm not sure if this is the case but the reference given (later in the paragraph: https://green-alliance.org.uk/wp-content/uploads/2021/11/Lean_and_clean.pdf) demonstrates that material costs are far more volatile that n labour and they have been higher than labour costs in recent years
+Claim that ``the average UK manufacturer spends five times as much on resource costs as on labour...'' I'm not sure if this is the case but the reference given (later in the paragraph: $https://green-alliance.org.uk/wp-content/uploads/2021/11/Lean_and_clean.pdf$) demonstrates that material costs are far more volatile that n labour and they have been higher than labour costs in recent years
 
 ``...more scope to raise productivity via resource efficiency than by cutting labour costs''
 
@@ -25879,7 +25881,7 @@ Contrasts the strategy for off shore eind and EVs and finds the starting point s
 future-proofed economic growth that addresses inequality and support good quality jobs should use policy to drive change to zero emissions vehicles, drive innovation in energy efficiency, deploy modular factory-built building retrofits, invest in resource productivity and circular economy approaches to heavy industry},
   creationdate     = {2022-12-09T08:03:35},
   keywords         = {economics, policy, environment, work, industry},
-  modificationdate = {2022-12-10T20:55:58},
+  modificationdate = {2023-01-18T20:08:49},
   owner            = {ISargent},
   year             = {2021},
 }
