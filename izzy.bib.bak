@@ -58,8 +58,8 @@ The good and the bad of reasoning even applies to scientists, who will find argu
   year         = {2017},
 }
 
-@Article{RodríguezVM2020,
-  author           = {Carlos García Rodríguez and Jordi Vitrià and Oscar Mora},
+@Article{RodriguezVM2020,
+  author           = {Carlos Garc\'{\i}a Rodríguez and Jordi Vitri\`{a} and Oscar Mora},
   date             = {2020-11-23},
   title            = {Uncertainty-Based Human-in-the-Loop Deep Learning for Land Cover Segmentation},
   issue            = {22},
@@ -70,7 +70,7 @@ The good and the bad of reasoning even applies to scientists, who will find argu
 Given a threshold of confidence (decided by a expert committee) the most uncertain pixels, as predicted by the uncertainty detection network are sent to photo interpreters for revision if needed.},
   creationdate     = {2022-01-24T20:23:35},
   journal          = {Remote Sensing},
-  modificationdate = {2022-01-25T16:13:06},
+  modificationdate = {2023-01-19T08:26:11},
   owner            = {ISargent},
 }
 
@@ -1794,7 +1794,7 @@ Also propose a reflection matrix for working with geospatial data that asks refl
   url              = {https://www.pnas.org/doi/abs/10.1073/pnas.2101084119},
   volume           = {119},
   abstract         = {Biofuels are included in many proposed strategies to reduce anthropogenic greenhouse gas emissions and limit the magnitude of global warming. The US Renewable Fuel Standard is the world's largest existing biofuel program, yet despite its prominence, there has been limited empirical assessment of the program's environmental outcomes. Even without considering likely international land use effects, we find that the production of corn-based ethanol in the United States has failed to meet the policy's own greenhouse gas emissions targets and negatively affected water quality, the area of land used for conservation, and other ecosystem processes. Our findings suggest that profound advances in technology and policy are still needed to achieve the intended environmental benefits of biofuel production and use. The Renewable Fuel Standard (RFS) specifies the use of biofuels in the United States and thereby guides nearly half of all global biofuel production, yet outcomes of this keystone climate and environmental regulation remain unclear. Here we combine econometric analyses, land use observations, and biophysical models to estimate the realized effects of the RFS in aggregate and down to the scale of individual agricultural fields across the United States. We find that the RFS increased corn prices by 30\\% and the prices of other crops by 20\%, which, in turn, expanded US corn cultivation by 2.8 Mha (8.7\%) and total cropland by 2.1 Mha (2.4\%) in the years following policy enactment (2008 to 2016). These changes increased annual nationwide fertilizer use by 3 to 8\%, increased water quality degradants by 3 to 5\%, and caused enough domestic land use change emissions such that the carbon intensity of corn ethanol produced under the RFS is no less than gasoline and likely at least 24\% higher. These tradeoffs must be weighed alongside the benefits of biofuels as decision-makers consider the future of renewable energy policies and the potential for fuels like corn ethanol to meet climate mitigation goals.},
-  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2 °C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
+  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2°C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
 - whether biofuel production invokes additional plant growth (9-12), 
 - the extent to which combusted plants (typically crops) are replaced in the food system (13-15), 
 - the degree to which biofuel production directly and indirectly alters patterns of land use and management (2, 16-20)
@@ -1803,8 +1803,8 @@ Also propose a reflection matrix for working with geospatial data that asks refl
 
 Studied the Renewable Fuel Standard (RFS) between 2008 to 2016 and found:
 - RFS stimulated 20.8 billion L (5.5 Bgal) of additional annual ethanol production, which requires nearly 1.3 billion bushels of corn after accounting for coproducts that can be fed to animals (46)
-- heightened demand led to persistent increases in corn prices of ∼31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
--  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [−8\%, 72\%] and wheat by 20\% [2\%, 60\%]
+- heightened demand led to persistent increases in corn prices of ~31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
+-  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [-8\%, 72\%] and wheat by 20\% [2\%, 60\%]
 - increase in corn prices relative to other crops increased the area planted to corn on existing cropland by an average of 2.8 Mha* per year [95\% CI: 2.4, 3.1], which is an 8.7\% increase attributable to the RFS
 -  produced a net increase in cropland area of 2.1 Mha [1.8, 2.5] relative to BAU
 -  intensity of corn production and extent of cropland caused 7.5\% more reactive nitrogen (N) from synthetic fertilizer to be applied annually to the landscape

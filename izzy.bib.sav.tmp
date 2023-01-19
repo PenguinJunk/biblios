@@ -584,12 +584,12 @@ Also design a concept discovery method that does not rely on human labelling (I'
 }
 
 @Article{HeFWXG219,
-  author           = {Kaiming He, Haoqi Fan, Yuxin Wu, Saining Xie, and Ross Girshick},
+  author           = {Kaiming He and Haoqi Fan and Yuxin Wu and Saining Xie and Ross Girshick},
   title            = {Momentum contrast for unsupervised visual representation learning},
   comment          = {The MoCo paper},
   creationdate     = {2022-05-03T06:52:00},
   journal          = {arXiv preprint arXiv:1911.05722},
-  modificationdate = {2022-05-03T06:53:53},
+  modificationdate = {2023-01-19T08:35:27},
   owner            = {ISargent},
   year             = {2019},
 }
@@ -7802,4 +7802,4 @@ Overarching conclusions:
 2. Whilst the attributes are relevant to all organisations, they will look different for different organisations.
 3. Typically, stronger leadership at a more senior level promotes greater commitment across the organisation to support decarbonisation delivery.
 4. Developing a high-level strategy which can be communicated across the organisation sets a clear statement of intent, however, a strategy should be backed up with detailed scaled delivery plans.
-5. Linking decarbonisation to organisational 
+5. Linking decarbonisation to organis
