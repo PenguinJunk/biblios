@@ -7837,7 +7837,7 @@ Book is about reconceiving the role of the CIO.},
 }
 
 @Online{GovUKAgileDelivery,
-  author           = {{Agile delivery community}},
+  author           = {{Gov.UK Agile delivery community}},
   date             = {2016-05-23},
   title            = {Writing user stories},
   url              = {https://www.gov.uk/service-manual/agile-delivery/writing-user-stories},
@@ -7848,7 +7848,7 @@ I need/want/expect to… [what does the user want to do?]
 So that… [why does the user want to do this?]},
   creationdate     = {2023-01-21T15:12:05},
   keywords         = {transformation, technology, agile},
-  modificationdate = {2023-01-21T15:58:29},
+  modificationdate = {2023-01-21T15:59:33},
   owner            = {izzy_olivine},
 }
 
