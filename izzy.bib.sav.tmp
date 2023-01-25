@@ -993,11 +993,12 @@ It could be worth us at \os looking at weight distributions in our trained netwo
   booktitle        = {International Conference on Learning Representations},
   date             = {2022},
   title            = {Beyond interpretability: developing a language to shape our relationships with AI},
+  url              = {https://www.youtube.com/watch?v=Ub45cGEcTB0},
   comment          = {Been Kim's invited talk was one of my favourites from ICLR 2021 and so it was good to see her invited back to talk through her group's progress. The underlying theme of this talk was that the AI is a, somewhat alien, co-worker that we need to get to know and learn how to dialogue with. In particular, she talked through work understanding what a model is using to in the input data when it makes decisions. Kim highlighted her TCAV work (\cite{KimWGCWVS2017}), in which the contribution of human-defined concepts (e.g. stripes) to classification (e.g. zebra) is quantified, and the ConceptShap work ~\cite{YehKALPR2020}, which is a method of discovering the concepts in a trained model and then determines how much these contribute to the final result. It would certainly be useful to explore what concepts make up \os's remote sensing data.},
   comments         = {Invited Talk From <https://iclr.cc/virtual/2022/invited-talk/7237> Through out the talk, machines are represented as a co-worker, sometimes quite alien, but needing ways to understand and hold dialogue with. Explanation of TCAV - label human concepts and see how they are represented in machine. I think this is the second stage to labelling nodes - take node labels and see how model responds to these? Or maybe the later work automatic concept-based explanations (ACE) Ghorbani2019 and ConceptSHAP YehKALPR2020 https://proceedings.neurips.cc/paper/2020/hash/ecb287ff763c169694f682af52c1f309-Abstract.html. ``Choosing elements of language that best serves humans'' Or attached generative model to a trained model to recreate machine's concepts.},
   creationdate     = {2022-05-08T15:25:20},
   keywords         = {deep learning, visualisation, explanation},
-  modificationdate = {2022-06-28T20:56:46},
+  modificationdate = {2023-01-25T10:00:59},
   owner            = {ISargent},
 }
 
@@ -7223,7 +7224,7 @@ Agencies that have been sources of policy innovation have tended to be periphera
 
 ``Kattel, Drechsler and Karo 2019 have shown, first, such `central-decentral' dynamics in state capacity help explain dynamic capabilities on the system level, but not on the organisational level; and second, the dynamics can be explained through Weber's theory of authority, in particular through the interplay between charismatic and legal-rational forms of authority (Kattel, Drechsler and Karo 2019).''
 
-NPM reforms in 1980s opened public sector up to private sector managerial practice - stretageic manager, agile management - as well as focus on short-term efficiencies - based on the measurement of inputs and outputs, benchmarking and governement indicators. Focus was on inefficiences in big machine-like organisations rather than innovative capacities of public sector.
+NPM reforms in 1980s opened public sector up to private sector managerial practice - strategeic manager, agile management - as well as focus on short-term efficiencies - based on the measurement of inputs and outputs, benchmarking and governement indicators. Focus was on inefficiences in big machine-like organisations rather than innovative capacities of public sector.
 
 Pollitt and Bouckeart (2011) posit that Neo-Weberian state (NWS, see Bouckeart2022) is emerging - public organisations provide ``public services, and at the same time recognises the need for more citizen engagement in the design and delivery of public services''. Also identify new public governance theories - ``emphasise the importance of the co-creation and co-production of public services''.
 
@@ -7248,7 +7249,7 @@ Sources of dynamic capabilities:
 ``Such organisations aim to be both dynamic and resilient by design. We can call these Neo-Weberian agencies.''},
   creationdate     = {2023-01-15T08:13:00},
   keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-15T16:33:01},
+  modificationdate = {2023-01-21T14:31:03},
   owner            = {izzyolivine},
   series           = {IIPP Working paper},
   year             = {2022},
@@ -7654,7 +7655,7 @@ Source: Beck et al. (2001).
 
 4 values and 12 principles establish a feedback loop
 
-``Agile projects have four times more successes and one-third fewer failures than waterfall projects (Serrador and Pinto 2015; Standish Group 2015)''
+``Agile projects have four times more successes and one-third fewer failures than waterfall projects (SerradorP2015; Standish Group 2015)''
 
 ``agile emphasizes bottom-up change over top-down direction (or even
 outside-in from vendors or consultants)''
@@ -7662,7 +7663,7 @@ outside-in from vendors or consultants)''
 ``Agile Is Antithetical to Many Typical Bureaucratic Line Organizations...managers who need to take responsibility for actions may not be willing to do so given how cross-functional agile teams work ... If experimentation is not part of the toolbox, and if bureaus value organizational reputation and avoid public failures, agile never gains traction ... in organizations largely characterized by “we have seen this before, let's wait until the next wave comes in,” traditionalists could see agile as another fad that will be replaced''},
   creationdate     = {2023-01-17T13:04:51},
   keywords         = {policy, transformation},
-  modificationdate = {2023-01-17T13:32:20},
+  modificationdate = {2023-01-21T14:29:26},
   owner            = {izzyolivine},
 }
 
@@ -7789,7 +7790,7 @@ Topics in the issues:
   author           = {ESC},
   date             = {2022},
   institution      = {Energy Systems Catapult},
-  title            = {Is your organisation set upto deliver Net Zero: 16 considerations for publicsector bodies},
+  title            = {Is your organisation set upto deliver Net Zero: 16 considerations for public sector bodies},
   eprint           = {https://es.catapult.org.uk/guide/mep-net-zero-considerations-for-public-sector-bodies/?reportDownload=https://es.catapult.org.uk/wp-content/uploads/2022/12/Net-Zero-considerations-for-Public-Sector-Report-Digital.pdf},
   comment          = {4 themes:
 * Leadership and purpose, capturing strategy and values
@@ -7801,5 +7802,4 @@ Overarching conclusions:
 1. The Net Zero Target Operating Model attributes are likely to be relevant across all public sector organisations.
 2. Whilst the attributes are relevant to all organisations, they will look different for different organisations.
 3. Typically, stronger leadership at a more senior level promotes greater commitment across the organisation to support decarbonisation delivery.
-4. Developing a high-level strategy which can be communicated across the organisation sets a clear statement of intent, however, a strategy should be backed up with detailed scaled delivery plans.
-5. Linking decarbonisation to organisa
+4. Developing a high-level strategy which can be communicated across the organisation sets a clear statement of intent, however, a strategy should be backed up with detailed sc

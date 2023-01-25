@@ -1794,7 +1794,7 @@ Also propose a reflection matrix for working with geospatial data that asks refl
   url              = {https://www.pnas.org/doi/abs/10.1073/pnas.2101084119},
   volume           = {119},
   abstract         = {Biofuels are included in many proposed strategies to reduce anthropogenic greenhouse gas emissions and limit the magnitude of global warming. The US Renewable Fuel Standard is the world's largest existing biofuel program, yet despite its prominence, there has been limited empirical assessment of the program's environmental outcomes. Even without considering likely international land use effects, we find that the production of corn-based ethanol in the United States has failed to meet the policy's own greenhouse gas emissions targets and negatively affected water quality, the area of land used for conservation, and other ecosystem processes. Our findings suggest that profound advances in technology and policy are still needed to achieve the intended environmental benefits of biofuel production and use. The Renewable Fuel Standard (RFS) specifies the use of biofuels in the United States and thereby guides nearly half of all global biofuel production, yet outcomes of this keystone climate and environmental regulation remain unclear. Here we combine econometric analyses, land use observations, and biophysical models to estimate the realized effects of the RFS in aggregate and down to the scale of individual agricultural fields across the United States. We find that the RFS increased corn prices by 30\% and the prices of other crops by 20\%, which, in turn, expanded US corn cultivation by 2.8 Mha (8.7\%) and total cropland by 2.1 Mha (2.4\%) in the years following policy enactment (2008 to 2016). These changes increased annual nationwide fertilizer use by 3 to 8\%, increased water quality degradants by 3 to 5\%, and caused enough domestic land use change emissions such that the carbon intensity of corn ethanol produced under the RFS is no less than gasoline and likely at least 24\% higher. These tradeoffs must be weighed alongside the benefits of biofuels as decision-makers consider the future of renewable energy policies and the potential for fuels like corn ethanol to meet climate mitigation goals.},
-  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2°C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
+  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2 °C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
 - whether biofuel production invokes additional plant growth (9-12), 
 - the extent to which combusted plants (typically crops) are replaced in the food system (13-15), 
 - the degree to which biofuel production directly and indirectly alters patterns of land use and management (2, 16-20)
@@ -1803,8 +1803,8 @@ Also propose a reflection matrix for working with geospatial data that asks refl
 
 Studied the Renewable Fuel Standard (RFS) between 2008 to 2016 and found:
 - RFS stimulated 20.8 billion L (5.5 Bgal) of additional annual ethanol production, which requires nearly 1.3 billion bushels of corn after accounting for coproducts that can be fed to animals (46)
-- heightened demand led to persistent increases in corn prices of ~31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
--  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [-8\%, 72\%] and wheat by 20\% [2\%, 60\%]
+- heightened demand led to persistent increases in corn prices of ∼31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
+-  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [−8\%, 72\%] and wheat by 20\% [2\%, 60\%]
 - increase in corn prices relative to other crops increased the area planted to corn on existing cropland by an average of 2.8 Mha* per year [95\% CI: 2.4, 3.1], which is an 8.7\% increase attributable to the RFS
 -  produced a net increase in cropland area of 2.1 Mha [1.8, 2.5] relative to BAU
 -  intensity of corn production and extent of cropland caused 7.5\% more reactive nitrogen (N) from synthetic fertilizer to be applied annually to the landscape
@@ -7223,7 +7223,7 @@ Agencies that have been sources of policy innovation have tended to be periphera
 
 ``Kattel, Drechsler and Karo 2019 have shown, first, such `central-decentral' dynamics in state capacity help explain dynamic capabilities on the system level, but not on the organisational level; and second, the dynamics can be explained through Weber's theory of authority, in particular through the interplay between charismatic and legal-rational forms of authority (Kattel, Drechsler and Karo 2019).''
 
-NPM reforms in 1980s opened public sector up to private sector managerial practice - stretageic manager, agile management - as well as focus on short-term efficiencies - based on the measurement of inputs and outputs, benchmarking and governement indicators. Focus was on inefficiences in big machine-like organisations rather than innovative capacities of public sector.
+NPM reforms in 1980s opened public sector up to private sector managerial practice - strategeic manager, agile management - as well as focus on short-term efficiencies - based on the measurement of inputs and outputs, benchmarking and governement indicators. Focus was on inefficiences in big machine-like organisations rather than innovative capacities of public sector.
 
 Pollitt and Bouckeart (2011) posit that Neo-Weberian state (NWS, see Bouckeart2022) is emerging - public organisations provide ``public services, and at the same time recognises the need for more citizen engagement in the design and delivery of public services''. Also identify new public governance theories - ``emphasise the importance of the co-creation and co-production of public services''.
 
@@ -7248,7 +7248,7 @@ Sources of dynamic capabilities:
 ``Such organisations aim to be both dynamic and resilient by design. We can call these Neo-Weberian agencies.''},
   creationdate     = {2023-01-15T08:13:00},
   keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-15T16:33:01},
+  modificationdate = {2023-01-21T14:31:03},
   owner            = {izzyolivine},
   series           = {IIPP Working paper},
   year             = {2022},
@@ -7654,7 +7654,7 @@ Source: Beck et al. (2001).
 
 4 values and 12 principles establish a feedback loop
 
-``Agile projects have four times more successes and one-third fewer failures than waterfall projects (Serrador and Pinto 2015; Standish Group 2015)''
+``Agile projects have four times more successes and one-third fewer failures than waterfall projects (SerradorP2015; Standish Group 2015)''
 
 ``agile emphasizes bottom-up change over top-down direction (or even
 outside-in from vendors or consultants)''
@@ -7662,7 +7662,7 @@ outside-in from vendors or consultants)''
 ``Agile Is Antithetical to Many Typical Bureaucratic Line Organizations...managers who need to take responsibility for actions may not be willing to do so given how cross-functional agile teams work ... If experimentation is not part of the toolbox, and if bureaus value organizational reputation and avoid public failures, agile never gains traction ... in organizations largely characterized by “we have seen this before, let's wait until the next wave comes in,” traditionalists could see agile as another fad that will be replaced''},
   creationdate     = {2023-01-17T13:04:51},
   keywords         = {policy, transformation},
-  modificationdate = {2023-01-17T13:32:20},
+  modificationdate = {2023-01-21T14:29:26},
   owner            = {izzyolivine},
 }
 
@@ -7789,7 +7789,7 @@ Topics in the issues:
   author           = {ESC},
   date             = {2022},
   institution      = {Energy Systems Catapult},
-  title            = {Is your organisation set upto deliver Net Zero: 16 considerations for publicsector bodies},
+  title            = {Is your organisation set upto deliver Net Zero: 16 considerations for public sector bodies},
   eprint           = {https://es.catapult.org.uk/guide/mep-net-zero-considerations-for-public-sector-bodies/?reportDownload=https://es.catapult.org.uk/wp-content/uploads/2022/12/Net-Zero-considerations-for-Public-Sector-Report-Digital.pdf},
   comment          = {4 themes:
 * Leadership and purpose, capturing strategy and values
@@ -7816,8 +7816,51 @@ Departments and other public sector organisations need a committed multi-year bu
 16. More guidance and collaboration across Government, to support shared learning and speed of uptake efficiently.},
   creationdate     = {2023-01-18T16:54:26},
   keywords         = {climate, bureaucracy, economics, transition},
-  modificationdate = {2023-01-18T17:04:29},
+  modificationdate = {2023-01-22T16:39:04},
   owner            = {ISargent},
+}
+
+@Book{Schwartz2017,
+  author           = {Mark Schwarz},
+  date             = {2017},
+  title            = {A Seat at The Table. IT Leadership in the Age of Agility},
+  isbn             = {978-194278-8119},
+  subtitle         = {IT Leadership in the Age of Agility},
+  url              = {https://itrevolution.com/product/a-seat-at-the-table/},
+  comment          = {``the way the CIO role is defined, conceived, and executed today is incompatible with Agile thinking''
+
+Book is about reconceiving the role of the CIO.},
+  creationdate     = {2023-01-21T14:58:51},
+  keywords         = {transformation, technology},
+  modificationdate = {2023-01-21T15:02:48},
+  owner            = {izzy_olivine},
+}
+
+@Online{GovUKAgileDelivery,
+  author           = {{Gov.UK Agile delivery community}},
+  date             = {2016-05-23},
+  title            = {Writing user stories},
+  url              = {https://www.gov.uk/service-manual/agile-delivery/writing-user-stories},
+  comment          = {As a… [who is the user?]
+
+I need/want/expect to… [what does the user want to do?]
+
+So that… [why does the user want to do this?]},
+  creationdate     = {2023-01-21T15:12:05},
+  keywords         = {transformation, technology, agile},
+  modificationdate = {2023-01-21T15:59:33},
+  owner            = {izzy_olivine},
+}
+
+@Online{USDSPlaybook,
+  author           = {{U.S. Digital Service}},
+  title            = {Digital Services Playbook},
+  url              = {https://playbook.cio.gov/},
+  comment          = {MVP ``solves a core user need as soon as possible, no longer than three months from the beginning of the project''},
+  creationdate     = {2023-01-21T15:57:20},
+  keywords         = {transformation, technology, agile},
+  modificationdate = {2023-01-21T15:59:16},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

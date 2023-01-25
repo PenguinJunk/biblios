@@ -3282,17 +3282,14 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
 }
 
 @Article{MahendranV2016,
-  author           = {A. Mahendran and A. Vedaldi},
-  journaltitle     = {International Journal of Computer Vision},
-  title            = {Visualizing deep convolutional neural networks using natural pre-images},
-  comment          = {Published version of MahendranV2015. According to presentation at BMVA Deep Learning symposium on 8/7/2016 this paper ``shows how deconvnets don't work'', i.e. they show the strongly responded to parts of the image but this is independant of the specific neuron.
-
-Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
-  creationdate     = {2016.07.12},
-  keywords         = {toponet metrics, visualisation, deep learning},
-  modificationdate = {2023-01-25T09:56:01},
-  owner            = {ISargent},
-  year             = {2016},
+  author       = {A. Mahendran and A. Vedaldi},
+  journaltitle = {International Journal of Computer Vision},
+  title        = {Visualizing deep convolutional neural networks using natural pre-images},
+  comment      = {Published version of MahendranV2015. According to presentation at BMVA Deep Learning symposium on 8/7/2016 this paper ``shows how deconvnets don't work'', i.e. they show the strongly responded to parts of the image but this is independant of the specific neuron.},
+  creationdate = {2016.07.12},
+  keywords     = {toponet metrics, visualisation, deep learning},
+  owner        = {ISargent},
+  year         = {2016},
 }
 
 @InProceedings{MahendranV2015,
