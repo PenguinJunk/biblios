@@ -6660,15 +6660,16 @@ time, a lower test error, similar clustering of data, and more strongly differen
 }
 
 @Article{ChattopadhyaySHB2018,
-  author    = {Aditya Chattopadhyay and Anirban Sarkar and Prantik Howlader, and Balasubramanian, Vineeth N},
-  title     = {Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks},
-  journal   = {arXiv:1710.11063},
-  year      = {2018},
-  url       = {https://arxiv.org/pdf/1710.11063.pdf},
-  comment   = {Another paper looking at the contribution of different parts of an image to its CNN classification result.},
-  keywords  = {deep learning, visualisation, toponet hack},
-  owner     = {ISargent},
-  creationdate = {2018.08.24},
+  author           = {Aditya Chattopadhyay and Anirban Sarkar and Prantik Howlader and Balasubramanian, Vineeth N},
+  title            = {Grad-CAM++: Generalized Gradient-based Visual Explanations for Deep Convolutional Networks},
+  url              = {https://arxiv.org/pdf/1710.11063.pdf},
+  comment          = {Another paper looking at the contribution of different parts of an image to its CNN classification result.},
+  creationdate     = {2018.08.24},
+  journal          = {arXiv:1710.11063},
+  keywords         = {deep learning, visualisation, toponet hack},
+  modificationdate = {2023-01-25T11:05:33},
+  owner            = {ISargent},
+  year             = {2018},
 }
 
 @Article{HuR2017,
@@ -13055,4 +13056,4 @@ See also https://www.youtube.com/watch?v=Gl0s0GDqN3c},
   eprint        = {2103.07579},
   url           = {https://arxiv.org/abs/2103.07579},
   archiveprefix = {arXiv},
-  comment       = {Improvements in ML image recognition performance broadly arise along four orthogonal axes: architecture, training/regulariz
+  comment       = {Improvements in M
