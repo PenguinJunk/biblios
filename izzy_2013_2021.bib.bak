@@ -9415,7 +9415,7 @@ Most of the paper is about Taylor-type decomposition.
 
 ZeilerF2014 ``solves optimization problems in order to reconstruct the image input, while our approach attempts to reconstruct the classifier decision''
 
-SimonyanVZ2013 present an approach that lies between partical derivatives at the input point x and a full Taylor-series around a different point x_0
+SimonyanVZ2013 present an approach that lies between partical derivatives at the input point x and a full Taylor-series around a different point $x_0$
 
 Our approach aims at explaining the decision for a given input rather than finding optimal stimuli for a particular neuron.
 
@@ -9428,7 +9428,7 @@ Tests approach on Baf of Words and Deep Learning approaches.},
   creationdate     = {2020-11-11},
   journal          = {PLoS ONE},
   keywords         = {Deep learning, visualising representations, explaining ML, visualisation, MLStrat Discovery, explainability},
-  modificationdate = {2023-01-25T09:52:38},
+  modificationdate = {2023-01-25T10:55:59},
   owner            = {ISargent},
   year             = {2015},
 }
