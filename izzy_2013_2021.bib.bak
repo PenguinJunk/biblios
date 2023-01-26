@@ -9334,10 +9334,12 @@ The submodular pick identifies examples that demonstrate the most of the most im
   year         = {2016},
 }
 
-@Article{LundbergL2017,
+@InProceedings{LundbergL2017,
   author           = {Scott Lundberg and Su-In Lee},
+  booktitle        = {NIPS'17: Proceedings of the 31st International Conference on Neural Information Processing Systems},
+  date             = {2017},
   title            = {A Unified Approach to Interpreting Model Predictions},
-  url              = {https://arxiv.org/abs/1705.07874},
+  url              = {https://dl.acm.org/doi/10.5555/3295222.3295230},
   comment          = {Demonstrates that LIME, DeepLIFT, layer-wise relevance propagation and three methods of Shapley Value Estimation (Shapley regression values, Shapley sampling values and quantitative input influence) are all additive feature attribution methods - and that they have an ``explanation model that is a linear function of bindary variables''.
 
 Identify 3 properties that explanation models should have:
@@ -9351,7 +9353,7 @@ Observations:Kernal SHAP has imporved sample efficience and values from LIME can
 Much stronger agreement between human explanations and SHAP than with other methods},
   creationdate     = {2020-11-11},
   keywords         = {Deep learning, visualising representations, explaining ML, MLStrat Visualisation, explainability},
-  modificationdate = {2023-01-25T09:25:18},
+  modificationdate = {2023-01-26T10:18:23},
   owner            = {ISargent},
   year             = {2017},
 }

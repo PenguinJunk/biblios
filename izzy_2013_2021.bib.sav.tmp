@@ -3580,11 +3580,11 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   author           = {Alexander Mordvintsev and Christopher Olah and Mike Tyka},
   title            = {Inceptionism: Going Deeper into Neural Networks},
   howpublished     = {Web log post},
-  url              = {http://googleresearch.blogspot.co.uk/2015/06/inceptionism-going-deeper-into-neural.html},
+  url              = {https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html},
   comment          = {Paper about visualisation of the higher layers in a deep network. Firstly used 'inverted' network to enhance an input of random noise to match its model of a given output. Some interesting images of its 'understanding' of a banana, screp, parachute, dumbbell. Alternatively there is ``inceptionism'' by which a trained network is presented with a single image and then any layer is 'asked' to enhance what it has found. Need to impose a prior constraint that the image should have similar statistics to natural images, such as neighboring pixels needing to be correlated At lower levels this is edges, orientations (a bit van Gogh) and at higher levels it is given objects even to the point of finding animals in clouds. A final stage is the generate images starting from random noise - some nice results when a network is trained on a single subject - places.},
   creationdate     = {2015.06.19},
   keywords         = {ImageLearn, Visualisation, TopoNet Metrics, MLStrat Discovery, explainability},
-  modificationdate = {2022-05-08T15:48:32},
+  modificationdate = {2023-01-26T10:22:30},
   month            = {6},
   owner            = {ISargent},
   year             = {2015},
@@ -13052,4 +13052,4 @@ Really easy implementation - including a 280 character implementation for twitte
 See also https://www.youtube.com/watch?v=Gl0s0GDqN3c},
   keywords  = {image machine learning, convolutional neural networks, architecture, training},
   owner     = {ISargent},
-  
+  creationdat
