@@ -6025,11 +6025,13 @@ Also explore the ability of the learned features to generalised to classify othe
   year         = {2017},
 }
 
-@Article{GonzalezGarciaMF2017,
+@Article{GonzalezGarciaMF2018,
   author           = {Abel Gonzalez-Garcia and Davide Modolo and Vittorio Ferrari},
+  date             = {2018},
+  journaltitle     = {International Journal of Computer Vision},
   title            = {Do Semantic Parts Emerge in Convolutional Neural Networks?},
   doi              = {10.1007/s11263-017-1048-0},
-  url              = {https://arxiv.org/abs/1607.03738},
+  url              = {https://link.springer.com/article/10.1007/s11263-017-1048-0},
   comment          = {''Some previous works (Zeiler and Fergus 2014; Simonyan et al. 2014) have suggested that semantic parts do emerge in CNNs, but only based on looking at some filter responses on a few images. Here we go a step further and perform two quantitative evaluations that examine the different stimuli of the CNN filters and try to associate them with semantic parts. First, we take advantage of the available  ground-truth part location annotations in the PASCAL-Part dataset (Chen et al. 2014) to count how many of the annotated semantic parts emerge in a CNN. Second, we use human judgements to determine what fraction of all filters systematically fire on any semantic part (including parts that might not be annotated in PASCAL-Part).''
 
 ''as suggested by (Simon et al. 2014; Simon and Rodner 2015; Xiao et al. 2015), a single semantic part might emerge as distributed across several filters.''
@@ -6050,7 +6052,7 @@ evaluate the filters as part detectors, following the PASCAL VOC (Everingham et 
   creationdate     = {2017.10.18},
   journal          = {International Journal of Computer Vision},
   keywords         = {TopoNet Hack, visualisation, deep learning, hierarchical, toponet metrics, MLStrat Discovery, explainability},
-  modificationdate = {2022-04-05T09:42:11},
+  modificationdate = {2023-01-26T10:08:50},
   owner            = {ISargent},
   year             = {2017},
 }
