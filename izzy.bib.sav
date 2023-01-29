@@ -7968,4 +7968,14 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
   owner            = {izzy_olivine},
 }
 
+@Article{,
+  author           = {Juliette C Mattijsen and van Bree, Egid M and Evelyn A Brakema and Maud M T E Huynen and Eva H Visser and Peter J Blankestijn and Philip N D Elders and Hans C Ossebaard},
+  title            = {Educational activism for planetary health - a case examplefrom The Netherlands},
+  url              = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834507/},
+  creationdate     = {2023-01-29T19:05:57},
+  keywords         = {climate, health, environment, education, activism},
+  modificationdate = {2023-01-29T19:08:13},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
