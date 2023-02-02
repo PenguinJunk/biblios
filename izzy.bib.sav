@@ -7981,4 +7981,40 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
   owner            = {izzy_olivine},
 }
 
+@InBook{Tarling2023,
+  author           = {Kate Tarling},
+  booktitle        = {The Service Organization},
+  date             = {2023-02-01},
+  title            = {Chapter 3: Reveal how services perform in the real world},
+  url              = {https://lpp-books.sumupstore.com/product/the-service-organization-kate-tarling},
+  comment          = {Use metrics to represent what good looks like these include:
+* How well service is achieving the intent behind it
+* How often the right service outcome is achieved
+* How are users are supported in what they need
+* Tme, effort, risk, issues, errors, avoidable burden and cost involved for everyone
+
+When people aren't confident the contact dental handle more contact - school how confident they feel
+
+Measuring satisfaction or delight isn't always useful
+
+Efficiency is about doing the things right
+Effectiveness is about doing the right things
+
+Get insights early even before the service is given the go ahead
+
+Model described here is mechanistic it doesn't address themes of equity ethics etc
+
+Understanding policy intent and outcomes doesn't reduce the chance that the intent might be harmful badly thought through or in conflict with another policy applying the ideas in this chapter won't make a service perfect},
+  creationdate     = {2023-02-02T10:07:38},
+  keywords         = {transformation, Agile, bureaucracy, economics},
+  modificationdate = {2023-02-02T10:10:18},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  creationdate     = {2023-02-02T10:32:14},
+  modificationdate = {2023-02-02T10:32:14},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
