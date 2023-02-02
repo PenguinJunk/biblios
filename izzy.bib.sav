@@ -6636,9 +6636,7 @@ IZ* [I misunderstood this section but it makes me realise that this isn't descri
   pages            = {739--761},
   url              = {https://www.tandfonline.com/doi/abs/10.1080/09654313.2020.1779189},
   volume           = {29},
-  comment          = {Also See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s. Also Lundvall2007. 
-
-Contrasts mission-oriented innovation policies with diffusion oriented approaches for the new Scottish National Investment Bank SNIB. (\cite{Freeman1995} goes into this distinction). Finds that the mission oriented approach applied to this bank ``constitutes 'fuzzy' policy making which is highly opaque lacking sufficient detail and fails to align itself properly with the demand conditions within the Scottish innovation system''. Suggest some version of diffusion-oriented policies would work better up to include hybrid and generating breakthrough innovation firms.
+  comment          = {Contrasts mission-oriented innovation policies with diffusion oriented approaches for the new Scottish National Investment Bank SNIB. (\cite{Freeman1995} goes into this distinction). Finds that the mission oriented approach applied to this bank ``constitutes 'fuzzy' policy making which is highly opaque lacking sufficient detail and fails to align itself properly with the demand conditions within the Scottish innovation system''. Suggest some version of diffusion-oriented policies would work better up to include hybrid and generating breakthrough innovation firms.
 
 According to Mazzucato and Penna, state investment banks have three roles: counter-cyclical capital development and new venture support
 
@@ -6653,9 +6651,9 @@ Garudand Karnøe 2003 vividly demonstrate the differences between gui and STI br
 Identifies that diffusion oriented approaches often have local embeddedness local orientation and this discourages blue skies research and precludes getting involved in the creation of startups.
 
 Considers:
-types of mission
-types of innovation
-types of instruments
+* types of mission
+* types of innovation
+* types of instruments
 
 Missions:
 Goes into some detail pretty king blueprint for the bank identifying that these are rather high-level and don't offer practical mechanism for achieving the objectives. Highlights concerns about the risk of `policy capture', `agency problems', `implementation failures' and the fact that the bank aims to make a positive financial return could mean it becomes risk-averse.
@@ -6670,10 +6668,12 @@ Find that there has only been a partial assessment of funding gaps and goes into
 
 According to Haldane (2018, 7) the UK does R well but D poorly where the refers to development that the diffusion and dissemination of innovation. 
 
-The diffusion oriented approach they suggest is is similar to a strategy undertaken by countries such as Israel via their Yozma Fund.},
+The diffusion oriented approach they suggest is is similar to a strategy undertaken by countries such as Israel via their Yozma Fund.
+
+Also See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s. Also Lundvall2007, Martin2016.},
   creationdate     = {2022-12-11T11:27:40},
   keywords         = {economics, missions, innovation, policy},
-  modificationdate = {2023-02-02T10:54:00},
+  modificationdate = {2023-02-02T10:55:17},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -8183,4 +8183,9 @@ This is different to Legalism the Qianlong Emperor would say ``there is no gover
   owner            = {izzy_olivine},
 }
 
-@Comment{jabref-meta: databaseType:biblatex;}
+@Booklet{Hirschman1967,
+  author           = {Albert O. Hirschman},
+  date             = {1967},
+  title            = {The Principle of the Hiding Hand},
+  url              = {https://www.nationalaffairs.com/public_interest/detail/the-principle-of-the-hiding-hand},
+  comment          = 
