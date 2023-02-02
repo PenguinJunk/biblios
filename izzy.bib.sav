@@ -7914,11 +7914,11 @@ So that… [why does the user want to do this?]},
   title            = {Towards Automatic Concept-based Explanations},
   doi              = {10.48550/ARXIV.1902.03129},
   url              = {https://doi.org/10.48550/arxiv.1902.03129},
-  comment          = {takes a set of images from a known class and performs segmentation over these images to extract candidate 'concepts' (candidate sub-parts that are needed to explain the class). These candidate concepts are then clustered in the activation space (the space into which the trained network transforms the data) of the final layer - each cluster representing a concept},
+  comment          = {takes a set of images from a known class and performs segmentation over these images to extract candidate `concepts' (candidate sub-parts that are needed to explain the class). These candidate concepts are then clustered in the activation space (the space into which the trained network transforms the data) of the final layer - each cluster representing a concept},
   copyright        = {arXiv.org perpetual, non-exclusive license},
   creationdate     = {2023-01-26T11:07:25},
   keywords         = {Machine Learning, visualisation, deep learning},
-  modificationdate = {2023-01-26T11:09:33},
+  modificationdate = {2023-02-02T13:42:08},
   owner            = {ISargent},
   publisher        = {arXiv},
   year             = {2019},
@@ -7940,7 +7940,7 @@ Demonstrators were then built and installed to gain feedback
 
 Took away parking spaces, the aim was to reimagine those spaces so that citizens value rather than oppose the change
 
-Surveyed 322 people and 70% were positive
+Surveyed 322 people and 70\% were positive
 
 ``if the mission does not receive high-level political or private-sector buy-in and is therefore not integrated into existing structures, then it is unlikely to survive.''
 
@@ -7952,7 +7952,7 @@ Surveyed 322 people and 70% were positive
 ``While representatives of the public sector, industry and communities can help frame the mission at the start, citizen participation is most valuable when testing downstream applications in localised contexts, with genuine decision-making and even co-ownership in play''},
   creationdate     = {2023-01-27T17:31:55},
   keywords         = {economics, innovation, transformation, bureaucracy},
-  modificationdate = {2023-01-27T17:45:24},
+  modificationdate = {2023-02-02T13:42:35},
   owner            = {izzy_olivine},
 }
 
