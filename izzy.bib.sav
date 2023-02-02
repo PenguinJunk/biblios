@@ -6626,11 +6626,56 @@ IZ* [I misunderstood this section but it makes me realise that this isn't descri
   year             = {2010},
 }
 
-@Article{Brown2021,author={Ross Brown},title={Mission-oriented or mission adrift? A critical examination of mission-oriented innovation policies},year=2021,journaltitle={European Planning Studies},volume=29, issue=4,pages={739--761},doi={10.1080/09654313.2020.1779189},
-  comment          = {See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s},
+@Article{Brown2021,
+  author           = {Ross Brown},
+  date             = {2021},
+  journaltitle     = {European Planning Studies},
+  title            = {Mission-oriented or mission adrift? A critical examination of mission-oriented innovation policies},
+  doi              = {10.1080/09654313.2020.1779189},
+  issue            = {4},
+  pages            = {739--761},
+  url              = {https://www.tandfonline.com/doi/abs/10.1080/09654313.2020.1779189},
+  volume           = {29},
+  comment          = {Also See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s. Also Lundvall2007. 
+
+Contrasts mission-oriented innovation policies with diffusion oriented approaches for the new Scottish National Investment Bank SNIB. (\cite{Freeman1995} goes into this distinction). Finds that the mission oriented approach applied to this bank ``constitutes 'fuzzy' policy making which is highly opaque lacking sufficient detail and fails to align itself properly with the demand conditions within the Scottish innovation system''. Suggest some version of diffusion-oriented policies would work better up to include hybrid and generating breakthrough innovation firms.
+
+According to Mazzucato and Penna, state investment banks have three roles: counter-cyclical capital development and new venture support
+
+Is paper asks ``are mission oriented innovation policies sufficiently nuanced to assist policymakers in the operational and strategic deployment of new policy instruments such as the SNIB?''
+
+``Mission-oriented countries often heavily prioritise a highly linear [science and technology approach to innovation] STI view of innovation (Jensen at al 2007)''
+
+Diffusion oriented approach ... ``is more experimental interactive va and relational towards innovation ... knowledge arise from doing, using and interacting (DUI)''
+
+Garudand Karnøe 2003 vividly demonstrate the differences between gui and STI breakthrough approaches towards innovation in their study of Danish and US wind turbine industry. In Denmark there was less emphasis on developing dramatic solutions instead strong networks of actors gradually built up their technological competencies. In us the focus was on producing radically new Hi-Tec lightweight and high-speed turbines. Denmark prevailed.
+
+Identifies that diffusion oriented approaches often have local embeddedness local orientation and this discourages blue skies research and precludes getting involved in the creation of startups.
+
+Considers:
+types of mission
+types of innovation
+types of instruments
+
+Missions:
+Goes into some detail pretty king blueprint for the bank identifying that these are rather high-level and don't offer practical mechanism for achieving the objectives. Highlights concerns about the risk of `policy capture', `agency problems', `implementation failures' and the fact that the bank aims to make a positive financial return could mean it becomes risk-averse.
+
+Criticises the advice that policymakers should pick the problem not the sector by saying that ``selecting missions may have unintended consequences of preferentially benefiting certain sectors over others which goes against the banks principal of supporting firms `whatever sector they appear' ''
+
+Innovation:
+Identify that much research in Scotland occurs in universities and very little in the SME sector. High-tech SMEs constitute a very small part of the business population. Suggest that the focus on high growth firms could damage the non-high tech SME sector. A note that the unpredictable nature of firm growth some suggest it's random.
+
+Instruments:
+Find that there has only been a partial assessment of funding gaps and goes into more detail about funding approaches
+
+According to Haldane (2018, 7) the UK does R well but D poorly where the refers to development that the diffusion and dissemination of innovation. 
+
+The diffusion oriented approach they suggest is is similar to a strategy undertaken by countries such as Israel via their Yozma Fund.},
   creationdate     = {2022-12-11T11:27:40},
-  modificationdate = {2022-12-11T11:29:30},
+  keywords         = {economics, missions, innovation, policy},
+  modificationdate = {2023-02-02T10:54:00},
   owner            = {ISargent},
+  year             = {2021},
 }
 
 @Article{Bhutoria2022,
@@ -8118,9 +8163,23 @@ Creating new rules and standards allows you to scale practise across an organisa
   editor           = {Bice, S. and Poole, A. and Sullivan, H},
   publisher        = {Palgrave Macmillan},
   url              = {https://link.springer.com/chapter/10.1057/978-1-137-60252-7_2},
+  comment          = {Challenges the idea that there is one form of public administration (PA), Western, and that this should be assumed to be global, good and the only approach.
+
+Both the global financial crisis and the emergence of of Southeast and East Asian tiger States have challenged Western PA.
+
+Western pa has many forms New Public Management, NPM-plus, Weberianism, New Public Governance, Public Value, Weberian-plus, Neo-Weberian State.
+
+Construct a model to demonstrate where good PA falls. This there are three possible forms of good PA. Small nucleus the almost always works anywhere. A larger core that is generally valid. A third level where solutions work well well within a given paradigm but not necessarily outside of this and us these solutions are not easily transferred.
+
+Details Confucian PA and the various forms and origins of this. Particular aspects of Confucian PA are:
+* Imperial civil service exam
+* Perpetually reforming and adapting PA
+* Concept of Mandate of Heaven (by which failure would indicate the mandate has been lost and the public servants would tose their job) which incentivises strong performance as well as as a desire to innovate
+
+This is different to Legalism the Qianlong Emperor would say ``there is no governing by laws there is only governing by people''.},
   creationdate     = {2023-02-02T10:47:56},
   keywords         = {economics, bureaucracy, public administration},
-  modificationdate = {2023-02-02T10:50:15},
+  modificationdate = {2023-02-02T10:50:55},
   owner            = {izzy_olivine},
 }
 
