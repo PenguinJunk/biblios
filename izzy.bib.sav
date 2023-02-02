@@ -8052,9 +8052,75 @@ In our experience the best p.m. generally come from the programme side finding s
   date             = {2018},
   title            = {Digital Transformation At Scale: Why the Strategy is Delivery},
   url              = {https://www.andrewgreenway.com/book},
+  comment          = {Short easy read about my angel to digitally transform an organisation to using Agile approaches
+
+4 things are required for a digital transformation: a crisis, a political leader,  a team and a mission.
+
+``... a crisis is almost always an essential condition for digitally transforming a government and there's no shortage of them challenges choosing the right crisis''
+
+``Megaprojects and the eye-popping budget overruns are often a good source of crisis material 9 out of 10 government projects with an initial budget of at least £1 billion end up spending more than originally planned''
+
+``Before a country can really begin its journey of digital transformation it needs to find ... groups of engaged people''
+
+``your first digital team will define the working culture and how things are done''
+
+Also covers:
+* Design principles
+* Starting small
+* Release fast, iteratively
+* Roles with the team
+* Clean structure and working patterns
+* Culture
+* Performance metrics
+* Platforms
+
+``Agile is a rejection of applying for certainty to delivering policy with technology''
+
+``many innovation teams find themselves trapped in the purgatory of being an add on to the day to day rather than a force charged with fundamentally reshaping the organisation''
+
+``innovation teams are destined to always run one step ahead of the rest of the organisation and incentivised to help everyone catch up with them how can you be innovative if everyone is doing the same as you?''
+
+``arguably by having shown that things could be done differently they have done their job whether or not the business brothers to put the theory into practice''
+
+``to have a chance of success a digital mandate must make it possible to stop poorly conceived usually expensive and long IT contracts from being let''
+
+Gather evidence
+
+``there is a real advantage to keeping your strategic ambitions ambiguous as long as possible''
+
+``the digital strategy must act as a signal towards the operating model you want your whole organisation to adopt and the culture that will allow that to happen successfully''
+
+Set the right expectation if you don't know what to under promise and over deliver
+However
+Making your first draught strategy ambitious gives you more chips to bargain with later
+
+In government there's a paternalistic view that the user doesn't know what they need it's a bit of an excuse they need a public service that is simple and clear enough for them to complete it accurately and quickly so they can get on with their day. Intuitively know they need to have certain qualities.
+
+Creating new rules and standards allows you to scale practise across an organisation quickly
+
+``Change is physically and mentally draining the conflict it brings especially so. Digital transformation of any large organisation is tiring partly because it is about loss''
+
+``we're unconvinced that organisations are unable to provide their employees with a reliable system for filing their travel expenses should be better in the house on nailing the implications of artificial intelligence''
+
+``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
   creationdate     = {2023-02-02T10:39:28},
   keywords         = {transformation, Agile, bureaucracy, economics},
-  modificationdate = {2023-02-02T10:41:05},
+  modificationdate = {2023-02-02T10:41:46},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Drechsler2018,
+  author           = {Drechsler, Wolfgang},
+  booktitle        = {Public Policy in the `Asian Century'},
+  date             = {2018},
+  title            = {Beyond the Western Paradigm: Confucian Public Administration},
+  doi              = {10.1057/978-1-137-60252-7_2},
+  editor           = {Bice, S. and Poole, A. and Sullivan, H},
+  publisher        = {Palgrave Macmillan},
+  url              = {https://link.springer.com/chapter/10.1057/978-1-137-60252-7_2},
+  creationdate     = {2023-02-02T10:47:56},
+  keywords         = {economics, bureaucracy, public administration},
+  modificationdate = {2023-02-02T10:50:15},
   owner            = {izzy_olivine},
 }
 
