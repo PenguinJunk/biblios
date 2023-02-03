@@ -7210,7 +7210,7 @@ See also summary articles in Zotero (``IPCC: Not just a carbon price, but a real
 }
 
 @TechReport{WeissM2020,
-  author           = {Weiss, Mitchell B., and Sarah Mehta},
+  author           = {Weiss, Mitchell B. and Sarah Mehta},
   date             = {2020},
   institution      = {Harvard Business School},
   title            = {TraceTogether},
@@ -7226,7 +7226,7 @@ Questions about privacy form public, although design seemed to try to ensure pri
 Code was ultimately open sourced and other governments used it.},
   creationdate     = {2023-01-14T15:55:22},
   keywords         = {policy, health, covid-9},
-  modificationdate = {2023-01-14T16:06:16},
+  modificationdate = {2023-02-02T13:57:19},
   owner            = {izzyolivine},
 }
 
