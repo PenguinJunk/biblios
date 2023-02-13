@@ -8486,4 +8486,20 @@ I also like that Estonia's CIO is the `Central' Information Officer},
   owner            = {izzy_olivine},
 }
 
+@Online{Sidawi2023,
+  author           = {Nour Sidawi},
+  date             = {2023-01-28},
+  title            = {Why are the future leaders scheme (FLS) fails and what to do about it},
+  url              = {https://medium.com/future-leaders-scheme/why-the-future-leaders-scheme-fls-fails-and-what-to-do-about-it-74a37bfdc91},
+  comment          = {Most recent post in the series about future leaders scheme and its wrongs, which are mainly around creating homogeneous leaders especially by filtering out diversity
+
+``This scheme is systemically rooted in the current educational cultural and corporate structures of the CK civil service it is the result of a fractured process that presumes button passing rather than a team sport ... The scheme... Focuses on competences models and techniques which in some ways is like rearranging the deck chairs on a sinking ship''
+
+One size fits all training ... homogeneity of thinking, self-referential nature and a culture of conformity and emotional detachment},
+  creationdate     = {2023-02-13T19:17:23},
+  keywords         = {bureaucracy, economics, public administration, trust},
+  modificationdate = {2023-02-13T19:18:40},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
