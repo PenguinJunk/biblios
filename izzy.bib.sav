@@ -8382,7 +8382,7 @@ Useful link for when I talk about the MPA},
   owner            = {izzy_olivine},
 }
 
-@InBook{Wardley,
+@InBook{Wardley2016,
   author           = {Simon Wardley},
   booktitle        = {Wardley maps: Topographical intelligence in business},
   date             = {2016-04-10},
@@ -8412,8 +8412,30 @@ the x-axis of evolution shows the terms for activities alone
 
 A single node on one map can be an entire map from another person’s perspective. Equally, the entire map of your business might be a single component for someone else.},
   creationdate     = {2023-02-13T18:53:22},
-  keywords         = {transformation, economics, innovation},
-  modificationdate = {2023-02-13T18:57:31},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:00:11},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{MargettsN2017,
+  author           = {Helen Margetts and Andre Naumann},
+  date             = {2017-02-28},
+  institution      = {Centre for Technology and Global Affairs, University of Oxford},
+  title            = {Government as a Platform: What can Estonia Show the World},
+  eprint           = {https://www.ospi.es/export/sites/ospi/documents/documentos/Government-as-a-platform_Estonia.pdf},
+  url              = {https://www.ctga.ox.ac.uk/article/government-platform-what-can-estonia-show-world},
+  comment          = {Tim O'Reilly spoke about GaaP has two aspects - a platform that others e.g. private sector can build upon and a way that citizens can participate in government. I find this second idea very interesting but I can only find evidence that GaaP is just at the level of services at the moment.
+
+He proposed seven principles of GaaP: openness, simplicity, participation, `learning from hackers', data mining, experimentation and `leading by example'. This paper looks at Estonia and identifies that it meets the first (except it learns `by example') and does less well on the final three. It's argue that they have focused on the service now and less in the future service. UK seems to be a bit the opposite by embracing experimentation, days mining and a `hacking' culture but struggles with openness, simplicity and participation.
+
+Lots of detail in the Estonian case and quite a bit on UK.
+
+Quotes a study that find the costs are in organisation and processes, not technology and important elements are political will, organisational reforms, adaptation of legal frameworks and redesign of work processes.
+
+I also like that Estonia's CIO is the `Central' Information Officer},
+  creationdate     = {2023-02-13T18:58:53},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:02:28},
   owner            = {izzy_olivine},
 }
 
