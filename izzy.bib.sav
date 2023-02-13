@@ -8375,10 +8375,45 @@ Innovation in public sector is still too often about efficiency and materialism
 
 Bureaucracy needs to evolve (as capitalism has)
 
-Useful link for when I say what I am doing},
+Useful link for when I talk about the MPA},
   creationdate     = {2023-02-13T18:50:01},
   keywords         = {public administration, bureaucracy, economics, ethics, trust, innovation},
-  modificationdate = {2023-02-13T18:51:52},
+  modificationdate = {2023-02-13T18:52:14},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Wardley,
+  author           = {Simon Wardley},
+  booktitle        = {Wardley maps: Topographical intelligence in business},
+  date             = {2016-04-10},
+  title            = {Finding a path},
+  url              = {https://medium.com/wardleymaps/finding-a-path-cdb1249078c0},
+  comment          = {About Wardley mapping
+
+A business, like all organisms, needs to continuously adapt to changes in order to survive and if we could somehow describe this then maybe that would give us a map?
+
+Throughout our history, it has always been standardisation of components that has enabled creations of greater complexity
+
+The desire to differentiate creates the novel, the desire to keep up with others makes it commonplace
+
+The map has an anchor which is the user
+
+Each component needs the component below it, however the higher up the map a component is then the more visible it becomes to the user. The lower it is then the less visible it becomes.
+
+There is a flow of risk, information and money between components
+
+Stages of evolution:
+- genesis
+- custom built
+- product (including rental)
+- commodity (including utility)
+
+the x-axis of evolution shows the terms for activities alone
+
+A single node on one map can be an entire map from another person’s perspective. Equally, the entire map of your business might be a single component for someone else.},
+  creationdate     = {2023-02-13T18:53:22},
+  keywords         = {transformation, economics, innovation},
+  modificationdate = {2023-02-13T18:57:31},
   owner            = {izzy_olivine},
 }
 
