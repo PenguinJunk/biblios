@@ -8439,4 +8439,27 @@ I also like that Estonia's CIO is the `Central' Information Officer},
   owner            = {izzy_olivine},
 }
 
+@Online{Durant2016,
+  author           = {David Durant},
+  date             = {2016-02-29},
+  title            = {Foundations for Government as a Platform},
+  url              = {https://governmentasaplatform.blog.gov.uk/2016/02/29/governmentasaplatform-foundations/},
+  comment          = {Short post listing principles:
+- Be independent
+- Committed to maintaining the product
+- Make it easy for the user
+- Be easy to integrate
+- Be ready to grow
+- Be easy to adopt
+- Support service separation
+- Avoid being tied down to one supplier
+- Meet technical and design standards
+- Be open about performance
+- Be open about cost},
+  creationdate     = {2023-02-13T19:09:59},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:11:30},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
