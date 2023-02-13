@@ -8360,4 +8360,26 @@ Argues that the challenge is to create balance between the imperative of holding
   owner            = {izzy_olivine},
 }
 
+@Online{Kattel2019,
+  author           = {Rainer Kattel},
+  date             = {2019-02-01},
+  title            = {Innovation as an ethical dilemma},
+  url              = {https://medium.com/iipp-blog/innovation-as-an-ethical-dilemma-a664554c1069},
+  comment          = {About the nature of
+innovation: unpredictable, stemming from creativity and serendipity
+civil servants: apolitical, critically implementing political will and saying truth to power, serving both today's political will and their conscience
+
+But uncertainty is wasteful and so early stage innovation is heretical to efficiency orthodoxy 
+
+Innovation in public sector is still too often about efficiency and materialism
+
+Bureaucracy needs to evolve (as capitalism has)
+
+Useful link for when I say what I am doing},
+  creationdate     = {2023-02-13T18:50:01},
+  keywords         = {public administration, bureaucracy, economics, ethics, trust, innovation},
+  modificationdate = {2023-02-13T18:51:52},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
