@@ -8502,4 +8502,57 @@ One size fits all training ... homogeneity of thinking, self-referential nature 
   owner            = {izzy_olivine},
 }
 
+@TechReport{Pope2019,
+  author           = {Richard Pope},
+  date             = {2019},
+  institution      = {Harvard Kennedy School},
+  title            = {Playbook: Government as a Platform},
+  eprint           = {https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf},
+  comment          = {Basically everything you need to think about in creating a platform-based government
+
+What platforms are, how to identify them
+Unshaved users and go where they are
+
+Rather than designing then top down, maybe take component of product that can be more generally used and turn it into platform
+
+Documentation, procurement, standards, culture, design, measuring and monitoring, trust, governance},
+  creationdate     = {2023-02-13T19:20:27},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:22:36},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{,
+  booktitle        = {3rd KDD Workshop on Data-driven Humanitarian Mapping},
+  eprint           = {https://arxiv.org/pdf/2208.11282.pdf},
+  location         = {Washington, DC, USA},
+  comment          = {Fascinating perspective on the use of AI (e.g, reinforcement learning), along with humans, in data processing and decision-making in humanitarian situations. Sums up the concern: ``Multi-AI systems can be thought of as a complex interacting network of interconnected complex systems. These systems are being increasingly used in many domains, including in humanitarian response, but their behaviours are often not understood in their entirety''.
+
+``risks and harms include: 
+- questions of biases and fairness which can oppress minority voices
+- accountability of systems and the lack of legal frameworks
+- challenges surrounding transparency and human oversight
+- a lack of expertise in the proper and appropriate deployment and use of AI
+- data privacy and protection concerns; and the meaningful participation of affected communities in every stage of the AI lifecycle, as well as their ownership over such systems''
+
+``drive to draft AI ethical guidelines, frameworks, and training materials at the international, national, and sector specific levels''
+
+Their proposal for future research / activities are more widely relavant than simply humanitarian applications, imo:
+1. ``development of frameworks for building and testing multi-AI systems, as well as for understanding emergent behaviours of such systems is essential''
+  - mapping the network of information flows
+  - stresss tests for systems
+2. ``cross-pollination of these technical communities with legal, ethics, and humanitarian response experts''
+  - systematic mapping exercise to understand the potential gaps in existing ethical principles and guidelines
+  - adapt current risk and harms assessments
+3. communicate these concepts to project managers and decision-makers
+  - operational guidelines
+  - capacity building exercises
+  - communities of practice
+4. greater collaboration including: complex systems, multi-agent modelling, systems engineering, and reinforcement learning},
+  creationdate     = {2023-02-14T12:16:18},
+  keywords         = {humanitarian, artificial intelligence, trust, complexity, systems},
+  modificationdate = {2023-02-14T12:29:23},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
