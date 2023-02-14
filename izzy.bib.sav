@@ -8615,7 +8615,12 @@ Their proposal for future research / activities are more widely relavant than si
   owner            = {izzy_olivine},
 }
 
-@Article{BennettY,
+@TechReport{BennettY2019,
+  author           = {Andrew Bennett and Chris Yiu},
+  date             = {2019-06-26},
+  institution      = {Tony Blair Institute for Global Change},
+  title            = {Transforming Government for the 21st Century},
+  url              = {https://institute.global/policy/transforming-government-21st-century},
   comment          = {Increased complexity
 Decentralised and complex society
 
@@ -8653,7 +8658,8 @@ Case study: Spotify's multidisciplinary teams ``Recreating government versions o
 
 Keep high performers and increase churn...},
   creationdate     = {2023-02-14T16:57:37},
-  modificationdate = {2023-02-14T18:00:39},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-14T18:03:13},
   owner            = {izzy_olivine},
 }
 
