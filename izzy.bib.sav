@@ -7881,7 +7881,7 @@ Book is about reconceiving the role of the CIO.
 
 Brilliant, easy to follow, book attempting to identify the role of the CIO in an Agile organisation. CIOs cannot get a 'seat at the table' (in the c-suite) without proving that IT is of strategic value. Books on Agile do not acknowledge the CIO and books on being a CIO do not acknowledge Agile. Currently, IT is considered something that costs and needs control, a plan, etc which works against Agile practise.
 
-Notes that organisational transformation is ``strangely non-Agile'' p13
+Notes that immediate cultural change is ``strangely non-Agile'' p13
 
 There's always conflict: pleasing the customer does not always mean strategic goals are being met or it could mean that the senior management cannot understand what is happening. Sometimes its just that the CIO feels excluded. p14
 
@@ -7936,7 +7936,7 @@ IT leaders steward IT people/skills assets, EA assets and data assets p275-6 (al
 DevOps: When something is difficult it frightening we do it more often p292-3},
   creationdate     = {2023-01-21T14:58:51},
   keywords         = {transformation, technology},
-  modificationdate = {2023-02-14T16:33:55},
+  modificationdate = {2023-02-14T17:56:41},
   owner            = {izzy_olivine},
 }
 
@@ -8615,12 +8615,45 @@ Their proposal for future research / activities are more widely relavant than si
   owner            = {izzy_olivine},
 }
 
-@Book{Schwartz2017,
-  author           = {Mark Schwartz},
-  date             = {2017},
-  title            = {A Seat at the Table},
-  creationdate     = {2023-02-14T12:45:23},
-  modificationdate = {2023-02-14T16:33:46},
+@Article{BennettY,
+  comment          = {Increased complexity
+Decentralised and complex society
+
+
+Governments must:
+- embrace technology-enabled experimentation and decentralisation - iteration, empowered teams
+- set agenda - be purposeful, national missions
+- provide software and data infrastructure
+- reset structures, break through silos, more pathways for promotion, diverse training schemes, cross-functional teams, technology to enable interoperability between teams ...
+
+``Francis Maude advocated a “tight-loose” model for government in the United Kingdom (UK): tight central control over key areas of public spending to drive down costs, combined with devolution of power and the opening up of partnerships to promote innovation''
+
+Princples:
+1. purposeful government and policy, national missions for grand challenges (Mazzucato gets lots of mentions)
+2. provide public services and infrastructure that allow individuals, communities, businesses and the public sector to achieve their potential
+3. be able to respond quickly
+
+``embed a culture of continuous improvement both within and outside the public sector''
+
+``anticipatory frameworks for regulation would cohere with a government strategy intent on iterating, experimenting and harnessing the opportunities of technological change''
+
+Discussion of metrics of public value, GDP, CBA, social value and ``doughnut dashboads''
+
+Gaap, mostly tier 1 and 2 - but should move on tier 3 as well - society wide platform (banks, charities and other external organsations)
+
+``governments should establish a new presumption in favour of all new services having to publish and document an API''
+
+``governments must create an electronic-identity system for all citizens'' 
+
+``Buying Into The Future report suggest[s] creating spend controls for in-house expenditure, to incentivise governments not to reject ready-made solutions in the private sector''
+
+``Restructuring can also be extremely costly, according to the Institute for Government, a UK think tank, with new departments costing up to £15 million ($19 million) to establish.112 This cost can rise even higher when one takes into account productivity losses—mainly, but not only, if these changes are rushed—and settlements due to levelling up the salaries of staff from merging departments'' but there is some transformation needed - be strategic
+
+Case study: Spotify's multidisciplinary teams ``Recreating government versions of Spotify’s chapters and guilds – formal and informal knowledge-sharing networks – would therefore be a promising first step.''
+
+Keep high performers and increase churn...},
+  creationdate     = {2023-02-14T16:57:37},
+  modificationdate = {2023-02-14T18:00:39},
   owner            = {izzy_olivine},
 }
 
