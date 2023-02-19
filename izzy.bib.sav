@@ -8698,10 +8698,23 @@ Two facets for the emotion pride: authentic and hubristic pride, suggested that 
   title            = {Nobel Rebels in Disguise -Assessing the Rise and Rule of the Randomistas},
   pages            = {305--341},
   url              = {https://www.tandfonline.com/doi/abs/10.1080/09538259.2020.1810886},
-  comment          = {Criticism of the Random Control Trial (RCT) approach of the likes of Abhijit Banerjee, Esther Duflo and Michael Kremer (},
+  comment          = {Criticism of the Randomised Control Trial (RCT) approach of the likes of Abhijit Banerjee, Esther Duflo and Michael Kremer (e.g. BanerjeeD2019)},
   creationdate     = {2023-02-19T13:31:52},
   keywords         = {economics, sociology},
-  modificationdate = {2023-02-19T14:34:04},
+  modificationdate = {2023-02-19T14:35:58},
+  owner            = {izzy_olivine},
+}
+
+@Article{GardnerTRS2021,
+  author           = {Charlie J. Gardner and Aaron Thierry and William Rowlandson and Julia K. Steinberger},
+  date             = {2021-05-31},
+  journaltitle     = {Frontiers in Sustainability},
+  title            = {From Publications to Public Actions: The Role of Universities in Facilitating Academic Advocacy and Activism in the Climate and Ecological Emergency},
+  doi              = {10.3389/frsus.2021.679019},
+  url              = {https://www.frontiersin.org/articles/10.3389/frsus.2021.679019/full},
+  creationdate     = {2023-02-19T14:44:01},
+  keywords         = {politics, climate, environment, science},
+  modificationdate = {2023-02-19T14:46:04},
   owner            = {izzy_olivine},
 }
 
