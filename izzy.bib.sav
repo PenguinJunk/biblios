@@ -8652,14 +8652,41 @@ Gaap, mostly tier 1 and 2 - but should move on tier 3 as well - society wide pla
 
 ``Buying Into The Future report suggest[s] creating spend controls for in-house expenditure, to incentivise governments not to reject ready-made solutions in the private sector''
 
-``Restructuring can also be extremely costly, according to the Institute for Government, a UK think tank, with new departments costing up to £15 million ($19 million) to establish.112 This cost can rise even higher when one takes into account productivity losses—mainly, but not only, if these changes are rushed—and settlements due to levelling up the salaries of staff from merging departments'' but there is some transformation needed - be strategic
+``Restructuring can also be extremely costly, according to the Institute for Government, a UK think tank, with new departments costing up to £15 million (\$19 million) to establish.112 This cost can rise even higher when one takes into account productivity losses—mainly, but not only, if these changes are rushed—and settlements due to levelling up the salaries of staff from merging departments'' but there is some transformation needed - be strategic
 
 Case study: Spotify's multidisciplinary teams ``Recreating government versions of Spotify’s chapters and guilds – formal and informal knowledge-sharing networks – would therefore be a promising first step.''
 
 Keep high performers and increase churn...},
   creationdate     = {2023-02-14T16:57:37},
   keywords         = {transformation, economics, innovation, policy, digital},
-  modificationdate = {2023-02-14T18:03:13},
+  modificationdate = {2023-02-14T18:08:25},
+  owner            = {izzy_olivine},
+}
+
+@Online{Henrich2011,
+  author           = {Joseph Henrich},
+  date             = {2011},
+  title            = {A cultural species: How culture drove human evolution},
+  url              = {https://www.apa.org/science/about/psa/2011/11/human-evolution},
+  comment          = {Finds that cultural information is necessary for human survival
+
+``we are an ultra-cultural species'' and there is an interaction between culture and evolution
+
+``humans are heavily dependent on an information economy for survival''
+
+``our ecological success, technology, and adaptation to diverse environments is not due to our intelligence. Alone and stripped of our culture, we are hopeless as a species''
+
+Key concepts:
+1. Cultural capacities as adaptations: Culture, cultural transmission, and cultural evolution arise from genetically evolved psychological adaptations for acquiring ideas, beliefs, values, practices, mental models, and strategies
+2. Cultural evolution: These cognitive adaptations give rise to a robust second system of inheritance that operates by different transmission rules than genetic inheritance, and can thus produce phenomena not observed in other less cultural species
+3. Culture-gene coevolution: The second system of inheritance created by cultural evolution can alter both the social and physical environments faced by evolving genes
+
+Example of cooking and `cooked food' - shrunk our digestive tracks, teeth, stomachs, and gape, freeing up energy for more brain building, and perhaps a greater reliance on cultural information
+
+Two types of status: dominance and prestige
+Two facets for the emotion pride: authentic and hubristic pride, suggested that hubristic pride is associated with dominance-status and authentic pride with prestige-status},
+  creationdate     = {2023-02-19T13:13:45},
+  modificationdate = {2023-02-19T13:29:51},
   owner            = {izzy_olivine},
 }
 
