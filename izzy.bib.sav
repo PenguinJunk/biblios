@@ -8763,9 +8763,12 @@ Find:
   issn             = {1086-1653},
   number           = {4},
   pages            = {501--511},
+  url              = {https://www.independent.org/pdf/tir/tir_09_4_2_hammes.pdf},
   volume           = {IX},
+  comment          = {Finds that price adjustment in response to inflation of dollar is main cause},
   creationdate     = {2023-02-22T17:03:11},
-  modificationdate = {2023-02-22T17:04:44},
+  keywords         = {economics, markets},
+  modificationdate = {2023-02-22T17:06:13},
   owner            = {izzy_olivine},
 }
 
