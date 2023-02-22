@@ -2472,11 +2472,13 @@ Intellectual in-breeding, less adventurous, more theory-driven less policy-drive
 ''Like Dosi (2011) , I sense that economics today is eerily reminiscent of Ptolemaic astronomy with its complicated epicycles'' ``If there is to be any chance of success, the IS community will need to join forces with newer and more sympathetic subfields of economics such as behavioural economics, experimental economics and ecological economics''
 
 20 	Maintaining our research integrity, sense of morality and collegiality
-self-policing in other areas (parliament, journalism, ...) has been shown to be ineffective. When there's competition for resources, signs of integrity and social capital eroding.},
+self-policing in other areas (parliament, journalism, ...) has been shown to be ineffective. When there's competition for resources, signs of integrity and social capital eroding.
+
+See also https://www.youtube.com/watch?v=w926VBnsO3w},
   creationdate     = {2022-10-04T14:42:51},
   journal          = {Science and Public Policy},
   keywords         = {economics, innovation},
-  modificationdate = {2022-10-23T12:41:31},
+  modificationdate = {2023-02-03T20:40:34},
   month            = {04},
   owner            = {ISargent},
   year             = {2016},
@@ -5676,7 +5678,7 @@ place matters - living in a deprived area of the North East is worse for your he
 }
 
 @Article{LeesonT2021,
-  author           = {Leeson, Peter T, and Henry A Thompson},
+  author           = {Leeson, Peter T. and Henry A. Thompson},
   date             = {2021-03-22},
   journaltitle     = {Public choice},
   title            = {Public choice and public health},
@@ -5694,7 +5696,7 @@ but then this is a public choice paper!
 It also notes that there is very little analysis on contageous disease and hopes that an outcome of Covid-19 pandemic will rectify this},
   creationdate     = {2022-12-01T22:27:43},
   keywords         = {economics, policy, health},
-  modificationdate = {2023-01-18T20:50:03},
+  modificationdate = {2023-02-02T13:56:16},
   owner            = {ISargent},
 }
 
@@ -6488,10 +6490,12 @@ The American health care system needs a serious reboot, and artificial intellige
   abstract         = {This article describes an emergent logic of accumulation in the networked sphere, `surveillance capitalism,' and considers its implications for `information civilization.' The institutionalizing practices and operational assumptions of Google Inc. are the primary lens for this analysis as they are rendered in two recent articles authored by Google Chief Economist Hal Varian. Varian asserts four uses that follow from computer-mediated transactions: data extraction and analysis,' `new contractual forms due to better monitoring,' `personalization and customization, ' and continuous experiments. ' An examination of the nature and consequences of these uses sheds light on the implicit logic of surveillance capitalism and the global architecture of computer mediation upon which it depends. This architecture produces a distributed and largely uncontested new expression of power that I christen: Big Other. ' It is constituted by unexpected and often illegible mechanisms of extraction, commodification, and control that effectively exile persons from their own behavior while producing new markets of behavioral prediction and modification. Surveillance capitalism challenges democratic norms and departs in key ways from the centuries-long evolution of market capitalism.},
   comment          = {The surveillance capitalism paper
 
-Those actions of big tech, principally Google in this paper, that challenged existing social norms have been legally challenged. As a result google has obscured these activities, bypassing detection by users. Also has been creation of dependency on the technologies making it more difficult for individuals to avoid having their data extracted and exploited e.g. by third parties who use moments of vulnerability.},
+Those actions of big tech, principally Google in this paper, that challenged existing social norms have been legally challenged. As a result google has obscured these activities, bypassing detection by users. Also has been creation of dependency on the technologies making it more difficult for individuals to avoid having their data extracted and exploited e.g. by third parties who use moments of vulnerability.
+
+See also \url{https://www.youtube.com/watch?v=hIXhnWUmMvw}},
   creationdate     = {2022-12-10T10:59:23},
   keywords         = {artificial intelligence, data, trust},
-  modificationdate = {2022-12-10T20:00:01},
+  modificationdate = {2023-02-19T16:54:32},
   owner            = {ISargent},
 }
 
@@ -6626,11 +6630,56 @@ IZ* [I misunderstood this section but it makes me realise that this isn't descri
   year             = {2010},
 }
 
-@Article{Brown2021,author={Ross Brown},title={Mission-oriented or mission adrift? A critical examination of mission-oriented innovation policies},year=2021,journaltitle={European Planning Studies},volume=29, issue=4,pages={739--761},doi={10.1080/09654313.2020.1779189},
-  comment          = {See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s},
+@Article{Brown2021,
+  author           = {Ross Brown},
+  date             = {2021},
+  journaltitle     = {European Planning Studies},
+  title            = {Mission-oriented or mission adrift? A critical examination of mission-oriented innovation policies},
+  doi              = {10.1080/09654313.2020.1779189},
+  issue            = {4},
+  pages            = {739--761},
+  url              = {https://www.tandfonline.com/doi/abs/10.1080/09654313.2020.1779189},
+  volume           = {29},
+  comment          = {Contrasts mission-oriented innovation policies with diffusion oriented approaches for the new Scottish National Investment Bank SNIB. (\cite{Freeman1995} goes into this distinction). Finds that the mission oriented approach applied to this bank ``constitutes 'fuzzy' policy making which is highly opaque lacking sufficient detail and fails to align itself properly with the demand conditions within the Scottish innovation system''. Suggest some version of diffusion-oriented policies would work better up to include hybrid and generating breakthrough innovation firms.
+
+According to Mazzucato and Penna, state investment banks have three roles: counter-cyclical capital development and new venture support
+
+Is paper asks ``are mission oriented innovation policies sufficiently nuanced to assist policymakers in the operational and strategic deployment of new policy instruments such as the SNIB?''
+
+``Mission-oriented countries often heavily prioritise a highly linear [science and technology approach to innovation] STI view of innovation (Jensen at al 2007)''
+
+Diffusion oriented approach ... ``is more experimental interactive va and relational towards innovation ... knowledge arise from doing, using and interacting (DUI)''
+
+Garudand Karnøe 2003 vividly demonstrate the differences between gui and STI breakthrough approaches towards innovation in their study of Danish and US wind turbine industry. In Denmark there was less emphasis on developing dramatic solutions instead strong networks of actors gradually built up their technological competencies. In us the focus was on producing radically new Hi-Tec lightweight and high-speed turbines. Denmark prevailed.
+
+Identifies that diffusion oriented approaches often have local embeddedness local orientation and this discourages blue skies research and precludes getting involved in the creation of startups.
+
+Considers:
+* types of mission
+* types of innovation
+* types of instruments
+
+Missions:
+Goes into some detail pretty king blueprint for the bank identifying that these are rather high-level and don't offer practical mechanism for achieving the objectives. Highlights concerns about the risk of `policy capture', `agency problems', `implementation failures' and the fact that the bank aims to make a positive financial return could mean it becomes risk-averse.
+
+Criticises the advice that policymakers should pick the problem not the sector by saying that ``selecting missions may have unintended consequences of preferentially benefiting certain sectors over others which goes against the banks principal of supporting firms `whatever sector they appear' ''
+
+Innovation:
+Identify that much research in Scotland occurs in universities and very little in the SME sector. High-tech SMEs constitute a very small part of the business population. Suggest that the focus on high growth firms could damage the non-high tech SME sector. A note that the unpredictable nature of firm growth some suggest it's random.
+
+Instruments:
+Find that there has only been a partial assessment of funding gaps and goes into more detail about funding approaches
+
+According to Haldane (2018, 7) the UK does R well but D poorly where the refers to development that the diffusion and dissemination of innovation. 
+
+The diffusion oriented approach they suggest is is similar to a strategy undertaken by countries such as Israel via their Yozma Fund.
+
+Also See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s. Also Lundvall2007, Martin2016.},
   creationdate     = {2022-12-11T11:27:40},
-  modificationdate = {2022-12-11T11:29:30},
+  keywords         = {economics, missions, innovation, policy},
+  modificationdate = {2023-02-02T10:55:17},
   owner            = {ISargent},
+  year             = {2021},
 }
 
 @Article{Bhutoria2022,
@@ -7165,7 +7214,7 @@ See also summary articles in Zotero (``IPCC: Not just a carbon price, but a real
 }
 
 @TechReport{WeissM2020,
-  author           = {Weiss, Mitchell B., and Sarah Mehta},
+  author           = {Weiss, Mitchell B. and Sarah Mehta},
   date             = {2020},
   institution      = {Harvard Business School},
   title            = {TraceTogether},
@@ -7181,7 +7230,7 @@ Questions about privacy form public, although design seemed to try to ensure pri
 Code was ultimately open sourced and other governments used it.},
   creationdate     = {2023-01-14T15:55:22},
   keywords         = {policy, health, covid-9},
-  modificationdate = {2023-01-14T16:06:16},
+  modificationdate = {2023-02-02T13:57:19},
   owner            = {izzyolivine},
 }
 
@@ -7830,10 +7879,66 @@ Departments and other public sector organisations need a committed multi-year bu
   url              = {https://itrevolution.com/product/a-seat-at-the-table/},
   comment          = {``the way the CIO role is defined, conceived, and executed today is incompatible with Agile thinking''
 
-Book is about reconceiving the role of the CIO.},
+Book is about reconceiving the role of the CIO.
+
+Brilliant, easy to follow, book attempting to identify the role of the CIO in an Agile organisation. CIOs cannot get a 'seat at the table' (in the c-suite) without proving that IT is of strategic value. Books on Agile do not acknowledge the CIO and books on being a CIO do not acknowledge Agile. Currently, IT is considered something that costs and needs control, a plan, etc which works against Agile practise.
+
+Notes that immediate cultural change is ``strangely non-Agile'' p13
+
+There's always conflict: pleasing the customer does not always mean strategic goals are being met or it could mean that the senior management cannot understand what is happening. Sometimes its just that the CIO feels excluded. p14
+
+Scope creep: changes that the business stakeholders request when they realize that a system won’t actually meet their needs as specified ... but which might make it difficult for IT to show that it is delivering on schedule p30 this incentivises getting the requirements perfect from the outset and feature bloat p52 ``a requirement is a constraint masquerading as a decision'' p105 ``Scope doesn't creep, understanding grows'' (Patton) p108
+
+Jean-Paul Sartre, an early Agilist - consciousness chooses at any given instant what it is p83
+
+Plan-drived IT ``espouses all the wrong values'' as it is made at beginning when uncertainty highest etc p86 decisions should be deferred until the last possible moment p96
+
+There us a Beyond Budgeting movement - the annual budgeting cycle is not agile p27
+
+Alternative approaches including identifying different plans with indicators to determine which plans to apply p100 and understand different scenarios p103
+
+Get started with MVP or even advertising non existent product may be enough p110
+
+Progress using TDD, ATDD and BDD p115
+
+``The best framework I have found for working with desired outcomes as requirements is Gojko Adzic’s Impact Mapping: Making a Big Impact with Software Products and Projects'' p116 impact -> change in someone's behaviour p116 identify desired outcomes for the customer rather than a set of requirements or features p119-120
+
+Strangler pattern, incrementally modernise a legacy system p132-134
+
+Section 7 on enterprise architecture EA, how the organisation's capabilities, logics and operation are implemented - this should be in-house because no two organisations are the same and so off the shelf will require too much tweaking anyway. 
+
+EA sould be in constant transform p137, p142, always evolving, extensible, little technical debt, well documented, robust automated tests p145-161
+
+``Three major trends have dramatically altered the tradeoff between building and buying: virtualization, abstraction, and scriptability.'' p163
+
+``IT used to be about software and hardware. Increasingly, it is just about software. This causes me joy.' p166
+
+Governance process is passive, saying no, judgemental process, its like a reality TV show. p175-6
+
+Some kind of oversight is always desired so they came up with an Agile governence and oversight modelhelp interface with expectations of waterfall style organisation, including:
+- investment decision and oversight process form a seamless continuum - initiative informs governance decision
+- progress gauged by operational results
+- boundaries set for planning, don't waste time on too much planning
+- decisions made on high-level objectives, not detailed requirements
+- transparent, trusted processes for turning business objectives into product parameters
+- optimise the whole - EA, people and data
+ p181-3
+
+Brooks' Law: In The Mythical Man-Month, Fred Brooks argues that adding people to a project that is already
+behind schedule makes it slip even further behind schedule. p206
+
+Shadow IT: rogue IT that happens outside of the IT department because the IT department is unable to support the IT that other departments need supported section 12
+
+GitHub source code, social community, resume - loads of reasons to use GitHub and work in the open p248-250
+
+open source economy contrasts with every day economy, which is an economy of scarcity. Instead, an open source economy nurtures a gift culture or economy because there is an abundance of goods. p250
+
+IT leaders steward IT people/skills assets, EA assets and data assets p275-6 (also the whole book)
+
+DevOps: When something is difficult it frightening we do it more often p292-3},
   creationdate     = {2023-01-21T14:58:51},
   keywords         = {transformation, technology},
-  modificationdate = {2023-01-21T15:02:48},
+  modificationdate = {2023-02-14T17:56:41},
   owner            = {izzy_olivine},
 }
 
@@ -7869,14 +7974,784 @@ So that… [why does the user want to do this?]},
   title            = {Towards Automatic Concept-based Explanations},
   doi              = {10.48550/ARXIV.1902.03129},
   url              = {https://doi.org/10.48550/arxiv.1902.03129},
-  comment          = {takes a set of images from a known class and performs segmentation over these images to extract candidate 'concepts' (candidate sub-parts that are needed to explain the class). These candidate concepts are then clustered in the activation space (the space into which the trained network transforms the data) of the final layer - each cluster representing a concept},
+  comment          = {takes a set of images from a known class and performs segmentation over these images to extract candidate `concepts' (candidate sub-parts that are needed to explain the class). These candidate concepts are then clustered in the activation space (the space into which the trained network transforms the data) of the final layer - each cluster representing a concept},
   copyright        = {arXiv.org perpetual, non-exclusive license},
   creationdate     = {2023-01-26T11:07:25},
-  keywords         = {Machine Learning (stat.ML), Computer Vision and Pattern Recognition (cs.CV), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  modificationdate = {2023-01-26T11:08:23},
+  keywords         = {Machine Learning, visualisation, deep learning},
+  modificationdate = {2023-02-02T13:42:08},
   owner            = {ISargent},
   publisher        = {arXiv},
   year             = {2019},
+}
+
+@TechReport{ConwayEtAl2021,
+  author           = {Rowan Conway and Nora Clinton and Ryan Bellinson and Kuhn Von Burgsdorff, Luca and Alex Cooke and Van Spronsen, Kirsten and Hanna Groen and Robyn Smith and Fermin Cerezo and Christopher Thompson and Sarah Dew and Dan Hill and Nico van Meeteren},
+  date             = {2021},
+  institution      = {UCL Institute for Innovation and Public Purpose},
+  title            = {Mission-Oriented Innovation in Action 2021 Casebook: Vinnova},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/news/2022/jan/iipps-mission-oriented-innovation-network-moin-launches-its-2021-moin-casebook},
+  comment          = {Vinnova's mission to have healthy sustainable streets
+
+Mission arrived at after first identifying angles - intervention or leverage points. In this case, `streets' was the angle and the mission was devised around this
+
+Brought together a `constellation' of actors (including Volvo!) to co-design a portfolio of prototypes and demonstrators
+
+Demonstrators were then built and installed to gain feedback 
+
+Took away parking spaces, the aim was to reimagine those spaces so that citizens value rather than oppose the change
+
+Surveyed 322 people and 70\% were positive
+
+``if the mission does not receive high-level political or private-sector buy-in and is therefore not integrated into existing structures, then it is unlikely to survive.''
+
+``Vinnova could tap into those existing funding structures, operational environments and capabilities, and work with them to reorient them towards new `north stars'''
+
+
+``Instead of getting top-level buy-in from the start, the agency focused on developing momentum before bringing its ideas to the national level''
+
+``While representatives of the public sector, industry and communities can help frame the mission at the start, citizen participation is most valuable when testing downstream applications in localised contexts, with genuine decision-making and even co-ownership in play''},
+  creationdate     = {2023-01-27T17:31:55},
+  keywords         = {economics, innovation, transformation, bureaucracy},
+  modificationdate = {2023-02-02T13:42:35},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{Teece2022,
+  author           = {David J. Teece},
+  date             = {2022},
+  institution      = {UCL Institute for Innovation and Public Purpose},
+  title            = {Evolutionary Economics, Routines, and Dynamic Capabilities},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2022/oct/evolutionary-economics-routines-and-dynamic-capabilities},
+  comment          = {Looks at organisations (with focus on private sector) and considers the development of a change-orieted organisational structure
+
+Starts with idea of evolutionary economics but identifies that dynamic capabilities cannot sit within this theory -  this is more Schumpeterian and also has roots in behaviour theory of the firm
+
+About dynamic capabilities - something that entrepreneurs have - that embraces discontinuous change
+
+Largely about manangers, assumes they are source of culture and change in organisation. Sense is of hierachical organisations [IMO even the entrepreneurial ones]
+
+Managers and entrepreneurs are different
+
+``I believe the dynamic capabilities framework can serve as a vehicle for clarifying the relationship between routines and innovation''
+
+``Organisations need routines to get the day-to-day work done. They economise on bounded rationality. The dynamic capabilities framework recognises routines as the very essence of operational (ordinary) capabilities''
+
+(Irritatingly) talks about the `exceptional talents' of `great innovators and integrators such as Henry Ford ... Elon Musk' which seems to assume a predisposition rather than fortune of these people
+
+However, discussion of an ``entrepreneurial state of mind'' and ``entrepreneurial decision-making'' and how these lead to dynamic capabilities
+
+`ordinary capabilities' == `first-order capabilities' (Winter) == `metaroutines' - include industry best practice and incremental changes
+These are bought or imitated by rival and so are unlikely to give rise to competitive advantage
+
+Instead, `Teecian dynamic capabilities' which are characteristics that reside on the top management, organisational culture and structure and drive strategic activities. Winter may have described this as ad hoc problem solving and improviation but Teece notes that it may suggest a `quasi-routine for how an entrepreneurially-led organisation solves problems'. Entrepreneurial decision-making is a hybrid of routine and ad hoc approaches.
+
+Schumpeter's entrepreneur: leader  ... new techniques ... new comminations. Everyone has the skills to some degree.
+
+Urban see Musk as innovator using first principles as building blocks combined with experience and instinct
+
+Winter sees innovation as requiring ``talented cooks'' who first imagine the dish, based on understanding of the ingredients/conditions and then iterate over attempted solutions: ``there is not simple answer to the question of where knowledge comes from''
+
+``there are creative and insight-dependent components that cannot be routinised''
+
+Contrasts 2 roles of managers: operational, entrepreneurial and leadership and tables the responsibilities, activities, levers and goals of each.
+
+Entrepreneurship is not adaptation but making of ``new combinations''
+
+``Tenacity, unwavering self-confidence, optimism and a tolerance for stress [iz: and privilege] are traits of successful entrepreneurs
+
+The entrepreneurial state of mind, scanning/sensing and open communication channels should be encouraged through the organisation
+Entrepreneurial managers sense, seize, orchestrate, invest in R\&D, develop new business models and seek competitive advantage
+
+``Evolutionary innovations are generally modelled along a single dimension (usually technology) in which change occurs, when in fact there are many ways in which organisations can change, including their internal structure, organisational boundaries, business models, market positioning''. Also time
+
+Organisation change in anticipation of environmental change - but entrepreneurs also shape the environment
+
+``wild orchestration''},
+  creationdate     = {2023-01-27T17:56:28},
+  keywords         = {economics, bureaucracy, organisation, transformation},
+  modificationdate = {2023-01-27T19:48:02},
+  owner            = {izzy_olivine},
+}
+
+@Article{MattijsenBBHVBEO2023,
+  author           = {Juliette C Mattijsen and van Bree, Egid M and Evelyn A Brakema and Maud M T E Huynen and Eva H Visser and Peter J Blankestijn and Philip N D Elders and Hans C Ossebaard},
+  date             = {2023},
+  journaltitle     = {Lancet Planet Health},
+  title            = {Educational activism for planetary health - a case examplefrom The Netherlands},
+  url              = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834507/},
+  comment          = {When simple activism alone did not create much change in the Dutch health sector - which is responsible for 7\% of Dutch emissions (check this) then a programme of education was rolled out by activists ultimately with senior/government endoresement (as I read it)},
+  creationdate     = {2023-01-29T19:05:57},
+  keywords         = {climate, health, environment, education, activism},
+  modificationdate = {2023-01-29T19:10:00},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Tarling2023,
+  author           = {Kate Tarling},
+  booktitle        = {The Service Organization},
+  date             = {2023-02-01},
+  title            = {Chapter 3: Reveal how services perform in the real world},
+  url              = {https://lpp-books.sumupstore.com/product/the-service-organization-kate-tarling},
+  comment          = {Use metrics to represent what good looks like these include:
+* How well service is achieving the intent behind it
+* How often the right service outcome is achieved
+* How are users are supported in what they need
+* Tme, effort, risk, issues, errors, avoidable burden and cost involved for everyone
+
+When people aren't confident the contact dental handle more contact - school how confident they feel
+
+Measuring satisfaction or delight isn't always useful
+
+Efficiency is about doing the things right
+Effectiveness is about doing the right things
+
+Get insights early even before the service is given the go ahead
+
+Model described here is mechanistic it doesn't address themes of equity ethics etc
+
+Understanding policy intent and outcomes doesn't reduce the chance that the intent might be harmful badly thought through or in conflict with another policy applying the ideas in this chapter won't make a service perfect},
+  creationdate     = {2023-02-02T10:07:38},
+  keywords         = {transformation, Agile, bureaucracy, economics},
+  modificationdate = {2023-02-02T10:10:18},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Drechsler2019,
+  author           = {Drechsler, Wolfgang},
+  booktitle        = {Science, Numbers and Politics},
+  date             = {2019},
+  title            = {Kings and Indicators: Options for Governing Without Numbers},
+  comment          = {Notes from Case study: Kings and Indicators \url{https://docs.google.com/document/d/1qIWa7sJ7Vd1dcmA0QEupsKN5cEM0zjoNJuuMXh_47pE/}:
+
+Bhutan has legal code dating back centuries stating let place of state is to bring her happiness to citizens
+
+Is case study describes how indicators were not initially part of the Bhutan's idea of National happiness. Indicators are not neutral representations of the world and remain measure what can be measured and not really matters.
+
+Idea that modernisation would bring more happiness. Bhutan's PA is completely western. Traditional institutions abolished at the latest with the 2008 constitution recent civil service reform brought NPM-style government performance management system.
+
+Gross national happiness refers to quantifying subjective well-being and Buddhist happiness
+
+The need to be part of the world and and to be able to receive support from UN created the pressure to quantify GNH},
+  creationdate     = {2023-02-02T10:32:14},
+  keywords         = {economics, bureaucracy, public administration},
+  modificationdate = {2023-02-02T13:46:07},
+  owner            = {izzy_olivine},
+}
+
+@Online{LeeR2019,
+  author           = {Nikki Lee and Kara Reinsel},
+  date             = {2019-08-22},
+  title            = {Building product management capacity in government part 1 – Our coaching philosophy},
+  url              = {https://18f.gsa.gov/2019/08/22/building-product-management-capacity-in-government-part-1/},
+  comment          = {Talks about their Model - Pair - Coach cycle by which they use experiential learning to build product management ability within in the team 
+
+In our experience the best p.m. generally come from the programme side finding someone who really understands the problem space is difficult},
+  creationdate     = {2023-02-02T10:36:50},
+  keywords         = {transformation, Agile, bureaucracy, economics},
+  modificationdate = {2023-02-02T10:38:24},
+  owner            = {izzy_olivine},
+}
+
+@Book{GreenwayTBL2018,
+  author           = {Andrew Greenway and Ben Terrett and Mike Bracken and Tom Loosemore},
+  date             = {2018},
+  title            = {Digital Transformation At Scale: Why the Strategy is Delivery},
+  url              = {https://www.andrewgreenway.com/book},
+  comment          = {Short easy read about my angel to digitally transform an organisation to using Agile approaches
+
+4 things are required for a digital transformation: a crisis, a political leader,  a team and a mission.
+
+``... a crisis is almost always an essential condition for digitally transforming a government and there's no shortage of them challenges choosing the right crisis''
+
+``Megaprojects and the eye-popping budget overruns are often a good source of crisis material 9 out of 10 government projects with an initial budget of at least £1 billion end up spending more than originally planned''
+
+``Before a country can really begin its journey of digital transformation it needs to find ... groups of engaged people''
+
+``your first digital team will define the working culture and how things are done''
+
+Also covers:
+* Design principles
+* Starting small
+* Release fast, iteratively
+* Roles with the team
+* Clean structure and working patterns
+* Culture
+* Performance metrics
+* Platforms
+
+``Agile is a rejection of applying for certainty to delivering policy with technology''
+
+``many innovation teams find themselves trapped in the purgatory of being an add on to the day to day rather than a force charged with fundamentally reshaping the organisation''
+
+``innovation teams are destined to always run one step ahead of the rest of the organisation and incentivised to help everyone catch up with them how can you be innovative if everyone is doing the same as you?''
+
+``arguably by having shown that things could be done differently they have done their job whether or not the business brothers to put the theory into practice''
+
+``to have a chance of success a digital mandate must make it possible to stop poorly conceived usually expensive and long IT contracts from being let''
+
+Gather evidence
+
+``there is a real advantage to keeping your strategic ambitions ambiguous as long as possible''
+
+``the digital strategy must act as a signal towards the operating model you want your whole organisation to adopt and the culture that will allow that to happen successfully''
+
+Set the right expectation if you don't know what to under promise and over deliver
+However
+Making your first draught strategy ambitious gives you more chips to bargain with later
+
+In government there's a paternalistic view that the user doesn't know what they need it's a bit of an excuse they need a public service that is simple and clear enough for them to complete it accurately and quickly so they can get on with their day. Intuitively know they need to have certain qualities.
+
+Creating new rules and standards allows you to scale practise across an organisation quickly
+
+``Change is physically and mentally draining the conflict it brings especially so. Digital transformation of any large organisation is tiring partly because it is about loss''
+
+``we're unconvinced that organisations are unable to provide their employees with a reliable system for filing their travel expenses should be better in the house on nailing the implications of artificial intelligence''
+
+``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
+  creationdate     = {2023-02-02T10:39:28},
+  keywords         = {transformation, Agile, bureaucracy, economics},
+  modificationdate = {2023-02-02T10:41:46},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Drechsler2018,
+  author           = {Drechsler, Wolfgang},
+  booktitle        = {Public Policy in the `Asian Century'},
+  date             = {2018},
+  title            = {Beyond the Western Paradigm: Confucian Public Administration},
+  doi              = {10.1057/978-1-137-60252-7_2},
+  editor           = {Bice, S. and Poole, A. and Sullivan, H},
+  publisher        = {Palgrave Macmillan},
+  url              = {https://link.springer.com/chapter/10.1057/978-1-137-60252-7_2},
+  comment          = {Challenges the idea that there is one form of public administration (PA), Western, and that this should be assumed to be global, good and the only approach.
+
+Both the global financial crisis and the emergence of of Southeast and East Asian tiger States have challenged Western PA.
+
+Western pa has many forms New Public Management, NPM-plus, Weberianism, New Public Governance, Public Value, Weberian-plus, Neo-Weberian State.
+
+Construct a model to demonstrate where good PA falls. This there are three possible forms of good PA. Small nucleus the almost always works anywhere. A larger core that is generally valid. A third level where solutions work well well within a given paradigm but not necessarily outside of this and us these solutions are not easily transferred.
+
+Details Confucian PA and the various forms and origins of this. Particular aspects of Confucian PA are:
+* Imperial civil service exam
+* Perpetually reforming and adapting PA
+* Concept of Mandate of Heaven (by which failure would indicate the mandate has been lost and the public servants would tose their job) which incentivises strong performance as well as as a desire to innovate
+
+This is different to Legalism the Qianlong Emperor would say ``there is no governing by laws there is only governing by people''.},
+  creationdate     = {2023-02-02T10:47:56},
+  keywords         = {economics, bureaucracy, public administration},
+  modificationdate = {2023-02-02T10:50:55},
+  owner            = {izzy_olivine},
+}
+
+@Booklet{Hirschman1967,
+  author           = {Albert O. Hirschman},
+  date             = {1967},
+  title            = {The Principle of the Hiding Hand},
+  eprint           = {https://www.nationalaffairs.com/storage/app/uploads/public/58e/1a4/a29/58e1a4a298835643416368.pdf},
+  url              = {https://www.nationalaffairs.com/public_interest/detail/the-principle-of-the-hiding-hand},
+  comment          = {From \url{https://www.newyorker.com/magazine/2013/06/24/the-gift-of-doubt}: People don’t seek out challenges, he went on. They are “apt to take on and plunge into new tasks because of the erroneously presumed absence of a challenge - because the task looks easier and more manageable than it will turn out to be.” This was the Hiding Hand principle—a play on Adam Smith’s Invisible Hand
+
+See also \url{https://en.wikipedia.org/wiki/Hiding_hand_principle}
+
+See also Planning Fallacy
+
+Although Sunstein funds that the planning fallancy is more likely to be malevalent than benevalent.},
+  creationdate     = {2023-02-02T13:20:56},
+  keywords         = {economics, policy, institution, transformation},
+  modificationdate = {2023-02-02T13:32:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{Wells2023,
+  author           = {Tamas Wells},
+  date             = {2023-02-13},
+  title            = {The rise and fall of innovation labs in the aid sector},
+  url              = {https://devpolicy.org/the-rise-and-fall-of-innovation-labs-in-the-aid-sector-20230213/},
+  comment          = {Innovation labs in aid agencies were on the rise but are now declining. Considers that this is because:
+
+1. hierachical administrative culture, which is difficult to innovate within (``radical's dilemma'') and so labs tend to be separate, and are therefore more easy to cut off
+2. innovation labs tend to cut against the grain of usual brueaucratic processes and can struggle to gain or maintain strong patronage, especially if leadership changes
+3. innovation is a ``magic concept'' - it has powerful appeal but is also highly ambiguous in its meaning which leaves uncertainty in overall expectations about the impact of an innovation lab
+
+These 3 areas are part of both the rise and fall of the labs},
+  creationdate     = {2023-02-13T15:12:08},
+  journaltitle     = {{DevPolicy} Blog},
+  keywords         = {economics, innovation},
+  modificationdate = {2023-02-13T15:17:49},
+  owner            = {izzy_olivine},
+}
+
+@InBook{DemmkeM2012,
+  author           = {Christoph Demmke and Timo Moilanen},
+  booktitle        = {The Sage Handbook of Public Administration},
+  date             = {2012},
+  title            = {The Pursuit of Public Service Ethics - Promises, Developments and Prospects},
+  chapter          = {44},
+  doi              = {https://dx.doi.org/10.4135/9781446200506},
+  editor           = {B. Guy Peters and Jon Pierre},
+  url              = {https://sk.sagepub.com/reference/the-sage-handbook-of-public-administration-2e/n45.xml},
+  comment          = {``On the one hand there have never been so many regulatory activities, reforms and studies in the field and the other hand, scientific evidence about the effectiveness of the different reforms, measures and regulatory strategies is lacking''
+
+``Ethics policies have been largely scandal- not value-driven''
+
+Accountability - system of external control - compliance approach
+Ethics - system is internal control - integrity approach
+
+Ethically good also defined in terms of law obedience, impartiality and standardisation
+
+Weberian approach has an ethic of neutrality but this is unrealistic and too narrow in today's multilevel governance
+
+There are codes of rules and regulations which set clear expectations
+
+There are codes of ethics, such as UK Committee on Standards in Public Life 7 principles: selflessness, integrity, objectivity, accountability, openness, honesty and leadership. They are not statutory, there are few guidelines and they cannot be enforced.
+
+There are codes of conduct - aspirational and expectation values. May be seen as transforming princioles of ethics into practice.
+
+Increased public and media scrutiny leads to more scandals and failure often attributed to not enough law. There is a trend towards more rules and monitoring.
+
+Could these ethics policies impact administrative procedures? There is also little understanding of the nature of growing number of specialised ethics bodies.  
+
+The trends in ethics literature:
+Focus on scandals and failures of public officials and resulting decreased levels of trust
+Consideration of whether there is now too much it too little ethics rules
+Broadening and diversification if the whole discussion
+
+You still not much clarity on what works to support ethical practise.  Also focus on rules etc. and less on the impact (or costs and benefits) of policies on behaviours etc.
+
+Higher prestige positions attract offers of board memberships in companies and organisations - rules and standards may be appropriate in this case
+
+Strict transparency requirements do not automatically improve public trust. More ethical rules may cause even more cynicism and have not resulted to a rise in public confidence in government.
+
+Argues that approach to integrity in government must advance beyond the "bad person" model and look at social psychology of organisational life and the capacity of individuals and leaders understand be critical of their own behaviour.
+
+There is conflicting evidence and explanations of how NPM has contributed to increased or decreased integrity. 
+
+Ethically behaviour in the workplace is influenced by:
+Individual characteristics
+Moral issue characteristics
+Organisational characteristics
+
+Discusses the possible impact of the financial crisis on ethical motivations and behaviour in the workplace assumption that result would be negative but there are are also some reasons for positive behavioural outcomes.
+
+``more ... studies ... are badly needed''},
+  creationdate     = {2023-02-13T17:41:46},
+  keywords         = {public administration, bureaucracy, economics, ethics, trust},
+  modificationdate = {2023-02-13T17:44:21},
+  owner            = {izzy_olivine},
+}
+
+@Article{PetersS1994,
+  author           = {B. Guy Peters and Donald J Savoie},
+  date             = {1994},
+  journaltitle     = {Public Administration Review},
+  title            = {Civil Service Reform: Misdiagnosing the Patient},
+  doi              = {https://doi.org/10.2307/976426},
+  number           = {5},
+  pages            = {418--425},
+  volume           = {54},
+  comment          = {About the reforms of Reagan and Thatcher which has public servants focus on management rather than policy
+
+``result has been that government departments and agencies that were well managed in the 1970s are still well managed but the reforms have had limited impact on those that traditionally were not well managed''
+
+Now less deferential to expertise and now requires string policy advisory capacity
+
+Useful overview of specific elements of NPM (Thatcherism, Reaganism, the New Right, Neo Conservativism)
+
+``there was a contradiction between the desire to empower manners like large private sector firms were doing and the strongly held reservations that the political leadership had about the capacity of bureaucracy and bureaucrats to be efficient''
+
+Amusing comment on creating a mission statement - to install in all employees a central purpose: ``holding staff meeting after staff meeting to define a central mission to which all employees could relate':
+
+The reasons for these reforms revered to blame civil service and assume that all organisations, private or public and with public sector, are the same
+
+Herbert Simon noted that adminstrative life often has paired features such that maximizing one week minimise the other
+
+Reasons to blame civil service. It's:
+ a monopoly - no competition, can extract higher than needed funds
+ our of touch - both with political masters (and rather like the status quo) and with what clients world want
+ out of control- pursues it's own goals. Notes that if it doesn't, it's uninnovative so can't win.
+It's badly managed - wrong rewards and incentives, assumption that private sector motivational devices would be better
+ financially mismanaged
+
+Reforms dubbed ``neo-Taylorism''
+
+Measurement may not have worked because horror stories were hidden
+
+Comment on dichotomy of politics versus administration but I'm not sure what point is being made
+
+Overlooked questions of accountability
+
+Result was badly shaken civil service and need to improve morale
+
+There doesn't seem to be much change where it was required},
+  creationdate     = {2023-02-13T17:45:17},
+  keywords         = {public administration, bureaucracy, economics},
+  modificationdate = {2023-02-13T17:46:43},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Gregory2012,
+  author           = {Robert Gregory},
+  booktitle        = {The Sage Handbook of Public Administration},
+  date             = {2012},
+  title            = {Accountability in Modern Government},
+  doi              = {https://dx.doi.org/10.4135/9781446200506},
+  editor           = {B. Guy Peters and Jon Pierre},
+  url              = {https://sk.sagepub.com/reference/the-sage-handbook-of-public-administration-2e/n44.xml},
+  comment          = {Discusses theories of accountability and responsibility, or objective and subjective responsibility
+
+Different authors identify different types of accountability e.g. hierarchical, legal, professional, political, direct democratic, bureaucratic 
+
+Or different conceptions such as parliamentary control, managerialism (e.g. NPM), judicial/quasi-judicial review, constituency relations and market 
+
+Highly penetrating scrutiny (highlighting crises in finance, environment etc) from increasing range of media subjects government officials to irony that, with so many more means to deliver public goods, it is more difficult to satisfy demands for accountability
+
+Discusses impact of NPM - it removed rules so as to give freedom to act but resulted in at least equivalent transaction costs in performance review, legalistic procedures
+
+Harmon's paradox, which I understand to be the conduct that can occur between the (objective responsibility) of accountability to mandated goals and the (subjective responsibility) accountability as a moral agent. The argument that someone cannot be held responsible for consequences of following one's orders was rejected by the Nuremberg Trials.
+
+With so many scrutiny instruments such as legislative processes and committees, constitutional / statutory requirements, official information and privacy enactments, ombudsman, auditing and media watch dogs, politicians maybe more likely to be sanctioned less for failing to achieve than for failing to do so correctly
+
+Argues that the challenge is to create balance between the imperative of holding power to account and the need for more creative, trusted constructive and yet risky responses to political, policy, administrative and managerial demands of government},
+  creationdate     = {2023-02-13T17:49:13},
+  keywords         = {public administration, bureaucracy, economics, ethics, trust},
+  modificationdate = {2023-02-13T17:52:24},
+  owner            = {izzy_olivine},
+}
+
+@Online{Kattel2019,
+  author           = {Rainer Kattel},
+  date             = {2019-02-01},
+  title            = {Innovation as an ethical dilemma},
+  url              = {https://medium.com/iipp-blog/innovation-as-an-ethical-dilemma-a664554c1069},
+  comment          = {About the nature of
+innovation: unpredictable, stemming from creativity and serendipity
+civil servants: apolitical, critically implementing political will and saying truth to power, serving both today's political will and their conscience
+
+But uncertainty is wasteful and so early stage innovation is heretical to efficiency orthodoxy 
+
+Innovation in public sector is still too often about efficiency and materialism
+
+Bureaucracy needs to evolve (as capitalism has)
+
+Useful link for when I talk about the MPA},
+  creationdate     = {2023-02-13T18:50:01},
+  keywords         = {public administration, bureaucracy, economics, ethics, trust, innovation},
+  modificationdate = {2023-02-13T18:52:14},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Wardley2016,
+  author           = {Simon Wardley},
+  booktitle        = {Wardley maps: Topographical intelligence in business},
+  date             = {2016-04-10},
+  title            = {Finding a path},
+  url              = {https://medium.com/wardleymaps/finding-a-path-cdb1249078c0},
+  comment          = {About Wardley mapping
+
+A business, like all organisms, needs to continuously adapt to changes in order to survive and if we could somehow describe this then maybe that would give us a map?
+
+Throughout our history, it has always been standardisation of components that has enabled creations of greater complexity
+
+The desire to differentiate creates the novel, the desire to keep up with others makes it commonplace
+
+The map has an anchor which is the user
+
+Each component needs the component below it, however the higher up the map a component is then the more visible it becomes to the user. The lower it is then the less visible it becomes.
+
+There is a flow of risk, information and money between components
+
+Stages of evolution:
+- genesis
+- custom built
+- product (including rental)
+- commodity (including utility)
+
+the x-axis of evolution shows the terms for activities alone
+
+A single node on one map can be an entire map from another person’s perspective. Equally, the entire map of your business might be a single component for someone else.},
+  creationdate     = {2023-02-13T18:53:22},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:00:11},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{MargettsN2017,
+  author           = {Helen Margetts and Andre Naumann},
+  date             = {2017-02-28},
+  institution      = {Centre for Technology and Global Affairs, University of Oxford},
+  title            = {Government as a Platform: What can Estonia Show the World},
+  eprint           = {https://www.ospi.es/export/sites/ospi/documents/documentos/Government-as-a-platform_Estonia.pdf},
+  url              = {https://www.ctga.ox.ac.uk/article/government-platform-what-can-estonia-show-world},
+  comment          = {Tim O'Reilly spoke about GaaP has two aspects - a platform that others e.g. private sector can build upon and a way that citizens can participate in government. I find this second idea very interesting but I can only find evidence that GaaP is just at the level of services at the moment.
+
+He proposed seven principles of GaaP: openness, simplicity, participation, `learning from hackers', data mining, experimentation and `leading by example'. This paper looks at Estonia and identifies that it meets the first (except it learns `by example') and does less well on the final three. It's argue that they have focused on the service now and less in the future service. UK seems to be a bit the opposite by embracing experimentation, days mining and a `hacking' culture but struggles with openness, simplicity and participation.
+
+Lots of detail in the Estonian case and quite a bit on UK.
+
+Quotes a study that find the costs are in organisation and processes, not technology and important elements are political will, organisational reforms, adaptation of legal frameworks and redesign of work processes.
+
+I also like that Estonia's CIO is the `Central' Information Officer},
+  creationdate     = {2023-02-13T18:58:53},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:02:28},
+  owner            = {izzy_olivine},
+}
+
+@Online{Durant2016,
+  author           = {David Durant},
+  date             = {2016-02-29},
+  title            = {Foundations for Government as a Platform},
+  url              = {https://governmentasaplatform.blog.gov.uk/2016/02/29/governmentasaplatform-foundations/},
+  comment          = {Short post listing principles:
+- Be independent
+- Committed to maintaining the product
+- Make it easy for the user
+- Be easy to integrate
+- Be ready to grow
+- Be easy to adopt
+- Support service separation
+- Avoid being tied down to one supplier
+- Meet technical and design standards
+- Be open about performance
+- Be open about cost},
+  creationdate     = {2023-02-13T19:09:59},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:11:30},
+  owner            = {izzy_olivine},
+}
+
+@Online{Yegge2011,
+  author           = {Steve Yegge},
+  date             = {2011-10-11},
+  title            = {Stevey's Google Platforms Rant},
+  url              = {https://gist.github.com/chitchcock/1281611},
+  comment          = {Great blog post largely critical of Amazon and Bezos but ultimately saying that the one thing Amazon does well is platforms and that Google is terrible at this. Platforms is why AWS hosts so much because components are already there.},
+  creationdate     = {2023-02-13T19:12:20},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:14:26},
+  owner            = {izzy_olivine},
+}
+
+@Online{Bracken2015,
+  author           = {Mike Bracken},
+  date             = {2019-03-29},
+  title            = {Government as a Platform: the next phase of digital transformation},
+  url              = {https://gds.blog.gov.uk/2015/03/29/government-as-a-platform-the-next-phase-of-digital-transformation/},
+  comment          = {Introduction to what GDS means by Government as a Platform GaaP},
+  creationdate     = {2023-02-13T19:15:39},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:16:49},
+  owner            = {izzy_olivine},
+}
+
+@Online{Sidawi2023,
+  author           = {Nour Sidawi},
+  date             = {2023-01-28},
+  title            = {Why are the future leaders scheme (FLS) fails and what to do about it},
+  url              = {https://medium.com/future-leaders-scheme/why-the-future-leaders-scheme-fls-fails-and-what-to-do-about-it-74a37bfdc91},
+  comment          = {Most recent post in the series about future leaders scheme and its wrongs, which are mainly around creating homogeneous leaders especially by filtering out diversity
+
+``This scheme is systemically rooted in the current educational cultural and corporate structures of the CK civil service it is the result of a fractured process that presumes button passing rather than a team sport ... The scheme... Focuses on competences models and techniques which in some ways is like rearranging the deck chairs on a sinking ship''
+
+One size fits all training ... homogeneity of thinking, self-referential nature and a culture of conformity and emotional detachment},
+  creationdate     = {2023-02-13T19:17:23},
+  keywords         = {bureaucracy, economics, public administration, trust},
+  modificationdate = {2023-02-13T19:18:40},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{Pope2019,
+  author           = {Richard Pope},
+  date             = {2019},
+  institution      = {Harvard Kennedy School},
+  title            = {Playbook: Government as a Platform},
+  eprint           = {https://ash.harvard.edu/files/ash/files/293091_hvd_ash_gvmnt_as_platform_v2.pdf},
+  comment          = {Basically everything you need to think about in creating a platform-based government
+
+What platforms are, how to identify them
+Unshaved users and go where they are
+
+Rather than designing then top down, maybe take component of product that can be more generally used and turn it into platform
+
+Documentation, procurement, standards, culture, design, measuring and monitoring, trust, governance},
+  creationdate     = {2023-02-13T19:20:27},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-13T19:22:36},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{AylettBullockL2022,
+  author           = {Joseph Aylett-Bullock and Miguel Luengo-Oroz},
+  booktitle        = {3rd KDD Workshop on Data-driven Humanitarian Mapping},
+  date             = {2022},
+  title            = {Multi-AI Complex Systems in Humanitarian Response},
+  eprint           = {https://arxiv.org/pdf/2208.11282.pdf},
+  location         = {Washington, DC, USA},
+  url              = {https://arxiv.org/abs/2208.11282},
+  comment          = {Fascinating perspective on the use of AI (e.g, reinforcement learning), along with humans, in data processing and decision-making in humanitarian situations. Sums up the concern: ``Multi-AI systems can be thought of as a complex interacting network of interconnected complex systems. These systems are being increasingly used in many domains, including in humanitarian response, but their behaviours are often not understood in their entirety''.
+
+``risks and harms include: 
+- questions of biases and fairness which can oppress minority voices
+- accountability of systems and the lack of legal frameworks
+- challenges surrounding transparency and human oversight
+- a lack of expertise in the proper and appropriate deployment and use of AI
+- data privacy and protection concerns; and the meaningful participation of affected communities in every stage of the AI lifecycle, as well as their ownership over such systems''
+
+``drive to draft AI ethical guidelines, frameworks, and training materials at the international, national, and sector specific levels''
+
+Their proposal for future research / activities are more widely relavant than simply humanitarian applications, imo:
+1. ``development of frameworks for building and testing multi-AI systems, as well as for understanding emergent behaviours of such systems is essential''
+  - mapping the network of information flows
+  - stresss tests for systems
+2. ``cross-pollination of these technical communities with legal, ethics, and humanitarian response experts''
+  - systematic mapping exercise to understand the potential gaps in existing ethical principles and guidelines
+  - adapt current risk and harms assessments
+3. communicate these concepts to project managers and decision-makers
+  - operational guidelines
+  - capacity building exercises
+  - communities of practice
+4. greater collaboration including: complex systems, multi-agent modelling, systems engineering, and reinforcement learning},
+  creationdate     = {2023-02-14T12:16:18},
+  keywords         = {humanitarian, artificial intelligence, trust, complexity, systems},
+  modificationdate = {2023-02-14T12:30:34},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{BennettY2019,
+  author           = {Andrew Bennett and Chris Yiu},
+  date             = {2019-06-26},
+  institution      = {Tony Blair Institute for Global Change},
+  title            = {Transforming Government for the 21st Century},
+  url              = {https://institute.global/policy/transforming-government-21st-century},
+  comment          = {Increased complexity
+Decentralised and complex society
+
+
+Governments must:
+- embrace technology-enabled experimentation and decentralisation - iteration, empowered teams
+- set agenda - be purposeful, national missions
+- provide software and data infrastructure
+- reset structures, break through silos, more pathways for promotion, diverse training schemes, cross-functional teams, technology to enable interoperability between teams ...
+
+``Francis Maude advocated a “tight-loose” model for government in the United Kingdom (UK): tight central control over key areas of public spending to drive down costs, combined with devolution of power and the opening up of partnerships to promote innovation''
+
+Princples:
+1. purposeful government and policy, national missions for grand challenges (Mazzucato gets lots of mentions)
+2. provide public services and infrastructure that allow individuals, communities, businesses and the public sector to achieve their potential
+3. be able to respond quickly
+
+``embed a culture of continuous improvement both within and outside the public sector''
+
+``anticipatory frameworks for regulation would cohere with a government strategy intent on iterating, experimenting and harnessing the opportunities of technological change''
+
+Discussion of metrics of public value, GDP, CBA, social value and ``doughnut dashboads''
+
+Gaap, mostly tier 1 and 2 - but should move on tier 3 as well - society wide platform (banks, charities and other external organsations)
+
+``governments should establish a new presumption in favour of all new services having to publish and document an API''
+
+``governments must create an electronic-identity system for all citizens'' 
+
+``Buying Into The Future report suggest[s] creating spend controls for in-house expenditure, to incentivise governments not to reject ready-made solutions in the private sector''
+
+``Restructuring can also be extremely costly, according to the Institute for Government, a UK think tank, with new departments costing up to £15 million (\$19 million) to establish.112 This cost can rise even higher when one takes into account productivity losses—mainly, but not only, if these changes are rushed—and settlements due to levelling up the salaries of staff from merging departments'' but there is some transformation needed - be strategic
+
+Case study: Spotify's multidisciplinary teams ``Recreating government versions of Spotify’s chapters and guilds – formal and informal knowledge-sharing networks – would therefore be a promising first step.''
+
+Keep high performers and increase churn...},
+  creationdate     = {2023-02-14T16:57:37},
+  keywords         = {transformation, economics, innovation, policy, digital},
+  modificationdate = {2023-02-14T18:08:25},
+  owner            = {izzy_olivine},
+}
+
+@Online{Henrich2011,
+  author           = {Joseph Henrich},
+  date             = {2011},
+  title            = {A cultural species: How culture drove human evolution},
+  url              = {https://www.apa.org/science/about/psa/2011/11/human-evolution},
+  comment          = {Finds that cultural information is necessary for human survival
+
+``we are an ultra-cultural species'' and there is an interaction between culture and evolution
+
+``humans are heavily dependent on an information economy for survival''
+
+``our ecological success, technology, and adaptation to diverse environments is not due to our intelligence. Alone and stripped of our culture, we are hopeless as a species''
+
+Key concepts:
+1. Cultural capacities as adaptations: Culture, cultural transmission, and cultural evolution arise from genetically evolved psychological adaptations for acquiring ideas, beliefs, values, practices, mental models, and strategies
+2. Cultural evolution: These cognitive adaptations give rise to a robust second system of inheritance that operates by different transmission rules than genetic inheritance, and can thus produce phenomena not observed in other less cultural species
+3. Culture-gene coevolution: The second system of inheritance created by cultural evolution can alter both the social and physical environments faced by evolving genes
+
+Example of cooking and `cooked food' - shrunk our digestive tracks, teeth, stomachs, and gape, freeing up energy for more brain building, and perhaps a greater reliance on cultural information
+
+Two types of status: dominance and prestige
+Two facets for the emotion pride: authentic and hubristic pride, suggested that hubristic pride is associated with dominance-status and authentic pride with prestige-status},
+  creationdate     = {2023-02-19T13:13:45},
+  keywords         = {sociology, culture, evolution},
+  modificationdate = {2023-02-19T13:30:33},
+  owner            = {izzy_olivine},
+}
+
+@Article{Kvangraven2020,
+  author           = {Ingrid Harvold Kvangraven},
+  date             = {2020},
+  journaltitle     = {Review of Political Economy},
+  title            = {Nobel Rebels in Disguise -Assessing the Rise and Rule of the Randomistas},
+  pages            = {305--341},
+  url              = {https://www.tandfonline.com/doi/abs/10.1080/09538259.2020.1810886},
+  comment          = {Criticism of the Randomised Control Trial (RCT) approach of the likes of Abhijit Banerjee, Esther Duflo and Michael Kremer (e.g. BanerjeeD2019)},
+  creationdate     = {2023-02-19T13:31:52},
+  keywords         = {economics, sociology},
+  modificationdate = {2023-02-19T14:35:58},
+  owner            = {izzy_olivine},
+}
+
+@Article{GardnerTRS2021,
+  author           = {Charlie J. Gardner and Aaron Thierry and William Rowlandson and Julia K. Steinberger},
+  date             = {2021-05-31},
+  journaltitle     = {Frontiers in Sustainability},
+  title            = {From Publications to Public Actions: The Role of Universities in Facilitating Academic Advocacy and Activism in the Climate and Ecological Emergency},
+  doi              = {10.3389/frsus.2021.679019},
+  url              = {https://www.frontiersin.org/articles/10.3389/frsus.2021.679019/full},
+  comment          = {Paper making the case for activitism over publications for scientists because 
+1. the time lags inherent in education and research pathways to impact are too long given the urgency of the climate and ecological emergency
+2. publications fail to address either real-world political processes or the forces invested in maintaining the status quo},
+  creationdate     = {2023-02-19T14:44:01},
+  keywords         = {politics, climate, environment, science},
+  modificationdate = {2023-02-19T14:47:34},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  author           = {Tom Kemeny and Sergio Petralia and Michael Storper},
+  title            = {Disruptive innovation and spatial inequality},
+  doi              = {10.1080/00343404.2022.2076824},
+  eprint           = {https://doi.org/10.1080/00343404.2022.2076824},
+  number           = {0},
+  pages            = {1-18},
+  url              = {https://doi.org/10.1080/00343404.2022.2076824},
+  volume           = {0},
+  comment          = {4 strands of work on disruptive innovations:
+1. largely focussed on national economies
+2. subnational regional variation in production and absorption of innovations
+3. links betweent technological change and wage formation
+4. post-1980 rise in income inequality in the US
+
+Technological revolutions are discussed but only mentions Perez with reference to the use of the terms `radical' and considers that we are entering the 4th industrial revolution
+
+This work: identifies particular kinds of innovation that are likely to be economically disruptive; places such technologies in space and time; and traces directly the relationship between the geographies of regional economic performance and disruptive innovations
+
+Find:
+1. disruptive innovations exhibit distinctive spatial clustering in phases understood to be those in which industrial revolutions reshape the economy; they are increasingly dispersed in other periods
+2. that the ranks of locations that capture the most disruptive innovation are relatively unstable across industrial revolutions
+3. regression estimates suggest a role for disruptive innovation in regulating overall patterns of spatial output and income inequality},
+  creationdate     = {2023-02-22T11:02:09},
+  journal          = {Regional Studies},
+  modificationdate = {2023-02-22T11:12:53},
+  owner            = {ISargent},
+  publisher        = {Routledge},
+  year             = {2022},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
