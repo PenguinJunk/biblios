@@ -8723,7 +8723,7 @@ Two facets for the emotion pride: authentic and hubristic pride, suggested that 
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Article{KemenyPS2022,
   author           = {Tom Kemeny and Sergio Petralia and Michael Storper},
   title            = {Disruptive innovation and spatial inequality},
   doi              = {10.1080/00343404.2022.2076824},
@@ -8748,7 +8748,7 @@ Find:
 3. regression estimates suggest a role for disruptive innovation in regulating overall patterns of spatial output and income inequality},
   creationdate     = {2023-02-22T11:02:09},
   journal          = {Regional Studies},
-  modificationdate = {2023-02-22T11:12:53},
+  modificationdate = {2023-02-22T11:13:19},
   owner            = {ISargent},
   publisher        = {Routledge},
   year             = {2022},
