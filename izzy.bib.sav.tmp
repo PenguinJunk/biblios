@@ -4515,12 +4515,15 @@ SCOT sits within the Science and Technologies Studies (STS) field (this is discu
  
 Neo-institutional theory: Institutional theory is important, because “rules, norms, and belief systems undergird all stable social systems, including economic systems” (Scott, 2008: 437). Fits especially with the regimes aspect.
 
+
+``Institutional theory emphasizes that organizations operate not only in economic environments, but also in institutional environments'' - competition is for social fitness, which arises from appropriateness or legitimacy. These may influence reputation, license-to-operate, access to capital and government support are 
+
 Transitions research
 
 ``Framing struggles are consequential because it matters if a problem like climate change is framed as a `market failure' (which would lead to market-based instruments such as a carbon tax) or as a `planetary boundary' (which may lead to stronger regulatory or innovation policies with greater urgency). It also matters how specific innovations are framed: are wind turbines seen as renewable energy technologies or as ugly artefacts that spoil the landscape and kill birds? Are nuclear plants framed as low-carbon technologies or as existential threats? The implication is that transitions should not only be seen as techno-economic management challenges, but also as socio-cultural processes which involve wider publics and cultural meanings.''},
   creationdate     = {2022-11-08T20:17:57},
   keywords         = {sociology, innovation, economics, transformation},
-  modificationdate = {2022-11-25T23:05:36},
+  modificationdate = {2023-02-22T17:14:31},
   owner            = {ISargent},
 }
 
@@ -8667,4 +8670,145 @@ Keep high performers and increase churn...},
 
 @Online{Henrich2011,
   author           = {Joseph Henrich},
-  date     
+  date             = {2011},
+  title            = {A cultural species: How culture drove human evolution},
+  url              = {https://www.apa.org/science/about/psa/2011/11/human-evolution},
+  comment          = {Finds that cultural information is necessary for human survival
+
+``we are an ultra-cultural species'' and there is an interaction between culture and evolution
+
+``humans are heavily dependent on an information economy for survival''
+
+``our ecological success, technology, and adaptation to diverse environments is not due to our intelligence. Alone and stripped of our culture, we are hopeless as a species''
+
+Key concepts:
+1. Cultural capacities as adaptations: Culture, cultural transmission, and cultural evolution arise from genetically evolved psychological adaptations for acquiring ideas, beliefs, values, practices, mental models, and strategies
+2. Cultural evolution: These cognitive adaptations give rise to a robust second system of inheritance that operates by different transmission rules than genetic inheritance, and can thus produce phenomena not observed in other less cultural species
+3. Culture-gene coevolution: The second system of inheritance created by cultural evolution can alter both the social and physical environments faced by evolving genes
+
+Example of cooking and `cooked food' - shrunk our digestive tracks, teeth, stomachs, and gape, freeing up energy for more brain building, and perhaps a greater reliance on cultural information
+
+Two types of status: dominance and prestige
+Two facets for the emotion pride: authentic and hubristic pride, suggested that hubristic pride is associated with dominance-status and authentic pride with prestige-status},
+  creationdate     = {2023-02-19T13:13:45},
+  keywords         = {sociology, culture, evolution},
+  modificationdate = {2023-02-19T13:30:33},
+  owner            = {izzy_olivine},
+}
+
+@Article{Kvangraven2020,
+  author           = {Ingrid Harvold Kvangraven},
+  date             = {2020},
+  journaltitle     = {Review of Political Economy},
+  title            = {Nobel Rebels in Disguise -Assessing the Rise and Rule of the Randomistas},
+  pages            = {305--341},
+  url              = {https://www.tandfonline.com/doi/abs/10.1080/09538259.2020.1810886},
+  comment          = {Criticism of the Randomised Control Trial (RCT) approach of the likes of Abhijit Banerjee, Esther Duflo and Michael Kremer (e.g. BanerjeeD2019)},
+  creationdate     = {2023-02-19T13:31:52},
+  keywords         = {economics, sociology},
+  modificationdate = {2023-02-19T14:35:58},
+  owner            = {izzy_olivine},
+}
+
+@Article{GardnerTRS2021,
+  author           = {Charlie J. Gardner and Aaron Thierry and William Rowlandson and Julia K. Steinberger},
+  date             = {2021-05-31},
+  journaltitle     = {Frontiers in Sustainability},
+  title            = {From Publications to Public Actions: The Role of Universities in Facilitating Academic Advocacy and Activism in the Climate and Ecological Emergency},
+  doi              = {10.3389/frsus.2021.679019},
+  url              = {https://www.frontiersin.org/articles/10.3389/frsus.2021.679019/full},
+  comment          = {Paper making the case for activitism over publications for scientists because 
+1. the time lags inherent in education and research pathways to impact are too long given the urgency of the climate and ecological emergency
+2. publications fail to address either real-world political processes or the forces invested in maintaining the status quo},
+  creationdate     = {2023-02-19T14:44:01},
+  keywords         = {politics, climate, environment, science},
+  modificationdate = {2023-02-19T14:47:34},
+  owner            = {izzy_olivine},
+}
+
+@Article{KemenyPS2022,
+  author           = {Tom Kemeny and Sergio Petralia and Michael Storper},
+  title            = {Disruptive innovation and spatial inequality},
+  doi              = {10.1080/00343404.2022.2076824},
+  eprint           = {https://doi.org/10.1080/00343404.2022.2076824},
+  number           = {0},
+  pages            = {1-18},
+  url              = {https://doi.org/10.1080/00343404.2022.2076824},
+  volume           = {0},
+  comment          = {4 strands of work on disruptive innovations:
+1. largely focussed on national economies
+2. subnational regional variation in production and absorption of innovations
+3. links betweent technological change and wage formation
+4. post-1980 rise in income inequality in the US
+
+Technological revolutions are discussed but only mentions Perez with reference to the use of the terms `radical' and considers that we are entering the 4th industrial revolution
+
+This work: identifies particular kinds of innovation that are likely to be economically disruptive; places such technologies in space and time; and traces directly the relationship between the geographies of regional economic performance and disruptive innovations
+
+Find:
+1. disruptive innovations exhibit distinctive spatial clustering in phases understood to be those in which industrial revolutions reshape the economy; they are increasingly dispersed in other periods
+2. that the ranks of locations that capture the most disruptive innovation are relatively unstable across industrial revolutions
+3. regression estimates suggest a role for disruptive innovation in regulating overall patterns of spatial output and income inequality},
+  creationdate     = {2023-02-22T11:02:09},
+  journal          = {Regional Studies},
+  keywords         = {economics, technology, transformation, inequality, geography},
+  modificationdate = {2023-02-22T11:14:10},
+  owner            = {ISargent},
+  publisher        = {Routledge},
+  year             = {2022},
+}
+
+@Article{HammesW2005,
+  author           = {David Hammes and Douglas Wills},
+  date             = {2005},
+  journaltitle     = {The Independent Review},
+  title            = {Black Gold The End of Bretton Woods and the Oil-Price Shocks of the 1970s},
+  issn             = {1086-1653},
+  number           = {4},
+  pages            = {501--511},
+  url              = {https://www.independent.org/pdf/tir/tir_09_4_2_hammes.pdf},
+  volume           = {IX},
+  comment          = {Finds that price adjustment in response to inflation of dollar is main cause},
+  creationdate     = {2023-02-22T17:03:11},
+  keywords         = {economics, markets},
+  modificationdate = {2023-02-22T17:06:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{Seshadri2014,
+  author           = {Praveen Seshadri},
+  date             = {2023-02-14},
+  title            = {The maze is in the mouse},
+  url              = {https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a},
+  comment          = {Blog post about how cultural problems at Google
+1. no mission
+2. no urgency
+3. delusions of exceptionalism
+4. mismanagement
+
+Few ``Googlers'' think they serve the customer, instead for other Googlers. Feedbacks are internal. 
+
+Also lots of risk management:
+- code tests
+- prelaunch reviews (15 approvals)
+- avoid nonobvious decisions
+- sticking to how things are
+- avoid upsetting employees
+- avoid upsetting managers
+
+``If this were an algorithm, we’d call it “most cautious wins” and there is almost always someone who is cautious tending to should-do-nothing''
+
+Discouragement of heroes - don't work too hard else others may feel they have to
+
+Also lots of planning and inability to change the plan
+
+Suggests asking ``who did I create value for today?''
+
+Discussion of hiring/recruitment, talent management and retention, managerial ability
+
+Suggests a playbook:
+1. Lead with commitment to a mission
+2. Definite ambitious causes that you will collectively fight for (indicate assuming wartime)
+3. Winnow layers of middle managerment, decrease hierachy depth
+
+Uses Microsoft as an e

@@ -4515,12 +4515,15 @@ SCOT sits within the Science and Technologies Studies (STS) field (this is discu
  
 Neo-institutional theory: Institutional theory is important, because “rules, norms, and belief systems undergird all stable social systems, including economic systems” (Scott, 2008: 437). Fits especially with the regimes aspect.
 
+
+``Institutional theory emphasizes that organizations operate not only in economic environments, but also in institutional environments'' - competition is for social fitness, which arises from appropriateness or legitimacy. These may influence reputation, license-to-operate, access to capital and government support are 
+
 Transitions research
 
 ``Framing struggles are consequential because it matters if a problem like climate change is framed as a `market failure' (which would lead to market-based instruments such as a carbon tax) or as a `planetary boundary' (which may lead to stronger regulatory or innovation policies with greater urgency). It also matters how specific innovations are framed: are wind turbines seen as renewable energy technologies or as ugly artefacts that spoil the landscape and kill birds? Are nuclear plants framed as low-carbon technologies or as existential threats? The implication is that transitions should not only be seen as techno-economic management challenges, but also as socio-cultural processes which involve wider publics and cultural meanings.''},
   creationdate     = {2022-11-08T20:17:57},
   keywords         = {sociology, innovation, economics, transformation},
-  modificationdate = {2022-11-25T23:05:36},
+  modificationdate = {2023-02-22T17:14:31},
   owner            = {ISargent},
 }
 
@@ -8748,10 +8751,53 @@ Find:
 3. regression estimates suggest a role for disruptive innovation in regulating overall patterns of spatial output and income inequality},
   creationdate     = {2023-02-22T11:02:09},
   journal          = {Regional Studies},
-  modificationdate = {2023-02-22T11:13:19},
+  keywords         = {economics, technology, transformation, inequality, geography},
+  modificationdate = {2023-02-22T11:14:10},
   owner            = {ISargent},
   publisher        = {Routledge},
   year             = {2022},
+}
+
+@Article{HammesW2005,
+  author           = {David Hammes and Douglas Wills},
+  date             = {2005},
+  journaltitle     = {The Independent Review},
+  title            = {Black Gold The End of Bretton Woods and the Oil-Price Shocks of the 1970s},
+  issn             = {1086-1653},
+  number           = {4},
+  pages            = {501--511},
+  url              = {https://www.independent.org/pdf/tir/tir_09_4_2_hammes.pdf},
+  volume           = {IX},
+  comment          = {Finds that price adjustment in response to inflation of dollar is main cause},
+  creationdate     = {2023-02-22T17:03:11},
+  keywords         = {economics, markets},
+  modificationdate = {2023-02-22T17:06:13},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  url              = {https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a},
+  comment          = {Blog post about how cultural problems at Google
+1. no mission
+2. no urgency
+3. delusions of exceptionalism
+4. mismanagement
+
+Few ``Googlers'' think they serve the customer, instead for other Googlers. Feedbacks are internal. 
+
+Also lots of risk management:
+
+
+
+``If this were an algorithm, we’d call it “most cautious wins” and there is almost always someone who is cautious tending to should-do-nothing''
+
+Also lots of planning and inability to change the plan
+
+Suggests asking ``who did I create value for today?''},
+  creationdate     = {2023-02-23T09:32:16},
+  keywords         = {organisations, transformation, economics},
+  modificationdate = {2023-02-23T09:40:17},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
