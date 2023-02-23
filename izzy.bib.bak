@@ -8775,7 +8775,10 @@ Find:
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Online{Seshadri2014,
+  author           = {Praveen Seshadri},
+  date             = {2023-02-14},
+  title            = {The maze is in the mouse},
   url              = {https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a},
   comment          = {Blog post about how cultural problems at Google
 1. no mission
@@ -8786,17 +8789,64 @@ Find:
 Few ``Googlers'' think they serve the customer, instead for other Googlers. Feedbacks are internal. 
 
 Also lots of risk management:
-
-
+- code tests
+- prelaunch reviews (15 approvals)
+- avoid nonobvious decisions
+- sticking to how things are
+- avoid upsetting employees
+- avoid upsetting managers
 
 ``If this were an algorithm, we’d call it “most cautious wins” and there is almost always someone who is cautious tending to should-do-nothing''
 
+Discouragement of heroes - don't work too hard else others may feel they have to
+
 Also lots of planning and inability to change the plan
 
-Suggests asking ``who did I create value for today?''},
+Suggests asking ``who did I create value for today?''
+
+Discussion of hiring/recruitment, talent management and retention, managerial ability
+
+Suggests a playbook:
+1. Lead with commitment to a mission
+2. Definite ambitious causes that you will collectively fight for (indicate assuming wartime)
+3. Winnow layers of middle managerment, decrease hierachy depth
+
+Uses Microsoft as an example to follow},
   creationdate     = {2023-02-23T09:32:16},
   keywords         = {organisations, transformation, economics},
-  modificationdate = {2023-02-23T09:40:17},
+  modificationdate = {2023-02-23T10:02:58},
+  owner            = {ISargent},
+}
+
+@TechReport{BlairH2023,
+  author           = {Tony Blair and William Hague},
+  date             = {2023-02-22},
+  institution      = {Tony Blair Institute for Global Change},
+  title            = {A New National Purpose: Innovation Can Power the Future of Britain},
+  url              = {https://institute.global/policy/new-national-purpose-innovation-can-power-future-britain},
+  comment          = {Argues for a new national purpose
+
+Investment in 
+- artificial intelligence (the exec summ refers to ``sovereign general-purpose AI systems, enabled by the required supercomputing capabilities, to underpin broad swaths of public-service delivery'')
+- Biotech
+- Climate Tech
+
+``Ensure that decision-makers and advisors are experts in the areas within which they are operating, as would be the case in a technology company''
+
+``flat, non-hierarchical structures that empower executive decision-makers to manage portfolios''
+
+``curtail the business case, ``value for money'' and similar green-book criteria''
+
+Gives strong reasons for investing in R\&D and education/training in technology
+
+Also pushes for digital ID
+
+43 technical recommendations:
+- nature of government institutions, people and processes
+- invest in AI and compute, and reduce restrictions to these technologies
+- centralise NHS data},
+  creationdate     = {2023-02-23T15:03:00},
+  modificationdate = {2023-02-23T15:28:29},
   owner            = {ISargent},
 }
 
