@@ -8844,9 +8844,17 @@ Also pushes for digital ID
 43 technical recommendations:
 - nature of government institutions, people and processes
 - invest in AI and compute, and reduce restrictions to these technologies
-- centralise NHS data},
+- centralise NHS and other health data
+- digital ID and data sharing between governement agencies
+- train in tech, recruit experts and students internationally, reduce barriers to new courses
+- invest in R\&D, university differentiation, UKRI resstructuring, ARIA funding, lab and catapult networks
+- raise funding by consolidating pensions
+- reduce barriers to spin-outs and R\&D infrastructure
+- seek associate membership of EU research and international coalitions
+- governance and export controls on AI},
   creationdate     = {2023-02-23T15:03:00},
-  modificationdate = {2023-02-23T15:28:29},
+  keywords         = {policy, governement, transformation, economics},
+  modificationdate = {2023-02-23T16:01:12},
   owner            = {ISargent},
 }
 
