@@ -4515,12 +4515,15 @@ SCOT sits within the Science and Technologies Studies (STS) field (this is discu
  
 Neo-institutional theory: Institutional theory is important, because “rules, norms, and belief systems undergird all stable social systems, including economic systems” (Scott, 2008: 437). Fits especially with the regimes aspect.
 
+
+``Institutional theory emphasizes that organizations operate not only in economic environments, but also in institutional environments'' - competition is for social fitness, which arises from appropriateness or legitimacy. These may influence reputation, license-to-operate, access to capital and government support are 
+
 Transitions research
 
 ``Framing struggles are consequential because it matters if a problem like climate change is framed as a `market failure' (which would lead to market-based instruments such as a carbon tax) or as a `planetary boundary' (which may lead to stronger regulatory or innovation policies with greater urgency). It also matters how specific innovations are framed: are wind turbines seen as renewable energy technologies or as ugly artefacts that spoil the landscape and kill birds? Are nuclear plants framed as low-carbon technologies or as existential threats? The implication is that transitions should not only be seen as techno-economic management challenges, but also as socio-cultural processes which involve wider publics and cultural meanings.''},
   creationdate     = {2022-11-08T20:17:57},
   keywords         = {sociology, innovation, economics, transformation},
-  modificationdate = {2022-11-25T23:05:36},
+  modificationdate = {2023-02-22T17:14:31},
   owner            = {ISargent},
 }
 
@@ -7605,7 +7608,7 @@ The institution shapes individuals' preferences - New Instituitionalism
 
 Identifies the elements of administrative traditions:
 1. state and society
-   * organic - state linked and not particularly destict from society, reform would alter fundamental nature of state
+   * organic - state linked and not particularly distinct from society, reform would alter fundamental nature of state
    * contractarian - state arises from conscious social and political contract, constitution, reformable, e.g anglo-american
 2. law versus management
    * legalistic: public administration is for administering public law, virtually Weberian, administrators trained as lawyers  e.g. German and French systems (althought NPM has overlayed managerialist ideas)
@@ -7649,7 +7652,7 @@ Uses these variable to define 4 traditions in Westerrn administration:
 - There are other administration traditions in the world: Islamic, Confucian, Latin American and African},
   creationdate     = {2023-01-17T09:21:01},
   keywords         = {economics, policy, bureaucracy},
-  modificationdate = {2023-01-17T10:44:40},
+  modificationdate = {2023-02-24T11:40:21},
   owner            = {izzyolivine},
   year             = {2021},
 }
@@ -8769,6 +8772,124 @@ Find:
   creationdate     = {2023-02-22T17:03:11},
   keywords         = {economics, markets},
   modificationdate = {2023-02-22T17:06:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{Seshadri2014,
+  author           = {Praveen Seshadri},
+  date             = {2023-02-14},
+  title            = {The maze is in the mouse},
+  url              = {https://medium.com/@pravse/the-maze-is-in-the-mouse-980c57cfd61a},
+  comment          = {Blog post about how cultural problems at Google
+1. no mission
+2. no urgency
+3. delusions of exceptionalism
+4. mismanagement
+
+Few ``Googlers'' think they serve the customer, instead for other Googlers. Feedbacks are internal. 
+
+Also lots of risk management:
+- code tests
+- prelaunch reviews (15 approvals)
+- avoid nonobvious decisions
+- sticking to how things are
+- avoid upsetting employees
+- avoid upsetting managers
+
+``If this were an algorithm, we’d call it “most cautious wins” and there is almost always someone who is cautious tending to should-do-nothing''
+
+Discouragement of heroes - don't work too hard else others may feel they have to
+
+Also lots of planning and inability to change the plan
+
+Suggests asking ``who did I create value for today?''
+
+Discussion of hiring/recruitment, talent management and retention, managerial ability
+
+Suggests a playbook:
+1. Lead with commitment to a mission
+2. Definite ambitious causes that you will collectively fight for (indicate assuming wartime)
+3. Winnow layers of middle managerment, decrease hierachy depth
+
+Uses Microsoft as an example to follow},
+  creationdate     = {2023-02-23T09:32:16},
+  keywords         = {organisations, transformation, economics},
+  modificationdate = {2023-02-23T10:02:58},
+  owner            = {ISargent},
+}
+
+@TechReport{BlairH2023,
+  author           = {Tony Blair and William Hague},
+  date             = {2023-02-22},
+  institution      = {Tony Blair Institute for Global Change},
+  title            = {A New National Purpose: Innovation Can Power the Future of Britain},
+  url              = {https://institute.global/policy/new-national-purpose-innovation-can-power-future-britain},
+  comment          = {Argues for a new national purpose
+
+Investment in 
+- artificial intelligence (the exec summ refers to ``sovereign general-purpose AI systems, enabled by the required supercomputing capabilities, to underpin broad swaths of public-service delivery'')
+- Biotech
+- Climate Tech
+
+``Ensure that decision-makers and advisors are experts in the areas within which they are operating, as would be the case in a technology company''
+
+``flat, non-hierarchical structures that empower executive decision-makers to manage portfolios''
+
+``curtail the business case, ``value for money'' and similar green-book criteria''
+
+Gives strong reasons for investing in R\&D and education/training in technology
+
+Also pushes for digital ID
+
+43 technical recommendations:
+- nature of government institutions, people and processes
+- invest in AI and compute, and reduce restrictions to these technologies
+- centralise NHS and other health data
+- digital ID and data sharing between governement agencies
+- train in tech, recruit experts and students internationally, reduce barriers to new courses
+- invest in R\&D, university differentiation, UKRI resstructuring, ARIA funding, lab and catapult networks
+- raise funding by consolidating pensions
+- reduce barriers to spin-outs and R\&D infrastructure
+- seek associate membership of EU research and international coalitions
+- governance and export controls on AI},
+  creationdate     = {2023-02-23T15:03:00},
+  keywords         = {policy, governement, transformation, economics},
+  modificationdate = {2023-02-23T16:01:12},
+  owner            = {ISargent},
+}
+
+@Online{Labour2023,
+  author           = {Labour},
+  date             = {2023},
+  title            = {A `Mission-Driven' Government to End `Sticking Plaster' Politics},
+  url              = {https://labour.org.uk/wp-content/uploads/2023/02/5-Missions-for-a-Better-Britain.pdf},
+  comment          = {Labours 5 missions and how they arrived at them},
+  creationdate     = {2023-02-23T16:24:35},
+  eprint           = {https://labour.org.uk/wp-content/uploads/2023/02/5-Missions-for-a-Better-Britain.pdf},
+  keywords         = {economics, policy, transformation, missions},
+  modificationdate = {2023-02-23T16:26:16},
+  owner            = {ISargent},
+}
+
+@Online{GodboutK2014,
+  author           = {Greg Godbout and Noah Kunin},
+  date             = {2014-05-14},
+  title            = {Hacking bureaucracy: improving hiring and software deployment},
+  url              = {https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/},
+  comment          = {Where the idea of bureaucracy hackers comes from
+
+Its not enough to build software, human platform is required on which to build software platform
+
+Approach:
+- Find innovators inside government who have solved similar problems
+- Engage stakeholders and users early and often
+- Set up a minimum viable product to get started quickly
+- Give real users the process/solution from the beginning
+- Learn and iterate our approach
+- Stay aligned with the rules of the bureaucracy
+- Formalize the process/solution for reuse},
+  creationdate     = {2023-02-24T11:49:54},
+  modificationdate = {2023-02-24T11:58:21},
   owner            = {izzy_olivine},
 }
 
