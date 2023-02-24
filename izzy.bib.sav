@@ -8909,11 +8909,15 @@ Innovation groups focus on teaching their organisations to innovation by buildin
   owner            = {izzy_olivine},
 }
 
-@Online{,
+@Online{Weber2021,
   author           = {Isabella Weber},
+  date             = {2021-10-27},
   title            = {How China Escaped Shock Therapy},
   url              = {https://www.youtube.com/watch?v=mpv2Xjfh9No},
-  comment          = {Intersting, short, video describing how China reformed their economy to more market-based from planned economy.
+  organization     = {New Economic Thinking},
+  comment          = {Interesting, short, video describing how China reformed their economy to more market-based from planned economy.
+
+This is a huge transformation
 
 China's state institutions were not market players. Prices were consciously set not to reflect costs.
 
@@ -8927,7 +8931,40 @@ Friedman pushed for price liberalisation because this had worked in postwar Germ
 
 ``Catch-up development requires a strong entrepreneurial innovative state''},
   creationdate     = {2023-02-24T12:49:58},
-  modificationdate = {2023-02-24T13:01:39},
+  keywords         = {economics, markets, transformation, development, industry},
+  modificationdate = {2023-02-24T14:56:48},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{BreznitzO2012,
+  author           = {Dan Breznitz and Darius Ornston},
+  date             = {2012},
+  institution      = {World Bank},
+  title            = {Scaling up and Sustaining Innovation Policies and Projects: Schumpeterian Development Agencies in Small Open Economies},
+  eprint           = {https://openknowledge.worldbank.org/bitstream/handle/10986/26797/703730WP0P12450IC00SDAs0WB0Feb02011.pdf},
+  url              = {https://openknowledge.worldbank.org/handle/10986/26797},
+  comment          = {This paper seeks to illuminate this processof developmental initiatives, shifting attention from policy programs to the processes that generate them and specifically analyse  the  experience of reform-minded policymakers in Finland and Israel
+
+Argues:
+-  `Schumpeterian development agencies' (SDAs), public organizations with a mandate to facilitate innovation in new industries, played a critical role in precipitating industrial adjustment
+- these agencies occupied a _peripheral_ position in the public sector where limited access to resources exposed these agencies to new ideas and limited political interference
+
+1. concept of the Schumpeterian development agency
+2. policy-makers in small states introduced STI programmes and faced scling and monitoring of policies with exposure to domestic networks and international competition
+3. policy-makers relied on agencies and instruments, and these relied on inter-personal networks and international competition to scale and monitor developmental projects
+
+Washington concensus seeked to identify a best practice that in reality either cannot be applied without translation or does not work in the same way in the unique circumstances of each application
+
+In small states, inter-elite networks mean that policy-makers, industry representatives and other key decision-makers are more likely to know and trust one another. This means projects can be scaled. But its also harder to kill projects. SDAs can find it harder to penetrate these networks. 
+
+Small states tend to be more internationally open which, for several reasons, facilitates monitoring and enables easier adaptation or abandonment of programmes. However, agencies that had STI policies that comply with interestnational regulations are monitored less and find it more difficult to adapt policies particularly during good times.
+
+Finland - Sitra - independant think-tank and SDA. Demand-side innovation policy and investment in easly stage risk. Science (and Technology) Policy Council linked ministers and prime minister and also ran courses on economic policy and the importance of innovation for policy-makers, corp execs, trade union leaders and journalists. Adaptations happened during downturns.
+
+Israel - Office of the Chief Scientist in the Ministry of Trade and Industry (OCS) -  conditionally repayable loans, intensive and repeated meeting with decision makers in private industry, educating them about the value of R&D and infusing them with enthusiasm toward technological innovation},
+  creationdate     = {2023-02-24T14:56:00},
+  keywords         = {economics, markets, transformation, development, industry},
+  modificationdate = {2023-02-24T16:49:43},
   owner            = {izzy_olivine},
 }
 
