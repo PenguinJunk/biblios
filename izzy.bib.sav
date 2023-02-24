@@ -8876,20 +8876,34 @@ Also pushes for digital ID
   date             = {2014-05-14},
   title            = {Hacking bureaucracy: improving hiring and software deployment},
   url              = {https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/},
-  comment          = {Where the idea of bureaucracy hackers comes from
+  comment          = {18F post
+
+Where the idea of bureaucracy hackers comes from
 
 Its not enough to build software, human platform is required on which to build software platform
 
-Approach:
-- Find innovators inside government who have solved similar problems
-- Engage stakeholders and users early and often
-- Set up a minimum viable product to get started quickly
-- Give real users the process/solution from the beginning
-- Learn and iterate our approach
-- Stay aligned with the rules of the bureaucracy
-- Formalize the process/solution for reuse},
+Agile approach to hiring as well as software deployment},
   creationdate     = {2023-02-24T11:49:54},
-  modificationdate = {2023-02-24T11:58:21},
+  keywords         = {transformation, organisation, innovation},
+  modificationdate = {2023-02-24T12:06:47},
+  owner            = {izzy_olivine},
+}
+
+@Online{ChappenDPP2022,
+  author           = {Eleni Chappen and Jessica Dussault and Laura Ponc\'{e} and Allison Press},
+  date             = {2022-09-12},
+  title            = {Creating a culture of innovation at your agency},
+  url              = {https://18f.gsa.gov/2022/09/12/creating-a-culture-of-innovation/},
+  comment          = {18F surveyed multiple digital innovation groups in cultural heritage institutions and federal agencies asking about the impact of innovation at their organization
+
+Challenges facing innocation labs
+- Lack of leadership support
+- Too broad of a scope
+- Moving from experimentation to delivery without adequate support
+- Difficult to quantify success},
+  creationdate     = {2023-02-24T12:03:28},
+  keywords         = {transformation, organisation, innovation},
+  modificationdate = {2023-02-24T12:07:55},
   owner            = {izzy_olivine},
 }
 
