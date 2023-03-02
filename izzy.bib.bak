@@ -7608,7 +7608,7 @@ The institution shapes individuals' preferences - New Instituitionalism
 
 Identifies the elements of administrative traditions:
 1. state and society
-   * organic - state linked and not particularly destict from society, reform would alter fundamental nature of state
+   * organic - state linked and not particularly distinct from society, reform would alter fundamental nature of state
    * contractarian - state arises from conscious social and political contract, constitution, reformable, e.g anglo-american
 2. law versus management
    * legalistic: public administration is for administering public law, virtually Weberian, administrators trained as lawyers  e.g. German and French systems (althought NPM has overlayed managerialist ideas)
@@ -7652,7 +7652,7 @@ Uses these variable to define 4 traditions in Westerrn administration:
 - There are other administration traditions in the world: Islamic, Confucian, Latin American and African},
   creationdate     = {2023-01-17T09:21:01},
   keywords         = {economics, policy, bureaucracy},
-  modificationdate = {2023-01-17T10:44:40},
+  modificationdate = {2023-02-24T11:40:21},
   owner            = {izzyolivine},
   year             = {2021},
 }
@@ -8069,10 +8069,12 @@ Entrepreneurial managers sense, seize, orchestrate, invest in R\&D, develop new 
 
 Organisation change in anticipation of environmental change - but entrepreneurs also shape the environment
 
-``wild orchestration''},
+``wild orchestration''
+
+``Dynamic capabilities of the public sector are higher-order bundles of political, policy and organizational routines and managerial decisions that drive the strategic activities of public organisations in regimes of deep uncertainty and wicked challenges''},
   creationdate     = {2023-01-27T17:56:28},
   keywords         = {economics, bureaucracy, organisation, transformation},
-  modificationdate = {2023-01-27T19:48:02},
+  modificationdate = {2023-02-24T17:59:44},
   owner            = {izzy_olivine},
 }
 
@@ -8356,7 +8358,7 @@ Discusses the possible impact of the financial crisis on ethical motivations and
 
 ``result has been that government departments and agencies that were well managed in the 1970s are still well managed but the reforms have had limited impact on those that traditionally were not well managed''
 
-Now less deferential to expertise and now requires string policy advisory capacity
+Now less deferential to expertise and now requires strong policy advisory capacity
 
 Useful overview of specific elements of NPM (Thatcherism, Reaganism, the New Right, Neo Conservativism)
 
@@ -8388,7 +8390,7 @@ Result was badly shaken civil service and need to improve morale
 There doesn't seem to be much change where it was required},
   creationdate     = {2023-02-13T17:45:17},
   keywords         = {public administration, bureaucracy, economics},
-  modificationdate = {2023-02-13T17:46:43},
+  modificationdate = {2023-02-24T12:18:21},
   owner            = {izzy_olivine},
 }
 
@@ -8855,6 +8857,213 @@ Also pushes for digital ID
   creationdate     = {2023-02-23T15:03:00},
   keywords         = {policy, governement, transformation, economics},
   modificationdate = {2023-02-23T16:01:12},
+  owner            = {ISargent},
+}
+
+@Online{Labour2023,
+  author           = {Labour},
+  date             = {2023},
+  title            = {A `Mission-Driven' Government to End `Sticking Plaster' Politics},
+  url              = {https://labour.org.uk/wp-content/uploads/2023/02/5-Missions-for-a-Better-Britain.pdf},
+  comment          = {Labours 5 missions and how they arrived at them},
+  creationdate     = {2023-02-23T16:24:35},
+  eprint           = {https://labour.org.uk/wp-content/uploads/2023/02/5-Missions-for-a-Better-Britain.pdf},
+  keywords         = {economics, policy, transformation, missions},
+  modificationdate = {2023-02-23T16:26:16},
+  owner            = {ISargent},
+}
+
+@Online{GodboutK2014,
+  author           = {Greg Godbout and Noah Kunin},
+  date             = {2014-05-14},
+  title            = {Hacking bureaucracy: improving hiring and software deployment},
+  url              = {https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/},
+  comment          = {18F post
+
+Where the idea of bureaucracy hackers comes from
+
+Its not enough to build software, human platform is required on which to build software platform
+
+Agile approach to hiring as well as software deployment},
+  creationdate     = {2023-02-24T11:49:54},
+  keywords         = {transformation, organisation, innovation},
+  modificationdate = {2023-02-24T12:06:47},
+  owner            = {izzy_olivine},
+}
+
+@Online{ChappenDPP2022,
+  author           = {Eleni Chappen and Jessica Dussault and Laura Ponc\'{e} and Allison Press},
+  date             = {2022-09-12},
+  title            = {Creating a culture of innovation at your agency},
+  url              = {https://18f.gsa.gov/2022/09/12/creating-a-culture-of-innovation/},
+  comment          = {18F surveyed multiple digital innovation groups in cultural heritage institutions and federal agencies asking about the impact of innovation at their organization
+
+Challenges facing innocation labs
+- Lack of leadership support
+- Too broad of a scope
+- Moving from experimentation to delivery without adequate support
+- Difficult to quantify success
+
+Innovation groups focus on teaching their organisations to innovation by building relationships and sharing skills},
+  creationdate     = {2023-02-24T12:03:28},
+  keywords         = {transformation, organisation, innovation},
+  modificationdate = {2023-02-24T12:08:38},
+  owner            = {izzy_olivine},
+}
+
+@Online{Weber2021,
+  author           = {Isabella Weber},
+  date             = {2021-10-27},
+  title            = {How China Escaped Shock Therapy},
+  url              = {https://www.youtube.com/watch?v=mpv2Xjfh9No},
+  organization     = {New Economic Thinking},
+  comment          = {Interesting, short, video describing how China reformed their economy to more market-based from planned economy.
+
+This is a huge transformation
+
+China's state institutions were not market players. Prices were consciously set not to reflect costs.
+
+Options were to 
+- implement current (1980s) approach, now called ``shock therapy'' - overnight liberalisation of prices, or 
+- dual track reform - planned and market track - produce to meet the plan and then have the option to produce for the market
+
+George Soros identified in Hungary and Yugoslavia that rapid price liberalisation would be dangerous
+
+Friedman pushed for price liberalisation because this had worked in postwar Germany (Erhart Miracle). But in Germany, there were market institutions.
+
+``Catch-up development requires a strong entrepreneurial innovative state''},
+  creationdate     = {2023-02-24T12:49:58},
+  keywords         = {economics, markets, transformation, development, industry},
+  modificationdate = {2023-02-24T14:56:48},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{BreznitzO2012,
+  author           = {Dan Breznitz and Darius Ornston},
+  date             = {2012},
+  institution      = {World Bank},
+  title            = {Scaling up and Sustaining Innovation Policies and Projects: Schumpeterian Development Agencies in Small Open Economies},
+  eprint           = {https://openknowledge.worldbank.org/bitstream/handle/10986/26797/703730WP0P12450IC00SDAs0WB0Feb02011.pdf},
+  url              = {https://openknowledge.worldbank.org/handle/10986/26797},
+  comment          = {This paper seeks to illuminate this processof developmental initiatives, shifting attention from policy programs to the processes that generate them and specifically analyse  the  experience of reform-minded policymakers in Finland and Israel
+
+Argues:
+-  `Schumpeterian development agencies' (SDAs), public organizations with a mandate to facilitate innovation in new industries, played a critical role in precipitating industrial adjustment
+- these agencies occupied a _peripheral_ position in the public sector where limited access to resources exposed these agencies to new ideas and limited political interference
+
+1. concept of the Schumpeterian development agency
+2. policy-makers in small states introduced STI programmes and faced scling and monitoring of policies with exposure to domestic networks and international competition
+3. policy-makers relied on agencies and instruments, and these relied on inter-personal networks and international competition to scale and monitor developmental projects
+
+Washington concensus seeked to identify a best practice that in reality either cannot be applied without translation or does not work in the same way in the unique circumstances of each application
+
+In small states, inter-elite networks mean that policy-makers, industry representatives and other key decision-makers are more likely to know and trust one another. This means projects can be scaled. But its also harder to kill projects. SDAs can find it harder to penetrate these networks. 
+
+Small states tend to be more internationally open which, for several reasons, facilitates monitoring and enables easier adaptation or abandonment of programmes. However, agencies that had STI policies that comply with interestnational regulations are monitored less and find it more difficult to adapt policies particularly during good times.
+
+Finland - Sitra - independant think-tank and SDA. Demand-side innovation policy and investment in easly stage risk. Science (and Technology) Policy Council linked ministers and prime minister and also ran courses on economic policy and the importance of innovation for policy-makers, corp execs, trade union leaders and journalists. Adaptations happened during downturns.
+
+Israel - Office of the Chief Scientist in the Ministry of Trade and Industry (OCS) -  conditionally repayable loans, intensive and repeated meeting with decision makers in private industry, educating them about the value of R&D and infusing them with enthusiasm toward technological innovation
+
+``In successfully scaling new initiatives, Finnish and Israeli SDAs dramatically raised their profile within the public sector and the economy as a whole, increasing political interference and inhibiting policy experimentation.''},
+  creationdate     = {2023-02-24T14:56:00},
+  keywords         = {economics, markets, transformation, development, industry},
+  modificationdate = {2023-02-24T17:04:39},
+  owner            = {izzy_olivine},
+}
+
+@Article{DavideParrilliA2016,
+  author           = {Davide Parrilli, Mario and Alcalde Heras, Henar},
+  date             = {2016},
+  journaltitle     = {Research Policy},
+  title            = {STI and DUI innovation modes: Scientific-technological and context-specific nuances},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0048733316000020},
+  comment          = {argue that the STI interaction mode alone has a stronger effect on technological innovation (i.e. product and process), whereas the DUI mode tends to have a stronger impact on non-technological innovation (i.e. commercial and organisational).
+
+the debate on STI and DUI modes originates in the so-called “innovation paradox” in which the inputs (e.g. R\&D expenditure) are not reflected in the level of innovation and economic output
+
+STI innovation mode supports interactions with centres producing new knowledge – mainly research centres and universities, scientific brokers and foundations for the diffusion of scientific research – which generate the codified and explicit knowledge that can be used by the firm to produce innovations
+
+DUI innovation - in the firm generated by the capacity of the firm to develop informal and formal exchanges internal to the firm, but also interactions with suppliers, customers and competitors
+
+these modes might complement each other in the production of higher outcomes in terms of both innovation and economic performance
+
+This paper studies the Basque Autonomous Community in Spain
+
+``From a policy-making and a business practice perspective, some critical implications may be drawn. In particular, the fact that most businesses adopt a DUI type of interaction does not imply that it is an effective interaction mode. It delivers lower impact (than STI factors) in technological and radical innovation, whereas it matters more for non-technological innovation. And it is inadequate when it is bounded to the regional environment (DUI-regional)''.},
+  creationdate     = {2023-02-24T17:13:28},
+  keywords         = {economics, innovation, transformation, policy, technology, organisations},
+  modificationdate = {2023-02-24T17:31:04},
+  owner            = {izzy_olivine},
+}
+
+@Misc{ChatGPTSTIDUI2023,
+  author           = {ChatGPT},
+  date             = {2023-02-24},
+  title            = {explain the different between STI and DUI innovation policy with examples},
+  abstract         = {STI (Science, Technology, and Innovation) and DUI (Doing, Using, and Interacting) are two different types of innovation policies, each with its own focus and objectives.
+
+STI innovation policy emphasizes the importance of scientific research and development, technology advancement, and innovation in driving economic growth and societal progress. STI policies are often associated with funding for research and development, tax incentives for innovation, and the creation of science parks and innovation hubs. The objective of STI policies is to create new technologies, products, and services that can drive economic growth and improve the quality of life for citizens.
+
+Examples of STI innovation policy include the funding of scientific research and development by the National Science Foundation in the United States, the creation of science parks such as the Cambridge Science Park in the UK, and tax incentives for innovation offered by many countries to encourage private sector investment in research and development.
+
+DUI innovation policy, on the other hand, emphasizes the importance of innovation in everyday practices, including doing, using, and interacting. DUI policies focus on the adoption of existing technologies and the development of new practices that can improve productivity, reduce costs, and enhance competitiveness. The objective of DUI policies is to promote innovation at the grassroots level and to encourage the adoption of new practices by firms, organizations, and individuals.
+
+Examples of DUI innovation policy include the provision of training and education to workers to help them adopt new technologies and practices, the promotion of collaborative practices and partnerships between firms, and the development of user-centered design methodologies that involve users in the design of new products and services.
+
+In summary, STI policies focus on the creation of new technologies and innovations through scientific research and development, while DUI policies focus on the adoption of existing technologies and the development of new practices through everyday doing, using, and interacting.},
+  creationdate     = {2023-02-24T17:39:01},
+  keywords         = {economics, innovation, policy, technology},
+  modificationdate = {2023-02-24T17:40:26},
+  owner            = {izzy_olivine},
+}
+
+@Online{McNaughton2021,
+  author           = {Matthew McNaughton},
+  date             = {2021-04-06},
+  title            = {Civil Society Coalition Outlines Key Reforms of {NIDS} Bill to Parliament},
+  url              = {https://medium.com/slashroots/civil-society-coalition-outlines-key-reforms-of-nids-bill-to-parliament-244aff411055},
+  comment          = {Jamaican National Identification System is a biometric ID system
+
+The supreme court struck down the original verion of the National Identification and Registration Bill because it was considered unconstitutional
+
+Therefore, this coalition is working towards ensureing the NIDS is people-centred and rights-respecting and delivers social inclusion and improved access to legal identification},
+  creationdate     = {2023-02-26T15:57:02},
+  keywords         = {transformation, policy, trust},
+  modificationdate = {2023-02-26T16:05:39},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  url              = {https://www.sympoetic.net/Managing_Complexity/complexity_files/1973 Rittel and Webber Wicked Problems.pdf},
+  comment          = {The wicked problem paper.
+
+US society has solved many fundamental but relatively easy problems (clean water, transport, waste disposal, ...). People continue to demand change to the system. The planning system needs to turn to other issues. It needs to define its goals and problems whilst addressing issues of equity.
+
+PPBS - Planning, Programming and Budgeting System - requires statement of desired outcomes (introduced as a response to recognition that incrementalism - tweaking policy rather than determining if it is the correct policy - was not working)
+
+``one of the most intractable problems is that of defining problems ((of knowing what distinguishes an observed condition from a desired condition)'' as well as working out what actions would solve the problem.
+
+Talks about the problem of the idealised planning system and how it actually works - which is constant adjustment and evaluation (Iz - it needs to be agile?). The application of science and engineering approaches to society has not worked.
+
+``Planning problems are inherently wicked'' (not tame or benign) and have at least 10 distinguishing characteristics:
+1. There is no definitive formulation of a wicked problem - all the possible solutions are part of the definition of the problem
+2. Wicked problems have no stopping rule - solving and understanding are part of the same process which ends when some external criterion is met
+3. Solutions to wicked problems are not true-or-false, but good-or-bad - there are many parties whom are equipped, interested and/or entitled to judge
+4. There is no immediate and no ultimate test of a solution to a wicked problem - any solution will generate waves of consequences
+5. Every solution to a wicked problem is a `one-shot operation'; because there is no opportunity to learn by trial-and-error, every attempt counts significantly 
+6. Wicked problems do not have an enumerable (or an exhaustively describable) set of potential solutions, nor is there a well-described set of permissible operations that may be incorporated into the plan
+7. Every wicked problem is essentially unique 
+8. Every wicked problem can be considered to be a symptom of another problem
+9. The existence of a discrepancy representing a wicked problem can be explained in numerous ways. The choice of explanation determines the nature of the problem's resolution
+10. The planner has no right to be wrong - a problem statement is not a hypothesis to be refuted and thus planners are liable for the consequences of actions they generate
+
+Small minorities can comprise large numbers of people, the concept of the social product is not very meaningful; possibly there is no aggregate measure for the welfare of a highly diversified society
+
+A paper of its time, with commentary on pluralism and a new awareness of societal ills (inequality, consumption and pollution) and that different groups have different values and cultures.},
+  creationdate     = {2023-03-02T15:23:02},
+  keywords         = {policy, economics, society},
+  modificationdate = {2023-03-02T15:52:02},
   owner            = {ISargent},
 }
 
