@@ -3869,10 +3869,16 @@ Not only have they been able to develop more coherent and powerful models of com
 
 Finally, their work has important implications for welfare economics and for government policy toward industry.
 
-''},
+''
+
+Routines and practices 
+
+Capabilities as skills and routines
+
+Evolutionary interactions (within organisations, between organisations, between regions and countries},
   creationdate     = {2022-10-23T08:54:03},
   keywords         = {economics},
-  modificationdate = {2022-10-23T16:07:48},
+  modificationdate = {2023-03-03T19:58:32},
   owner            = {ISargent},
 }
 
@@ -8895,7 +8901,7 @@ Agile approach to hiring as well as software deployment},
   url              = {https://18f.gsa.gov/2022/09/12/creating-a-culture-of-innovation/},
   comment          = {18F surveyed multiple digital innovation groups in cultural heritage institutions and federal agencies asking about the impact of innovation at their organization
 
-Challenges facing innocation labs
+Challenges facing innovation labs
 - Lack of leadership support
 - Too broad of a scope
 - Moving from experimentation to delivery without adequate support
@@ -8904,7 +8910,7 @@ Challenges facing innocation labs
 Innovation groups focus on teaching their organisations to innovation by building relationships and sharing skills},
   creationdate     = {2023-02-24T12:03:28},
   keywords         = {transformation, organisation, innovation},
-  modificationdate = {2023-02-24T12:08:38},
+  modificationdate = {2023-03-03T20:06:42},
   owner            = {izzy_olivine},
 }
 
@@ -9136,6 +9142,4 @@ accessed at \url{https://web-s-ebscohost-com.libproxy.ucl.ac.uk/ehost/ebookviewe
 @TechReport{NIC2021,
   author           = {{NIC}},
   date             = {2021},
-  institution      = {National Intelligence Council},
-  title            = {Global Trends 2040: A More Contested World},
-  eprint           = {https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040
+  institution      = {National Intelligence 

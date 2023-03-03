@@ -3869,10 +3869,16 @@ Not only have they been able to develop more coherent and powerful models of com
 
 Finally, their work has important implications for welfare economics and for government policy toward industry.
 
-''},
+''
+
+Routines and practices 
+
+Capabilities as skills and routines
+
+Evolutionary interactions (within organisations, between organisations, between regions and countries},
   creationdate     = {2022-10-23T08:54:03},
   keywords         = {economics},
-  modificationdate = {2022-10-23T16:07:48},
+  modificationdate = {2023-03-03T19:58:32},
   owner            = {ISargent},
 }
 
@@ -8895,7 +8901,7 @@ Agile approach to hiring as well as software deployment},
   url              = {https://18f.gsa.gov/2022/09/12/creating-a-culture-of-innovation/},
   comment          = {18F surveyed multiple digital innovation groups in cultural heritage institutions and federal agencies asking about the impact of innovation at their organization
 
-Challenges facing innocation labs
+Challenges facing innovation labs
 - Lack of leadership support
 - Too broad of a scope
 - Moving from experimentation to delivery without adequate support
@@ -8904,7 +8910,7 @@ Challenges facing innocation labs
 Innovation groups focus on teaching their organisations to innovation by building relationships and sharing skills},
   creationdate     = {2023-02-24T12:03:28},
   keywords         = {transformation, organisation, innovation},
-  modificationdate = {2023-02-24T12:08:38},
+  modificationdate = {2023-03-03T20:06:42},
   owner            = {izzy_olivine},
 }
 
@@ -9195,10 +9201,56 @@ Much like EthicalOSToolkit2018 for security},
   title            = {Making and breaking Whitehall departments: A guide to machinery of government changes},
   eprint           = {https://www.instituteforgovernment.org.uk/sites/default/files/publications/making_and_breaking_whitehall_departments.pdf},
   url              = {https://www.instituteforgovernment.org.uk/publication/report/making-and-breaking-whitehall-departments},
-  comment          = {In anticipation of austerity measures and changing of the structure of the government, this report used interviews to understand the good and bad aspects of previous restructurings.},
+  comment          = {In anticipation of austerity measures and changing of the structure of the government, this report used interviews to understand the good and bad aspects of previous restructurings.
+
+government changes are:
+- often announced at very short notice
+- usually poorly managed
+- always costly
+
+Suggests asking in advance:
+- Are there significant administrative or policy rationales to reorganise departments?
+- Have we considered the alternatives to machinery of government change?
+- Are we prepared to spend at least £15 million?
+- If there are big pay differences between staff in affected departments, are we prepared to level up salaries or risk industrial action?
+- Can we afford a productivity dip and a minimum two year wait before realising the concrete benefits?
+
+and then, when change has been decided upon:
+- Announcing the changes early enough so the transition can be planned effectively
+- Requiring an affirmative Parliamentary resolution after a reorganisation is made
+- Giving new or radically changed departments greater support from the centre
+- Completing an assessment within 18 months of the change},
   creationdate     = {2023-03-03T14:02:18},
   keywords         = {policy, bureaucracy, economics},
-  modificationdate = {2023-03-03T14:05:30},
+  modificationdate = {2023-03-03T14:07:48},
+  owner            = {ISargent},
+}
+
+@InBook{KattelDK2023ch1,
+  author           = {Rainer Kattel and Wolfgang Drechsler and Erkki Karo},
+  booktitle        = {How to make an Entrepreneurial State},
+  date             = {2023},
+  title            = {Agile Stability},
+  comment          = {Innovation bureaucracy is not an oxymoron
+
+Details the background to German Physikalisch-Technische Reichsanstalt (PTR) and Siemens' role in this. Also British NPL and American National Bureau of Standards. Siemens was a `Bureaucracy Hacker' - a phrase from 18F GodboutK2014, people who create `mission mistique' a term coined by Charles Goodsell in 2011.
+
+Cartels currently exist in innovation, e.g. Amazon and Alphabet and cluster organisations, technology parks, business incubators and accelerators.
+
+Max Weber described and predicted the dynamic sequence of evolution of new agile innovation bureaucracy organisations and over time they are institutionalised in existing public sector practices. 
+
+This book argues that there is an oscilation between extremes of charismatic networks and expert organisations, and propose a symbiosis of both to create agile stability
+
+Discuss what the covid pandemic demonstrated of state innovation in various countries/states.
+
+Schumpeter differentiated between entrepreneurial and rentier states - the latter being driven by income from previous acquired wealth or natural resources
+
+``successful innovation bureaucracies need to create and sustain, as their core task, this agile stability: internal dynamism and learning in policies, services, institutions and organisational formats complemented by the ability to maintain stability, patiently implement policies and deliver the services expected from the state''
+
+Discuss the challenge of staying at the techno-economic frontier, or perhaps constantly searching for the new one through reinvention (and the rise and fall of great powers who don't achieve this)},
+  creationdate     = {2023-03-03T20:33:07},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-03-03T20:58:41},
   owner            = {ISargent},
 }
 
