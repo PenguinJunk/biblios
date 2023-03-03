@@ -9107,12 +9107,25 @@ Created stories for 4 composite polticians:
 - The realist, focuses on the tangible and achievable and justifies on social and economic grounds
 - The ex-minister, relaxed and willing to speak out
 
-Agenda for action},
+Agenda for action:
+- widen the mandate by creating climate reponsibilities in departments and local regions
+- involve people, such as with deliberative processes
+- devising policies that grow support, such as around energy infrastructure, transport, divestment and a just transition
+- consider the long term in institutional changes},
   creationdate     = {2023-03-03T08:29:20},
   keywords         = {policy, climate, environment, politics},
-  modificationdate = {2023-03-03T08:48:29},
+  modificationdate = {2023-03-03T08:51:16},
   owner            = {ISargent},
   year             = {2018},
+}
+
+@Book{,
+  comment          = {Looks like a really interesting book on futures thinking. In the conclusion:
+
+``thinking future is a way of bringing back planning for the future but under a new framing. Issues are now so big and wicked ... coordinate futures ... I suggest that futures thinking is a major way of brining the state and civil society back in from the cold ...''},
+  creationdate     = {2023-03-03T08:59:18},
+  modificationdate = {2023-03-03T09:02:58},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
