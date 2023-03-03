@@ -9034,8 +9034,15 @@ Therefore, this coalition is working towards ensureing the NIDS is people-centre
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Article{RittelW1973,
+  author           = {Horst W. J. Rittel and Melvin M. Webber},
+  date             = {1973},
+  journaltitle     = {Policy Sciences},
+  title            = {Dilemmas in a General Theory of Planning},
+  number           = {2},
+  pages            = {155--169},
   url              = {https://www.sympoetic.net/Managing_Complexity/complexity_files/1973 Rittel and Webber Wicked Problems.pdf},
+  volume           = {4},
   comment          = {The wicked problem paper.
 
 US society has solved many fundamental but relatively easy problems (clean water, transport, waste disposal, ...). People continue to demand change to the system. The planning system needs to turn to other issues. It needs to define its goals and problems whilst addressing issues of equity.
@@ -9063,8 +9070,49 @@ Small minorities can comprise large numbers of people, the concept of the social
 A paper of its time, with commentary on pluralism and a new awareness of societal ills (inequality, consumption and pollution) and that different groups have different values and cultures.},
   creationdate     = {2023-03-02T15:23:02},
   keywords         = {policy, economics, society},
-  modificationdate = {2023-03-02T15:52:02},
+  modificationdate = {2023-03-02T15:53:07},
   owner            = {ISargent},
+}
+
+@Article{Willis2018,
+  author           = {Rebecca Willis},
+  date             = {2018},
+  journaltitle     = {The Sociological Review},
+  title            = {How Members of Parliament understand and respond to climate change},
+  doi              = {10.1177/0038026117731658},
+  eprint           = {https://journals.sagepub.com/doi/reader/10.1177/0038026117731658},
+  number           = {3},
+  pages            = {475-491},
+  url              = {https://journals.sagepub.com/doi/10.1177/0038026117731658},
+  volume           = {66},
+  abstract         = {Action on climate change, to meet the targets set in the 2015 Paris Agreement, requires strong political support at the national level. Whilst the political and governance challenges of climate change have been discussed at length, there is little understanding of how politicians, as influential individuals within the political system, understand or respond to climate change. This article presents findings from 14 qualitative interviews with Members of the UK Parliament, to discuss how politicians conceptualise climate change, and their deliberations on whether or how to act on the issue. First, it reviews an interdisciplinary literature from sociology, political theory and science and technology studies, to investigate how politicians navigate their work and life. Second, it presents ‘composite narratives’ to provide four different MPs’ stories. Last, it draws conclusions and implications for practice. It highlights three crucial factors: identity, or how politicians consider the climate issue in the context of their professional identity and the cultural norms of their workplace; representation, how politicians assess their role as a representative, and whether proposed political action on climate is seen as compatible with this representative function; and working practices, how day-to-day work rituals and pressures influence the aims, ambitions and engagement of politicians with climate change.},
+  comment          = {See also https://green-alliance.org.uk/wp-content/uploads/2021/11/Building_a_political_mandate_for_climate_action.pdf
+
+Most politicians do understand the need to act on climate change. MPs have three linked considerations:
+1. How does climate action fit within their role?
+2. What mandate do they have?
+3. How to address climate change in day to day realities of political life?
+
+Politicians see climate change as an ``outsider issue'' and tends to mainly be considered in economic terms. Politicians get little push from voters on the issue of climate change and so finding ``representative claims'' for climate action can be difficult. Three representative claims that may be used:
+- Cosmopolitan claim - its in the interests of the global community to act
+- Local prevention claim - its in the interests of the local community to prevent impacts such as local flooding
+- Co-benefits claim - most common includes improving local economies and services by supporting climate action
+- Surrogate claim - don't talk about climate but act on it e.g. on sustainable transport
+
+During interviews, interviewees tended to steer the conversation away from climate ``like they don't want to think about [it]''
+
+Created stories for 4 composite polticians:
+- The climate champion, willing to speak out even though many constituents do not seem concerned
+- The newcomer, cautious and careful to put his constituency first
+- The realist, focuses on the tangible and achievable and justifies on social and economic grounds
+- The ex-minister, relaxed and willing to speak out
+
+Agenda for action},
+  creationdate     = {2023-03-03T08:29:20},
+  keywords         = {policy, climate, environment, politics},
+  modificationdate = {2023-03-03T08:48:29},
+  owner            = {ISargent},
+  year             = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
