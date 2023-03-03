@@ -9047,4 +9047,99 @@ Therefore, this coalition is working towards ensureing the NIDS is people-centre
 
 US society has solved many fundamental but relatively easy problems (clean water, transport, waste disposal, ...). People continue to demand change to the system. The planning system needs to turn to other issues. It needs to define its goals and problems whilst addressing issues of equity.
 
-PPBS - Planning, Programming and Budgetin
+PPBS - Planning, Programming and Budgeting System - requires statement of desired outcomes (introduced as a response to recognition that incrementalism - tweaking policy rather than determining if it is the correct policy - was not working)
+
+``one of the most intractable problems is that of defining problems ((of knowing what distinguishes an observed condition from a desired condition)'' as well as working out what actions would solve the problem.
+
+Talks about the problem of the idealised planning system and how it actually works - which is constant adjustment and evaluation (Iz - it needs to be agile?). The application of science and engineering approaches to society has not worked.
+
+``Planning problems are inherently wicked'' (not tame or benign) and have at least 10 distinguishing characteristics:
+1. There is no definitive formulation of a wicked problem - all the possible solutions are part of the definition of the problem
+2. Wicked problems have no stopping rule - solving and understanding are part of the same process which ends when some external criterion is met
+3. Solutions to wicked problems are not true-or-false, but good-or-bad - there are many parties whom are equipped, interested and/or entitled to judge
+4. There is no immediate and no ultimate test of a solution to a wicked problem - any solution will generate waves of consequences
+5. Every solution to a wicked problem is a `one-shot operation'; because there is no opportunity to learn by trial-and-error, every attempt counts significantly 
+6. Wicked problems do not have an enumerable (or an exhaustively describable) set of potential solutions, nor is there a well-described set of permissible operations that may be incorporated into the plan
+7. Every wicked problem is essentially unique 
+8. Every wicked problem can be considered to be a symptom of another problem
+9. The existence of a discrepancy representing a wicked problem can be explained in numerous ways. The choice of explanation determines the nature of the problem's resolution
+10. The planner has no right to be wrong - a problem statement is not a hypothesis to be refuted and thus planners are liable for the consequences of actions they generate
+
+Small minorities can comprise large numbers of people, the concept of the social product is not very meaningful; possibly there is no aggregate measure for the welfare of a highly diversified society
+
+A paper of its time, with commentary on pluralism and a new awareness of societal ills (inequality, consumption and pollution) and that different groups have different values and cultures.},
+  creationdate     = {2023-03-02T15:23:02},
+  keywords         = {policy, economics, society},
+  modificationdate = {2023-03-02T15:53:07},
+  owner            = {ISargent},
+}
+
+@Article{Willis2018,
+  author           = {Rebecca Willis},
+  date             = {2018},
+  journaltitle     = {The Sociological Review},
+  title            = {How Members of Parliament understand and respond to climate change},
+  doi              = {10.1177/0038026117731658},
+  eprint           = {https://journals.sagepub.com/doi/reader/10.1177/0038026117731658},
+  number           = {3},
+  pages            = {475-491},
+  url              = {https://journals.sagepub.com/doi/10.1177/0038026117731658},
+  volume           = {66},
+  abstract         = {Action on climate change, to meet the targets set in the 2015 Paris Agreement, requires strong political support at the national level. Whilst the political and governance challenges of climate change have been discussed at length, there is little understanding of how politicians, as influential individuals within the political system, understand or respond to climate change. This article presents findings from 14 qualitative interviews with Members of the UK Parliament, to discuss how politicians conceptualise climate change, and their deliberations on whether or how to act on the issue. First, it reviews an interdisciplinary literature from sociology, political theory and science and technology studies, to investigate how politicians navigate their work and life. Second, it presents ‘composite narratives’ to provide four different MPs’ stories. Last, it draws conclusions and implications for practice. It highlights three crucial factors: identity, or how politicians consider the climate issue in the context of their professional identity and the cultural norms of their workplace; representation, how politicians assess their role as a representative, and whether proposed political action on climate is seen as compatible with this representative function; and working practices, how day-to-day work rituals and pressures influence the aims, ambitions and engagement of politicians with climate change.},
+  comment          = {See also https://green-alliance.org.uk/wp-content/uploads/2021/11/Building_a_political_mandate_for_climate_action.pdf
+
+Most politicians do understand the need to act on climate change. MPs have three linked considerations:
+1. How does climate action fit within their role?
+2. What mandate do they have?
+3. How to address climate change in day to day realities of political life?
+
+Politicians see climate change as an ``outsider issue'' and tends to mainly be considered in economic terms. Politicians get little push from voters on the issue of climate change and so finding ``representative claims'' for climate action can be difficult. Three representative claims that may be used:
+- Cosmopolitan claim - its in the interests of the global community to act
+- Local prevention claim - its in the interests of the local community to prevent impacts such as local flooding
+- Co-benefits claim - most common includes improving local economies and services by supporting climate action
+- Surrogate claim - don't talk about climate but act on it e.g. on sustainable transport
+
+During interviews, interviewees tended to steer the conversation away from climate ``like they don't want to think about [it]''
+
+Created stories for 4 composite polticians:
+- The climate champion, willing to speak out even though many constituents do not seem concerned
+- The newcomer, cautious and careful to put his constituency first
+- The realist, focuses on the tangible and achievable and justifies on social and economic grounds
+- The ex-minister, relaxed and willing to speak out
+
+Agenda for action:
+- widen the mandate by creating climate reponsibilities in departments and local regions
+- involve people, such as with deliberative processes
+- devising policies that grow support, such as around energy infrastructure, transport, divestment and a just transition
+- consider the long term in institutional changes},
+  creationdate     = {2023-03-03T08:29:20},
+  keywords         = {policy, climate, environment, politics},
+  modificationdate = {2023-03-03T09:16:12},
+  owner            = {ISargent},
+  year             = {2018},
+}
+
+@Book{Urry2016,
+  author           = {Urry, John},
+  date             = {2016},
+  title            = {What Is the Future?},
+  comment          = {Looks like a really interesting book on futures thinking. In the conclusion:
+
+``thinking future is a way of bringing back planning for the future but under a new framing. Issues are now so big and wicked ... coordinate futures ... I suggest that futures thinking is a major way of brining the state and civil society back in from the cold ...''
+
+RAND corporation developed ideas of futures thinking and developing scenarios of future
+
+accessed at \url{https://web-s-ebscohost-com.libproxy.ucl.ac.uk/ehost/ebookviewer/ebook/bmxlYmtfXzEzNTMzNjlfX0FO0?sid=29e678ad-54e5-4d5a-915f-1d07199e5940@redis&vid=0&format=EK&rid=1}},
+  creationdate     = {2023-03-03T08:59:18},
+  keywords         = {futures, policy, economics},
+  modificationdate = {2023-03-03T09:11:20},
+  owner            = {ISargent},
+}
+
+@TechReport{NIC2021,
+  author           = {{NIC}},
+  date             = {2021},
+  institution      = {National Intelligence Council},
+  title            = {Global Trends 2040: A More Contested World},
+  eprint           = {https://www.dni.gov/files/ODNI/documents/assessments/GlobalTrends_2040.pdf},
+ 
