@@ -6971,8 +6971,15 @@ Find that its highly unlikely that continued economic growth can be achieved whi
   title            = {Trust in government, UK: 2022},
   url              = {https://www.ons.gov.uk/peoplepopulationandcommunity/wellbeing/bulletins/trustingovernmentuk/2022},
   urldate          = {2022-12-11},
+  comment          = {35% of the UK population stated that they trusted the national government, which is lower than the Organisation for Economic Co-operation and Development (OECD) average (41%).
+
+42% of the population reported that they trusted local government and 55% trusted the Civil Service.
+
+Trust in public services was higher than trust in the national or local governments, with the NHS the most trusted public service (80%), followed by the courts and legal system (68%).
+
+75% of the population believed that the UK government should place a higher priority on creating conditions for businesses to thrive, 64% said they should place higher priority on reducing climate change and 54% believe they should place higher priority on reducing the national debt.},
   creationdate     = {2022-12-14T19:14:49},
-  modificationdate = {2022-12-16T17:01:42},
+  modificationdate = {2023-03-04T11:27:52},
   owner            = {ISargent},
 }
 
@@ -6980,7 +6987,7 @@ Find that its highly unlikely that continued economic growth can be achieved whi
   author           = {Rachel Heydecker and Hannah Ormston and Jennifer Wallace},
   date             = {2022-01-01},
   institution      = {Carnegie UK},
-  title            = {{GDWe}: A spotlight on democraticwellbeing},
+  title            = {{GDWe}: A spotlight on democratic wellbeing},
   eprint           = {https://d1ssu070pg2v9i.cloudfront.net/pex/pex_carnegie2021/2022/01/20123523/GDWe-A-spotlight-on-democratic-wellbeing-FINAL.pdf},
   url              = {https://www.carnegieuktrust.org.uk/publications/gdwe-a-spotlight-on-democratic-wellbeing/},
   comment          = {Really interesting report making a case for Gross Domestric Wellbeing (GDWe)
@@ -6994,7 +7001,7 @@ Emphasis on more work on democratic wellbeing, including more indicators in the 
   creationdate     = {2022-12-14T19:29:56},
   isbn             = {978-1-912908-79-0},
   keywords         = {trust, policy, government, economics},
-  modificationdate = {2022-12-14T20:05:18},
+  modificationdate = {2023-03-04T11:30:12},
   owner            = {ISargent},
 }
 
@@ -7396,7 +7403,7 @@ Argue that:
   journaltitle     = {NISPAcee Journal of Public Administration and Policy},
   title            = {What would Max Weber say about public sector innovation},
   url              = {https://content.sciendo.com/configurable/contentpage/journals$002fnispa$002f8$002f1$002farticle-p9.xml},
-  comment          = {``The aim of this article is to, fi rst, give a brief overview of prevailing attempts to conceptualize (define) public-sector innovation and, second, contrast it with older literature on innovation''
+  comment          = {``The aim of this article is to, first, give a brief overview of prevailing attempts to conceptualize (define) public-sector innovation and, second, contrast it with older literature on innovation''
 
 conceptualise public sector innovation in 3 periods:
 1. the Schumpeterian period - public sector innovation related to wider theories of evolutionary change
@@ -7404,7 +7411,7 @@ conceptualise public sector innovation in 3 periods:
 3. the autochthonous-theory period - dissociating public and private innovation},
   creationdate     = {2023-01-15T17:43:07},
   keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-15T18:48:45},
+  modificationdate = {2023-03-04T12:26:57},
   owner            = {izzyolivine},
   year             = {2015},
 }
@@ -7728,7 +7735,7 @@ outside-in from vendors or consultants)''
   title            = {Administrative Burden: Policymaking by other means},
   doi              = {10.7758/9781610448789},
   url              = {https://www.jstor.org/stable/10.7758/9781610448789},
-  comment          = {Loads of examples of how administrative burden can be used to enact policies, sometimes in a convert manner, for public good or sometimes bad.
+  comment          = {Loads of examples of how administrative burden can be used to enact policies, sometimes in a covert manner, for public good or sometimes bad.
 
 Examples include voter registration, polling stations, food stamps, health insurance, abortion, tax credits, old age benefits, social security,
 
@@ -7750,7 +7757,7 @@ burdensome enough that low-income workers seek professional tax preparation help
 highlights:  \url{https://highlights.sawyerh.com/volumes/vB9VLalTilxmp1ivWjpV}},
   creationdate     = {2023-01-17T13:57:28},
   keywords         = {economics, policy, transformation},
-  modificationdate = {2023-01-17T14:42:34},
+  modificationdate = {2023-03-04T12:36:17},
   owner            = {izzyolivine},
   year             = {2018},
 }
@@ -7814,7 +7821,7 @@ The Plays
   issue            = {S1: TOWARDS AN ANTHROPOLOGY OF DATA},
   url              = {https://rai.onlinelibrary.wiley.com/doi/epdf/10.1111/1467-9655.13477?saml_referrer},
   volume           = {27},
-  comment          = {Introduction to a spection issue. Describes data not as something that is a break with the past but as something that continues from the past.
+  comment          = {Introduction to a special issue. Describes data not as something that is a break with the past but as something that continues from the past.
 
 ``In this special issue, we draw data's apparent novelty into conversation withmany of anthropology's central concepts, from kinship to value to personhood.''
 
@@ -7836,7 +7843,7 @@ Topics in the issues:
 * data's capacity to produce new social compositions while indexing the old},
   creationdate     = {2023-01-18T08:51:28},
   keywords         = {data, anthropology},
-  modificationdate = {2023-01-18T20:09:57},
+  modificationdate = {2023-03-04T12:39:01},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -7863,16 +7870,17 @@ Overarching conclusions:
 7. Enhancing existing information reporting systems with energy, cost and carbon related data will empower stakeholders through better and more timely knowledge.
 8. Capacity needs to be built for scale and in the right places in the organisation, through mapping of the needs and requirements in each area of the organisation. Skills needs will vary dependent on the type of activity that each actor is going to fulfil.
 9. If capacity is not available within the organisation then it should be sought from the supply chain, though care should be taken to ensure that consistent and high-quality support is obtained. Capacity will be needed to support delivery, from installation to onsite security escorting contractors.
-10. Improving general carbon literacy throughout the public sector will support better buy-in, wider adoption, and scaled decarbonisation. 11. Having a clearly defined Net Zero organisational structure, that complements the overall organisational structure, will provide clarity to those across the organisation on roles and responsibilities. Attributing clear targets and goals to each group will support delivery.
+10. Improving general carbon literacy throughout the public sector will support better buy-in, wider adoption, and scaled decarbonisation. 
+11. Having a clearly defined Net Zero organisational structure, that complements the overall organisational structure, will provide clarity to those across the organisation on roles and responsibilities. Attributing clear targets and goals to each group will support delivery.
 12. A high-level Net Zero strategy and its underlying delivery plans must consider how all the Net Zero Target Operating Model attributes will be fulfilled, to support decarbonisation at scale in line with relevant targets. This may mean a step change in current deployment plans.
-13. Trials and tests of technologies, process and decision-making, and different commercial routes must continue, but be more joined up. Knowledge from trials should be captured and shared more widely to help demonstrate scaled delivery models.
-Recording standard information for sharing amongst a community either within a sector or more widely would help others understand how they can deploy at scale.
+13. Trials and tests of technologies, process and decision-making, and different commercial routes must continue, but be more joined up. Knowledge from trials should be captured and shared more widely to help demonstrate scaled delivery models. 
+14. Recording standard information for sharing amongst a community either within a sector or more widely would help others understand how they can deploy at scale.
 Departments and other public sector organisations need a committed multi-year budget to be able to start to deliver at scale.
 15. Clear direction on expectations for departments and other public sector organisations would support the development of scaled decarbonisation plans.
 16. More guidance and collaboration across Government, to support shared learning and speed of uptake efficiently.},
   creationdate     = {2023-01-18T16:54:26},
   keywords         = {climate, bureaucracy, economics, transition},
-  modificationdate = {2023-01-22T16:39:04},
+  modificationdate = {2023-03-04T12:53:19},
   owner            = {ISargent},
 }
 
@@ -8085,12 +8093,12 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
   author           = {Juliette C Mattijsen and van Bree, Egid M and Evelyn A Brakema and Maud M T E Huynen and Eva H Visser and Peter J Blankestijn and Philip N D Elders and Hans C Ossebaard},
   date             = {2023},
   journaltitle     = {Lancet Planet Health},
-  title            = {Educational activism for planetary health - a case examplefrom The Netherlands},
+  title            = {Educational activism for planetary health - a case example from The Netherlands},
   url              = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9834507/},
   comment          = {When simple activism alone did not create much change in the Dutch health sector - which is responsible for 7\% of Dutch emissions (check this) then a programme of education was rolled out by activists ultimately with senior/government endoresement (as I read it)},
   creationdate     = {2023-01-29T19:05:57},
   keywords         = {climate, health, environment, education, activism},
-  modificationdate = {2023-01-29T19:10:00},
+  modificationdate = {2023-03-04T12:58:42},
   owner            = {izzy_olivine},
 }
 
@@ -8165,11 +8173,11 @@ In our experience the best p.m. generally come from the programme side finding s
   date             = {2018},
   title            = {Digital Transformation At Scale: Why the Strategy is Delivery},
   url              = {https://www.andrewgreenway.com/book},
-  comment          = {Short easy read about my angel to digitally transform an organisation to using Agile approaches
+  comment          = {Short easy read about using Agile approaches to digitally transform an organisation
 
 4 things are required for a digital transformation: a crisis, a political leader,  a team and a mission.
 
-``... a crisis is almost always an essential condition for digitally transforming a government and there's no shortage of them challenges choosing the right crisis''
+``... a crisis is almost always an essential condition for digitally transforming a government and there's no shortage of them the challenge is choosing the right crisis''
 
 ``Megaprojects and the eye-popping budget overruns are often a good source of crisis material 9 out of 10 government projects with an initial budget of at least £1 billion end up spending more than originally planned''
 
@@ -8218,7 +8226,7 @@ Creating new rules and standards allows you to scale practise across an organisa
 ``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
   creationdate     = {2023-02-02T10:39:28},
   keywords         = {transformation, Agile, bureaucracy, economics},
-  modificationdate = {2023-02-02T10:41:46},
+  modificationdate = {2023-03-04T13:01:16},
   owner            = {izzy_olivine},
 }
 
@@ -8985,7 +8993,7 @@ the debate on STI and DUI modes originates in the so-called “innovation parado
 
 STI innovation mode supports interactions with centres producing new knowledge – mainly research centres and universities, scientific brokers and foundations for the diffusion of scientific research – which generate the codified and explicit knowledge that can be used by the firm to produce innovations
 
-DUI innovation - in the firm generated by the capacity of the firm to develop informal and formal exchanges internal to the firm, but also interactions with suppliers, customers and competitors
+DUI innovation - in the form generated by the capacity of the firm to develop informal and formal exchanges internal to the firm, but also interactions with suppliers, customers and competitors
 
 these modes might complement each other in the production of higher outcomes in terms of both innovation and economic performance
 
@@ -8994,7 +9002,7 @@ This paper studies the Basque Autonomous Community in Spain
 ``From a policy-making and a business practice perspective, some critical implications may be drawn. In particular, the fact that most businesses adopt a DUI type of interaction does not imply that it is an effective interaction mode. It delivers lower impact (than STI factors) in technological and radical innovation, whereas it matters more for non-technological innovation. And it is inadequate when it is bounded to the regional environment (DUI-regional)''.},
   creationdate     = {2023-02-24T17:13:28},
   keywords         = {economics, innovation, transformation, policy, technology, organisations},
-  modificationdate = {2023-02-24T17:31:04},
+  modificationdate = {2023-03-04T13:20:26},
   owner            = {izzy_olivine},
 }
 
