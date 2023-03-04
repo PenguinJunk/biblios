@@ -4829,7 +4829,7 @@ Another easy read from Chang!
 
 NL `unholy' alliance between neoclassical (NC) (analytical tools) and Austrian-libertarian (political and moral philosophy)
 
-State cannot be assumed to be impartical, onmipotent social guardian but self-seeking politicians under pressure from interest groups leads to government failures
+State cannot be assumed to be impartial, onmipotent social guardian but self-seeking politicians under pressure from interest groups leads to government failures
 
 NL absorbed welfare economics as it was `non-commital' (unlike Keynesianism) and and found ways to avoid state intervention such as minimising the state, prioritising entrepreneurship and finding interventionist policy too difficicult or dangerous
 
@@ -4845,10 +4845,10 @@ IPE is not New Institutionalist Economics but founded on work of Marx, Veblen, S
 
 Includes acceptance that human motivations are varied, complexly interacting and institutions play a role in this
 
-Bringing institutions and politics into the analytical core},
+Bringing institutions and politics into the analytical core - institutions influence how certain actions are understood},
   creationdate     = {2022-11-13T12:38:01},
   keywords         = {economics, institutions, policy},
-  modificationdate = {2022-11-13T13:45:04},
+  modificationdate = {2023-03-04T09:40:52},
   owner            = {ISargent},
 }
 
@@ -5099,7 +5099,7 @@ Boucher: technology increasingly framed as reduced to GHG emissions, less so soc
   author           = {Rob Raven and Geert Verbong},
   date             = {2004},
   journaltitle     = {Innovation},
-  title            = {Ruling out innovations - technological regimes, rules and failures: The cases of heat pumppower generation and bio-gas production in TheNetherlands},
+  title            = {Ruling out innovations - technological regimes, rules and failures: The cases of heat pump power generation and bio-gas production in The Netherlands},
   doi              = {10.5172/impp.2004.6.2.178},
   number           = {2},
   pages            = {178--198},
@@ -5112,7 +5112,7 @@ I think they found examples not in The Netherlands where they were successful
 Interesting that heat pumps are now a success},
   creationdate     = {2022-11-17T19:10:17},
   keywords         = {innovation, transition, technology, economics},
-  modificationdate = {2022-11-25T18:29:15},
+  modificationdate = {2023-03-04T09:51:43},
   owner            = {ISargent},
 }
 
@@ -5265,10 +5265,10 @@ Systems thinking
 }
 
 @Book{Kuznets1934,
-  author           = {United States. Bureau of Foreign and Domestic Commerce and National Bureau of Economic Research},
+  author           = {Simon Kuznets},
   date             = {1934-01-04},
   title            = {National Income, 1929-1932: Letter from the Acting Secretary of Commerce Transmitting in Response to Senate Resolution No. 220 (72nd Cong.) a Report on National Income, 1929-32},
-  publisher        = {U.S. Government Printing Office},
+  publisher        = {U.S. Government Printing Office, United States Bureau of Foreign and Domestic Commerce and National Bureau of Economic Research},
   series           = {73rd Cong., 2d sess. Senate. Doc. 124},
   titleaddon       = {Letter from the Acting Secretary of Commerce Transmitting in Response to Senate Resolution No. 220(72d Cong.) a Report on National Income, 1929-32},
   url              = {https://fraser.stlouisfed.org/files/docs/publications/natincome_1934/19340104_nationalinc.pdf},
@@ -5281,7 +5281,7 @@ Systems thinking
   institution      = {Bureau of Foreign and Domestic Commerce},
   keywords         = {economics, growth, welfare},
   lccn             = {34026496},
-  modificationdate = {2022-11-26T18:14:11},
+  modificationdate = {2023-03-04T09:57:26},
   owner            = {ISargent},
 }
 
@@ -5967,7 +5967,7 @@ important role for monetary policy''},
   author           = {{House of Commons Environmental Audit Committee}},
   date             = {2021-06-30},
   institution      = {House of Commons Environmental Audit Committee},
-  title            = {Biodiversity in the UK:bloom or bust? First Report of Session 2021--22},
+  title            = {Biodiversity in the UK: Bloom or Bust? First Report of Session 2021--22},
   eprint           = {https://committees.parliament.uk/publications/6498/documents/70656/default/},
   url              = {https://publications.parliament.uk/pa/cm5802/cmselect/cmenvaud/136/136-report.html},
   comment          = {UK is one of the most nature-depleted countries in the world
@@ -5979,7 +5979,7 @@ UK has the lowest level of biodiversity remaining.
 UK has failed to meet at least 14 of the 19 Aichi biodiversity targets},
   creationdate     = {2022-12-03T15:09:23},
   keywords         = {environment, biodiversity},
-  modificationdate = {2022-12-03T15:13:00},
+  modificationdate = {2023-03-04T10:22:39},
   owner            = {ISargent},
 }
 
@@ -6135,7 +6135,7 @@ Main view of Treasury is that industrial policy is for increasing productivity. 
 
 The impact of Covid-19 is only comparable to world wards and changed how we see fiferent sectors - it could change politics as wars did.
 
-Climate change - our options are to radically change energy production and use or to abandom large-scale productivity activity. Will need to swiftly abandon pseudo-competitive energy sector where sustainable energy is disincentivised.
+Climate change - our options are to radically change energy production and use or to abandon large-scale productivity activity. Will need to swiftly abandon pseudo-competitive energy sector where sustainable energy is disincentivised.
 
 Rise of platform firms is associated with los of domestic control over key economic infrastructure and resrouces - they locate most profitablu overseas 
 
@@ -6150,7 +6150,7 @@ Also scathing about Johnson
 ``fiscal expansion constrained only by evidence of real economic harm, rather than theoretical assumptions'' Stirling et al 2019},
   creationdate     = {2022-12-08T18:23:44},
   keywords         = {economics},
-  modificationdate = {2022-12-08T18:52:37},
+  modificationdate = {2023-03-04T10:26:25},
   owner            = {ISargent},
 }
 
@@ -6309,7 +6309,7 @@ Between 2015 and 2018 the green economy grew at 5\% ayear (ONS report from 2018)
 
 Green economy could provide good quality jobs e.g. 10,000 direct jobs in offshore wind could triple by 2030
 
-Claim that ``the average UK manufacturer spends five times as much on resource costs as on labour...'' I'm not sure if this is the case but the reference given (later in the paragraph:  \url{https://green-alliance.org.uk/wp-content/uploads/2021/11/Lean_and_clean.pdf}) demonstrates that material costs are far more volatile that n labour and they have been higher than labour costs in recent years
+Claim that ``the average UK manufacturer spends five times as much on resource costs as on labour...'' I'm not sure if this is the case but the reference given (later in the paragraph:  \url{https://green-alliance.org.uk/wp-content/uploads/2021/11/Lean_and_clean.pdf}) demonstrates that material costs are far more volatile than labour and they have been higher than labour costs in recent years
 
 ``...more scope to raise productivity via resource efficiency than by cutting labour costs''
 
@@ -6322,7 +6322,7 @@ Contrasts the strategy for off shore eind and EVs and finds the starting point s
 future-proofed economic growth that addresses inequality and support good quality jobs should use policy to drive change to zero emissions vehicles, drive innovation in energy efficiency, deploy modular factory-built building retrofits, invest in resource productivity and circular economy approaches to heavy industry},
   creationdate     = {2022-12-09T08:03:35},
   keywords         = {economics, policy, environment, work, industry},
-  modificationdate = {2023-01-18T20:08:49},
+  modificationdate = {2023-03-04T10:28:34},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -8705,13 +8705,13 @@ Two facets for the emotion pride: authentic and hubristic pride, suggested that 
   author           = {Ingrid Harvold Kvangraven},
   date             = {2020},
   journaltitle     = {Review of Political Economy},
-  title            = {Nobel Rebels in Disguise -Assessing the Rise and Rule of the Randomistas},
+  title            = {Nobel Rebels in Disguise - Assessing the Rise and Rule of the Randomistas},
   pages            = {305--341},
   url              = {https://www.tandfonline.com/doi/abs/10.1080/09538259.2020.1810886},
   comment          = {Criticism of the Randomised Control Trial (RCT) approach of the likes of Abhijit Banerjee, Esther Duflo and Michael Kremer (e.g. BanerjeeD2019)},
   creationdate     = {2023-02-19T13:31:52},
   keywords         = {economics, sociology},
-  modificationdate = {2023-02-19T14:35:58},
+  modificationdate = {2023-03-04T08:54:56},
   owner            = {izzy_olivine},
 }
 
@@ -8881,16 +8881,14 @@ Also pushes for digital ID
   date             = {2014-05-14},
   title            = {Hacking bureaucracy: improving hiring and software deployment},
   url              = {https://18f.gsa.gov/2014/05/14/hacking-bureaucracy-improving-hiring-and-software/},
-  comment          = {18F post
-
-Where the idea of bureaucracy hackers comes from
+  comment          = {18F post where the idea of bureaucracy hackers comes from
 
 Its not enough to build software, human platform is required on which to build software platform
 
 Agile approach to hiring as well as software deployment},
   creationdate     = {2023-02-24T11:49:54},
   keywords         = {transformation, organisation, innovation},
-  modificationdate = {2023-02-24T12:06:47},
+  modificationdate = {2023-03-04T08:49:53},
   owner            = {izzy_olivine},
 }
 
@@ -9251,6 +9249,18 @@ Discuss the challenge of staying at the techno-economic frontier, or perhaps con
   creationdate     = {2023-03-03T20:33:07},
   keywords         = {economics, policy, bureaucracy},
   modificationdate = {2023-03-03T20:58:41},
+  owner            = {ISargent},
+}
+
+@InBook{KattelDK2023ch7,
+  author           = {Rainer Kattel and Wolfgang Drechsler and Erkki Karo},
+  booktitle        = {How to make an Entrepreneurial State},
+  date             = {2023},
+  title            = {Summing Up: Will The Next Decade Be Led By Neo-Weberian Innovation Agencies?},
+  comment          = {Prior to Covid pandemic, policies were becoming more mission-based by innovation bureaucracies were not and dynamic capabilities were illusive for most innovaiton bureaucracies.},
+  creationdate     = {2023-03-04T08:40:37},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-03-04T08:43:38},
   owner            = {ISargent},
 }
 
