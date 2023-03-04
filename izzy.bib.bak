@@ -9622,9 +9622,25 @@ More than 10 million people each year exposed to heat stress exceeding the survi
   date             = {2019-11-26},
   title            = {Slash emissions now or face climate disaster, UN warns},
   url              = {https://phys.org/news/2019-11-slash-emissions-climate-disaster.html},
+  comment          = {This reduction requires at least a 7\% reduction in GHG emissions a year},
   creationdate     = {2023-03-04T23:28:10},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:29:07},
+  modificationdate = {2023-03-04T23:29:18},
+  owner            = {ISargent},
+}
+
+@Article{Tollefson2021,
+  author           = {Jeff Tollefson},
+  date             = {2021-01-15},
+  journaltitle     = {Nature},
+  title            = {COVID curbed carbon emissions in 2020 — but not by much},
+  doi              = {10.1038/d41586-021-00090-3},
+  number           = {343},
+  url              = {https://www.nature.com/articles/d41586-021-00090-3},
+  volume           = {589},
+  creationdate     = {2023-03-04T23:30:21},
+  keywords         = {covid, climate},
+  modificationdate = {2023-03-04T23:32:23},
   owner            = {ISargent},
 }
 
