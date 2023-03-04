@@ -9456,4 +9456,15 @@ improving service delivery is necessary but not sufficient for trust. Good perfo
   owner            = {ISargent},
 }
 
+@Online{UNFCCC2020,
+  author           = {{UNFCCC}},
+  date             = {2020},
+  title            = {The Paris Agreement: What is the Paris Agreement?},
+  url              = {https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement},
+  urldate          = {2023-03-04},
+  creationdate     = {2023-03-04T22:26:52},
+  modificationdate = {2023-03-04T22:30:14},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
