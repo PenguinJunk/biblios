@@ -9564,4 +9564,30 @@ We must plan to adapt},
   owner            = {ISargent},
 }
 
+@Online{McFallJohnsen2019,
+  author           = {Morgan McFall-Johnsen},
+  date             = {2019-11-22},
+  title            = {Painfully slow hurricanes, deadly heat, and cities without water: What the climate crisis will look like in the next 10 years, according to experts},
+  url              = {https://www.businessinsider.com/climate-change-in-the-next-decade-2019-11},
+  comment          = {Lots of near-term scenario resulting from climate change
+
+The World Health Organization (WHO) projects that, overall, climate change will kill an additional 241,000 people per year by 2030.},
+  creationdate     = {2023-03-04T23:10:28},
+  keywords         = {climate, health, weather},
+  modificationdate = {2023-03-04T23:15:27},
+  owner            = {ISargent},
+}
+
+@TechReport{QuigginDHF2021,
+  author           = {Daniel Quiggin and De Meyer, Kris and Lucy Hubble-Rose and Antony Froggatt},
+  date             = {2021-09-14},
+  institution      = {Chatham House},
+  title            = {Climate change risk assessment 2021},
+  url              = {https://www.chathamhouse.org/2021/09/climate-change-risk-assessment-2021},
+  creationdate     = {2023-03-04T23:14:59},
+  keywords         = {climate},
+  modificationdate = {2023-03-04T23:17:58},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
