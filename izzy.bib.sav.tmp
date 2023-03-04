@@ -9268,4 +9268,189 @@ Discuss the challenge of staying at the techno-economic frontier, or perhaps con
   date             = {2023},
   title            = {Summing Up: Will The Next Decade Be Led By Neo-Weberian Innovation Agencies?},
   chapter          = {7},
-  comment          = {Prior to Covid pandemic, policies were becoming more mission-based by innovation bureaucracies were not and dynamic capabilities were illusive for most innovation 
+  comment          = {Prior to Covid pandemic, policies were becoming more mission-based by innovation bureaucracies were not and dynamic capabilities were illusive for most innovation bureaucracies.
+
+We are witnessing both a normative turn towards framing innovation policies through specific challenges and an epistemic turn in innovation bureaucracies such as design, agile:
+- prototyping
+- experimentation
+- action research
+- ethnography 
+- ``experiential, experimental and techno-solutionish `hacker' routines''
+
+not so much:
+- economics
+- public policy analysis
+
+Reemphasise that experimentalism is not enough, long-term capacities and dynamic capabilities matter - combination of dynamic functions and long-term stability-oriented functions seem to be at the heart of successful responses to the pandemic
+
+Neo-Weberian agencies or Weber III-type agencies attempt to combine Weber I and II ... long-term legitimacy and professionalism ... expert organisations - while porosity to various stakeholder, epistemological and implementation frameworks ... charismatic networks
+
+Proposed 5 ideal-types of innovation bureaucracy, all converging around neo-Weberian blueprints embodying agile-stability
+- creators
+- doers
+- funders
+- intermediaries
+- rulers
+
+Core missions of neo-Weberian innovation agencies:
+1. Investment focussed missions and agencies
+2. Market-shaping-focussed missions and agencies
+3. System change or transformation-focussed missions and agencies
+
+Modes to create and maintain long-term capacities and dynamic capabilities:
+1. Leadership-driven - leaders supporting developing of capacities and capabilities
+2. Management-driven - changing management practices and routines
+3. New organisation-driven - new public organisation
+
+GDS ``victim of its own success'' not stabilty-focussed. Now a need to renew sources and reasons driving dynamic capabilities},
+  creationdate     = {2023-03-04T08:40:37},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-03-04T17:33:18},
+  owner            = {ISargent},
+}
+
+@TechReport{MazzucatoCMKA2020,
+  author           = {Mariana Mazzucato and Rowan Conway and Eleonora Maria Mazzoli and Eva Knoll and Sarah Albala},
+  date             = {2020},
+  institution      = {UCL Institute of Innovation and Public Purpose},
+  title            = {Creating and measuring dynamic public value at the {BBC}: A scoping report},
+  eprint           = {https://www.ucl.ac.uk/bartlett/public-purpose/sites/public-purpose/files/final-bbc-report-6_jan.pdf},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2020/dec/creating-and-measuring-dynamic-public-value-bbc},
+  comment          = {Value for Individual, Societal and industry
+ 
+Paper is about measuring in a dynamic sense 
+
+Royal Charter and Agreement seeks to minimise negative impact of BBC on market but also sets expectation of BBC as market shaper
+
+Evaluation layers:
+- Direct i.e. baseline - static efficiency and consumption - e.g. viewing figures
+- Dynamic e.g. spillovers and externalities - e.g. reaised awareness/interest
+- market shaping - ecosystem-wide dynamic efficiency - .e.g change in attitude or behaviour
+
+Held a public value workshop at BBC of 13 stakeholders 
+
+Societal value includes informing as part of democratic process, representation of different cultures etc.
+
+Industry value, especially Creative industries, de-risking and
+crowding-in new actors 
+
+Paper looks specifically at
+- Content
+- standards setting
+- Talent
+- Technology advances
+
+Market shaping examples:
+- Content
+  - Blue Planet
+  - Women in sport
+- Standards
+  - Editorial standards
+  - Commissioning practice
+  - TV, DAB, DVB-T2
+- Talent
+  - National Film and Television school
+  - Most in sector worked or trained at BBC
+- Technology
+  - BBC Micro, iPlayer, BBC Sounds
+
+Central to market shaping is directonality
+Dynamic evaluation: burden of data collection minised by making it part of process of strategy-setting etc
+Capture innovation spillovers, industry influence, ecosystem services, network effects (may require expensive in-depth studies)
+
+For societal value: reach and cost per viewing among the less well served
+
+Iterative evaluation and learning and adapting to feedback
+
+Also suggest a portfolio approach to public value creation Market shaping: BBC as:
+- Inventor
+- Investor of first resort
+- Innovator
+- Platform
+
+Consider what would be the counterfactual - what if there wasn't a BBC? 
+
+Next steps:
+- Produce a shared definition of dynamic public value, internally and externally
+- Test how new evaluation methods align with the BBC’s long-term strategy
+- Develop dynamic data analytics capabilities within the BBC
+- Start small and test the framework internally where there is appetite to do so
+- Test the concept of dynamic public value and market shaping with Ofcom
+- Feed early feedback from tests into the mid-term review},
+  creationdate     = {2023-03-04T14:14:31},
+  keywords         = {value, economics, policy, bureaucracy},
+  modificationdate = {2023-03-04T15:30:14},
+  owner            = {ISargent},
+}
+
+@Online{GOScienceFutures,
+  author           = {{GO-Science}},
+  title            = {Futures, Foresight and Emerging Technologies},
+  url              = {https://www.gov.uk/government/groups/futures-and-foresight},
+  subtitle         = {Policymaking that stands the test of time.},
+  urldate          = {2023-03-04},
+  comment          = {Page about futures and futures thinking in government.},
+  creationdate     = {2023-03-04T16:37:03},
+  keywords         = {bureaucracy, policy, economics},
+  modificationdate = {2023-03-04T16:40:04},
+  owner            = {ISargent},
+}
+
+@InBook{KattelDK2023ch4,
+  author           = {Rainer Kattel and Wolfgang Drechsler and Erkki Karo},
+  booktitle        = {How to make an Entrepreneurial State},
+  date             = {2023},
+  title            = {Agile Stability in the Post-Second World War Era},
+  chapter          = {4},
+  comment          = {Weiss argues that dominant focus of the US federal technology and innovation policies has been on technology leadership `in order to sustain US military-political primacy, not to achieve commercial advantage' - national identity building
+
+Innovation bureaucracy, self organising
+
+Focus on impact not risk – DARPA projects are selected and evaluated
+on what impact they could make on achieving a demanding
+capability or challenge.},
+  creationdate     = {2023-03-04T17:31:00},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-03-04T21:52:52},
+  owner            = {ISargent},
+}
+
+@Book{KattelDK2023,
+  author           = {Rainer Kattel and Wolfgang Drechsler and Erkki Karo},
+  date             = {2023},
+  title            = {How to make an Entrepreneurial State},
+  comment          = {made up of 
+KattelDK2023ch1
+KattelDK2023ch2
+KattelDK2023ch3
+KattelDK2023ch4
+KattelDK2023ch5
+KattelDK2023ch6
+KattelDK2023ch7},
+  creationdate     = {2023-03-04T17:40:39},
+  keywords         = {economics, policy, bureaucracy},
+  modificationdate = {2023-03-04T17:42:28},
+  owner            = {ISargent},
+}
+
+@Article{Bouckaert2012,
+  author           = {Geert Bouckaert},
+  date             = {2012},
+  journaltitle     = {Administration},
+  title            = {Trust and public administration},
+  number           = {1},
+  pages            = {91--115},
+  volume           = {60},
+  comment          = {``trust in the capacity of government and its public sector to realise effective policies is a crucial element in a performing society and economy''
+
+too much autonomy leads to loss of control
+
+a focus on performance is not a panacea and there are negative effects such as gaming, new bureaucracies and audit overload
+
+finds:
+one should not maximise trust but optimise it as a function of the cultural contingencies. Some distrust may even be functional and may create the tension necessary for a reform agenda
+
+improving service delivery is necessary but not sufficient for trust. Good performance does not necessarily lead to more trust, but bad performance certainly will erode trust},
+  creationdate     = {2023-03-04T21:57:51},
+  modificationdate = {2023-03-04T22:06:16},
+  owner            = {I
