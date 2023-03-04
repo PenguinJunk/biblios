@@ -9598,8 +9598,21 @@ More than 10 million people each year exposed to heat stress exceeding the survi
   date             = {2022-04-04},
   title            = {The evidence is clear: the time for action is now. We can halve emissions by 2030.},
   url              = {https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/},
+  comment          = {To avoid dangerous climate change, by 2030, global greenhouse gas (GHG) emissions need to approximately half},
   creationdate     = {2023-03-04T23:22:43},
-  modificationdate = {2023-03-04T23:24:27},
+  keywords         = {climate},
+  modificationdate = {2023-03-04T23:26:52},
+  owner            = {ISargent},
+}
+
+@Online{CAT2022,
+  author           = {{Climate Action Tracker}},
+  title            = {CAT Emissions Gap},
+  url              = {https://climateactiontracker.org/global/cat-emissions-gaps/},
+  urldate          = {2023-03-04},
+  creationdate     = {2023-03-04T23:25:36},
+  keywords         = {climate},
+  modificationdate = {2023-03-04T23:26:44},
   owner            = {ISargent},
 }
 
