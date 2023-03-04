@@ -2732,12 +2732,12 @@ Threat, Fear, Response Efficacy, Self-Efficacy, Barriers, Benefits, Subjective N
 Major theories of behaviour change
 1. Social Cognitive Theory - external (personal and environmental) factors influence behaviour - although the personal factors seem pretty internal to me! 
 2. Theory of planned behaviour - behaviour depends on intention which is influenced by attitude to the behaviour, subjective norms and perceived behavioural control
-3. Transtheoretical (Stages of Change) model - change is a prcess of 6 stages so you need to understand people's stage to identify the behaviour change intervention
+3. Transtheoretical (Stages of Change) model - change is a process of 6 stages so you need to understand people's stage to identify the behaviour change intervention
 
 Also briefs on attitude change},
   creationdate     = {2022-10-07T18:32:30},
   keywords         = {change, social science, behavriour},
-  modificationdate = {2022-10-07T18:43:16},
+  modificationdate = {2023-03-04T20:24:13},
   owner            = {ISargent},
 }
 
@@ -2770,7 +2770,7 @@ In 1841, Friedrich List, motivated to determine how Germany could overtake Engla
 
 The system of Innovation includes education, including non-teaching such as museums and events and government assistance and direction, etc
 
-In the late 19th century Germany industries innovated by introducing the in-house R\&D department. In-house R\&D became more prevalent after the second World war. The dominant idea of innovation was science and technology push - The Linear Model - with R\&D being seen as the source of innovation. In the 50s and 60s, however, evidence that diffusion of innovation was more important to economic growth than being the first in the world with the radical innovations. Also social innovations we're as important as technical innovations.
+In the late 19th century Germany industries innovated by introducing the in-house R\&D department. In-house R\&D became more prevalent after the second World war. The dominant idea of innovation was science and technology push - The Linear Model - with R\&D being seen as the source of innovation. In the 50s and 60s, however, evidence that diffusion of innovation was more important to economic growth than being the first in the world with the radical innovations. Also social innovations were as important as technical innovations.
 
 In the 80s and 90s it became evident that incremental Innovations came from areas other than R\&D such as production engineers technicians and from interactions with the market.
 
@@ -2781,7 +2781,7 @@ With globalisation there has been debate over whether increasing standardisation
 See also Lundvall2007 and Brown2022},
   creationdate     = {2022-10-09T16:03:39},
   keywords         = {economics, innovation, international},
-  modificationdate = {2023-03-04T19:14:35},
+  modificationdate = {2023-03-04T19:15:12},
   owner            = {ISargent},
   year             = {1995},
 }
@@ -8286,14 +8286,14 @@ Although Sunstein funds that the planning fallancy is more likely to be malevale
   comment          = {Innovation labs in aid agencies were on the rise but are now declining. Considers that this is because:
 
 1. hierachical administrative culture, which is difficult to innovate within (``radical's dilemma'') and so labs tend to be separate, and are therefore more easy to cut off
-2. innovation labs tend to cut against the grain of usual brueaucratic processes and can struggle to gain or maintain strong patronage, especially if leadership changes
+2. innovation labs tend to cut against the grain of usual bureaucratic processes and can struggle to gain or maintain strong patronage, especially if leadership changes
 3. innovation is a ``magic concept'' - it has powerful appeal but is also highly ambiguous in its meaning which leaves uncertainty in overall expectations about the impact of an innovation lab
 
 These 3 areas are part of both the rise and fall of the labs},
   creationdate     = {2023-02-13T15:12:08},
   journaltitle     = {{DevPolicy} Blog},
   keywords         = {economics, innovation},
-  modificationdate = {2023-02-13T15:17:49},
+  modificationdate = {2023-03-04T20:52:04},
   owner            = {izzy_olivine},
 }
 
