@@ -9622,10 +9622,12 @@ More than 10 million people each year exposed to heat stress exceeding the survi
   date             = {2019-11-26},
   title            = {Slash emissions now or face climate disaster, UN warns},
   url              = {https://phys.org/news/2019-11-slash-emissions-climate-disaster.html},
-  comment          = {This reduction requires at least a 7\% reduction in GHG emissions a year},
+  comment          = {This reduction requires at least a 7\% reduction in GHG emissions a year
+
+See also \url{https://ourworldindata.org/future-emissions} for charts showing how much we have to reduce emissions the later we start},
   creationdate     = {2023-03-04T23:28:10},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:29:18},
+  modificationdate = {2023-03-04T23:37:23},
   owner            = {ISargent},
 }
 
@@ -9638,9 +9640,16 @@ More than 10 million people each year exposed to heat stress exceeding the survi
   number           = {343},
   url              = {https://www.nature.com/articles/d41586-021-00090-3},
   volume           = {589},
+  comment          = {the Covid-19 pandemic caused a 6.4\% reduction in greenhouse gas emissions 2020},
   creationdate     = {2023-03-04T23:30:21},
   keywords         = {covid, climate},
-  modificationdate = {2023-03-04T23:32:23},
+  modificationdate = {2023-03-04T23:32:44},
+  owner            = {ISargent},
+}
+
+@Article{,
+  creationdate     = {2023-03-04T23:38:00},
+  modificationdate = {2023-03-04T23:38:00},
   owner            = {ISargent},
 }
 
