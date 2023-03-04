@@ -3729,7 +3729,7 @@ And market-fixing measures, Pigou taxes - internalisation of externalities - for
   institution      = {United Nations Intergovernmental Panel on Climate Change},
   title            = {{IPCC WGII} Sixth Assessment Report},
   subtitle         = {Summary for Policymakers},
-  url              = {https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf},
+  url              = {https://www.ipcc.ch/report/ar6/wg2/},
   comment          = {''SPM.D.5.3 The cumulative scientific evidence is unequivocal: Climate change is a threat to human well-being and planetary health. Any further delay in concerted anticipatory global action on adaptation and mitigation will miss a brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all. (very high confidence) {1.2, 1.4, 1.5, 16.2, 16.4, 16.5, 16.6, 17.4, 17.5, 17.6, 18.3, 18.4, 18.5, CWGB URBAN, CCB DEEP, Table SM16.24, WGI SPM, SROCC SPM, SRCCL SPM}''
 
 Global warming, reaching 1.5°C in the near-term, would cause unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans (very high confidence).
@@ -3737,7 +3737,7 @@ Global warming, reaching 1.5°C in the near-term, would cause unavoidable increa
 ``Climate change impacts and risks are becoming increasingly complex and more difficult to manage. Multiple climate hazards will occur simultaneously, and multiple climatic and non-climatic risks will interact, resulting in compounding overall risk and risks cascading across sectors and regions. Some responses to climate change result in new impacts and risks. (high confidence)''},
   creationdate     = {2022-10-22T16:52:51},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:04:03},
+  modificationdate = {2023-03-04T23:21:40},
   owner            = {ISargent},
 }
 
@@ -9584,9 +9584,22 @@ The World Health Organization (WHO) projects that, overall, climate change will 
   institution      = {Chatham House},
   title            = {Climate change risk assessment 2021},
   url              = {https://www.chathamhouse.org/2021/09/climate-change-risk-assessment-2021},
+  comment          = {400 million people globally each year exposed to temperatures exceeding the workability threshold
+
+More than 10 million people each year exposed to heat stress exceeding the survivability threshold},
   creationdate     = {2023-03-04T23:14:59},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:17:58},
+  modificationdate = {2023-03-04T23:18:20},
+  owner            = {ISargent},
+}
+
+@Online{IPCCWGIII2022,
+  author           = {{IPCC}},
+  date             = {2022-04-04},
+  title            = {The evidence is clear: the time for action is now. We can halve emissions by 2030.},
+  url              = {https://www.ipcc.ch/2022/04/04/ipcc-ar6-wgiii-pressrelease/},
+  creationdate     = {2023-03-04T23:22:43},
+  modificationdate = {2023-03-04T23:24:27},
   owner            = {ISargent},
 }
 

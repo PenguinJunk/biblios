@@ -3729,7 +3729,7 @@ And market-fixing measures, Pigou taxes - internalisation of externalities - for
   institution      = {United Nations Intergovernmental Panel on Climate Change},
   title            = {{IPCC WGII} Sixth Assessment Report},
   subtitle         = {Summary for Policymakers},
-  url              = {https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf},
+  url              = {https://www.ipcc.ch/report/ar6/wg2/},
   comment          = {''SPM.D.5.3 The cumulative scientific evidence is unequivocal: Climate change is a threat to human well-being and planetary health. Any further delay in concerted anticipatory global action on adaptation and mitigation will miss a brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all. (very high confidence) {1.2, 1.4, 1.5, 16.2, 16.4, 16.5, 16.6, 17.4, 17.5, 17.6, 18.3, 18.4, 18.5, CWGB URBAN, CCB DEEP, Table SM16.24, WGI SPM, SROCC SPM, SRCCL SPM}''
 
 Global warming, reaching 1.5°C in the near-term, would cause unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans (very high confidence).
@@ -3737,7 +3737,7 @@ Global warming, reaching 1.5°C in the near-term, would cause unavoidable increa
 ``Climate change impacts and risks are becoming increasingly complex and more difficult to manage. Multiple climate hazards will occur simultaneously, and multiple climatic and non-climatic risks will interact, resulting in compounding overall risk and risks cascading across sectors and regions. Some responses to climate change result in new impacts and risks. (high confidence)''},
   creationdate     = {2022-10-22T16:52:51},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:04:03},
+  modificationdate = {2023-03-04T23:21:40},
   owner            = {ISargent},
 }
 
@@ -9531,4 +9531,5 @@ improving service delivery is necessary but not sufficient for trust. Good perfo
   volume           = {120},
   abstract         = {Leveraging artificial neural networks (ANNs) trained on climate model output, we use the spatial pattern of historical temperature observations to predict the time until critical global warming thresholds are reached. Although no observations are used during the training, validation, or testing, the ANNs accurately predict the timing of historical global warming from maps of historical annual temperature. The central estimate for the 1.5\&nbsp;°C global warming threshold is between 2033 and 2035, including a ±1σ range of 2028 to 2039 in the Intermediate (SSP2-4.5) climate forcing scenario, consistent with previous assessments. However, our data-driven approach also suggests a substantial probability of exceeding the 2\&nbsp;°C threshold even in the Low (SSP1-2.6) climate forcing scenario. While there are limitations to our approach, our results suggest a higher likelihood of reaching 2\&nbsp;°C in the Low scenario than indicated in some previous assessments—though the possibility that 2\&nbsp;°C could be avoided is not ruled out. Explainable AI methods reveal that the ANNs focus on particular geographic regions to predict the time until the global threshold is reached. Our framework provides a unique, data-driven approach for quantifying the signal of climate change in historical observations and for constraining the uncertainty in climate model projections. Given the substantial existing evidence of accelerating risks to natural and human systems at 1.5\&nbsp;°C and 2\&nbsp;°C, our results provide further evidence for high-impact climate change over the next three decades.},
   creationdate     = {2023-03-04T22:49:27},
-  journal          = {Proceedings of the National Academy 
+  journal          = {Proceedings of the National Academy of Sciences},
+  modificationdate = {20
