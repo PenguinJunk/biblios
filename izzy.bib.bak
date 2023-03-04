@@ -9610,9 +9610,21 @@ More than 10 million people each year exposed to heat stress exceeding the survi
   title            = {CAT Emissions Gap},
   url              = {https://climateactiontracker.org/global/cat-emissions-gaps/},
   urldate          = {2023-03-04},
+  comment          = {Current pledges and targets address less than a fifth of what is needed and policies and actions are negligible in their impact},
   creationdate     = {2023-03-04T23:25:36},
   keywords         = {climate},
-  modificationdate = {2023-03-04T23:26:44},
+  modificationdate = {2023-03-04T23:27:12},
+  owner            = {ISargent},
+}
+
+@Online{GaleyH2019,
+  author           = {Patrick Galey and Marlowe Hood},
+  date             = {2019-11-26},
+  title            = {Slash emissions now or face climate disaster, UN warns},
+  url              = {https://phys.org/news/2019-11-slash-emissions-climate-disaster.html},
+  creationdate     = {2023-03-04T23:28:10},
+  keywords         = {climate},
+  modificationdate = {2023-03-04T23:29:07},
   owner            = {ISargent},
 }
 
