@@ -2335,7 +2335,7 @@ None.},
 
 SPIS definition from the Research Policy journal: ``devoted to analyzing, understanding and effectively responding to the economic, policy, management, organizational, environmental and other challenges posed by innovation, technology, R\&D and science. This includes a number of related activities concerned with the creation of knowledge (through research), the diffusion and acquisition of knowledge (e.g. through organizational learning), and its exploitation in the form of new or improved products, processes or services''
 
-''characterised by the terms innovation, technology, R\&D and science, is studied using a range of social science disciplines (economics and economic history, policy studies, management science, organisational studies, sociology''
+``characterised by the terms innovation, technology, R\&D and science, is studied using a range of social science disciplines (economics and economic history, policy studies, management science, organisational studies, sociology''
 
 economics, economic history and business history, policy, management (including new product management), organsiational studies, sociology of innovation - especially diffusion but less sociology of science and technology because this comes more under science and technology studies (STS).
 
@@ -2351,7 +2351,7 @@ Idea of ``science push'' linear model of innovation which arose from Vannevar Bu
 
 Schmookler 1966 ``Invention and economics growth is credited with the demand-pull model'' of innovation.
 
-''Kline and Rosenberg [1986] ... effectively ended the `science-push' versus `demand-pull' debate ... argued that one needed to move beyond simple linear models and instead put forward an interactive `chain-linked' model of the innovation process''
+``Kline and Rosenberg [1986] ... effectively ended the `science-push' versus `demand-pull' debate ... argued that one needed to move beyond simple linear models and instead put forward an interactive `chain-linked' model of the innovation process''
 
 Nelson and Arrow on economics of research.
 
@@ -2384,7 +2384,7 @@ Some of this has come out of particular institutions, e.g. SPRU (and Project SAP
 In many ways, this history is summarised in Martin2016},
   creationdate     = {2022-10-04T11:45:12},
   keywords         = {economics, innovation},
-  modificationdate = {2022-10-23T12:38:31},
+  modificationdate = {2023-03-04T16:16:15},
   owner            = {ISargent},
 }
 
@@ -2770,7 +2770,7 @@ In 1841, Friedrich List, motivated to determine how Germany could overtake Engla
 
 The system of Innovation includes education, including non-teaching such as museums and events and government assistance and direction, etc
 
-In the late 19th century Germany industries innovated by introducing the in-house R\&D department. In-house R\&D became more prevalent after the second World war. The dominant idea of innovation was science and technology push - The Linear Model - with R\&D being seen as the source of innovation. In the 50s and 60s, however, evidence that diffusion of innovation was more important to economic growth and being the first in the world with the radical innovations. Also social innovations we're as important as technical innovations.
+In the late 19th century Germany industries innovated by introducing the in-house R\&D department. In-house R\&D became more prevalent after the second World war. The dominant idea of innovation was science and technology push - The Linear Model - with R\&D being seen as the source of innovation. In the 50s and 60s, however, evidence that diffusion of innovation was more important to economic growth than being the first in the world with the radical innovations. Also social innovations were as important as technical innovations.
 
 In the 80s and 90s it became evident that incremental Innovations came from areas other than R\&D such as production engineers technicians and from interactions with the market.
 
@@ -2781,7 +2781,7 @@ With globalisation there has been debate over whether increasing standardisation
 See also Lundvall2007 and Brown2022},
   creationdate     = {2022-10-09T16:03:39},
   keywords         = {economics, innovation, international},
-  modificationdate = {2022-10-09T17:38:00},
+  modificationdate = {2023-03-04T19:15:12},
   owner            = {ISargent},
   year             = {1995},
 }
@@ -6322,7 +6322,7 @@ Contrasts the strategy for off shore eind and EVs and finds the starting point s
 future-proofed economic growth that addresses inequality and support good quality jobs should use policy to drive change to zero emissions vehicles, drive innovation in energy efficiency, deploy modular factory-built building retrofits, invest in resource productivity and circular economy approaches to heavy industry},
   creationdate     = {2022-12-09T08:03:35},
   keywords         = {economics, policy, environment, work, industry},
-  modificationdate = {2023-03-04T10:28:34},
+  modificationdate = {2023-03-04T16:29:57},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -8226,7 +8226,7 @@ Creating new rules and standards allows you to scale practise across an organisa
 ``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
   creationdate     = {2023-02-02T10:39:28},
   keywords         = {transformation, Agile, bureaucracy, economics},
-  modificationdate = {2023-03-04T13:01:16},
+  modificationdate = {2023-03-04T16:14:51},
   owner            = {izzy_olivine},
 }
 
@@ -9002,7 +9002,7 @@ This paper studies the Basque Autonomous Community in Spain
 ``From a policy-making and a business practice perspective, some critical implications may be drawn. In particular, the fact that most businesses adopt a DUI type of interaction does not imply that it is an effective interaction mode. It delivers lower impact (than STI factors) in technological and radical innovation, whereas it matters more for non-technological innovation. And it is inadequate when it is bounded to the regional environment (DUI-regional)''.},
   creationdate     = {2023-02-24T17:13:28},
   keywords         = {economics, innovation, transformation, policy, technology, organisations},
-  modificationdate = {2023-03-04T13:20:26},
+  modificationdate = {2023-03-04T16:17:08},
   owner            = {izzy_olivine},
 }
 
@@ -9237,6 +9237,7 @@ and then, when change has been decided upon:
   booktitle        = {How to make an Entrepreneurial State},
   date             = {2023},
   title            = {Agile Stability},
+  chapter          = {1},
   comment          = {Innovation bureaucracy is not an oxymoron
 
 Details the background to German Physikalisch-Technische Reichsanstalt (PTR) and Siemens' role in this. Also British NPL and American National Bureau of Standards. Siemens was a `Bureaucracy Hacker' - a phrase from 18F GodboutK2014, people who create `mission mistique' a term coined by Charles Goodsell in 2011.
@@ -9256,7 +9257,7 @@ Schumpeter differentiated between entrepreneurial and rentier states - the latte
 Discuss the challenge of staying at the techno-economic frontier, or perhaps constantly searching for the new one through reinvention (and the rise and fall of great powers who don't achieve this)},
   creationdate     = {2023-03-03T20:33:07},
   keywords         = {economics, policy, bureaucracy},
-  modificationdate = {2023-03-03T20:58:41},
+  modificationdate = {2023-03-04T17:34:21},
   owner            = {ISargent},
 }
 
@@ -9265,6 +9266,7 @@ Discuss the challenge of staying at the techno-economic frontier, or perhaps con
   booktitle        = {How to make an Entrepreneurial State},
   date             = {2023},
   title            = {Summing Up: Will The Next Decade Be Led By Neo-Weberian Innovation Agencies?},
+  chapter          = {7},
   comment          = {Prior to Covid pandemic, policies were becoming more mission-based by innovation bureaucracies were not and dynamic capabilities were illusive for most innovation bureaucracies.
 
-We are witnessing both a normative turn towards framing innovation po
+We are witnessi
