@@ -3732,10 +3732,12 @@ And market-fixing measures, Pigou taxes - internalisation of externalities - for
   url              = {https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf},
   comment          = {''SPM.D.5.3 The cumulative scientific evidence is unequivocal: Climate change is a threat to human well-being and planetary health. Any further delay in concerted anticipatory global action on adaptation and mitigation will miss a brief and rapidly closing window of opportunity to secure a liveable and sustainable future for all. (very high confidence) {1.2, 1.4, 1.5, 16.2, 16.4, 16.5, 16.6, 17.4, 17.5, 17.6, 18.3, 18.4, 18.5, CWGB URBAN, CCB DEEP, Table SM16.24, WGI SPM, SROCC SPM, SRCCL SPM}''
 
-Global warming, reaching 1.5°C in the near-term, would cause unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans (very high confidence).},
+Global warming, reaching 1.5°C in the near-term, would cause unavoidable increases in multiple climate hazards and present multiple risks to ecosystems and humans (very high confidence).
+
+``Climate change impacts and risks are becoming increasingly complex and more difficult to manage. Multiple climate hazards will occur simultaneously, and multiple climatic and non-climatic risks will interact, resulting in compounding overall risk and risks cascading across sectors and regions. Some responses to climate change result in new impacts and risks. (high confidence)''},
   creationdate     = {2022-10-22T16:52:51},
   keywords         = {climate},
-  modificationdate = {2023-03-04T22:55:30},
+  modificationdate = {2023-03-04T23:04:03},
   owner            = {ISargent},
 }
 
@@ -9533,6 +9535,32 @@ improving service delivery is necessary but not sufficient for trust. Good perfo
   modificationdate = {2023-03-04T22:49:55},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Online{Brown2020,
+  author           = {Kathryn Brown},
+  date             = {2020-04-21},
+  title            = {How much more climate change is inevitable for the UK?},
+  url              = {https://www.theccc.org.uk/2020/04/21/how-much-more-climate-change-is-inevitable-for-the-uk/},
+  comment          = {temperatures are going to continue to rise and oceans are going to continue acidifying for the next 1 or 2 decades and sea level will continue to rise well beyond that
+
+We must plan to adapt},
+  creationdate     = {2023-03-04T22:56:54},
+  keywords         = {climate},
+  modificationdate = {2023-03-04T23:00:53},
+  owner            = {ISargent},
+}
+
+@TechReport{WHO2014,
+  author           = {{WHO}},
+  date             = {2014-09-18},
+  institution      = {World Health Organization},
+  title            = {Quantitative risk assessment of the effects of climate change on selected causes of death, 2030s and 2050s},
+  url              = {https://www.who.int/publications/i/item/9789241507691},
+  comment          = {projects that climate change will kill almost 250,000 people per year},
+  creationdate     = {2023-03-04T23:07:08},
+  modificationdate = {2023-03-04T23:09:03},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
