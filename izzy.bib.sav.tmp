@@ -8178,7 +8178,7 @@ In our experience the best p.m. generally come from the programme side finding s
   date             = {2018},
   title            = {Digital Transformation At Scale: Why the Strategy is Delivery},
   url              = {https://www.andrewgreenway.com/book},
-  comment          = {Short easy read about using Agile approaches to digitally transform an organisation
+  comment          = {Short easy read about using Agile approaches to digitally transform an organisation, such as the Government Digital Service (GDS)
 
 4 things are required for a digital transformation: a crisis, a political leader,  a team and a mission.
 
@@ -8231,7 +8231,7 @@ Creating new rules and standards allows you to scale practise across an organisa
 ``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
   creationdate     = {2023-02-02T10:39:28},
   keywords         = {transformation, Agile, bureaucracy, economics},
-  modificationdate = {2023-03-04T16:14:51},
+  modificationdate = {2023-03-04T23:57:12},
   owner            = {izzy_olivine},
 }
 
@@ -9328,7 +9328,7 @@ Royal Charter and Agreement seeks to minimise negative impact of BBC on market b
 
 Evaluation layers:
 - Direct i.e. baseline - static efficiency and consumption - e.g. viewing figures
-- Dynamic e.g. spillovers and externalities - e.g. reaised awareness/interest
+- Dynamic e.g. spillovers and externalities - e.g. raised awareness/interest
 - market shaping - ecosystem-wide dynamic efficiency - .e.g change in attitude or behaviour
 
 Held a public value workshop at BBC of 13 stakeholders 
@@ -9383,7 +9383,7 @@ Next steps:
 - Feed early feedback from tests into the mid-term review},
   creationdate     = {2023-03-04T14:14:31},
   keywords         = {value, economics, policy, bureaucracy},
-  modificationdate = {2023-03-04T15:30:14},
+  modificationdate = {2023-03-05T09:58:31},
   owner            = {ISargent},
 }
 
@@ -9531,5 +9531,4 @@ improving service delivery is necessary but not sufficient for trust. Good perfo
   volume           = {120},
   abstract         = {Leveraging artificial neural networks (ANNs) trained on climate model output, we use the spatial pattern of historical temperature observations to predict the time until critical global warming thresholds are reached. Although no observations are used during the training, validation, or testing, the ANNs accurately predict the timing of historical global warming from maps of historical annual temperature. The central estimate for the 1.5\&nbsp;°C global warming threshold is between 2033 and 2035, including a ±1σ range of 2028 to 2039 in the Intermediate (SSP2-4.5) climate forcing scenario, consistent with previous assessments. However, our data-driven approach also suggests a substantial probability of exceeding the 2\&nbsp;°C threshold even in the Low (SSP1-2.6) climate forcing scenario. While there are limitations to our approach, our results suggest a higher likelihood of reaching 2\&nbsp;°C in the Low scenario than indicated in some previous assessments—though the possibility that 2\&nbsp;°C could be avoided is not ruled out. Explainable AI methods reveal that the ANNs focus on particular geographic regions to predict the time until the global threshold is reached. Our framework provides a unique, data-driven approach for quantifying the signal of climate change in historical observations and for constraining the uncertainty in climate model projections. Given the substantial existing evidence of accelerating risks to natural and human systems at 1.5\&nbsp;°C and 2\&nbsp;°C, our results provide further evidence for high-impact climate change over the next three decades.},
   creationdate     = {2023-03-04T22:49:27},
-  journal          = {Proceedings of the National Academy of Sciences},
-  modificationdate = {20
+  journal          = {Proceedings of the National Ac

@@ -8178,7 +8178,7 @@ In our experience the best p.m. generally come from the programme side finding s
   date             = {2018},
   title            = {Digital Transformation At Scale: Why the Strategy is Delivery},
   url              = {https://www.andrewgreenway.com/book},
-  comment          = {Short easy read about using Agile approaches to digitally transform an organisation
+  comment          = {Short easy read about using Agile approaches to digitally transform an organisation, such as the Government Digital Service (GDS)
 
 4 things are required for a digital transformation: a crisis, a political leader,  a team and a mission.
 
@@ -8231,7 +8231,7 @@ Creating new rules and standards allows you to scale practise across an organisa
 ``direction a government chooses to take with AI is as much a political choice that as it is a technological one that is so far removed from the old paperwork as to feel like an entirely separate conversation''},
   creationdate     = {2023-02-02T10:39:28},
   keywords         = {transformation, Agile, bureaucracy, economics},
-  modificationdate = {2023-03-04T16:14:51},
+  modificationdate = {2023-03-04T23:57:12},
   owner            = {izzy_olivine},
 }
 
@@ -9644,12 +9644,6 @@ See also \url{https://ourworldindata.org/future-emissions} for charts showing ho
   creationdate     = {2023-03-04T23:30:21},
   keywords         = {covid, climate},
   modificationdate = {2023-03-04T23:32:44},
-  owner            = {ISargent},
-}
-
-@Article{,
-  creationdate     = {2023-03-04T23:38:00},
-  modificationdate = {2023-03-04T23:38:00},
   owner            = {ISargent},
 }
 
