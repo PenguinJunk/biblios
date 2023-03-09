@@ -9791,10 +9791,44 @@ Production of welfare framework includes economy, efficiency, effectiveness, equ
   title            = {Pen Testing a City},
   eprint           = {https://www.blackhat.com/docs/us-15/materials/us-15-Conti-Pen-Testing-A-City-wp.pdf},
   url              = {https://www.blackhat.com/us-15/briefings.html#pen-testing-a-city},
-  comment          = {Slides: \url{https://www.blackhat.com/docs/us-15/materials/us-15-Conti-Pen-Testing-A-City.pdf}},
+  comment          = {Slides: \url{https://www.blackhat.com/docs/us-15/materials/us-15-Conti-Pen-Testing-A-City.pdf}
+
+Discusses how penetrating testing of organisations could be extended to cities. Penetration testing determines and tries to exploit vulnerabilities so that organisations can fix them
+
+Cities are more complex and penetration testing would require agreement across many organisations
+
+Define different places if cyberspace: geographic, physical, logical, cyber persona and supervisory. Physical and logical can be expanded to the Open Systems Interconnect model
+
+Centre of Gravity (COG) analysis to work out where the power is in a city as this is a likely target (e.g. financial district). Also consider non critical sectors that are important to local communities
+
+Different systems have vulnerabilities electronic road signs, lifts, utilities
+
+It takes coordination to bring down a city
+
+``True chaos requires an understanding of the interconnectivity between the different critical and non-critical infrastructure sectors''
+
+However, even freak events can take it multiple systems so understanding the interconnectedness is necessary to overcome these incidents quickly
+
+Smart cities can be even more vulnerable. Also a number of scale models of cities (SANS Cyber city or using SIMCITY
+
+Securing Smart Cities initiative
+
+Capacity Maturity Model had five levels},
   creationdate     = {2023-03-09T12:43:42},
   keywords         = {trust, security, transformation},
-  modificationdate = {2023-03-09T12:53:10},
+  modificationdate = {2023-03-09T12:53:38},
+  owner            = {ISargent},
+}
+
+@Article{KirchenbauerGWKMG2023,
+  author           = {John Kirchenbauer and Jonas Geiping and Yuxin Wen and Jonathan Katz and Ian Miers and Tom Goldstein},
+  date             = {2023},
+  journaltitle     = {ArXiv},
+  title            = {A Watermark for Large Language Models},
+  url              = {https://arxiv.org/abs/2301.10226},
+  comment          = {A proposed method to watermark large language models such as gpt (chatgpt) so that their output is detectable but not easily to the human eye.},
+  creationdate     = {2023-03-09T13:03:42},
+  modificationdate = {2023-03-09T13:05:10},
   owner            = {ISargent},
 }
 
