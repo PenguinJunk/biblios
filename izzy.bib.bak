@@ -9682,6 +9682,8 @@ CDS+CDE, DDS+CDE and DDS+DDE
 
 No GIDEPs in UK, US, Australia, NZ or Sweden - although clear desire in these countries and often API registries and guidelines
 
+Gives further insights into these other countries including South Korea, Uruguay, Spain, Singapore, Switzerland, Belgium, Canada, Croatia, Denmark, Greece, Hungary, Israel, Netherlands, Norway and Portugal
+
 ``In most cases these legal frameworks specified a single interoperability platform that must be used for the exchange of data, the standards and technologies associated with exchanging data on this platform are mandated, citizen consent for the exchange of personal information must be sought and recorded, and, increasingly, citizens should not be asked for their data more than once (the once only principle).''
 
 Almost all G2G, G2C only by a citizen portal - not reduction in innovative potnetial of legal framework, security and technology
@@ -9710,9 +9712,11 @@ From closed source, enterprise based, and self-hosted to  cloud based, open sour
 
 MyData  is  a  concept  that  envisages  handing  back  control  over  data  to  citizens,  creating  new opportunities  for individuals  to  exercise  control over  the  data  and how  it is used \url{https://www.mydata.org/participate/declaration/}
 
-Creates need for e.g. consent register for consent of the user to exchange data about them with another government organization},
+Creates need for e.g. consent register for consent of the user to exchange data about them with another government organization
+
+Once only principle requires a mapping of data resources amongst government organizations and must contain modules that allow for real time data querying and update},
   creationdate     = {2023-03-09T08:57:55},
-  modificationdate = {2023-03-09T10:40:19},
+  modificationdate = {2023-03-09T11:32:35},
   month            = {10},
   owner            = {ISargent},
   year             = {2022},
