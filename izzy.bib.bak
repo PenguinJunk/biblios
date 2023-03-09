@@ -7473,8 +7473,8 @@ The Weberian model seemed partial, almost from the start, because it could not e
 
 In many systems, those who enter the civil service are trained (to an elite level) in a range of (often general) skills but not IT - and so machine bureaucracies (unlike welfare state agencies - Mintzberg's Professional bureaucracies) tended to be led by IT illiterate managers.  [Does this reflect Mintzberg1996 - if they've managed something, they can manage anything?]. In US, in contrast, departments were run by relevant specialists - although this also seems to be the case.},
   creationdate     = {2023-01-16T10:39:36},
-  keywords         = {economics, bureaucracy, transformation},
-  modificationdate = {2023-01-18T09:30:56},
+  keywords         = {economics, bureaucracy, transformation, performance, management},
+  modificationdate = {2023-03-09T12:34:12},
   owner            = {izzyolivine},
   year             = {2006},
 }
@@ -8259,8 +8259,8 @@ Details Confucian PA and the various forms and origins of this. Particular aspec
 
 This is different to Legalism the Qianlong Emperor would say ``there is no governing by laws there is only governing by people''.},
   creationdate     = {2023-02-02T10:47:56},
-  keywords         = {economics, bureaucracy, public administration},
-  modificationdate = {2023-02-02T10:50:55},
+  keywords         = {economics, bureaucracy, public administration, performance, management},
+  modificationdate = {2023-03-09T12:34:24},
   owner            = {izzy_olivine},
 }
 
@@ -9716,10 +9716,43 @@ Creates need for e.g. consent register for consent of the user to exchange data 
 
 Once only principle requires a mapping of data resources amongst government organizations and must contain modules that allow for real time data querying and update},
   creationdate     = {2023-03-09T08:57:55},
-  modificationdate = {2023-03-09T11:32:35},
+  modificationdate = {2023-03-09T12:32:08},
   month            = {10},
   owner            = {ISargent},
   year             = {2022},
+}
+
+@Online{Leahey2022,
+  author           = {Andrew Leahey},
+  date             = {2022-07-12},
+  title            = {We Can AllLearn a Thing or Two From the Dutch AI ​Tax Scandal},
+  url              = {https://news.bloombergtax.com/tax-insights-and-commentary/we-can-all-learn-a-thing-or-two-from-the-dutch-ai-tax-scandal},
+  comment          = {2013 Dutch gov used AI for child benefits
+Proper form use, flag relative fraud risk
+Tended to flag foreign-born families who were forced to pay back benefits
+Not due to algorithm but broader institutional racism at tax office
+Transparency essential
+Fail state should be fair
+Independence of human oversight so that human isn't biased by algorithm},
+  creationdate     = {2023-03-09T12:28:45},
+  keywords         = {AI, bias, transformation, policy},
+  modificationdate = {2023-03-09T12:30:30},
+  owner            = {ISargent},
+}
+
+@InBook{BouckaertH2008,
+  author           = {Bouckaert, Geert and Halligan, John},
+  booktitle        = {Managing Performance, International Comparisons},
+  date             = {2008},
+  title            = {Towards Performance Governance},
+  chapter          = {9},
+  publisher        = {Routledge, London},
+  url              = {https://www.taylorfrancis.com/chapters/mono/10.4324/9780203935958-20/towards-performance-governance-new-agenda-geert-bouckaert-john-halligan},
+  creationdate     = {2023-03-09T12:28:45},
+  keywords         = {policy, bureaucracy, economics, performance, management, public administration},
+  modificationdate = {2023-03-09T12:36:25},
+  owner            = {ISargent},
+  year             = {2008},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
