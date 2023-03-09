@@ -9866,4 +9866,29 @@ But no customer/user case},
   owner            = {ISargent},
 }
 
+@Online{NZGov2017,
+  author           = {{Lab+ Experiment}},
+  date             = {2017},
+  title            = {Government as a Platform – The Value Proposition: A discussion paper},
+  url              = {https://www.digital.govt.nz/assets/Blog/Gov-as-a-platform-value-proposition/Government-as-a-Platform-value-proposition.pdf},
+  comment          = {Lots of arguments for Government as a platform including the value that saving people's time has to the economy},
+  creationdate     = {2023-03-09T19:49:53},
+  eprint           = {https://www.digital.govt.nz/assets/Blog/Gov-as-a-platform-value-proposition/Government-as-a-Platform-value-proposition.pdf},
+  modificationdate = {2023-03-09T19:54:08},
+  owner            = {ISargent},
+}
+
+@Online{,
+  author           = {Andrew Greenway and Richard Pope},
+  date             = {2018},
+  title            = {Making public policy in the digital age},
+  url              = {https://medium.com/digitalhks/making-public-policy-in-the-digital-age-1900a248578c},
+  urldate          = {2023-03-09},
+  comment          = {Prototype policy},
+  creationdate     = {2023-03-09T19:56:20},
+  keywords         = {economics, policy, transformation, digital},
+  modificationdate = {2023-03-09T19:58:19},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
