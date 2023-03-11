@@ -10036,7 +10036,7 @@ Achille Mbembe Critique of Black Reason - idea of the becoming black in the worl
 
 The fragility of power - power could be subject to reversal
 
-Knowledges of thie fragility means living with humility
+Knowledge of this fragility means living with humility
 
 Critical question: What kind of data infrastructure would we require if we applied the maximin principle
 
@@ -10044,8 +10044,117 @@ How would we use data and digital technology if rules could be reversed at any t
 
 In answer to a question: Kazakhstan pioneering in use of digital government because building roads is challenging in their climate and so moved to digital accessibility},
   creationdate     = {2023-03-11T08:53:30},
-  modificationdate = {2023-03-11T09:22:08},
+  keywords         = {philosophy, trust, data, AI, policy},
+  modificationdate = {2023-03-11T10:45:36},
   owner            = {izzy_olivine},
+}
+
+@Book{Scott2020,
+  author           = {James C. Scott},
+  date             = {2020},
+  title            = {Seeing Like a State},
+  comment          = {Discussion of how states simplify by brute force (forestry, roads, clearances, naming conventions) or by representations (mapping, aerial photography) the world for their own control (tax, conscription, repression). Main theme is of High Modernism.
+
+Interesting table on p220 comparing the illegible with the legible in terms of settlements, economic unites, property regimes and more
+
+Isiah Berlin's Study of Tolstoy distinguishing hedgehog, who know one thing, with fox, who knew many things p45-6 [this is also discussed in Nate Silver's The Signal and the Noise].
+
+A great description of German Scientific Forestry which attempted to bring order to forests with ultimately disastrous consequences p11-22
+
+Cadastral mapping, which was carried out for the purpose of collecting taxs etc,  emerged earlier where civil society was weakest (and the state comparitively stronger). France before England p49
+
+Aerial view/photograph allow a miniaturisation of the landscape p57-8
+
+Comprehensive Dutch citizen registration allowed Nazi occupation to discover distribution of Jews in the Netherlands p78
+
+Manufacture of standardised facts: p80
+- creation of standardised units
+- counting/measuring/application of these units
+- aggregation of values to draw out new fact
+Precision of standardisation is more important than accuracy p81
+Standardisation makes land and population easier to mintor, count, assess, manage p81-2
+
+Uniformity and order are largely a project on internal colonisation, civilising. Not just observing but shaping people and landscape p82
+
+Error has more power than omission [see the introduction to PetersW2018]. Population must dance to the authority's tune p83
+
+High modernism can be described as a process: p91-3
+- discovery of society
+- measurement of society
+- improvement of society
+- because there is a perfectibility of society
+Modernism is flux is disorientation and leads to the streamlining and reduction of friction to change p93
+
+``The troubling features of high modernism derive ... from its claim to speak about the improvement of the human condition with the authority of scientific knowledge and its tendency to disallow for other competing sources of judgement'' p93
+
+``A key characteristic of discourses of high modernism and of the public pronouncements of those states that have embraced it is a heavy reliance on visual images of hoeroic progress toward a totally transformed future" p95
+
+There is also more sympathic view of high modernism that is that health can be improved by planning and transportation p96
+
+Chapter 4 on the High Modernist City featuring Paris, Buenos Aires, Rio de Janiero, Brasilia is fascinating
+
+Le Corbusier, architect (?) influenced Lucio Costa to design Brasilia. There are not bustling streets or social conviality. Identified a trauma in the first residents p126 
+
+Irony between macro-order and micro-confusion p127
+
+``the planners of the utopian city, whose goal is more to change the world than to accommodate it, howver the shock and disorientation ocasioned by life in Brasilia may be part of its didactic purpose'' p127
+
+Brasilia is scientific forestry p125
+
+Public order doesn't require state or police but a density of people on ``sidewalk terms'', interested in the busy urbanmixed space and each other p135-6 - Jane Jacobs' observation that visual order does not create social order p135
+
+``it is beyond the scope of anyone's imagination to create a community'' Stanley Tankel p144
+
+Lenin, saw the Vanguard Party's relation to working class is like capitalist entrepreneurs' relation to the working class - that the working class is necessary to production and its members much be trained, instructed, organised efficiently by professional specialists p156 
+
+Lenin's vision is miltaristic, mass exercises p156, p170
+
+Rosa Luxenburg was critical of Lenin's ideas. Used symbolism from nature and the complexity of organisms. Also the capacity of teachers to learn from students. She was deeply impressed by the autonomous popular initiatives happening all over Russia. p171
+She expressed that to dissect the workers movement was to kill it p172
+
+Kollontay's criticism of Lenin is also of the suppression of worker creativity and that this smothers moral and creative spirit. ``The end result was an arbitrary, myopic layer of officials presiding over a dispirited workforce putting in a ``bad-faith'' day on the factory floor'' p177
+
+``The way the trip is made is at least a important as the destination'' p179
+``a vanguard part cna achieve its revolutionary results in a way that defeat its central prupose'' p179
+
+The concept of state-spaces and non-state-spaces. The state is much more able to appropriate labour etc in the former and so would-be rulers create and then expand state-space by building irrigation, capturing subjects in wars, forcing settlement, codifying religions, etc. p186
+
+Edmund Leech described Burma as a set of horizontal slices through the topography in which the valleys with wet rice are state spaces, above these is shifting sparse cultivation where the population interacts with the state space, and above this still is non-state-space p186
+
+There is a paradox that plantations are less productive than smallholdings but are encouraged by the state - because they are easier to know, tax etc p189-90
+
+Massive scale farming arose from an exchange of ideas between US an Russia in 1920s. The context of this was different and so it didn't do so well p199-201
+
+Soviet collectivisation was forced, violent and caused famine and millions of deaths p202-210
+
+The agricultural and econmic failure could be seen as a success in terms of the state having oversight and control p203
+
+Social custom of the village is replace with state building p214
+
+Soviet collectivisms outcomes included: p217-9
+- turning autonmous peasants into unfree labourers
+- central planning which is unresponsive to local knowledge or conditions
+- no incentive to adapt to or negotiate with local subjects},
+  creationdate     = {2023-03-11T12:13:59},
+  modificationdate = {2023-03-11T14:19:53},
+  owner            = {izzy_olivine},
+}
+
+@Article{PetersW2018,
+  author           = {Rik Peeters and Arjan Widlak},
+  title            = {The digital cage: Administrative exclusion through information architecture – The case of the Dutch civil registry's master data management system},
+  doi              = {https://doi.org/10.1016/j.giq.2018.02.003},
+  issn             = {0740-624X},
+  note             = {Agile Government and Adaptive Governance in the Public Sector},
+  number           = {2},
+  pages            = {175-183},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0740624X17302058},
+  volume           = {35},
+  creationdate     = {2023-03-11T13:28:15},
+  journal          = {Government Information Quarterly},
+  modificationdate = {2023-03-11T13:29:14},
+  owner            = {izzy_olivine},
+  year             = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
