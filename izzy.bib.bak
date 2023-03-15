@@ -10088,7 +10088,7 @@ Standardisation makes land and population easier to mintor, count, assess, manag
 
 Uniformity and order are largely a project on internal colonisation, civilising. Not just observing but shaping people and landscape p82
 
-Error has more power than omission [see the introduction to PetersW2018]. Population must dance to the authority's tune p83
+Error has more power than omission [see the introduction to PeetersW2018]. Population must dance to the authority's tune p83
 
 High modernism can be described as a process: p91-3
 - discovery of society
@@ -10171,11 +10171,11 @@ Visual order is not working order p275
 
 I think this raises the question about the value of science for application that are necessarily diverse [really interesting, is this similar to the arguments against using RCT for social science?] p288},
   creationdate     = {2023-03-11T12:13:59},
-  modificationdate = {2023-03-12T19:22:10},
+  modificationdate = {2023-03-15T22:14:25},
   owner            = {izzy_olivine},
 }
 
-@Article{PetersW2018,
+@Article{PeetersW2018,
   author           = {Rik Peeters and Arjan Widlak},
   date             = {2018},
   journaltitle     = {Government Information Quarterly},
@@ -10213,7 +10213,7 @@ Mechanisms of exclusion:
 
 Citizens and bureaucrats are forced to work within the instrumental rationality of the information architecture},
   creationdate     = {2023-03-11T13:28:15},
-  modificationdate = {2023-03-11T14:38:46},
+  modificationdate = {2023-03-15T22:13:24},
   owner            = {izzy_olivine},
   year             = {2018},
 }
@@ -10314,17 +10314,19 @@ Wheel of good governance:
   owner            = {ISargent},
 }
 
-@TechReport{Patel2021,
+@TechReport{PatelPPBPS2021,
   author           = {Reema Patel and Aidan Peppin and Valentina Pavel and Jenny Brennan and Imogen Parker and Cansu Safak},
   date             = {2021-09-07},
   institution      = {Ada Lovelace Institute},
   title            = {Participatory data stewardship: A framework for involving people in the use of data},
   eprint           = {https://www.adalovelaceinstitute.org/wp-content/uploads/2021/11/ADA_Participatory-Data-Stewardship.pdf},
   url              = {https://www.adalovelaceinstitute.org/report/participatory-data-stewardship/},
-  comment          = {Report about participatory data stewardship. Creates the framework from the spectrum of participation.},
+  comment          = {Report about participatory data stewardship. Creates the framework from the spectrum of participation.
+
+rejects practices of data collection, storage, sharing and use in ways that are opaque or seek to manipulate people, in favour of practices that empower people to help inform, shape and – in some instances – govern their own data.},
   creationdate     = {2023-03-15T21:44:56},
   keywords         = {trust, data, participation},
-  modificationdate = {2023-03-15T21:54:00},
+  modificationdate = {2023-03-15T21:56:29},
   owner            = {ISargent},
 }
 

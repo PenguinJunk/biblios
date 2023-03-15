@@ -9977,6 +9977,7 @@ But it wasn't all bad. Data used to understand grades and absenteeism and use th
   author           = {Virginia Eubanks},
   date             = {2019},
   title            = {Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor},
+  url              = {https://us.macmillan.com/books/9781250074317/automatinginequality},
   comment          = {I've listened to some of this - really interesting narrative style of writing. Should read more!
 
 Chapter 2 AUTOMATING ELIGIBILITY IN THE HEARTLAND about Sophie Stipes who has cerebral palsy and her family (and other cases) who lost Medicaid when public service systems were automated in Indiana. 
@@ -10005,7 +10006,7 @@ Would the tool be tolerated if it was targeted at non-poor people?
 
 Outlines an oath of non-harm for an age of digital data},
   creationdate     = {2023-03-09T20:40:24},
-  modificationdate = {2023-03-12T09:49:51},
+  modificationdate = {2023-03-15T22:15:43},
   owner            = {ISargent},
 }
 
@@ -10088,7 +10089,7 @@ Standardisation makes land and population easier to mintor, count, assess, manag
 
 Uniformity and order are largely a project on internal colonisation, civilising. Not just observing but shaping people and landscape p82
 
-Error has more power than omission [see the introduction to PetersW2018]. Population must dance to the authority's tune p83
+Error has more power than omission [see the introduction to PeetersW2018]. Population must dance to the authority's tune p83
 
 High modernism can be described as a process: p91-3
 - discovery of society
@@ -10171,11 +10172,11 @@ Visual order is not working order p275
 
 I think this raises the question about the value of science for application that are necessarily diverse [really interesting, is this similar to the arguments against using RCT for social science?] p288},
   creationdate     = {2023-03-11T12:13:59},
-  modificationdate = {2023-03-12T19:22:10},
+  modificationdate = {2023-03-15T22:14:25},
   owner            = {izzy_olivine},
 }
 
-@Article{PetersW2018,
+@Article{PeetersW2018,
   author           = {Rik Peeters and Arjan Widlak},
   date             = {2018},
   journaltitle     = {Government Information Quarterly},
@@ -10213,7 +10214,7 @@ Mechanisms of exclusion:
 
 Citizens and bureaucrats are forced to work within the instrumental rationality of the information architecture},
   creationdate     = {2023-03-11T13:28:15},
-  modificationdate = {2023-03-11T14:38:46},
+  modificationdate = {2023-03-15T22:13:24},
   owner            = {izzy_olivine},
   year             = {2018},
 }
@@ -10250,4 +10251,4 @@ Nonparticipation:
 }
 
 @Online{Petermann2022,
-  author           = {Mylene Petermann and Niccolo Tempini and Kherroubi Garcia and Kirstie Whitaker and 
+  author    
