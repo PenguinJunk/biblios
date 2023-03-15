@@ -353,10 +353,10 @@ More equal societies more public spirited  p232
 
 Inequality, a sense of unfairness and having less control at work has detrimental impact on health outcomes p256
 
-''If Britain became as equal as [the average of Japan, Norway, Sweden and Finland], levels of trust might be expected to be two-thirds as high again as they are now, mental illness might be more than halved, everyone would get an addition year of life, teenage birth rates could fall to one-third of what they are now, homicide rates could fall by 75 per cent, everyone could ge thte equivalent of almost seven weeks extra holiday a year and the government could b closing prisons all over the country'' p268-269.},
+''If Britain became as equal as [the average of Japan, Norway, Sweden and Finland], levels of trust might be expected to be two-thirds as high again as they are now, mental illness might be more than halved, everyone would get an addition year of life, teenage birth rates could fall to one-third of what they are now, homicide rates could fall by 75 per cent, everyone could get the equivalent of almost seven weeks extra holiday a year and the government could b closing prisons all over the country'' p268-269.},
   creationdate     = {2022-02-27T09:46:07},
   keywords         = {sociology, economics},
-  modificationdate = {2022-11-25T21:56:52},
+  modificationdate = {2023-03-12T10:58:12},
   owner            = {ISargent},
 }
 
@@ -7702,7 +7702,7 @@ US food stamp service, SNAP, and particularly California's version, CalFresh},
 Core Values of Agile
 1. Individuals and interactions over processes and tools
 2. Working software over comprehensive documentation
-3.Customer collaboration over contract negotiation
+3. Customer collaboration over contract negotiation
 4. Responding to change over following a plan
 
 12 Principles of Agile
@@ -7730,7 +7730,7 @@ outside-in from vendors or consultants)''
 ``Agile Is Antithetical to Many Typical Bureaucratic Line Organizations...managers who need to take responsibility for actions may not be willing to do so given how cross-functional agile teams work ... If experimentation is not part of the toolbox, and if bureaus value organizational reputation and avoid public failures, agile never gains traction ... in organizations largely characterized by “we have seen this before, let's wait until the next wave comes in,” traditionalists could see agile as another fad that will be replaced''},
   creationdate     = {2023-01-17T13:04:51},
   keywords         = {policy, transformation},
-  modificationdate = {2023-01-21T14:29:26},
+  modificationdate = {2023-03-12T20:21:40},
   owner            = {izzyolivine},
 }
 
@@ -9977,7 +9977,7 @@ But it wasn't all bad. Data used to understand grades and absenteeism and use th
   author           = {Virginia Eubanks},
   date             = {2019},
   title            = {Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor},
-  comment          = {I've listened to two of the chapters - really interesting narrative style of writing. Sould read more!
+  comment          = {I've listened to some of this - really interesting narrative style of writing. Should read more!
 
 Chapter 2 AUTOMATING ELIGIBILITY IN THE HEARTLAND about Sophie Stipes who has cerebral palsy and her family (and other cases) who lost Medicaid when public service systems were automated in Indiana. 
 
@@ -9989,4 +9989,265 @@ Chapter 3 HIGH-TECH HOMELESSNESS IN THE CITY OF ANGELS
 
 Chapter 4 THE ALLEGHENY ALGORITHM about the Allegheny Family Screening Tool. Gives a more positive spin than Kitzmiller2014. Twenty-nine different programs—including adult probation, the bureau of drug and alcohol services, the housing authority, the county jail, the juvenile probation office, the Allegheny County police department, the state office of income maintenance, the office of mental health and substance abuse services, the office of unemployment compensation, and almost 20 local school districts—send regular data extracts. 
 
-Discusses the opacity of ``risk scores'' given to children by the algorithm.  Notes that staff in the call centre are more likely to adjust their view of the case according the algorithm's score than the other way round. Also, referral bias r
+Discusses the opacity of ``risk scores'' given to children by the algorithm.  Notes that staff in the call centre are more likely to adjust their view of the case according the algorithm's score than the other way round. Also, referral bias rather than screening bias because calls to hotlines are more likely to be about black and biracial children despite it being a country with majority white children. Vast majority of families involved with Children, Youth and Families service CYF are working class or poor. 
+
+``AFST interprets the use of public resources as a sign of weakness, deficiency, even villainy.''. Since validation data for actual abuse was very rare, proxies for abuse needed to be created which included those who were screened - and screening could have occurred because of a malicious call to a hotline.
+
+Conclusion: Dismantling the poorhouse
+
+Describes how the ambitions of Martin Luther King to end racism and poverty have still not been realised, although there are movements attempting to address this. Discusses the potential of Universal Basic Income UBI.
+
+``poverty is not an island; it is a borderland. There's quite a lot of movement on the economic fringes, especially across the fuzzy boundary between the poor and the working class. Those who live in the economic borderlands are pitted against one another...''
+
+Questions to check that harm is minimised:
+Does the tool increase the self-determination and agency of the poor?
+Would the tool be tolerated if it was targeted at non-poor people?
+
+Outlines an oath of non-harm for an age of digital data},
+  creationdate     = {2023-03-09T20:40:24},
+  modificationdate = {2023-03-12T09:49:51},
+  owner            = {ISargent},
+}
+
+@InProceedings{Zimeta2021,
+  author           = {Mahlet (Milly) Zimeta},
+  booktitle        = {AIUK 2021},
+  date             = {2021-03-23},
+  title            = {Decolonising the data: lessons from Ancient Greek Tragedy},
+  url              = {https://www.conferencecast.tv/talk-40011},
+  comment          = {One of my favourite ever conference talks. 
+
+Uses philosophy of literature as a critical lens to examine philosphy of data with a particular view on decolonisation of data
+
+References lots of philosophy to draw on feminist and decolonisation perspectives on data
+
+Martha Nussbaum the Fragility of Goodness
+Status as a good person is fragile, a change in circumstances can make you the villain, the basis of Greek tragedy
+
+Data as infrastructure, critical, must be robust even in reversal of fortune, inclusive and equitable
+Caroline Criado Perez - Invisible Women, women excluded from a lot of data meaning the world is not as safe for women
+
+Language shapes thought:
+Ngugi Wa Thiong'o - Decolonising the Mind
+Data infrastructure is a kind of language
+A conseqence of colonialism was that imposed language, for work and school, transformed the psychology Language 
+Who is determining technical languages, priorities, value system, conceptual scheme
+Schemes must reflect more than one culture
+
+Infrastructure for what purposes
+Kazakhstan roads almost all north-south (all roads lead to Moscow - the purpose of colonial Russia)
+Infrasture may be build skillfully but do not provide breadth of understanding
+
+Language limits and constrains thought
+
+ODI Data Skills Framework - includes change management, essential if rebalancing power
+
+John Rawls maximin principle - society should maximise the welbeing of those at the most minimal level - based on idea of designing society before you know your place in it
+
+Achille Mbembe Critique of Black Reason - idea of the becoming black in the world - in another time people who's skin colour is black may be in power, previous the Irish experience "blackness". Significance of skin colour has changed. What does this mean in the maximin principle.
+
+The fragility of power - power could be subject to reversal
+
+Knowledge of this fragility means living with humility
+
+Critical question: What kind of data infrastructure would we require if we applied the maximin principle
+
+How would we use data and digital technology if rules could be reversed at any time
+
+In answer to a question: Kazakhstan pioneering in use of digital government because building roads is challenging in their climate and so moved to digital accessibility},
+  creationdate     = {2023-03-11T08:53:30},
+  keywords         = {philosophy, trust, data, AI, policy},
+  modificationdate = {2023-03-12T09:47:50},
+  owner            = {izzy_olivine},
+}
+
+@Book{Scott2020,
+  author           = {James C. Scott},
+  date             = {2020},
+  title            = {Seeing Like a State},
+  comment          = {Discussion of how states simplify by brute force (forestry, roads, clearances, naming conventions) or by representations (mapping, aerial photography) the world for their own control (tax, conscription, repression). Main theme is of High Modernism.
+
+Interesting table on p220 comparing the illegible with the legible in terms of settlements, economic unites, property regimes and more
+
+Isiah Berlin's Study of Tolstoy distinguishing hedgehog, who know one thing, with fox, who knew many things p45-6 [this is also discussed in Nate Silver's The Signal and the Noise].
+
+A great description of German Scientific Forestry which attempted to bring order to forests with ultimately disastrous consequences p11-22
+
+Cadastral mapping, which was carried out for the purpose of collecting taxs etc,  emerged earlier where civil society was weakest (and the state comparitively stronger). France before England p49
+
+Aerial view/photograph allow a miniaturisation of the landscape p57-8
+
+Comprehensive Dutch citizen registration allowed Nazi occupation to discover distribution of Jews in the Netherlands p78
+
+Manufacture of standardised facts: p80
+- creation of standardised units
+- counting/measuring/application of these units
+- aggregation of values to draw out new fact
+Precision of standardisation is more important than accuracy p81
+Standardisation makes land and population easier to mintor, count, assess, manage p81-2
+
+Uniformity and order are largely a project on internal colonisation, civilising. Not just observing but shaping people and landscape p82
+
+Error has more power than omission [see the introduction to PetersW2018]. Population must dance to the authority's tune p83
+
+High modernism can be described as a process: p91-3
+- discovery of society
+- measurement of society
+- improvement of society
+- because there is a perfectibility of society
+Modernism is flux is disorientation and leads to the streamlining and reduction of friction to change p93
+
+``The troubling features of high modernism derive ... from its claim to speak about the improvement of the human condition with the authority of scientific knowledge and its tendency to disallow for other competing sources of judgement'' p93
+
+``A key characteristic of discourses of high modernism and of the public pronouncements of those states that have embraced it is a heavy reliance on visual images of hoeroic progress toward a totally transformed future" p95
+
+There is also more sympathic view of high modernism that is that health can be improved by planning and transportation p96
+
+Chapter 4 on the High Modernist City featuring Paris, Buenos Aires, Rio de Janiero, Brasilia is fascinating
+
+Le Corbusier, architect (?) influenced Lucio Costa to design Brasilia. There are not bustling streets or social conviality. Identified a trauma in the first residents p126 
+
+Irony between macro-order and micro-confusion p127
+
+``the planners of the utopian city, whose goal is more to change the world than to accommodate it, howver the shock and disorientation ocasioned by life in Brasilia may be part of its didactic purpose'' p127
+
+Brasilia is scientific forestry p125
+
+Public order doesn't require state or police but a density of people on ``sidewalk terms'', interested in the busy urbanmixed space and each other p135-6 - Jane Jacobs' observation that visual order does not create social order p135
+
+``it is beyond the scope of anyone's imagination to create a community'' Stanley Tankel p144
+
+Lenin, saw the Vanguard Party's relation to working class is like capitalist entrepreneurs' relation to the working class - that the working class is necessary to production and its members much be trained, instructed, organised efficiently by professional specialists p156 
+
+Lenin's vision is miltaristic, mass exercises p156, p170
+
+Rosa Luxenburg was critical of Lenin's ideas. Used symbolism from nature and the complexity of organisms. Also the capacity of teachers to learn from students. She was deeply impressed by the autonomous popular initiatives happening all over Russia. p171
+She expressed that to dissect the workers movement was to kill it p172
+
+Kollontay's criticism of Lenin is also of the suppression of worker creativity and that this smothers moral and creative spirit. ``The end result was an arbitrary, myopic layer of officials presiding over a dispirited workforce putting in a ``bad-faith'' day on the factory floor'' p177
+
+``The way the trip is made is at least a important as the destination'' p179
+``a vanguard part cna achieve its revolutionary results in a way that defeat its central prupose'' p179
+
+The concept of state-spaces and non-state-spaces. The state is much more able to appropriate labour etc in the former and so would-be rulers create and then expand state-space by building irrigation, capturing subjects in wars, forcing settlement, codifying religions, etc. p186
+
+Edmund Leech described Burma as a set of horizontal slices through the topography in which the valleys with wet rice are state spaces, above these is shifting sparse cultivation where the population interacts with the state space, and above this still is non-state-space p186
+
+There is a paradox that plantations are less productive than smallholdings but are encouraged by the state - because they are easier to know, tax etc p189-90
+
+Massive scale farming arose from an exchange of ideas between US an Russia in 1920s. The context of this was different and so it didn't do so well p199-201
+
+Soviet collectivisation was forced, violent and caused famine and millions of deaths p202-210
+
+The agricultural and econmic failure could be seen as a success in terms of the state having oversight and control p203
+
+Social custom of the village is replace with state building p214
+
+Soviet collectivisms outcomes included: p217-9
+- turning autonmous peasants into unfree labourers
+- central planning which is unresponsive to local knowledge or conditions
+- no incentive to adapt to or negotiate with local subjects
+
+Tanzanian villagisation has similarities to authoritarian high modernism: P224-5
+1. idea of `improving' e.g. c.f. `unimproved forest'
+2. reorganise human communities to enable easier control
+3. Aesthetic dimension that emerges _ faith in visual order
+
+Villagisation failed economically and ecologically - if population is hostile, effecient practices can be made ineffecient p225
+
+``dustbowls are common features in situations where human initiatives has suddently overtaxed the carrying capacity of the land'' p235
+
+Tanzania would have been worse if not for a level of truculance and a also weak government p247
+
+Ethiopiean villagisation - Marxist/socialist regime using military to resettle. Loss of knowledge of a local land, commuity and ability to grow a mix of crops contributed to the famine in the 1980s p251
+
+Changing an organisation structure is easier than changing its operation p255 General point about changing what is easy rather than what is required/useful/etc
+
+Planning produces thin results - thin villages, city, etc. A ``dark twin'' can emerge to account for all the other components that would have existed in a thick counterpart p260 (a bit like Shadow IT in Schwartz)
+
+The necessarily simple abstractions of large bureaucratic institutions can never adequatly represent the actual complexity of natuinal and social processes p262
+
+Visual order is not working order p275
+
+I think this raises the question about the value of science for application that are necessarily diverse [really interesting, is this similar to the arguments against using RCT for social science?] p288},
+  creationdate     = {2023-03-11T12:13:59},
+  modificationdate = {2023-03-12T19:22:10},
+  owner            = {izzy_olivine},
+}
+
+@Article{PetersW2018,
+  author           = {Rik Peeters and Arjan Widlak},
+  date             = {2018},
+  journaltitle     = {Government Information Quarterly},
+  title            = {The digital cage: Administrative exclusion through information architecture – The case of the Dutch civil registry's master data management system},
+  doi              = {https://doi.org/10.1016/j.giq.2018.02.003},
+  issn             = {0740-624X},
+  note             = {Agile Government and Adaptive Governance in the Public Sector},
+  number           = {2},
+  pages            = {175-183},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0740624X17302058},
+  volume           = {35},
+  comment          = {analyses the unintended consequences of master data management systems in the administrative state for the access of citizens to public services and benefits
+
+an analysis of the new Dutch Municipal Personal Records Database
+
+e.g. state registration of cars that led to victim of car theft being repeatedly fined for not having her car tested - because a human component of the information chain (to inform victim that the car had been found) had failed
+
+being excluded from the system also means being excluded from public services
+
+argue that both citizens and street-level bureaucrats are caught up in a ‘digital cage’ – a wordplay on Weber's ‘iron cage’ (Weber, 2006a: 201) signifying not the disciplining logic of bureaucratic rules, but of information architecture. ``The iron cage refers to a situation in which people, in their desire for predictability and control, become increasingly trapped in expanding bureaucratic structures that subject human behaviour to rules and procedures, and reduce humans to cogs in a machine'' ``In a digital cage, bureaucrats are incapable of making value decisions''
+
+There are few barriers to errors entering the system but many for its correction. [Error has more power than omission in Scott2020].
+
+This article makes two contributions to our current understanding of e-government. First, it makes the ethical dimensions of classifications, algorithmic decision-making, and data-sharing explicit by applying the framework of administrative burdens. second, we apply a critical perspective to an emerging information technology in e-government.
+
+Could be useful for methodology
+
+Similar case studies in the Netherlands to the US ones in Eubanks2019
+
+Mechanisms of exclusion:
+- The system is a black box for citizens and bureaucrats
+- The system produces ‘legal contamination via ICT’
+- The system eliminates street-level discretion
+- The system creates perverse behavioural incentives
+
+Citizens and bureaucrats are forced to work within the instrumental rationality of the information architecture},
+  creationdate     = {2023-03-11T13:28:15},
+  modificationdate = {2023-03-11T14:38:46},
+  owner            = {izzy_olivine},
+  year             = {2018},
+}
+
+@Article{Arnstein1969,
+  author           = {Sherry R. Arnstein},
+  date             = {1969},
+  journaltitle     = {Journal of the American Institute of Planners},
+  title            = {A Ladder Of Citizen Participation},
+  doi              = {10.1080/01944366908977225},
+  eprint           = {https://doi.org/10.1080/01944366908977225},
+  number           = {4},
+  pages            = {216-224},
+  url              = {https://doi.org/10.1080/01944366908977225},
+  volume           = {35},
+  comment          = {The ladder:
+Degrees of citizen power:
+8. Citizen control
+7. Delegated power
+6. Partnerhsip
+Degrees of tokenism:
+5. Placation
+4. Consultation
+3. Informing
+Nonparticipation:
+2. Therapy
+1. Manipulation},
+  creationdate     = {2023-03-15T20:28:15},
+  journal          = {Journal of the American Institute of Planners},
+  modificationdate = {2023-03-15T20:32:07},
+  owner            = {ISargent},
+  publisher        = {Routledge},
+  year             = {1969},
+}
+
+@Online{AdaLovelace,
+  author           = {Mylene Petermann and Niccolo Tempini and Kherroubi Garcia and Kirstie Whitaker and An
