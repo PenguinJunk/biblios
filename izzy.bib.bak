@@ -9977,6 +9977,7 @@ But it wasn't all bad. Data used to understand grades and absenteeism and use th
   author           = {Virginia Eubanks},
   date             = {2019},
   title            = {Automating Inequality: How High-Tech Tools Profile, Police, and Punish the Poor},
+  url              = {https://us.macmillan.com/books/9781250074317/automatinginequality},
   comment          = {I've listened to some of this - really interesting narrative style of writing. Should read more!
 
 Chapter 2 AUTOMATING ELIGIBILITY IN THE HEARTLAND about Sophie Stipes who has cerebral palsy and her family (and other cases) who lost Medicaid when public service systems were automated in Indiana. 
@@ -10005,7 +10006,7 @@ Would the tool be tolerated if it was targeted at non-poor people?
 
 Outlines an oath of non-harm for an age of digital data},
   creationdate     = {2023-03-09T20:40:24},
-  modificationdate = {2023-03-12T09:49:51},
+  modificationdate = {2023-03-15T22:15:43},
   owner            = {ISargent},
 }
 
@@ -10344,6 +10345,13 @@ rejects practices of data collection, storage, sharing and use in ways that are 
   creationdate     = {2023-03-15T21:49:55},
   keywords         = {trust, data},
   modificationdate = {2023-03-15T21:51:39},
+  owner            = {ISargent},
+}
+
+@Article{,
+  comment          = {Looks at human decision making and considers the context of GDPR to understand how GDPR helps and hinders privacy},
+  creationdate     = {2023-03-16T16:37:38},
+  modificationdate = {2023-03-16T16:38:15},
   owner            = {ISargent},
 }
 
