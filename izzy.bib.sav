@@ -22,7 +22,7 @@
   author       = {Dan Sperber and Hugo Mercier},
   title        = {The Enigma of Reason: A New Theory of Human Understanding},
   publisher    = {Harvard University Press},
-  comment      = {Discusses reason, its purpose and evolution and how it manifests in human societies. Find that it is a ``tool to convince others and not less importantly a tool for evaluating the arguments others produce to convince us'': p331-332. Reason has evolved to benefit individuals - either by convincing and influencing others and also by evaluating the justifications and arguments given by others: p333. However, much like other evolved features can manifest outside of this proper _domain_, manifesting in the _actual_ domain. ``The proper domain of reasoning is disagreements between oneself and others - clashes of ideas...The actual domain of reasoning, the kind of input that triggers its operations, is. we have argued, the detection of a clash of ideas'': p289-290.  
+  comment      = {Discusses reason, its purpose and evolution and how it manifests in human societies. Find that it is a ``tool to convince others and not less importantly a tool for evaluating the arguments others produce to convince us'': p331-332. Reason has evolved to benefit individuals - either by convincing and influencing others and also by evaluating the justifications and arguments given by others: p333. However, much like other evolved features can manifest outside of this proper *domain*, manifesting in the *actual* domain. ``The proper domain of reasoning is disagreements between oneself and others - clashes of ideas...The actual domain of reasoning, the kind of input that triggers its operations, is. we have argued, the detection of a clash of ideas'': p289-290.  
 
 Reason has been the focus of philosophy and psychology for millennia. Most works argues that reason has an intellectual purpose - to weigh up justifications and produced good, unbiased decisions making. However, the evidence from studies is that reasoning is ``biased - people overwhelmingly find reasons that support their previous beliefs - and it is lazy - people do not carefully scrutinize their own reasons'': p247. When people make choices based on reasons, the results can be worse than using intuition p216-218 ``when people have weak or conflicting intuitions, reason drives them towards the decision for which it is easiest to find reason - the decisions that they can best justify'': p255. 
 
@@ -451,7 +451,7 @@ New Public Management theory is used to justify government being run like a busi
 
 This is why we should have research functions in public sector: ``The key role of NASA is to define the mission, plan the programme, be clear on the guidelines, set the parameters and then allow as much innovation as possible to create the product or service required. None of this could ave been done without the NASA staff themselves having experience of the underlying science and technology; In fact, it would have been impossible to choose contrator intelligently without that knowledge. Additionally, by developing internal expertise, contracts with the private sector would be better managed because those writing them would know just as much about the technology as the contractors'' p 95
 
-''having a vision is not enough, it is essential to engage with citizens about it'' p109
+``having a vision is not enough, it is essential to engage with citizens about it'' p109
 
 The Sustainable Development Goals SDGs make good missions because they require work over many domains: social, political, technological, behavioural and feedback processes. They also are broken down in to 169 targets. p110
 
@@ -482,19 +482,19 @@ p124-130
 
 Citizens need to be engaged not just in the ideas but the design and assessment of the mission. This is collaborative participatory and may require frank debates. But it also must avoid the capture by vested interests. It may not be harmonious but it must represent all perspectives, not just those of the 'elite' experts. p132-137
 
-''Mainstream economic prescriptions of simply solving climate change with a carbon tax and some R\&D subsidies (to let the markest find the optimal pathway), combined with political conomic impediments to carbon taxes, have left us with negligent carbon tax systems and a worryingly slow green transition'' p142
+``Mainstream economic prescriptions of simply solving climate change with a carbon tax and some R\&D subsidies (to let the markest find the optimal pathway), combined with political conomic impediments to carbon taxes, have left us with negligent carbon tax systems and a worryingly slow green transition'' p142
 
-''As behavioural science has shown (and the rader knows from everyday life), real persons do not normally optimally react to price incentives, and they tend to 'satisfice' rather than maximise profits or measures of happiness at every step of the way'' p142
+``As behavioural science has shown (and the rader knows from everyday life), real persons do not normally optimally react to price incentives, and they tend to 'satisfice' rather than maximise profits or measures of happiness at every step of the way'' p142
 
 In mainstream economic approaches, the costs are socialised (government funds the research and shoulders the risk) while the profits are privatised (shareholders receive the rewards) p147
 
-''Scientific and medical innovation thrives and progress is made when knowledge is exchanged openly, building upon shared successes and failures. But proprietary science does not follow that logic: it promote secretive competition, prioritises crossing regulatory finishing lines in wealthy countries over wide availability ... and erects barriers to technological diffusion'' p150
+``Scientific and medical innovation thrives and progress is made when knowledge is exchanged openly, building upon shared successes and failures. But proprietary science does not follow that logic: it promote secretive competition, prioritises crossing regulatory finishing lines in wealthy countries over wide availability ... and erects barriers to technological diffusion'' p150
 
-'''Wicked' problems cannot be solved in a linear way, and there is no tech solution to social problems'' p154
+```Wicked' problems cannot be solved in a linear way, and there is no tech solution to social problems'' p154
 
 BBC Computer Literacy Project as an example of a public-led mission (computer literacy) that resulted in spin-outs most notably ARM Holdings and Raspberry Pi p158
 
-''The mission attitude is not about picking individual sectors to support but about identifying problems that can catalyse collaboration beween many different sectors'' p159
+``The mission attitude is not about picking individual sectors to support but about identifying problems that can catalyse collaboration beween many different sectors'' p159
 
 On outsourcing during Covid-19 pandemic: ``By relying on consultancy firms to manage the test-and-trace system, the government has not only deprived our brilliant civil servants of an opprtunity to demosntrate and develop their knowledge, but in doing so undermined the possiblity of organisation learning through the crisis'' p177
 
@@ -509,14 +509,14 @@ In terms of finance, takes a good deal from The Deficit Myth p182-188
 
 Regarding distribution, advises for predistribution, and only correcting using redistribution (taxes and benefits) p189 
 
-''A stakeholder view needs instaed to reward all stakeholders, not only shareholders: workers, the communities and the environment. This concept recognises that value is collectively created...'' p194
+``A stakeholder view needs instaed to reward all stakeholders, not only shareholders: workers, the communities and the environment. This concept recognises that value is collectively created...'' p194
 
 Defending the underlying public interest can be in terms of the approach to the 'commons' - such as data commons'' - take from Elinor Omstrom here p197
 
 Much of the chapter on principles draws from many women scholars - these are listed p 211},
   creationdate     = {2022-02-27T09:51:36},
   keywords         = {economics, business},
-  modificationdate = {2022-10-23T12:23:35},
+  modificationdate = {2023-03-18T12:49:39},
   owner            = {ISargent},
 }
 
@@ -1304,7 +1304,7 @@ I think this paper is very relevant to our's future use of machine learning for 
   url              = {https://openreview.net/forum?id=EZNOb_uNpJk},
   comment          = {I saw this work prensented by Joshua Bengio at an online talk a couple of years ago. It can now be accessed at \url{https://thisclimatedoesnotexist.com/}
  (give it a go). The GAN model uses image segmentation, masking and generation of flood effect to give a view of a familiar place impacted by climate change. See a rendering of Explorer House under floodwater in Figure~\ref{fig:climategan} and also at \url{https://thisclimatedoesnotexist.com/en/share/dcfac8ef-5cef-43c5-8e7b-d73abf7780a5}.},
-  comments         = {Poster From <https://iclr.cc/virtual/2022/poster/6224> https://thisclimatedoesnotexist.com/ First publication of work Bengio spoke about a while ago creating images of what climate _looks_ like at a human scale. Perform pixel-wise classification to produce depth map and from this segmentation image. Then GAN for unsupervised domain adaptation to determine where the flood _would_ be. Finally painter renders flooding.},
+  comments         = {Poster From <https://iclr.cc/virtual/2022/poster/6224> https://thisclimatedoesnotexist.com/ First publication of work Bengio spoke about a while ago creating images of what climate *looks* like at a human scale. Perform pixel-wise classification to produce depth map and from this segmentation image. Then GAN for unsupervised domain adaptation to determine where the flood *would* be. Finally painter renders flooding.},
   creationdate     = {2022-05-08T15:25:21},
   keywords         = {environment, GANs, segmentation},
   modificationdate = {2022-06-28T20:49:12},
@@ -8117,7 +8117,7 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
 * How well service is achieving the intent behind it
 * How often the right service outcome is achieved
 * How are users are supported in what they need
-* Tme, effort, risk, issues, errors, avoidable burden and cost involved for everyone
+* Time, effort, risk, issues, errors, avoidable burden and cost involved for everyone
 
 When people aren't confident the contact dental handle more contact - school how confident they feel
 
@@ -8162,7 +8162,7 @@ The need to be part of the world and and to be able to receive support from UN c
 @Online{LeeR2019,
   author           = {Nikki Lee and Kara Reinsel},
   date             = {2019-08-22},
-  title            = {Building product management capacity in government part 1 – Our coaching philosophy},
+  title            = {Building product management capacity in government part 1 - Our coaching philosophy},
   url              = {https://18f.gsa.gov/2019/08/22/building-product-management-capacity-in-government-part-1/},
   comment          = {Talks about their Model - Pair - Coach cycle by which they use experiential learning to build product management ability within in the team 
 
@@ -8489,7 +8489,7 @@ Stages of evolution:
 
 the x-axis of evolution shows the terms for activities alone
 
-A single node on one map can be an entire map from another person’s perspective. Equally, the entire map of your business might be a single component for someone else.},
+A single node on one map can be an entire map from another person's perspective. Equally, the entire map of your business might be a single component for someone else.},
   creationdate     = {2023-02-13T18:53:22},
   keywords         = {transformation, economics, innovation, policy, digital},
   modificationdate = {2023-02-13T19:00:11},
@@ -8677,7 +8677,7 @@ Gaap, mostly tier 1 and 2 - but should move on tier 3 as well - society wide pla
 
 ``Restructuring can also be extremely costly, according to the Institute for Government, a UK think tank, with new departments costing up to £15 million (\$19 million) to establish.112 This cost can rise even higher when one takes into account productivity losses—mainly, but not only, if these changes are rushed—and settlements due to levelling up the salaries of staff from merging departments'' but there is some transformation needed - be strategic
 
-Case study: Spotify's multidisciplinary teams ``Recreating government versions of Spotify’s chapters and guilds – formal and informal knowledge-sharing networks – would therefore be a promising first step.''
+Case study: Spotify's multidisciplinary teams ``Recreating government versions of Spotify's chapters and guilds - formal and informal knowledge-sharing networks - would therefore be a promising first step.''
 
 Keep high performers and increase churn...},
   creationdate     = {2023-02-14T16:57:37},
@@ -9669,7 +9669,7 @@ Linus's Law - ``given enough eyeballs, all bugs are shallow''},
   url              = {https://www.researchgate.net/publication/363652873_Digital_Government_Interoperability_and_Data_Exchange_Platforms_Insights_from_a_Twenty_Country_Comparative_Study},
   comment          = {Preprint
 
-Government Interoperability and Data Exchange Platform GIDEP e.g.  GAIA-X within the EU or Estonia’s X-Road
+Government Interoperability and Data Exchange Platform GIDEP e.g.  GAIA-X within the EU or Estonia's X-Road
 
 Create an initial typology and suggest a lot more research is required
 
@@ -9725,7 +9725,7 @@ Once only principle requires a mapping of data resources amongst government orga
 @Online{Leahey2022,
   author           = {Andrew Leahey},
   date             = {2022-07-12},
-  title            = {We Can All Learn a Thing or Two From the Dutch AI ​Tax Scandal},
+  title            = {We Can All Learn a Thing or Two From the Dutch AI Tax Scandal},
   url              = {https://news.bloombergtax.com/tax-insights-and-commentary/we-can-all-learn-a-thing-or-two-from-the-dutch-ai-tax-scandal},
   comment          = {2013 Dutch gov used AI for child benefits
 Proper form use, flag relative fraud risk
@@ -9834,13 +9834,16 @@ Capacity Maturity Model had five levels},
 }
 
 @TechReport{ONeilR2022,
-  author           = {Kevin O’Neil and Nicole Rasul},
+  author           = {Kevin O'Neil and Nicole Rasul},
   date             = {2022},
   institution      = {The Rockefeller Foundation},
   title            = {Co-Develop Digital Public Infrastructure for an Equitable Recovery},
   eprint           = {https://www.rockefellerfoundation.org/wp-content/uploads/2021/08/Co-Develop-Digital-Public-Infrastructure-for-an-Equitable-Recovery-Full-Report.pdf},
   url              = {https://www.rockefellerfoundation.org/report/co-develop-digital-public-infrastructure-for-an-equitable-recovery/},
-  comment          = {1. A vision for digital public infrastructure as a whole, backed by practice, research, and evaluation.
+  comment          = {Report on creating digital public infrastructure DPI
+
+Highlights 6 areas:
+1. A vision for digital public infrastructure as a whole, backed by practice, research, and evaluation.
 2. A global commons based on digital public goods.
 3. Safeguards for inclusion, trust, competition, security, and privacy.
 4. Tools that use data in digital public infrastructure for public value and private empowerment.
@@ -9849,14 +9852,14 @@ Capacity Maturity Model had five levels},
 
 See also \url{https://www.youtube.com/watch?v=rmjMqYtjw4Y&t=3s}},
   creationdate     = {2023-03-09T18:40:32},
-  modificationdate = {2023-03-18T11:15:11},
+  modificationdate = {2023-03-18T11:18:17},
   owner            = {ISargent},
 }
 
 @Online{NZTreasury2022,
   author           = {{The Treasury, NZ Government}},
   date             = {2022-01-28},
-  title            = {Better Business Cases$^{™}$ for agile projects},
+  title            = {Better Business Cases$^{TM}$ for agile projects},
   url              = {https://www.treasury.govt.nz/information-and-services/state-sector-leadership/investment-management/better-business-cases-bbc/bbc-agile-projects},
   comment          = {Apparently the only thing that change in the NZ Treasury with their attempt to bring the treasury in line with agile work practice was this web page
 
@@ -9882,7 +9885,7 @@ But no customer/user case},
 @Online{NZGov2017,
   author           = {{Lab+ Experiment}},
   date             = {2017},
-  title            = {Government as a Platform – The Value Proposition: A discussion paper},
+  title            = {Government as a Platform - The Value Proposition: A discussion paper},
   url              = {https://www.digital.govt.nz/assets/Blog/Gov-as-a-platform-value-proposition/Government-as-a-Platform-value-proposition.pdf},
   comment          = {Lots of arguments for Government as a platform including the value that saving people's time has to the economy},
   creationdate     = {2023-03-09T19:49:53},
@@ -9904,10 +9907,10 @@ faster, more accountable and more attuned to the complexities of the digital age
 Needs:
 - Multidisciplinary teams - technologists, security professionals, designers, content, comms, legal and other subject matter experts (full part of the team; semi-detached secondments are not enough)
 - Understanding of the limitations of technology
-- Real-world change, not ‘innovation’
+- Real-world change, not `innovation'
 - Accountability - from the start
 
-``One thing we learnt from this approach in the UK government context is that those people all need to be a full part of the team; semi-detached secondments are not enough. If it’s a lawyer popping in to ‘give legal’s opinion’, or a security expert doing a final sign-off, then it won’t work.''},
+``One thing we learnt from this approach in the UK government context is that those people all need to be a full part of the team; semi-detached secondments are not enough. If it's a lawyer popping in to `give legal's opinion', or a security expert doing a final sign-off, then it won't work.''},
   creationdate     = {2023-03-09T19:56:20},
   keywords         = {economics, policy, transformation, digital},
   modificationdate = {2023-03-10T09:44:07},
@@ -9945,7 +9948,7 @@ Needs:
 
 Algorithm to determine which girls are likely to become pregnant in next 5 years
 
-Sponsored by Ministry of Early Childhodd on which families are totally dependent and so unable to refuse to participate
+Sponsored by Ministry of Early Childhood on which families are totally dependent and so unable to refuse to participate
 
 No AI regulation and Technology Platform for Social Intervention was not subject to formal review or assessment of its impacts on girls and women
 
@@ -9956,7 +9959,7 @@ Risk it would lead to removal of abortion rights as well as misguided actions by
 Effectively resisted because of a long history of organising by Argentine feminists},
   creationdate     = {2023-03-09T20:13:42},
   keywords         = {AI, trust, policy},
-  modificationdate = {2023-03-09T20:26:30},
+  modificationdate = {2023-03-18T12:46:22},
   owner            = {ISargent},
 }
 
@@ -9964,7 +9967,7 @@ Effectively resisted because of a long history of organising by Argentine femini
   author           = {Erika M. Kitzmiller},
   date             = {2014},
   institution      = {Actionable Intelligence for Social Policy},
-  title            = {Allegheny County’s Data Warehouse: Leveraging Data to Enhance Human Service Programs and Policies},
+  title            = {Allegheny County's Data Warehouse: Leveraging Data to Enhance Human Service Programs and Policies},
   eprint           = {https://aisp.upenn.edu/wp-content/uploads/2015/08/AlleghenyCounty-_CaseStudy.pdf},
   titleaddon       = {IDS CASE STUDY},
   comment          = {Case study about Allegheny County's Data Wearhouse
@@ -10165,7 +10168,7 @@ Soviet collectivisms outcomes included: p217-9
 Tanzanian villagisation has similarities to authoritarian high modernism: P224-5
 1. idea of `improving' e.g. c.f. `unimproved forest'
 2. reorganise human communities to enable easier control
-3. Aesthetic dimension that emerges _ faith in visual order
+3. Aesthetic dimension that emerges - faith in visual order
 
 Villagisation failed economically and ecologically - if population is hostile, effecient practices can be made ineffecient p225
 
@@ -10193,8 +10196,8 @@ I think this raises the question about the value of science for application that
   author           = {Rik Peeters and Arjan Widlak},
   date             = {2018},
   journaltitle     = {Government Information Quarterly},
-  title            = {The digital cage: Administrative exclusion through information architecture – The case of the Dutch civil registry's master data management system},
-  doi              = {https://doi.org/10.1016/j.giq.2018.02.003},
+  title            = {The digital cage: Administrative exclusion through information architecture - The case of the Dutch civil registry's master data management system},
+  doi              = {10.1016/j.giq.2018.02.003},
   issn             = {0740-624X},
   note             = {Agile Government and Adaptive Governance in the Public Sector},
   number           = {2},
@@ -10209,7 +10212,7 @@ e.g. state registration of cars that led to victim of car theft being repeatedly
 
 being excluded from the system also means being excluded from public services
 
-argue that both citizens and street-level bureaucrats are caught up in a ‘digital cage’ – a wordplay on Weber's ‘iron cage’ (Weber, 2006a: 201) signifying not the disciplining logic of bureaucratic rules, but of information architecture. ``The iron cage refers to a situation in which people, in their desire for predictability and control, become increasingly trapped in expanding bureaucratic structures that subject human behaviour to rules and procedures, and reduce humans to cogs in a machine'' ``In a digital cage, bureaucrats are incapable of making value decisions''
+argue that both citizens and street-level bureaucrats are caught up in a `digital cage' - a wordplay on Weber's `iron cage' (Weber, 2006a: 201) signifying not the disciplining logic of bureaucratic rules, but of information architecture. ``The iron cage refers to a situation in which people, in their desire for predictability and control, become increasingly trapped in expanding bureaucratic structures that subject human behaviour to rules and procedures, and reduce humans to cogs in a machine'' ``In a digital cage, bureaucrats are incapable of making value decisions''
 
 There are few barriers to errors entering the system but many for its correction. [Error has more power than omission in Scott2020].
 
@@ -10221,7 +10224,7 @@ Similar case studies in the Netherlands to the US ones in Eubanks2019
 
 Mechanisms of exclusion:
 - The system is a black box for citizens and bureaucrats
-- The system produces ‘legal contamination via ICT’
+- The system produces `legal contamination via ICT'
 - The system eliminates street-level discretion
 - The system creates perverse behavioural incentives
 
@@ -10281,10 +10284,10 @@ Nonparticipation:
   author           = {Aidan Peppin},
   date             = {2022-07-28},
   institution      = {Ada Lovelace Institute},
-  title            = {The rule of trust Findings from citizens’ juries on the good governance of data in pandemics.},
+  title            = {The rule of trust: Findings from citizens' juries on the good governance of data in pandemics.},
   url              = {https://www.adalovelaceinstitute.org/report/trust-data-governance-pandemics/},
   urldate          = {2023-03-15},
-  comment          = {In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens’ juries.
+  comment          = {In July 2021, the Ada Lovelace Institute, working with the University of Edinburgh and the Bingham Centre for the Rule of Law, convened 50 members of the UK public in two online, week-long citizens' juries.
 
 During the deliberations, jurors considered information about data-driven technologies used during the pandemic, heard from a range of experts and took part in facilitated discussions. They expressed their concerns and suggested criteria for the good governance of data and data-driven technologies.
 
@@ -10337,7 +10340,7 @@ Wheel of good governance:
   url              = {https://www.adalovelaceinstitute.org/report/participatory-data-stewardship/},
   comment          = {Report about participatory data stewardship. Creates the framework from the spectrum of participation.
 
-rejects practices of data collection, storage, sharing and use in ways that are opaque or seek to manipulate people, in favour of practices that empower people to help inform, shape and – in some instances – govern their own data.},
+rejects practices of data collection, storage, sharing and use in ways that are opaque or seek to manipulate people, in favour of practices that empower people to help inform, shape and - in some instances - govern their own data.},
   creationdate     = {2023-03-15T21:44:56},
   keywords         = {trust, data, participation},
   modificationdate = {2023-03-15T21:56:29},
@@ -10363,9 +10366,9 @@ rejects practices of data collection, storage, sharing and use in ways that are 
 
 @Article{vanOoijenV2018,
   author           = {van Ooijen, I. and Vrabec, Helena U.},
-  date             = {2019/03/01},
+  date             = {2019-03-01},
   journaltitle     = {Journal of Consumer Policy},
-  title            = {Does the GDPR Enhance Consumers’ Control over Personal Data? An Analysis from a Behavioural Perspective},
+  title            = {Does the GDPR Enhance Consumers' Control over Personal Data? An Analysis from a Behavioural Perspective},
   issue            = {1},
   pages            = {91--107},
   volume           = {42},
@@ -10389,7 +10392,7 @@ GDPR is about individual data control
   author           = {John Boswell and John Denham and Jamie Furlong and Anna Killick and Patricia Ndugga and Beata Rek and Matthew Ryan and Jesse Shipp},
   date             = {2022},
   journaltitle     = {Representation},
-  title            = {Place-based Politics and Nested Deprivation in the U.K.: Beyond Cities-towns, ‘Two Englands’ and the ‘Left Behind’},
+  title            = {Place-based Politics and Nested Deprivation in the U.K.: Beyond Cities-towns, `Two Englands' and the `Left Behind'},
   doi              = {10.1080/00344893.2020.1751258},
   eprint           = {https://doi.org/10.1080/00344893.2020.1751258},
   number           = {2},
@@ -10401,6 +10404,19 @@ GDPR is about individual data control
   modificationdate = {2023-03-17T14:52:08},
   owner            = {izzy_olivine},
   publisher        = {Routledge},
+}
+
+@Online{Shapiro2023,
+  author           = {Jamie Shapiro},
+  date             = {2023-03-17},
+  title            = {Councillors clash during debate to close Portswood Broadway},
+  url              = {https://www.dailyecho.co.uk/news/23393726.southampton-councillor-debate-plan-close-portswood-broadway/},
+  urldate          = {2023-03-18},
+  comment          = {Current title contain error - Portswood Broadway is not going to `close' a bus gate will restrict access to private motorised vehicles only},
+  creationdate     = {2023-03-18T12:12:04},
+  journaltitle     = {Southern Daily Echo},
+  modificationdate = {2023-03-18T12:26:22},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
