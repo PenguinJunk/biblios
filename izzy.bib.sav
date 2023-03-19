@@ -10424,7 +10424,7 @@ GDPR is about individual data control
 @Online{Allan2023,
   author           = {Sarah Allan},
   date             = {2023-01-11},
-  title            = {Climate Assembly Members Thinkand Act Differently on Climate, Two Years On},
+  title            = {Climate Assembly Members Think and Act Differently on Climate, Two Years On},
   url              = {https://involve.org.uk/resources/blog/project-updates/climate-assembly-members-think-and-act-differently-climate-two-years},
   organization     = {Involve},
   urldate          = {2023-03-19},
@@ -10439,7 +10439,56 @@ Assembly members’ are still enthusiastic about citizens’ assemblies.
 belief that the UK political system works fairly well, increased during the assembly, but then fell away again after it finished. There is a statistically significant relationship between this negative change since the assembly, and assembly members’ decreasing belief that their recommendations would have an influence.},
   creationdate     = {2023-03-19T08:57:04},
   keywords         = {participatory, democracy, policy, climate},
-  modificationdate = {2023-03-19T09:02:51},
+  modificationdate = {2023-03-19T09:03:28},
+  owner            = {izzy_olivine},
+}
+
+@Book{Ryan2021,
+  author           = {Ryan, Matthew},
+  title            = {Why Citizen Participation Succeeds or Fails: A Comparative Analysis of Participatory Budgeting},
+  edition          = {1},
+  isbn             = {9781529209921},
+  publisher        = {Bristol University Press},
+  url              = {http://www.jstor.org/stable/j.ctv1rnpjh7},
+  urldate          = {2023-03-19},
+  abstract         = {Matt Ryan’s landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.Matt Ryan’s landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.},
+  address          = {Bristol, UK},
+  comment          = {JSTOR: \url{https://www-jstor-org.libproxy.ucl.ac.uk/stable/j.ctv1rnpjh7.12}
+
+Studies 31 case studies of participatory budgeting from around the world to understand what are the necessary and sufficient conditions for successful participatory democracy
+
+Applies QCA (Qualitative Comparative Analysis) and  fuzzy set QCA
+
+Chapter 4 A Comparative Analysis of Participatory Budgeting: explains QCA and how the set of case studies was arrived at 
+
+Chapter 6: considers the work of Wampler and applies QCA to test Wampler's claims. Find that there isn't enough consistency to make claims about necessity advisable. Concludes that necessity claims are premature and overblown.
+
+Mayoral support seems to be the only necessary condition, but it's not sufficient, I think
+
+Conclusion: 
+Provides since specific combinations that may alternatively produce good outcomes p198
+
+``political leaders' commitment to participation in words and deeds is a necessary condition for citizens to gain meaningful control of collective decisions'' p198
+
+Autonomous civil society in contention and concert with political leaders and bureaucratic staff are able to support the process - sufficient for success p198
+
+``participatory programmes often seem to start because monitoring and implementation is an afterthought'' p205
+
+``populism is engaging but citizens than participatory and deliberative democracy right now'' p205
+
+``positive effects of participation are likely cumulative'' p206
+
+Warns that pb is difficult, can fail, it have missing outcomes and suggests being transparent about this},
+  creationdate     = {2023-03-19T09:08:25},
+  modificationdate = {2023-03-19T09:57:07},
+  owner            = {izzy_olivine},
+  year             = {2021},
+}
+
+@Article{,
+  eprint           = {chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://citizensassembly.co.uk/wp-content/uploads/2016/01/Assembly-South-Overview-Report.pdf},
+  creationdate     = {2023-03-19T09:10:14},
+  modificationdate = {2023-03-19T09:10:18},
   owner            = {izzy_olivine},
 }
 
