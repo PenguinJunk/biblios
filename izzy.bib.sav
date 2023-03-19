@@ -10515,10 +10515,12 @@ It is unclear why local councillors were not good at attending
 
 Gives details of the structure of the assembly, each sessions purpose and size of group. `Witness speed dating' whereby witnesses presented their case in 5 minutes to small groups of participants seemed to create more engagement than more traditional approach (witnesses present for 5 to everyone, then small groups generate questions).
 
-Participants were able to propose topics for Open Space on final day.},
+Participants were able to propose topics for Open Space on final day.
+
+Notes that participants need to be treated well, requires a lot of volunteers, costs of accommodation and food},
   creationdate     = {2023-03-19T09:10:14},
   keywords         = {policy, participatory, democracy,, devolution},
-  modificationdate = {2023-03-19T10:26:27},
+  modificationdate = {2023-03-19T10:27:09},
   owner            = {izzy_olivine},
 }
 
@@ -10534,6 +10536,42 @@ Participants were able to propose topics for Open Space on final day.},
   creationdate     = {2023-03-19T09:58:13},
   keywords         = {digital, transformation},
   modificationdate = {2023-03-19T10:00:21},
+  owner            = {izzy_olivine},
+}
+
+@Online{2019-07-24,
+  author           = {{Committee on Exiting the European Union}},
+  title            = {The potential role of citizens’ assemblies in identifying a way forward in the Brexit process},
+  url              = {https://www.youtube.com/watch?v=qoxzKiM5nIE},
+  comment          = {What is it that parliament can't do that a citizens assembly can do?
+
+(Professor David Farrell, School of Politics and International Relations, University College Dublin): Knows about previous CA on abortion and same-sex marriange in Ireland. CA - is a mini-public, at request of parliament, there to advise and help parliament . Well-run process brings citizens up to speed. Open transparaent process, expert advisory group with unimpeachable credentials. Balance of views in experts (gives example of abortion discussion in Ireland). Strong need for cross-party buy-in (this was present in Irish case).  Referendum vote in Ireland had very similar proportion to outcomes of citizens assembly. Large part of role of citizens assembly is to educate the political and media classes - politicians and journalists became informed in a way they hadn't been informed before. Irish process took 2-3 months to set up, 5 months to deliberate, 3 months or so for parliamentary committee to deliberate on outcome. Wider public were aware of the CA. A weakness of the process was that agenda was too broad - recommends focussing on one or two issues. Chair chosen carefully to keep discussion on track. Advocates were brought into the process as advocates. Political class appreciate being able to learn from experts. Important that its clear from beginning what would happen to the output of the assembly.
+
+(Sarah Allan, Head of Engagement, Involve):  Knows about a previous CA on Brexit. CA representative of wider population - in attitude as well as demographic characteristics. Particpants should know when there is an imbalance in range of views because this may matter to them personally. Pure sortition is a civic lottery - random selection initially and use respones to this to select representative assembly.  CAs shouldn't be used if not looking at public judgement but rather a specific part of the population. Not a good idea if they don't have sufficient support. Could do something meaningful to provide guidance in 3 or 4 weekends. Time to prepare in 2 months but with very quick sign off by parliament. Doesn't include procurement process. Haven't had problems getting representative range of citizens. Discussion is structured to keep on track. Participants not able to engage with social media, lobby groups etc during the events. Participants loved the process of learning from and questioning experts - always one of the favourite parts. Needs to be commissioned by Gov or Parliament. Important to have high media profile. Important also to get clear what the question is.
+
+(Dr Alan Renwick, Deputy Director, Constitution Unit, UCL): Where parliament has found it difficult to find a solution. Shows that there is public support. Witnesses with range of perspectives and assured balance with advisory board who had a range of positions (including neutral). Ideally 5 or 6 weekends to deliberate - ideally spaced out so that people 3 or 4 week intervals because people are often not available for consecutive weekends. Suggests double-referendum process - one on principle and one on proposal, with CA in advance on either e.g. considers that there should have been a CA before the point of priciple referendum. Participants learn a lot from each other, experts inputs isn't everything. Some participants thought it may be a hoax before the start. Participants wanted their involvement to have impact. 
+
+Participants on Brexit CA were told when there is an imbalance in expert opinion -
+
+
+Discussion of citizen assembly on Brexit - had some interesting findings like little appetite for no deal Brexit and appetite for staying in single market.
+
+Polarisation can be overcome, but needs political buy-in
+
+CA in Ireland deliberated on the referendum question.
+
+Confidentiality - different approaches, can be decided by the participants. Can just publish the demographic breakdown. 
+
+Important:
+- commissioned by government or parliament
+- high media profile
+- clear question
+- clarity from start what would happen to the output of the assembly - participants want impact
+- confidentiality and protection for particpants
+
+Protection for members of assembly from trolling},
+  creationdate     = {2023-03-19T11:29:09},
+  modificationdate = {2023-03-19T13:05:16},
   owner            = {izzy_olivine},
 }
 
