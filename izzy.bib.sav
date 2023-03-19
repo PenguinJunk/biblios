@@ -10624,4 +10624,20 @@ Interesting results on BBC - it seems that more people think that the BBC should
   owner            = {izzy_olivine},
 }
 
+@Online{VanGeluweMS2020,
+  author           = {Van Geluwe, W. and Medeiros, J. and Arthur, J.},
+  date             = {2020-06-16},
+  title            = {When to Build vs. Buy Enterprise Platform: Risks, Benefits, and Considerations},
+  url              = {https://blog.developer.adobe.com/when-to-build-vs-buy-enterprise-platform-risks-benefits-and-considerations-fea358449b30},
+  urldate          = {2023-03-19},
+  comment          = {Lists since things to consider when deciding whether to build it buy.
+
+Seems to be a bit of a plug for buying, especially buying Adobe Experience Platform
+
+This is the paper with the idle mention of the "machine learning" component},
+  creationdate     = {2023-03-19T13:30:45},
+  modificationdate = {2023-03-19T13:33:17},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
