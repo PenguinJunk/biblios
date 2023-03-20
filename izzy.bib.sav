@@ -10836,14 +10836,33 @@ Deliver the Green City Plan 2030
   url              = {https://data.southampton.gov.uk/surveys-and-research/survey-results/},
   comment          = {Survey of residents, designed to be representative of gender, ethnicity and age (although its not so good regarding age). Not sure if its is also representative of regions of Southampton (they used random phone number).
 
-Questions on satisfaction with local area, Covid-19 response, public services, transport, crime and safety, loneliness and support networks, health, digital inclusion, 
+Questions on satisfaction with local area, Covid-19 response, public services, transport, crime and safety, loneliness and support networks, health, digital inclusion, culture
 
 3\% of people do not have technology for accessing the internet - mainly in oldest agegruop but other ages represented
 
 The majority of people agree with changing how roads and streets are designed to reallocate space towards walking, buses and cycling},
   creationdate     = {2023-03-20T12:58:10},
   keywords         = {policy, bureaucracy, Southampton},
-  modificationdate = {2023-03-20T13:04:27},
+  modificationdate = {2023-03-20T13:04:37},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{SCPSCC2022,
+  author           = {{Safe City Partnership}},
+  date             = {2022},
+  institution      = {Southampton City Council},
+  title            = {Southampton Safe City Strategy},
+  eprint           = {https://www.southampton.gov.uk/moderngov/documents/s55157/MRD%201%20for%20Safe%20City%20Strategy%202022-27.pdf},
+  comment          = {Southampton Safe City Strategy links to:
+- Children and young people's strategy
+- Tobacco, alcohol and drugs strategy
+- Health and welbeing strategy
+- All of which feed into the Corporate plan
+also links to
+- Domestic and sexual violence strategy},
+  creationdate     = {2023-03-20T13:16:21},
+  keywords         = {policy, bureaucracy, Southampton},
+  modificationdate = {2023-03-20T13:19:52},
   owner            = {izzy_olivine},
 }
 
