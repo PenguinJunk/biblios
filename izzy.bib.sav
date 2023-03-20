@@ -10859,10 +10859,33 @@ The majority of people agree with changing how roads and streets are designed to
 - Health and welbeing strategy
 - All of which feed into the Corporate plan
 also links to
-- Domestic and sexual violence strategy},
+- Domestic and sexual violence strategy
+
+This is pretty much all about crime},
   creationdate     = {2023-03-20T13:16:21},
   keywords         = {policy, bureaucracy, Southampton},
-  modificationdate = {2023-03-20T13:19:52},
+  modificationdate = {2023-03-20T13:20:18},
+  owner            = {izzy_olivine},
+}
+
+@Booklet{UNICEF82022,
+  author           = {UNICEF},
+  date             = {2022},
+  title            = {Child Friendly Cities \& Communities - Children’s Rights in the New Normal: 8. Play \& the Built Environment},
+  eprint           = {https://www.unicef.org.uk/child-friendly-cities/wp-content/uploads/sites/3/2022/05/8.-Play-and-the-built-environment_UNICEF-UK_New-Normal-series.pdf},
+  url              = {https://www.unicef.org.uk/child-friendly-cities/play-built-environment/},
+  comment          = {``This ‘reimagining’ should go beyond simply planning for more play and move towards an understanding of the entirety of the world around the child, including how they move around their local area and whether they can do so independently and safely; whether they have access to public spaces where they can spend time and feel comfortable; and the sustainability of the local areas they live in and will inherit. ''
+
+UN Convention on the Rights of the Child. Rights relevant to this topic:
+2. All children under 18 should enjoy all their rights as set out in the UNCRC in all situations and without discrimination.
+3. The best interests of the child should be the top priority in all decisions and actions that affect children.
+6. Every child should have the same opportunities to develop to their full potential.
+12. Every child has the right to be heard and for their views to be taken seriously, including in discussions around local planning.
+15. Every child has the right to associate freely with friends and others in public spaces.
+24. Every child has the right to the best possible health, including a clean environment.
+27. Every child has the right to a standard of living that supports their needs and development, including housing.},
+  creationdate     = {2023-03-20T13:39:21},
+  modificationdate = {2023-03-20T13:43:56},
   owner            = {izzy_olivine},
 }
 
