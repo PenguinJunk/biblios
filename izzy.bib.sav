@@ -10822,8 +10822,8 @@ Deliver the Green City Plan 2030
 
 ``Ensure the business community engages with the Southampton’s Citizens Assembly on becoming a Zero Carbon City by 2035, so they can be part of the solution to tackling climate change''},
   creationdate     = {2023-03-20T11:57:49},
-  keywords         = {policy, bureaucracy, Southampton},
-  modificationdate = {2023-03-20T12:15:54},
+  keywords         = {policy, bureaucracy, Southampton, children},
+  modificationdate = {2023-03-20T14:39:13},
   owner            = {izzy_olivine},
 }
 
@@ -10863,17 +10863,19 @@ also links to
 
 This is pretty much all about crime},
   creationdate     = {2023-03-20T13:16:21},
-  keywords         = {policy, bureaucracy, Southampton},
-  modificationdate = {2023-03-20T13:20:18},
+  keywords         = {policy, bureaucracy, Southampton, children},
+  modificationdate = {2023-03-20T14:39:04},
   owner            = {izzy_olivine},
 }
 
-@Booklet{UNICEF82022,
-  author           = {UNICEF},
+@Proceedings{UNICEF82022,
   date             = {2022},
-  title            = {Child Friendly Cities \& Communities - Children’s Rights in the New Normal: 8. Play \& the Built Environment},
+  title            = {Play \& the Built Environment},
   eprint           = {https://www.unicef.org.uk/child-friendly-cities/wp-content/uploads/sites/3/2022/05/8.-Play-and-the-built-environment_UNICEF-UK_New-Normal-series.pdf},
+  number           = {8},
+  series           = {Child Friendly Cities \& Communities - Children’s Rights in the New Normal},
   url              = {https://www.unicef.org.uk/child-friendly-cities/play-built-environment/},
+  author           = {UNICEF},
   comment          = {``This ‘reimagining’ should go beyond simply planning for more play and move towards an understanding of the entirety of the world around the child, including how they move around their local area and whether they can do so independently and safely; whether they have access to public spaces where they can spend time and feel comfortable; and the sustainability of the local areas they live in and will inherit. ''
 
 UN Convention on the Rights of the Child. Rights relevant to this topic:
@@ -10890,8 +10892,8 @@ Calls for ``childfriendly placemaking'' going beyond playgrounds and parks to in
 
 ... Be creative and open to new ideas, weaving opportunities for informal play across the built and natural environment.},
   creationdate     = {2023-03-20T13:39:21},
-  keywords         = {transport, health, policy},
-  modificationdate = {2023-03-20T13:48:13},
+  keywords         = {transport, health, policy, children},
+  modificationdate = {2023-03-20T14:41:37},
   owner            = {izzy_olivine},
 }
 
@@ -10929,14 +10931,31 @@ World at large indicators:
 Almost 40\% of young people are hesitant about having children due to climate change and almost 60\% feel betrayed by the government over climate change
 
 Spotlight 4 is ``children's journeys to school''
-71, 72
 ``Contemporary childhood research shows that the decline in children’s independent mobility – and the consequent lack of engagement with their outdoor surroundings – has had negative implications for their physical, psychological and social well-being''
 Children enjoy walking or taking bus to school - lost in thoughts, talk to their peers
 
-``In another study, both active travellers and those driven by their parents expressed fear of traffic as a barrier to independent school journeys, seeing cars as making the travelling environment hostile''.80},
+``In another study, both active travellers and those driven by their parents expressed fear of traffic as a barrier to independent school journeys, seeing cars as making the travelling environment hostile''.
+
+Lots of useful references for children's experiences with travel to school 71-80},
   creationdate     = {2023-03-20T13:57:48},
-  keywords         = {policy, climate},
-  modificationdate = {2023-03-20T14:31:06},
+  keywords         = {policy, climate, transport, children},
+  modificationdate = {2023-03-20T14:38:53},
+  owner            = {izzy_olivine},
+}
+
+@Booklet{MJSSCC2021,
+  author           = {{My Journey Southampton}},
+  date             = {2021},
+  title            = {How Could you Travel to School?},
+  eprint           = {https://myjourneysouthampton.com/media/2126/782-mj-travel-to-school-southampton-0405.pdf},
+  titleaddon       = {A practical guide for Southampton parents and carers about safer, active and sustainable travel to school},
+  url              = {https://myjourneysouthampton.com/education/active-travel-to-school-information-for-parents/},
+  comment          = {More than one in 5 school journeys are by car 
+Between 60 and 70\% are walking
+Very little change over the years 2014-2021},
+  creationdate     = {2023-03-20T14:56:01},
+  keywords         = {policy, climate, transport, children, environment},
+  modificationdate = {2023-03-20T15:00:31},
   owner            = {izzy_olivine},
 }
 
