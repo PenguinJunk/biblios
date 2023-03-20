@@ -10938,8 +10938,8 @@ Children enjoy walking or taking bus to school - lost in thoughts, talk to their
 
 Lots of useful references for children's experiences with travel to school 71-80},
   creationdate     = {2023-03-20T13:57:48},
-  keywords         = {policy, climate, transport, children},
-  modificationdate = {2023-03-20T14:38:53},
+  keywords         = {policy, climate, transport, children, environment},
+  modificationdate = {2023-03-20T15:00:36},
   owner            = {izzy_olivine},
 }
 
@@ -10956,6 +10956,20 @@ Very little change over the years 2014-2021},
   creationdate     = {2023-03-20T14:56:01},
   keywords         = {policy, climate, transport, children, environment},
   modificationdate = {2023-03-20T15:00:31},
+  owner            = {izzy_olivine},
+}
+
+@Proceedings{UNICEF32022,
+  date             = {2022},
+  title            = {The Climate Crisis},
+  eprint           = {https://www.unicef.org.uk/child-friendly-cities/wp-content/uploads/sites/3/2021/11/The-climate-crisis_UNICEF-UK-New-Normal-series.pdf},
+  number           = {3},
+  series           = {Child Friendly Cities \& Communities - Children’s Rights in the New Normal},
+  url              = {https://www.unicef.org.uk/child-friendly-cities/the-climate-crisis/},
+  author           = {UNICEF},
+  creationdate     = {2023-03-20T15:03:40},
+  keywords         = {climate, health, policy, children},
+  modificationdate = {2023-03-20T15:05:32},
   owner            = {izzy_olivine},
 }
 
