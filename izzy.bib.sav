@@ -10883,9 +10883,60 @@ UN Convention on the Rights of the Child. Rights relevant to this topic:
 12. Every child has the right to be heard and for their views to be taken seriously, including in discussions around local planning.
 15. Every child has the right to associate freely with friends and others in public spaces.
 24. Every child has the right to the best possible health, including a clean environment.
-27. Every child has the right to a standard of living that supports their needs and development, including housing.},
+27. Every child has the right to a standard of living that supports their needs and development, including housing.
+31. Every child has the right to rest and play.
+
+Calls for ``childfriendly placemaking'' going beyond playgrounds and parks to include any urban development, housing, transport etc
+
+... Be creative and open to new ideas, weaving opportunities for informal play across the built and natural environment.},
   creationdate     = {2023-03-20T13:39:21},
-  modificationdate = {2023-03-20T13:43:56},
+  keywords         = {transport, health, policy},
+  modificationdate = {2023-03-20T13:48:13},
+  owner            = {izzy_olivine},
+}
+
+@Proceedings{UNICEFIRC172022,
+  date             = {2022},
+  title            = {Places and Spaces: Environments and children's well-being},
+  eprint           = {https://www.unicef-irc.org/publications/pdf/RC17-EN_Places-and-Spaces_Environments-and-childrens-well-being_Report-Card-17.pdf},
+  number           = {17},
+  publisher        = {UNICEF Office of Research},
+  series           = {Innocenti Report Card},
+  url              = {https://www.unicef-irc.org/publications/1417-rc17-places-and-spaces-environments-and-childrens-well-being.html},
+  address          = {Innocenti, Florence},
+  author           = {Timar, Eszter and Gromada, Anna and Rees, Gwyther and Carraro, Alessandro},
+  comment          = {Amazing report chock full of stuff. I was reading it for evidence relating to children's independant journeys to school
+
+UK comes 11th in league table of environmental conditions that affect children's welbeing (11th in world of the child, 12th in world around the child and 23rd in world at large)
+
+World of the child indicators:
+- air pollution
+- water pollution
+- lead poisening
+World around the child indicators:
+- overcrowding
+- urban green space
+- road safety
+World at large indicators:
+- number of Earth's required
+- electronic waste generation
+- consumption-based CO2 emissions
+
+2.6 Earth's required to sustain UK's current consumption
+
+4 in 5 UK children are at least moderately worried about climate change
+
+Almost 40\% of young people are hesitant about having children due to climate change and almost 60\% feel betrayed by the government over climate change
+
+Spotlight 4 is ``children's journeys to school''
+71, 72
+``Contemporary childhood research shows that the decline in children’s independent mobility – and the consequent lack of engagement with their outdoor surroundings – has had negative implications for their physical, psychological and social well-being''
+Children enjoy walking or taking bus to school - lost in thoughts, talk to their peers
+
+``In another study, both active travellers and those driven by their parents expressed fear of traffic as a barrier to independent school journeys, seeing cars as making the travelling environment hostile''.80},
+  creationdate     = {2023-03-20T13:57:48},
+  keywords         = {policy, climate},
+  modificationdate = {2023-03-20T14:31:06},
   owner            = {izzy_olivine},
 }
 
