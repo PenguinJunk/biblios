@@ -10726,7 +10726,7 @@ Seems rather data- and technology-focussed - the first DECODE project was Decidi
   title            = {Report of Chief Executive seeking agreement to an Action Plan as referred to in the report from CfGS},
   eprint           = {https://www.southampton.gov.uk/moderngov/documents/s58079/CENTRE%20FOR%20GOVERNANCE%20SCRUTINY%20CfGS-%20GOVERNANCE%20REVIEW%20REPORT.pdf},
   url              = {https://www.southampton.gov.uk/moderngov/ieListDocuments.aspx?CId=514&MId=6808&Ver=4},
-  comment          = {Report from Governance Committee in response to Centre for Governance and Scrutiny (CFGS) – Governance Review Report (Hammond2022)
+  comment          = {Report on decions of Governance Committee in response to Centre for Governance and Scrutiny (CFGS) – Governance Review Report (Hammond2022)
 
 See Agenda for Governance Committee - Monday, 14th November, 2022 5.00 pm
 
@@ -10745,7 +10745,46 @@ Draft completed in Spring 2022 and was updated in September to account for respo
 
 ``In a learning organisation, not least one under political control which can, and does change, one key matter all officers and members need to be acutely aware of are the pressures that brings, be better prepared in advance on both sides and to be more fleetfooted in delivery of manifesto commitments subject of course to adhering to the lawfulness of those proposals, their affordability at a time of great budget pressures, principles of good governance, probity and ethics.''},
   creationdate     = {2023-03-20T10:53:50},
-  modificationdate = {2023-03-20T11:10:18},
+  keywords         = {policy, bureaucracy,},
+  modificationdate = {2023-03-20T11:15:28},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{Hammond2022,
+  author           = {Ed Hammond},
+  date             = {2022},
+  institution      = {The Centre for Governance and Scrutiny},
+  title            = {Review of governance and decision-making at Southampton Council},
+  eprint           = {https://www.southampton.gov.uk/moderngov/documents/s58297/Appendix.pdf},
+  subtitle         = {Findings and suggested actions},
+  comment          = {Report referred to in Ivory2022.
+
+This report seeks to identify where changes can be made to effect improvements in governance systems at Southampton City Council (SCC).
+
+Administration that came in to SCC in May 2021 expected to be able to move swiftly with their plans but ``leading councillors felt a sense of impatience with officers, and existing systems, which it saw as holding up the need to act quickly and decisively''
+
+Some evidence that this occurred with previous administration too.
+
+As a result, members (councillors) had sometimes responded poorly to, or ignored officers' advice and requested it removed from reports. ``officer reports were written defensively and where some interviewees suggested that risks, or negative consequences, of taking certain decisions in certain ways were downplayed''
+
+Finds that ``there are no fundamental and systemic flaws in the council’s governance framework overall ... improvements relate to tackling relationships rather than undertaking fundamental revisions of processes, structures and systems''
+
+``officers do not seem to have engaged consistently with ... members’ priorities ... this may have started with a lack of planning before the 2021 election to understand how priorities would need to shift if there was a change in administration''
+
+Low quality reports:
+- tended not not contain details of policy options
+- low quality equality impact assessments
+Report considers that a lot of these shortcomings due to the pace of decision-making
+Also 
+- legal advice sought too late
+- heavy use of call-in
+
+Actions include:
+- mandatory training for all councillors on member and officer roles
+- mandatory workshops for senior officers on the skills and expertise needed to operate in a political environment
+- revisit the format and content of office r reports},
+  creationdate     = {2023-03-20T11:14:01},
+  modificationdate = {2023-03-20T11:30:39},
   owner            = {izzy_olivine},
 }
 
