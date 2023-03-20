@@ -10745,8 +10745,8 @@ Draft completed in Spring 2022 and was updated in September to account for respo
 
 ``In a learning organisation, not least one under political control which can, and does change, one key matter all officers and members need to be acutely aware of are the pressures that brings, be better prepared in advance on both sides and to be more fleetfooted in delivery of manifesto commitments subject of course to adhering to the lawfulness of those proposals, their affordability at a time of great budget pressures, principles of good governance, probity and ethics.''},
   creationdate     = {2023-03-20T10:53:50},
-  keywords         = {policy, bureaucracy,},
-  modificationdate = {2023-03-20T11:15:28},
+  keywords         = {policy, bureaucracy, Southampton},
+  modificationdate = {2023-03-20T12:14:47},
   owner            = {izzy_olivine},
 }
 
@@ -10757,6 +10757,7 @@ Draft completed in Spring 2022 and was updated in September to account for respo
   title            = {Review of governance and decision-making at Southampton Council},
   eprint           = {https://www.southampton.gov.uk/moderngov/documents/s58297/Appendix.pdf},
   subtitle         = {Findings and suggested actions},
+  url              = {https://www.southampton.gov.uk/moderngov/ieListDocuments.aspx?CId=514&MId=6808&Ver=4},
   comment          = {Report referred to in Ivory2022.
 
 This report seeks to identify where changes can be made to effect improvements in governance systems at Southampton City Council (SCC).
@@ -10784,7 +10785,44 @@ Actions include:
 - mandatory workshops for senior officers on the skills and expertise needed to operate in a political environment
 - revisit the format and content of office r reports},
   creationdate     = {2023-03-20T11:14:01},
-  modificationdate = {2023-03-20T11:30:39},
+  keywords         = {policy, bureaucracy, Southampton},
+  modificationdate = {2023-03-20T12:14:54},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{SCC2022,
+  author           = {{SCC}},
+  date             = {2022},
+  institution      = {Southampton City Council},
+  title            = {Corporate Plan 2022/30},
+  eprint           = {https://www.southampton.gov.uk/media/ugshrc2w/corporate-plan-final-51222.pdf},
+  comment          = {Four goals:
+- Strong foundations for life (mainly around health, early years and education)
+- A proud and resilient city (mainly culture, communites and neighbourhoods)
+- A prosperous city (business, economy, housing)
+- A successful sustainable organisation (council governance and people)
+
+``Southampton residents earn on average less than those that work in the city, but live outside it''
+
+``Whilst Southampton is currently one of the fastest growing economies in the UK, our wealth is not felt fairly by Southampton residents''
+
+``We know that when people feel they belong and have a greater say in their area, they take greater pride in it and each other''
+
+
+``Give communities more infuence over local decision-making and create child-friendly neighbourhoods'':
+
+``Work towards Southampton becoming accredited as a UNICEF Child Friendly City''
+
+Deliver the Safe City Partnership Plan
+
+Deliver the Green City Plan 2030
+
+``Champion sustainable growth, encouraging innovation to tackle the challenges of climate change, with a particular focus on marine and maritime''
+
+``Ensure the business community engages with the Southampton’s Citizens Assembly on becoming a Zero Carbon City by 2035, so they can be part of the solution to tackling climate change''},
+  creationdate     = {2023-03-20T11:57:49},
+  keywords         = {policy, bureaucracy, Southampton},
+  modificationdate = {2023-03-20T12:15:44},
   owner            = {izzy_olivine},
 }
 
