@@ -10449,15 +10449,15 @@ GDPR is about individual data control
   url              = {https://involve.org.uk/resources/blog/project-updates/climate-assembly-members-think-and-act-differently-climate-two-years},
   organization     = {Involve},
   urldate          = {2023-03-19},
-  comment          = {Assembly members’ concern about climate change continued to increase, even after the assembly had finished.
+  comment          = {Assembly members' concern about climate change continued to increase, even after the assembly had finished.
 
 Many assembly members made changes in their own lives following the assembly.
 
 Assembly members with very different backgrounds, experiences and opinions have made similar numbers of changes.
 
-Assembly members’ are still enthusiastic about citizens’ assemblies.
+Assembly members' are still enthusiastic about citizens' assemblies.
 
-belief that the UK political system works fairly well, increased during the assembly, but then fell away again after it finished. There is a statistically significant relationship between this negative change since the assembly, and assembly members’ decreasing belief that their recommendations would have an influence.},
+belief that the UK political system works fairly well, increased during the assembly, but then fell away again after it finished. There is a statistically significant relationship between this negative change since the assembly, and assembly members' decreasing belief that their recommendations would have an influence.},
   creationdate     = {2023-03-19T08:57:04},
   keywords         = {participatory, democracy, policy, climate, bureaucracy},
   modificationdate = {2023-03-19T13:15:59},
@@ -10472,7 +10472,7 @@ belief that the UK political system works fairly well, increased during the asse
   publisher        = {Bristol University Press},
   url              = {http://www.jstor.org/stable/j.ctv1rnpjh7},
   urldate          = {2023-03-19},
-  abstract         = {Matt Ryan’s landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.Matt Ryan’s landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.},
+  abstract         = {Matt Ryan's landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.Matt Ryan's landmark comparative review of participatory budgeting, or collective decisions on how public money is spent, reveals the factors behind its success in achieving democratic engagement. The culmination of ten years of research into participation, this is a systematic analysis of how, when and why citizens gain control over these important decisions. Comparing global examples of both positive change and notable failure, the book provides persuasive evidence and guidance for future public involvement in taxation and spending. For advocates and participants of democratic reform and those with interests across political science, this is an essential guide to one of the most significant democratic innovations of our times.},
   address          = {Bristol, UK},
   comment          = {JSTOR: \url{https://www-jstor-org.libproxy.ucl.ac.uk/stable/j.ctv1rnpjh7.12}
 
@@ -10563,7 +10563,7 @@ Notes that participants need to be treated well, requires a lot of volunteers, c
 @Online{CEEU2019,
   author           = {{Committee on Exiting the European Union}},
   date             = {2019-07-24},
-  title            = {The potential role of citizens’ assemblies in identifying a way forward in the Brexit process},
+  title            = {The potential role of citizens' assemblies in identifying a way forward in the Brexit process},
   url              = {https://www.youtube.com/watch?v=qoxzKiM5nIE},
   comment          = {What is it that parliament can't do that a citizens assembly can do?
 
@@ -10611,9 +10611,8 @@ Protection for members of assembly from trolling},
 - People generally preferred not to concentrate power in the hands of a few politicians, but to spread  it to parliament, non-politicians, and the public.
 - Most people showed notably higher support for judicial interventions than is often supposed.
 - Most people thought that people like themselves had too little influence. But many were reluctant  to get actively involved themselves.
-- There was support for mechanisms such as referendums (though often relatively muted) and for citizens’ assemblies.
+- There was support for mechanisms such as referendums (though often relatively muted) and for citizens' assemblies.
 - Conceptions of democracy varied across the population, and were related particularly to attitudes on Brexit and partisanship. But it is important not to exaggerate these differences. On key points there was widespread and high agreement.
-
 
 People trust government's scientific advisors much more than politicians
 
@@ -10636,12 +10635,12 @@ Importance of politicians characters from most to least:
 - be inspiring
 - be clever
 
-Most people thought that people have too little influence in how UK is governed. More than 50% support citizens' assemblies for difficult political issues.
+Most people thought that people have too little influence in how UK is governed. More than 50\% support citizens' assemblies for difficult political issues.
 
 Interesting results on BBC - it seems that more people think that the BBC should be more critical of the government than less critical, and the converse is even more the case - that many more people disagree that the BBC should be less critical of government that think should not be more critical.},
   creationdate     = {2023-03-19T13:13:20},
   keywords         = {policy, participatory, democracy, bureaucracy},
-  modificationdate = {2023-03-19T13:29:35},
+  modificationdate = {2023-03-19T16:00:54},
   owner            = {izzy_olivine},
 }
 
@@ -10718,6 +10717,36 @@ Seems rather data- and technology-focussed - the first DECODE project was Decidi
   owner            = {izzy_olivine},
   publisher        = {Rosa Luxemburg Stiftung},
   year             = {2018},
+}
+
+@TechReport{Ivory2022,
+  author           = {Richard Ivory},
+  date             = {2022-11-14},
+  institution      = {{Governance Committee, Southampton City Council}},
+  title            = {Report of Chief Executive seeking agreement to an Action Plan as referred to in the report from CfGS},
+  eprint           = {https://www.southampton.gov.uk/moderngov/documents/s58079/CENTRE%20FOR%20GOVERNANCE%20SCRUTINY%20CfGS-%20GOVERNANCE%20REVIEW%20REPORT.pdf},
+  url              = {https://www.southampton.gov.uk/moderngov/ieListDocuments.aspx?CId=514&MId=6808&Ver=4},
+  comment          = {Report from Governance Committee in response to Centre for Governance and Scrutiny (CFGS) – Governance Review Report (Hammond2022)
+
+See Agenda for Governance Committee - Monday, 14th November, 2022 5.00 pm
+
+Gives background about why Centre for Governance and Scrutiny (CfGS) was commissioned  to undertake ``a light touch review'' of governance practice at SCC over Winter 2021/2
+
+Main reason for report seems to be the 20221-2022 administration's frustration with the slowness of governance response of officers to their needs. 
+
+The report author and his team at CfGS, took a critical friend approach (against the national picture of best practice) using:
+- interviews with a cross section of members and officers
+- survey of members and officers
+- consideration of several case studies
+- consideration of the Council’s Constitution and pre-agenda publication procedures
+- consideration of the training and development offer 
+
+Draft completed in Spring 2022 and was updated in September to account for responses from Group Leaders. Final version is Hammond2022 - see my entry on this for more detail and recommendations.
+
+``In a learning organisation, not least one under political control which can, and does change, one key matter all officers and members need to be acutely aware of are the pressures that brings, be better prepared in advance on both sides and to be more fleetfooted in delivery of manifesto commitments subject of course to adhering to the lawfulness of those proposals, their affordability at a time of great budget pressures, principles of good governance, probity and ethics.''},
+  creationdate     = {2023-03-20T10:53:50},
+  modificationdate = {2023-03-20T11:10:18},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
