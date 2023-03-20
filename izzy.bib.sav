@@ -10967,9 +10967,65 @@ Very little change over the years 2014-2021},
   series           = {Child Friendly Cities \& Communities - Children’s Rights in the New Normal},
   url              = {https://www.unicef.org.uk/child-friendly-cities/the-climate-crisis/},
   author           = {UNICEF},
+  comment          = {UN Convention on the Rights of the Child. Rights relevant to this topic:
+2. All children under 18 should enjoy all the rights set out in the UNCRC without discrimination, and efforts to tackle the climate crisis should remedy its disproportionate impact on marginalised groups.
+3. The best interests of the child should be the top priority in any decision made or action taken to address the climate crisis.
+6. Every child should enjoy the same opportunities to be healthy and grow in environmental conditions that don’t impact negatively on their development.
+12. Every child has the right to be heard and for their views to be taken seriously, including on discussions around climate and the environment. 
+15. Every child has the right to freedom of expression and peaceful assembly, and restrictions should not be placed on climate strikes as long as they do not stop others from enjoying their rights. 
+24. Every child has the right to the best possible health, including a clean environment.
+29. Children’s education should help them to protect the environment.
+31. Every child has the right to rest and play in a clean environment.
+
+Recommendations include ``Recognise children as key stakeholders in tackling the climate crisis by listening to and incorporating their views into local climate policies. Ensure that any opportunity to participate is promoted in an accessible and child-friendly way, proactively includes young people who may face barriers to participating, and that all decisions are communicated back to young people.''},
   creationdate     = {2023-03-20T15:03:40},
   keywords         = {climate, health, policy, children},
-  modificationdate = {2023-03-20T15:05:32},
+  modificationdate = {2023-03-20T15:11:08},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{SCC2020,
+  author           = {{Southampton City Council}},
+  date             = {2020},
+  institution      = {Southampton City Council},
+  title            = {The Green City Plan 2030},
+  eprint           = {https://www.southampton.gov.uk/media/3r0jtsra/green-city-strategy_tcm63-424943.pdf},
+  url              = {https://www.southampton.gov.uk/our-green-city/council-commitments/plan-2030/},
+  comment          = {15\% of journeys into the city will be by bike by 2027},
+  creationdate     = {2023-03-20T15:15:10},
+  keywords         = {policy, climate, transport, children, environment},
+  modificationdate = {2023-03-20T15:21:47},
+  owner            = {izzy_olivine},
+}
+
+@TechReport{SCC2023,
+  author           = {{Southampton City Council}},
+  date             = {2023},
+  institution      = {Southampton City Council},
+  title            = {Net Zero Strategy - Draft},
+  eprint           = {https://www.southampton.gov.uk/media/fxohgpds/draft-net-zero-strategy-2023-v4.pdf},
+  url              = {https://www.southampton.gov.uk/council-democracy/have-your-say/draft-net-zero-strategy-consultation/},
+  comment          = {``Ensure policy frameworks, decision making processes and funding mechanisms support their goals. It is recognised that there are signifcant challenges to Southampton achieving its targets. Achieving these targets will require National Government Action and changes to the national policy landscape. It will require a clear funded roadmap to support action at local level. ''
+
+`` The council’s priority is to create an offsetting scheme that ensures that the benefts of carbon sequestration are retained in Southampton.'' treeplanting, green roofs, etc
+
+64\% of emissions 2019 baseline are from procurement of goods and services
+
+Option for bringing the emissions lowest is air(/ground?) source heat pumps, abatement programme and PV (I think I've put those in order of impact) - not clear what abatement is
+
+``Nearly a third of the city’s carbon emissions come from the transport sector.''
+
+``By 2040 another 30,000 people are predicted to be living in the city and more homes are planned in the Solentarea. This could generate another 74,000 trips in the city per day. ''
+
+congestion is estimated to cost the economy more than £100M a year
+
+``Despite best efforts there will be a need to ‘offset’ some of our current carbon emissions and there is an opportunity to achieve this at a local level through habitat creation.''
+
+``Citizens Climate Assembly – The University of Southampton are currently engaged in setting up a Citizens Assembly focussed on climate change. It is expected to be launched this year (2023). ''
+
+``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents’ groups.''},
+  creationdate     = {2023-03-20T15:32:18},
+  modificationdate = {2023-03-20T16:06:12},
   owner            = {izzy_olivine},
 }
 
