@@ -10540,10 +10540,12 @@ Gives details of the structure of the assembly, each sessions purpose and size o
 
 Participants were able to propose topics for Open Space on final day.
 
-Notes that participants need to be treated well, requires a lot of volunteers, costs of accommodation and food},
+Notes that participants need to be treated well, requires a lot of volunteers, costs of accommodation and food
+
+Summary can be heard here: \url{https://www.youtube.com/watch?v=iMK_ifcb2Dk}},
   creationdate     = {2023-03-19T09:10:14},
   keywords         = {policy, participatory, democracy, devolution, bureaucracy},
-  modificationdate = {2023-03-19T13:16:06},
+  modificationdate = {2023-03-21T18:31:29},
   owner            = {izzy_olivine},
 }
 
@@ -11117,7 +11119,7 @@ Principles:
   author           = {B. Guy Peters},
   booktitle        = {The Politics of the Public Encounter},
   date             = {2022-11-29},
-  title            = {The politics of street-levelbureaucracy},
+  title            = {The politics of street-level bureaucracy},
   chapter          = {3},
   doi              = {10.4337/9781800889330.00013},
   editor           = {Peter Hupe},
@@ -11163,7 +11165,7 @@ Arguments for shift to AI:
 Interesting to compare and contrast with HerdM2018 - adminstrative burden},
   creationdate     = {2023-03-21T13:45:24},
   keywords         = {bureaucracy, policy, trust},
-  modificationdate = {2023-03-21T14:22:40},
+  modificationdate = {2023-03-21T17:50:53},
   owner            = {izzy_olivine},
 }
 
@@ -11226,18 +11228,6 @@ XR gets a mention},
   owner            = {izzy_olivine},
 }
 
-@Article{,
-  eprint           = {https://www.gov.wales/sites/default/files/consultations/2022-03/consultation-document-wg44742.pdf},
-  comment          = {2.5 provisions intended to strengthen local democracy - training and development 
-2.6 new roles and challenges - such as becoming an assistant to the executive or negative social media; support training - on-line learning and electronic workshops and tutoring
-2.7 supporting councillors’ wellbeing - negative social media, enable councillors from all backgrounds
-3.6 numerous participation pathways  brought together under the umbrella of the public participation strategy
-Petition Schemes},
-  creationdate     = {2023-03-21T15:02:19},
-  modificationdate = {2023-03-21T15:07:58},
-  owner            = {izzy_olivine},
-}
-
 @Article{SorensenT2019,
   author           = {S{\o}rensen, Eva and Torfing, Jacob},
   date             = {2019},
@@ -11276,7 +11266,8 @@ Task Committees are formed with a mix of ~20 politicians, citizens and stakehold
 
 Lots of detail comparing the hybrid model between two locations and how successful it is overall.},
   creationdate     = {2023-03-21T15:53:30},
-  modificationdate = {2023-03-21T17:34:18},
+  keywords         = {policy, bureaucracy, participatory, democracy},
+  modificationdate = {2023-03-21T17:51:08},
   owner            = {izzy_olivine},
   year             = {2019},
 }
@@ -11293,7 +11284,8 @@ Lots of detail comparing the hybrid model between two locations and how successf
 
 ``The picture from the case studies is that this kind of participation has limited influence over local decision-making. Such experiences are disempowering, and in case studies have led to disengagement by communities. Opportunities for participation that are not at the discretion of governance bodies, and for which the results are binding, are more likely to advance levels of engagement. This is likely too with opportunities for citizeninitiated participation, which are much rarer.''},
   creationdate     = {2023-03-21T17:34:50},
-  modificationdate = {2023-03-21T17:50:10},
+  keywords         = {policy, bureaucracy, participatory, democracy},
+  modificationdate = {2023-03-21T17:51:06},
   owner            = {izzy_olivine},
 }
 
