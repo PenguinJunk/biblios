@@ -11252,6 +11252,8 @@ Petition Schemes},
   abstract         = {This article calls for the development of democratic hybrids that combine elements of representative democracy with elements of participatory and deliberative democracy. It presents and evaluates an empirical model of hybrid democracy from a Danish municipality and tests whether the positive Danish experiences can be transferred to a Norwegian municipality with less favorable local conditions. The finding is that the hybrid model of democracy is relatively robust in the face of context variation, not least due to conducive local dynamics in the Norwegian case. The relative robustness of the so-called ‘Gentofte model’ may stimulate its diffusion in countries sharing key elements of the Scandinavian model and inspire municipalities in other countries to experiment with the development of hybrid democracy. The diffusion of hybrid democracy helps to enhance the overall performance of local democracy and reduce the inherent tension between democratic leadership and democratic equality.},
   comment          = {Discuss a Danish case that developed hybrid approach to democracy that combined representative democracy with participatory and deliberative democracy
 
+One of the case studies drawn on my Scottish Government to review how citizens participate \url{https://www.gov.scot/publications/systems-local-governance-citizens-participate-international-review/pages/9/}
+
 Although our findings may be difficult to generalize due to the particularity of the strong, consensus-based Scandinavian  democracies,  they  may  stimulate  future  attempts  to  reinvigorate the institutions of local democracy where elected politicians tend to suffer from: 
 1. tunnel vision due to their narrow focus on case-processing in sector-specific permanent committees
 2. decoupling due to their limited opportunities for engaging in policy formulation that is dominated by public managers
@@ -11270,11 +11272,29 @@ Lists merits and problems of both reprentative and participatory and deliberativ
 
 Task Committees are formed with a mix of ~20 politicians, citizens and stakeholders.
 
-``Task Committees are regulated by a mandate drafted and approved by  the  City  Council.  The  mandate  defines  the  policy  problem  in  broad  terms, describes its background and the existing policies, and specifies the type of delivery (a vision, strategy, action plan, policy proposal or initiative) that the Task Committee is expected to submit to the City Council, which will then discuss, amend and endorse it in an ordinary meeting.''},
+``Task Committees are regulated by a mandate drafted and approved by  the  City  Council.  The  mandate  defines  the  policy  problem  in  broad  terms, describes its background and the existing policies, and specifies the type of delivery (a vision, strategy, action plan, policy proposal or initiative) that the Task Committee is expected to submit to the City Council, which will then discuss, amend and endorse it in an ordinary meeting.''
+
+Lots of detail comparing the hybrid model between two locations and how successful it is overall.},
   creationdate     = {2023-03-21T15:53:30},
-  modificationdate = {2023-03-21T17:26:13},
+  modificationdate = {2023-03-21T17:34:18},
   owner            = {izzy_olivine},
   year             = {2019},
+}
+
+@Report{BlandKS2021,
+  author           = {Nick Bland and Kate Kilpatrick and Natali Dimitrova},
+  date             = {2021},
+  institution      = {Scottish Government},
+  title            = {Systems of local governance and how citizens participate: an international review},
+  type             = {Local Governance Review},
+  eprint           = {https://www.gov.scot/binaries/content/documents/govscot/publications/research-and-analysis/2021/03/systems-local-governance-citizens-participate-international-review/documents/systems-local-governance-citizens-participate-international-review/systems-local-governance-citizens-participate-international-review/govscot%3Adocument/systems-local-governance-citizens-participate-international-review.pdf},
+  url              = {https://www.gov.scot/publications/systems-local-governance-citizens-participate-international-review/documents/},
+  comment          = {Review of lots of cases of citizen participation in government. Mostly these were one-off initiative. A range of different circumstances. Compares to Scottish case.
+
+``The picture from the case studies is that this kind of participation has limited influence over local decision-making. Such experiences are disempowering, and in case studies have led to disengagement by communities. Opportunities for participation that are not at the discretion of governance bodies, and for which the results are binding, are more likely to advance levels of engagement. This is likely too with opportunities for citizeninitiated participation, which are much rarer.''},
+  creationdate     = {2023-03-21T17:34:50},
+  modificationdate = {2023-03-21T17:50:10},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
