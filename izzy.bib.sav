@@ -11123,6 +11123,7 @@ Principles:
   editor           = {Peter Hupe},
   isbn             = {9781800889323},
   pages            = {40--56},
+  url              = {https://www.elgaronline.com/edcollchap/book/9781800889330/book-part-9781800889330-13.xml},
   comment          = {Michael Lipsky (2010 [1980]: 12) developed the idea of street-level bureaucracy, for example referred to teachers as `street ministers of education'. Decisions made in classroom may be what matters more than decisions made by ministers.
 
 the `real law' is the law that is applied, not something in a statute book
@@ -11161,7 +11162,55 @@ Arguments for shift to AI:
 
 Interesting to compare and contrast with HerdM2018 - adminstrative burden},
   creationdate     = {2023-03-21T13:45:24},
-  modificationdate = {2023-03-21T14:20:14},
+  keywords         = {bureaucracy, policy, trust},
+  modificationdate = {2023-03-21T14:22:40},
+  owner            = {izzy_olivine},
+}
+
+@Report{GronchiV2023,
+  author           = {Iacopo Gronchi and Angeliki Vourdaki},
+  date             = {2023-02-02},
+  institution      = {Demos Helsinki},
+  title            = {Draft: What is a 21stcentury civilservice for? The case for a transformative civil service:Four values and a new ethos},
+  comment          = {Four values can propel their role as indispensable agents of governance:
+humility, wisdom, imagination, and collaboration.
+
+Industrial-era governance values - fairness, predictability and accountability - are still quintessential pillars of just and reliable public action. But this stability does not suffice - new values to help navigate change.
+
+``transformation: a deep, sustained, and nonlinear systemic change encompassing multiple dimensions - cultural, political, technological, economic, social, environmental'' from LinnerW2020},
+  creationdate     = {2023-03-21T14:27:14},
+  modificationdate = {2023-03-21T14:35:04},
+  owner            = {izzy_olivine},
+}
+
+@Article{LinnerW2020,
+  author           = {Bj\"{o}rn-Ola Linn\'{e}r and Victoria Wibeck},
+  date             = {2020},
+  journaltitle     = {Environmental Science & Policy},
+  title            = {Conceptualising variations in societal transformations towards sustainability},
+  pages            = {221--227},
+  url              = {Conceptualising variations in societal transformations towards sustainability.},
+  comment          = {- Calls for societal transformations to sustainability surge in science and policy.
+- Our transformation typology differentiates between system level, pace and scope.
+- We identify 4 modes of transformation: quantum leap, convergent, emergent and gradual.
+- Innovations, learning and new narratives are key interventions for transformations.
+- Conceptualizing variations in societal transformations towards sustainability.
+
+4 modes described by two axes:
+Pace: rapid <-> protracted
+System: entire civilisation <-> particular segments
+
+Reflect on the pace and system dimensions of 3 interventions:
+- technological innovations (conclude that this requires decades)
+- transformative learning (conclude that this is long-term, for enduring change)
+- formulating new narratives of sustainable societies
+
+``rapid civilisational-wide system change may not be ... unattainable under present circumstances ... outlining a desired society ... compels us to ponder a wider set of alternatives beyond present means that would be needed in order to realise this desired future''. 
+
+XR gets a mention},
+  creationdate     = {2023-03-21T14:35:30},
+  keywords         = {policy, environment, transformation},
+  modificationdate = {2023-03-21T14:45:11},
   owner            = {izzy_olivine},
 }
 
