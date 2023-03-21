@@ -1729,7 +1729,7 @@ The components are discussed in the context of business code adoption theory''},
   owner            = {ISargent},
 }
 
-@TechReport{Yang2021,
+@Report{Yang2021,
   author           = {Selene Yang},
   date             = {2021},
   institution      = {ILDA},
@@ -2567,7 +2567,7 @@ Scientists could use focus of the work itself, discovery and immersion to protec
   year             = {2019},
 }
 
-@TechReport{KattelMRS2018,
+@Report{KattelMRS2018,
   author           = {Rainer Kattel and Mariana Mazzucato and Josh Ryan-Collins and Simon Sharpe},
   date             = {2018-07-01},
   institution      = {UCL Institute for Innovation and Public Purpose},
@@ -2687,7 +2687,7 @@ They provide some best practice guidelines},
   year             = {2018},
 }
 
-@TechReport{MeyerL2021,
+@Report{MeyerL2021,
   author           = {Brett Meyer and Tim Lord},
   date             = {2021-08-19},
   institution      = {Tony Blair Institute for Global Change},
@@ -2721,7 +2721,7 @@ Lots of graphs showing public attitudes to all sorts of things
   owner            = {ISargent},
 }
 
-@TechReport{CommGAP2010,
+@Report{CommGAP2010,
   author           = {{World Bank}},
   date             = {2010},
   institution      = {Communication for Governance and Accountability Program (CommGAP) Washington, D.C. : World Bank Group.},
@@ -2930,7 +2930,7 @@ Process innovations == cheapening of capital goods == innovations used inside th
   owner            = {ISargent},
 }
 
-@TechReport{Daley2021,
+@Report{Daley2021,
   author           = {Freddie Dailey},
   date             = {2021},
   institution      = {University of Sussex and the Fossil Fuel Non-Proliferation Treaty},
@@ -2964,7 +2964,7 @@ Nice summary of commitments on p16},
   owner            = {ISargent},
 }
 
-@TechReport{KrogstrupO2019,
+@Report{KrogstrupO2019,
   author           = {Signe Krogstrup and William Oman},
   date             = {2019-09-04},
   institution      = {International Monetary Fund},
@@ -2997,7 +2997,7 @@ With returning to p17 onwards for details of tools and instruments and what they
   owner            = {ISargent},
 }
 
-@TechReport{KrebelSLA2020,
+@Report{KrebelSLA2020,
   author           = {Lukasz Krebel and Alfie Stirling and Frank Van Lerven and Sarah Arnold},
   date             = {2020-07-01},
   institution      = {New Economics Foundation},
@@ -3106,7 +3106,7 @@ This particular paper revisits the theory and empirical research using game theo
   owner            = {ISargent},
 }
 
-@TechReport{Mazzucato2017,
+@Report{Mazzucato2017,
   author           = {Mariana Mazzucato},
   date             = {2017-09-01},
   institution      = {UCL Institute of Innovation and Public Purpose},
@@ -3227,7 +3227,7 @@ Suggests a series of reform options - the chapters in the final section.},
   owner            = {ISargent},
 }
 
-@TechReport{BEISIIPP2020,
+@Report{BEISIIPP2020,
   author           = {Mariana Mazzucato and Rainer Kattel and Sarah Albala and George Dibb and Martha McPherson and Asker Voldsgaard},
   date             = {2020-10-01},
   institution      = {UCL Institute for Innovation and Public Purpose / Department for Business, Energy and Industrial Strategy},
@@ -3444,7 +3444,7 @@ Historic discussions of post-scarcity: The ancient Greeks distinguished the free
   relevance        = {relevant},
 }
 
-@TechReport{BEIS2021,
+@Report{BEIS2021,
   author           = {BEIS},
   date             = {2021-10-01},
   institution      = {Department for Business, Energy \& Industrial Strategy},
@@ -3567,7 +3567,7 @@ From CosmeSO2017: ``suggests that the period of stability that Earth's environme
   year             = {2009},
 }
 
-@TechReport{UNEP2019,
+@Report{UNEP2019,
   author           = {UNEP},
   date             = {2019},
   institution      = {United Nations Environment Programme},
@@ -3603,7 +3603,7 @@ Tidal investments from governments and VC. However ``progress has been patchy, w
   owner            = {ISargent},
 }
 
-@TechReport{ParryBV2021,
+@Report{ParryBV2021,
   author           = {Ian W.H. Parry and Simon Black and Nate Vernon},
   date             = {2021-09-24},
   institution      = {International Monetary Fund},
@@ -3723,7 +3723,7 @@ And market-fixing measures, Pigou taxes - internalisation of externalities - for
   owner            = {ISargent},
 }
 
-@TechReport{IIPCC2022,
+@Report{IIPCC2022,
   author           = {IPCC},
   date             = {2022-02-28},
   institution      = {United Nations Intergovernmental Panel on Climate Change},
@@ -3741,7 +3741,7 @@ Global warming, reaching 1.5°C in the near-term, would cause unavoidable increa
   owner            = {ISargent},
 }
 
-@TechReport{HepburnEtAl2020,
+@Report{HepburnEtAl2020,
   author           = {Cameron Hepburn and Tera Allas and Laura Cozzi and Michael Liebreich and Jim Skea and Lorraine Whitmarsh and Giles Wilkes and Bryony Worthington},
   date             = {2020-12-09},
   institution      = {The Policy Advisory Group of the CCC},
@@ -3921,7 +3921,7 @@ Financialisation of firms occurs when executives focus on purpose of maximising 
   year             = {2016},
 }
 
-@TechReport{DeHenauH2020,
+@Report{DeHenauH2020,
   author           = {De Henau, Jerome and Susan Himmelweit},
   date             = {2020-06-30},
   institution      = {Women's Budget Group},
@@ -3967,7 +3967,7 @@ Suggest incompatibilities:
   year             = {1978},
 }
 
-@TechReport{Martin2010,
+@Report{Martin2010,
   author           = {Martin, B.},
   institution      = {Office of Health Economics},
   title            = {{Science Policy Research: Having an Impact on Policy?}},
@@ -4155,7 +4155,7 @@ Interesting quote from As Schumacher (1993c, p. 179) ``Nonrenewable goods must b
   owner            = {ISargent},
 }
 
-@TechReport{MazzucatoR2019,
+@Report{MazzucatoR2019,
   author           = {Mariana Mazzucato and Josh Ryan-Collins},
   date             = {2019},
   institution      = {UCL Institute forInnovation andPublic Purpose},
@@ -4192,7 +4192,7 @@ Nice table that summarises the differences between correcting failures and creat
   owner            = {ISargent},
 }
 
-@TechReport{Nelson2017,
+@Report{Nelson2017,
   author           = {Richard R Nelson},
   date             = {2017-10-01},
   institution      = {UCL Institute for Innovation and Public Purpose},
@@ -4251,7 +4251,7 @@ Strong export focus incentivised investment in technology and enabled informal a
   year             = {1992},
 }
 
-@TechReport{MazzucatoSKE2022,
+@Report{MazzucatoSKE2022,
   author           = {Mariana Mazzucato and Marietje Schaake and Seb Krier and Josh Entsminger},
   date             = {2022-07-28},
   institution      = {UCL Institute forInnovation andPublic Purpose / Stanford Cyber Policy Center},
@@ -4857,7 +4857,7 @@ Bringing institutions and politics into the analytical core - institutions influ
   owner            = {ISargent},
 }
 
-@TechReport{Buchanan2003,
+@Report{Buchanan2003,
   author           = {James M. Buchanan},
   date             = {2003},
   institution      = {Center for Study of Public Choice, George Mason University},
@@ -5244,7 +5244,7 @@ This act had no expiration date - possibly an error or a `slight of hand'
   owner            = {ISargent},
 }
 
-@TechReport{Draper2013,
+@Report{Draper2013,
   author           = {Stephanie Draper},
   date             = {2013},
   institution      = {Forum for the Future},
@@ -5290,7 +5290,7 @@ Systems thinking
   owner            = {ISargent},
 }
 
-@TechReport{StiglitzSF2009,
+@Report{StiglitzSF2009,
   author           = {Joseph E. Stiglitz and Amartya Sen and Jean-Paul Fitoussi},
   date             = {2009},
   institution      = {Commission on the Measurement of Economic Performance and Social Progress},
@@ -5371,7 +5371,7 @@ The budget deficit was 15.1\% of GDP in 2020/21 a peacetime record},
   owner            = {ISargent},
 }
 
-@TechReport{BrowneL2010,
+@Report{BrowneL2010,
   author           = {James Browne and Peter Levell},
   date             = {2010-08-25},
   institution      = {Institute for Fiscal Studies},
@@ -5386,7 +5386,7 @@ This report anticipated that: As a result of the tax and welfare changes to be i
   owner            = {ISargent},
 }
 
-@TechReport{BrewerBJ2011,
+@Report{BrewerBJ2011,
   author           = {Mike Brewer and James Browne and Robert Joyce},
   date             = {2011-10-11},
   institution      = {Institute for Fiscal Studies},
@@ -5421,7 +5421,7 @@ be living in poverty - almost one in four British children.1},
   owner            = {ISargent},
 }
 
-@TechReport{HMTreasury2022,
+@Report{HMTreasury2022,
   author           = {{HM Treasury}},
   date             = {2022-11-17},
   institution      = {HM Treasury},
@@ -5529,7 +5529,7 @@ But alternative measures of inequality have increased over the 10-years to 2021}
   owner            = {ISargent},
 }
 
-@TechReport{CorlettOT2022,
+@Report{CorlettOT2022,
   author           = {Adam Corlett and Felicia Odamtten and Lalitha Try},
   date             = {2022-07-04},
   institution      = {Resolution Foundation},
@@ -5549,7 +5549,7 @@ Figure 9 page 25 is the change in disposable income for different groups showing
   owner            = {ISargent},
 }
 
-@TechReport{CorlettT2022,
+@Report{CorlettT2022,
   author           = {Adam Corlett and Lalitha Try},
   date             = {2022-09-01},
   institution      = {Resolution Foundation},
@@ -5562,7 +5562,7 @@ Figure 9 page 25 is the change in disposable income for different groups showing
   owner            = {ISargent},
 }
 
-@TechReport{BoEMonetary2022,
+@Report{BoEMonetary2022,
   author           = {{Bank of England}},
   date             = {2022-11-03},
   institution      = {Bank of England},
@@ -5615,7 +5615,7 @@ globalization gathers steam.
   year             = {1998},
 }
 
-@TechReport{JohnstonU2022,
+@Report{JohnstonU2022,
   author           = {Neil Johnston and Elise Uberoi},
   date             = {2022-11-21},
   institution      = {House of Commons Library},
@@ -5672,7 +5672,7 @@ Section on Voter ID and quote from Jount Committee on Human Rights:
   publisher        = {British Medical Journal Publishing Group},
 }
 
-@TechReport{MarmotEtAl2020,
+@Report{MarmotEtAl2020,
   author           = {Marmot, M. and Allen, J. and Boyce, T. and Goldblatt, P. and Morrison, J.},
   date             = {2020-02-01},
   institution      = {Institute of Health Equity},
@@ -5727,7 +5727,7 @@ It also notes that there is very little analysis on contageous disease and hopes
   year             = {2014},
 }
 
-@TechReport{CCCCOP272022,
+@Report{CCCCOP272022,
   author           = {Sasha Abraham and Rose Armitage and Miriam Kennedy and Chris Stark and Mike Thompson and Viv Scott and Richard Millar and Marili Boufounou and Bea Natzler},
   date             = {2022-12-01},
   institution      = {Committee on Climate Change},
@@ -5763,7 +5763,7 @@ From MazzucatoR2019 In contrast, Moore developed `public value account' which wa
   year             = {1995},
 }
 
-@TechReport{SternKH2020,
+@Report{SternKH2020,
   author           = {Scott Stern and Petra Krylova and Jaromir Harmacek},
   date             = {2020},
   institution      = {Social Progress Imperative},
@@ -5788,7 +5788,7 @@ From MazzucatoR2019 In contrast, Moore developed `public value account' which wa
   owner            = {ISargent},
 }
 
-@TechReport{OECDGreenGrowth2011,
+@Report{OECDGreenGrowth2011,
   author           = {OECD},
   institution      = {Organization for Economic Co-Operation and Development},
   title            = {Towards Green Growth. A Summary for Policy Makers},
@@ -5878,7 +5878,7 @@ Describes a much more nuanced economic approach of Hoover than the simple-put ``
   owner            = {ISargent},
 }
 
-@TechReport{OECDFiscalConsolidation2012,
+@Report{OECDFiscalConsolidation2012,
   author           = {Douglas Sutherland and Peter Hoeller and Rossana Merola},
   date             = {2012-01-10},
   institution      = {Organisation for Economic Cooperation and Development},
@@ -5896,7 +5896,7 @@ Describes a much more nuanced economic approach of Hoover than the simple-put ``
   owner            = {ISargent},
 }
 
-@TechReport{OECDBeyondGrowth2020,
+@Report{OECDBeyondGrowth2020,
   author           = {{OECD}},
   date             = {2020-09-11},
   institution      = {Organisation for Economic Cooperation and Development},
@@ -5951,7 +5951,7 @@ important role for monetary policy''},
   owner            = {ISargent},
 }
 
-@TechReport{HMTreasury2010,
+@Report{HMTreasury2010,
   author           = {{HM Treasury}},
   date             = {2010},
   institution      = {HM Treasury},
@@ -5968,7 +5968,7 @@ important role for monetary policy''},
   owner            = {ISargent},
 }
 
-@TechReport{HoCBiodiversity2021,
+@Report{HoCBiodiversity2021,
   author           = {{House of Commons Environmental Audit Committee}},
   date             = {2021-06-30},
   institution      = {House of Commons Environmental Audit Committee},
@@ -6010,7 +6010,7 @@ UK has failed to meet at least 14 of the 19 Aichi biodiversity targets},
   owner            = {ISargent},
 }
 
-@TechReport{IPPR2021,
+@Report{IPPR2021,
   author           = {Harry Quilter-Pinner and Rachel Statham and Will Jennings and Viktor Valgar{\dh}sson},
   date             = {2021-12-04},
   institution      = {Institute of Public Policy Research},
@@ -6026,7 +6026,7 @@ UK has failed to meet at least 14 of the 19 Aichi biodiversity targets},
   owner            = {ISargent},
 }
 
-@TechReport{BrewerHKST2022,
+@Report{BrewerHKST2022,
   author           = {Mike Brewer and Karl Handscomb and Gavin Kelly and James Smith and Lalitha Try},
   date             = {2022-01-19},
   institution      = {Resolution Foundation},
@@ -6159,7 +6159,7 @@ Also scathing about Johnson
   owner            = {ISargent},
 }
 
-@TechReport{OECDInnovationPolicies2020,
+@Report{OECDInnovationPolicies2020,
   author           = {{OECD}},
   date             = {2020-10-15},
   institution      = {Organisation for Economic Cooperation and Development},
@@ -6241,7 +6241,7 @@ Alternative to strengthening positive feedback is to weaken negative feedbacks},
   owner            = {ISargent},
 }
 
-@TechReport{McCann2019,
+@Report{McCann2019,
   author           = {Philip McCann},
   date             = {2019},
   institution      = {UK Research and Innovation},
@@ -6988,7 +6988,7 @@ Trust in public services was higher than trust in the national or local governme
   owner            = {ISargent},
 }
 
-@TechReport{HeydeckerOW2022,
+@Report{HeydeckerOW2022,
   author           = {Rachel Heydecker and Hannah Ormston and Jennifer Wallace},
   date             = {2022-01-01},
   institution      = {Carnegie UK},
@@ -7127,7 +7127,7 @@ A super snappy summary of the state of housing stock with regard to climate and 
   owner            = {ISargent},
 }
 
-@TechReport{KedwardGR2022,
+@Report{KedwardGR2022,
   author           = {Kedward, Katie and Gabor, Daniela and Ryan-Collins, Josh},
   institution      = {UCL Institute for Innovation and Public Purpose},
   title            = {Aligning finance with the green transition: From a risk-based to an allocative green credit policy regime},
@@ -7146,7 +7146,7 @@ A super snappy summary of the state of housing stock with regard to climate and 
   year             = {2022},
 }
 
-@TechReport{OECDUKRecovery2010,
+@Report{OECDUKRecovery2010,
   author           = {OECD},
   date             = {2010},
   institution      = {Organisation for Economic Cooperation and Development},
@@ -7234,7 +7234,7 @@ See also summary articles in Zotero (``IPCC: Not just a carbon price, but a real
   owner            = {ISargent},
 }
 
-@TechReport{WeissM2020,
+@Report{WeissM2020,
   author           = {Weiss, Mitchell B. and Sarah Mehta},
   date             = {2020},
   institution      = {Harvard Business School},
@@ -7282,7 +7282,7 @@ Government Data Service GDS, changed governement's digital transformation mindse
   owner            = {izzyolivine},
 }
 
-@TechReport{Kattel2022,
+@Report{Kattel2022,
   author           = {Rainer Kattel},
   date             = {2022-03-31},
   institution      = {Institute of Innovation and Public Purpose},
@@ -7325,7 +7325,7 @@ Sources of dynamic capabilities:
   year             = {2022},
 }
 
-@TechReport{Bouckaert2022,
+@Report{Bouckaert2022,
   author           = {Geert Bouckaert},
   date             = {2022-06-27},
   institution      = {UCL Institute for Innovation for Public Purpose},
@@ -7853,7 +7853,7 @@ Topics in the issues:
   year             = {2021},
 }
 
-@TechReport{ESC2022,
+@Report{ESC2022,
   author           = {ESC},
   date             = {2022},
   institution      = {Energy Systems Catapult},
@@ -8003,7 +8003,7 @@ So that… [why does the user want to do this?]},
   year             = {2019},
 }
 
-@TechReport{ConwayEtAl2021,
+@Report{ConwayEtAl2021,
   author           = {Rowan Conway and Nora Clinton and Ryan Bellinson and Kuhn Von Burgsdorff, Luca and Alex Cooke and Van Spronsen, Kirsten and Hanna Groen and Robyn Smith and Fermin Cerezo and Christopher Thompson and Sarah Dew and Dan Hill and Nico van Meeteren},
   date             = {2021},
   institution      = {UCL Institute for Innovation and Public Purpose},
@@ -8035,7 +8035,7 @@ Surveyed 322 people and 70\% were positive
   owner            = {izzy_olivine},
 }
 
-@TechReport{Teece2022,
+@Report{Teece2022,
   author           = {David J. Teece},
   date             = {2022},
   institution      = {UCL Institute for Innovation and Public Purpose},
@@ -8496,7 +8496,7 @@ A single node on one map can be an entire map from another person's perspective.
   owner            = {izzy_olivine},
 }
 
-@TechReport{MargettsN2017,
+@Report{MargettsN2017,
   author           = {Helen Margetts and Andre Naumann},
   date             = {2017-02-28},
   institution      = {Centre for Technology and Global Affairs, University of Oxford},
@@ -8581,7 +8581,7 @@ One size fits all training ... homogeneity of thinking, self-referential nature 
   owner            = {izzy_olivine},
 }
 
-@TechReport{Pope2019,
+@Report{Pope2019,
   author           = {Richard Pope},
   date             = {2019},
   institution      = {Harvard Kennedy School},
@@ -8638,7 +8638,7 @@ Their proposal for future research / activities are more widely relavant than si
   owner            = {izzy_olivine},
 }
 
-@TechReport{BennettY2019,
+@Report{BennettY2019,
   author           = {Andrew Bennett and Chris Yiu},
   date             = {2019-06-26},
   institution      = {Tony Blair Institute for Global Change},
@@ -8836,7 +8836,7 @@ Uses Microsoft as an example to follow},
   owner            = {ISargent},
 }
 
-@TechReport{BlairH2023,
+@Report{BlairH2023,
   author           = {Tony Blair and William Hague},
   date             = {2023-02-22},
   institution      = {Tony Blair Institute for Global Change},
@@ -8952,7 +8952,7 @@ Friedman pushed for price liberalisation because this had worked in postwar Germ
   owner            = {izzy_olivine},
 }
 
-@TechReport{BreznitzO2012,
+@Report{BreznitzO2012,
   author           = {Dan Breznitz and Darius Ornston},
   date             = {2012},
   institution      = {World Bank},
@@ -9150,7 +9150,7 @@ accessed at \url{https://web-s-ebscohost-com.libproxy.ucl.ac.uk/ehost/ebookviewe
   owner            = {ISargent},
 }
 
-@TechReport{NIC2021,
+@Report{NIC2021,
   author           = {{NIC}},
   date             = {2021},
   institution      = {National Intelligence Council},
@@ -9205,7 +9205,7 @@ Much like EthicalOSToolkit2018 for security},
   owner            = {ISargent},
 }
 
-@TechReport{WhiteD2010,
+@Report{WhiteD2010,
   author           = {Anne White and Patrick Dunleavy},
   date             = {2010-05-12},
   institution      = {Institute for Government},
@@ -9313,7 +9313,7 @@ GDS ``victim of its own success'' not stabilty-focussed. Now a need to renew sou
   owner            = {ISargent},
 }
 
-@TechReport{MazzucatoCMKA2020,
+@Report{MazzucatoCMKA2020,
   author           = {Mariana Mazzucato and Rowan Conway and Eleonora Maria Mazzoli and Eva Knoll and Sarah Albala},
   date             = {2020},
   institution      = {UCL Institute of Innovation and Public Purpose},
@@ -9473,7 +9473,7 @@ improving service delivery is necessary but not sufficient for trust. Good perfo
   owner            = {ISargent},
 }
 
-@TechReport{IPCCSR152018,
+@Report{IPCCSR152018,
   author           = {{IPCC} and Allen, M.R. and O.P. Dube and W. Solecki and F. Aragón-Durand and W. Cramer and S. Humphreys and M. Kainuma and J. Kala and N. Mahowald and Y. Mulugetta and R. Perez and M. Wairiu and K. Zickfeld},
   title            = {Global Warming of 1.5$^o$C. An IPCC Special Report on the impacts of global warming of 1.5$^o$C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty},
   doi              = {10.1017/9781009157940.003},
@@ -9551,7 +9551,7 @@ We must plan to adapt},
   owner            = {ISargent},
 }
 
-@TechReport{WHO2014,
+@Report{WHO2014,
   author           = {{WHO}},
   date             = {2014-09-18},
   institution      = {World Health Organization},
@@ -9578,7 +9578,7 @@ The World Health Organization (WHO) projects that, overall, climate change will 
   owner            = {ISargent},
 }
 
-@TechReport{QuigginDHF2021,
+@Report{QuigginDHF2021,
   author           = {Daniel Quiggin and De Meyer, Kris and Lucy Hubble-Rose and Antony Froggatt},
   date             = {2021-09-14},
   institution      = {Chatham House},
@@ -9833,7 +9833,7 @@ Capacity Maturity Model had five levels},
   owner            = {ISargent},
 }
 
-@TechReport{ONeilR2022,
+@Report{ONeilR2022,
   author           = {Kevin O'Neil and Nicole Rasul},
   date             = {2022},
   institution      = {The Rockefeller Foundation},
@@ -9984,7 +9984,7 @@ Effectively resisted because of a long history of organising by Argentine femini
   owner            = {ISargent},
 }
 
-@TechReport{Kitzmiller2014,
+@Report{Kitzmiller2014,
   author           = {Erika M. Kitzmiller},
   date             = {2014},
   institution      = {Actionable Intelligence for Social Policy},
@@ -10301,7 +10301,7 @@ Nonparticipation:
   owner            = {ISargent},
 }
 
-@TechReport{Peppin2022,
+@Report{Peppin2022,
   author           = {Aidan Peppin},
   date             = {2022-07-28},
   institution      = {Ada Lovelace Institute},
@@ -10352,7 +10352,7 @@ Wheel of good governance:
   owner            = {ISargent},
 }
 
-@TechReport{PatelPPBPS2021,
+@Report{PatelPPBPS2021,
   author           = {Reema Patel and Aidan Peppin and Valentina Pavel and Jenny Brennan and Imogen Parker and Cansu Safak},
   date             = {2021-09-07},
   institution      = {Ada Lovelace Institute},
@@ -10507,7 +10507,7 @@ Warns that pb is difficult, can fail, it have missing outcomes and suggests bein
   year             = {2021},
 }
 
-@TechReport{AssemblySouth2016,
+@Report{AssemblySouth2016,
   author           = {Matthew Flinders and Graham Smith and Will Jennings and Gerry Stoker and Paolo Spada and Brenton Prosser and Alan Renwick and Katie Ghose and Edward Molloy},
   date             = {2016},
   institution      = {Democracy Matters / Assembly South},
@@ -10598,7 +10598,7 @@ Protection for members of assembly from trolling},
   owner            = {izzy_olivine},
 }
 
-@TechReport{RenwickLRC2022,
+@Report{RenwickLRC2022,
   author           = {Alan Renwick and Ben Lauderdale and Meg Russell and James Cleaver},
   date             = {2022},
   institution      = {Constitution Unit, UCL},
@@ -10661,7 +10661,7 @@ This is the paper with the idle mention of the "machine learning" component},
   owner            = {izzy_olivine},
 }
 
-@TechReport{CochranGNYG2022,
+@Report{CochranGNYG2022,
   author           = {Tim Cochran and Prashant Gandhi and Carl Nygard and Andy Yates and Peter Gillard-Moss},
   date             = {2022},
   institution      = {ThoughtWorks},
@@ -10681,7 +10681,7 @@ Understanding importance of in house developers, even when buying solution},
   owner            = {izzy_olivine},
 }
 
-@TechReport{MorozovB2018,
+@Report{MorozovB2018,
   author           = {Evgeny Morozov and Francesca Bria},
   date             = {2018-01-22},
   institution      = {The Rosa Luxemburg Foundation},
@@ -10719,7 +10719,7 @@ Seems rather data- and technology-focussed - the first DECODE project was Decidi
   year             = {2018},
 }
 
-@TechReport{Ivory2022,
+@Report{Ivory2022,
   author           = {Richard Ivory},
   date             = {2022-11-14},
   institution      = {{Governance Committee, Southampton City Council}},
@@ -10750,7 +10750,7 @@ Draft completed in Spring 2022 and was updated in September to account for respo
   owner            = {izzy_olivine},
 }
 
-@TechReport{Hammond2022,
+@Report{Hammond2022,
   author           = {Ed Hammond},
   date             = {2022},
   institution      = {The Centre for Governance and Scrutiny},
@@ -10790,7 +10790,7 @@ Actions include:
   owner            = {izzy_olivine},
 }
 
-@TechReport{SCC2022,
+@Report{SCC2022,
   author           = {{SCC}},
   date             = {2022},
   institution      = {Southampton City Council},
@@ -10827,7 +10827,7 @@ Deliver the Green City Plan 2030
   owner            = {izzy_olivine},
 }
 
-@TechReport{DIISCC2021,
+@Report{DIISCC2021,
   author           = {{Data, Intelligence \& Insight Team}},
   date             = {2021},
   institution      = {Southampton Data Observatory},
@@ -10847,7 +10847,7 @@ The majority of people agree with changing how roads and streets are designed to
   owner            = {izzy_olivine},
 }
 
-@TechReport{SCPSCC2022,
+@Report{SCPSCC2022,
   author           = {{Safe City Partnership}},
   date             = {2022},
   institution      = {Southampton City Council},
@@ -10984,7 +10984,7 @@ Recommendations include ``Recognise children as key stakeholders in tackling the
   owner            = {izzy_olivine},
 }
 
-@TechReport{SCC2020,
+@Report{SCC2020,
   author           = {{Southampton City Council}},
   date             = {2020},
   institution      = {Southampton City Council},
@@ -10997,12 +10997,12 @@ Probably some of this is out of date due to the changes of administration.
 
 However this was produced out of the 2021-2022 administration \url{https://www.southampton.gov.uk/media/0srjn2yi/170-18-infographic-v4.pdf}},
   creationdate     = {2023-03-20T15:15:10},
-  keywords         = {policy, climate, transport, children, environment},
-  modificationdate = {2023-03-20T17:58:33},
+  keywords         = {policy, climate, transport, children, environment, Southampton},
+  modificationdate = {2023-03-20T20:46:14},
   owner            = {izzy_olivine},
 }
 
-@TechReport{SCC2023,
+@Report{SCC2023,
   author           = {{Southampton City Council}},
   date             = {2023},
   institution      = {Southampton City Council},
@@ -11029,8 +11029,8 @@ congestion is estimated to cost the economy more than £100M a year
 
 ``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents’ groups.''},
   creationdate     = {2023-03-20T15:32:18},
-  keywords         = {policy, climate, transport, children, environment},
-  modificationdate = {2023-03-20T17:56:34},
+  keywords         = {policy, climate, transport, children, environment, Southampton},
+  modificationdate = {2023-03-20T20:46:23},
   owner            = {izzy_olivine},
 }
 
@@ -11053,8 +11053,62 @@ What does it cost to hold a citizens' assembly?
 Table with indicative budget for local citizens' assembly
 total £66k-£108k},
   creationdate     = {2023-03-20T20:35:41},
-  modificationdate = {2023-03-20T20:45:53},
+  keywords         = {policy, bureaucracy, participatory, democracy},
+  modificationdate = {2023-03-20T20:47:05},
   owner            = {izzy_olivine},
+}
+
+@Article{Freeman1972,
+  author           = {Freeman, Jo},
+  date             = {1972},
+  journaltitle     = {Berkeley Journal of Sociology},
+  title            = {The Tyranny of Structurelessness},
+  pages            = {151--164},
+  url              = {https://www.jstor.org/stable/41035187},
+  volume           = {17},
+  comment          = {Has quite a negative view of the behaviours of individuals in the women's liberation movement - maybe it was this bad in the 60s and 70s? Great deal of elite and protection of position of elites in the movement
+
+Women's liberation moved from consciousness-raising to other tasks because education is not longer so much needed as the principle of women's liberation was well known
+
+Women's liberation movement -  great emphasis has been placed on what are called leaderless, structureless groups as the main form of the movement.
+
+``A 'laissez-faire' group is about as realistic as a 'laissez-faire' society;
+the idea becomes a smokescreen for the strong or the lucky to establish
+unquestioned hegemony over others.''
+
+does not prevent the formation of informal structures, but only formal ones.
+
+structurelessness is a way of masking power
+
+rules of how decisions are made are known only to a few
+
+for every to be involved, the structure must be explicit
+
+Goes on to paint a picture of the elite and especially the elite in the women's movement - which is exclusive of certain groups
+
+Great description of needing time to cultivate relationships to join in the elite
+
+Women's movement has not identified official `spokespeople' but has `stars' who do not represent any group or established opinion of the movement. These people are often used by the media to speak `for' the movement. The consequences can be back for the movement or the `stars'.
+
+Structure is useful for getting things done - more than `just talking'
+
+Some women leave because they don't want to start their own projects and can't find ones they want to join - they join other political movements
+
+The more structured groups are the only ones able to launch national campaigns
+
+Principles:
+1. delegation of specific authority
+2. responsibility of those with delegated authority to those who selected them
+3. distribution of authority to as many as reasonably possible
+4. rotation of tasks among individuals
+5. allocation of tasks along rational criteria
+6. diffusion of information to everyone, frequently
+7. equal access to resources},
+  creationdate     = {2023-03-21T11:52:49},
+  keywords         = {bureaucracy, transformation, open source,},
+  modificationdate = {2023-03-21T13:40:33},
+  owner            = {izzy_olivine},
+  year             = {1972},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
