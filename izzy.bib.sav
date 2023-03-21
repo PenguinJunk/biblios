@@ -7759,10 +7759,12 @@ burdensome enough that low-income workers seek professional tax preparation help
 
 ``Republicans figured out how to build a politics of burdens that Democrats have been unable or unwilling to develop. Republicans have done so despite the fact that in other areas—such as the regulation of businesses, campaign donations, or firearms—they have also been successful in opposing governmentally imposed burdens in the name of liberty''
 
-highlights:  \url{https://highlights.sawyerh.com/volumes/vB9VLalTilxmp1ivWjpV}},
+highlights:  \url{https://highlights.sawyerh.com/volumes/vB9VLalTilxmp1ivWjpV}
+
+Interesting to compare with Peters2022 - street level bureaucrats},
   creationdate     = {2023-01-17T13:57:28},
   keywords         = {economics, policy, transformation},
-  modificationdate = {2023-03-04T12:36:17},
+  modificationdate = {2023-03-21T13:59:36},
   owner            = {izzyolivine},
   year             = {2018},
 }
@@ -11109,6 +11111,58 @@ Principles:
   modificationdate = {2023-03-21T13:40:33},
   owner            = {izzy_olivine},
   year             = {1972},
+}
+
+@InBook{Peters2022,
+  author           = {B. Guy Peters},
+  booktitle        = {The Politics of the Public Encounter},
+  date             = {2022-11-29},
+  title            = {The politics of street-levelbureaucracy},
+  chapter          = {3},
+  doi              = {10.4337/9781800889330.00013},
+  editor           = {Peter Hupe},
+  isbn             = {9781800889323},
+  pages            = {40--56},
+  comment          = {Michael Lipsky (2010 [1980]: 12) developed the idea of street-level bureaucracy, for example referred to teachers as `street ministers of education'. Decisions made in classroom may be what matters more than decisions made by ministers.
+
+the `real law' is the law that is applied, not something in a statute book
+
+Important points about public policy
+
+1. public policy is what is implkemented not what is formally declared (real speed limits are often higher, black and white, rich and poor, etc drivers have different traffic laws). Discretion of how law is exercised raises questions:
+a. need to hold agents to account for how they exercise law?
+b. what extent does discretion affect outcomes for citizens?
+c. what type of employees would most likely provide high quality inclusive services?
+d. how outmoded is the idea that law bounds street level?
+
+Decisions being made are political
+
+Street-level bureaucrats are both effectors and detectors ... a feed-back approach to policy-making.
+
+the question remains whether the service providers attempt to achieve equality in service delivery or attempt to cater more to the particular needs of each client
+
+citizens ... appear to want the law applied equally, except to them.
+
+Representative bureaucracy - for the representatives of the state to also represent the range of citizens. Idea of active representation whereby members of the public bureaucracy represent people in their gender, class, etc (``Otherwise, why are they there?'' :-o) 
+
+``political representative bureaucracy, coupled with discretion at the ‘bottom-end’ levels of government, can produce the ultimate allocative decisions by government''
+
+Policy drift can occur due to decisions at bottom of organisations - informal patterns of decision-making
+
+options:
+- `tamper-proof legal instruments'
+- what must be done to make the law work in real-world circumstances.
+
+Arguments for shift to AI:
+- create equality of treatment - same outcomes for similar cases
+- make better decisions because they can process more data
+
+``better decisions'' are better for whom?
+
+Interesting to compare and contrast with HerdM2018 - adminstrative burden},
+  creationdate     = {2023-03-21T13:45:24},
+  modificationdate = {2023-03-21T14:20:14},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
