@@ -11453,4 +11453,89 @@ Wales},
   owner            = {izzy_olivine},
 }
 
+@Report{Harrison2023,
+  author           = {Steve Harrison},
+  date             = {2023-02-22},
+  institution      = {Southampton City Council},
+  title            = {The Revenue Budget 2023/24, Medium Term Financial Strategy and Capital Programme},
+  eprint           = {https://www.southampton.gov.uk/modernGov/documents/s59366/The%20Revenue%20Budget%20202324%20Medium%20Term%20Financial%20Strategy%20and%20Capital%20Programme.pdf},
+  comment          = {Southampton City Council at `major risk' of s114
+financial position has become ``very uncertain''
+
+the authority has used £20.6m from its reserves to balance its budget for 2023/24. He detailed that the significant drawdown has left a forecast of only £10.3m of unallocated balance in the medium-term financial risk reserve.
+
+``use of reserves to such an extent also compromises the capacity for `invest to save’ and to achieve savings through transformation work''
+
+``The authority is in a very uncertain position financially, and one where its financial resilience is severely weakened to the point where, in my opinion, a s114 notice is a major risk during 2023/24''
+
+``essential spend only''
+
+see also \url{https://www.bbc.co.uk/news/uk-england-hampshire-64718924}},
+  creationdate     = {2023-03-25T19:08:08},
+  modificationdate = {2023-03-25T19:14:31},
+  owner            = {izzy_olivine},
+}
+
+@Report{OFerrall2023,
+  author           = {George O’Ferrall},
+  date             = {2022-12-20},
+  institution      = {Southampton City Council},
+  title            = {Air Quality Action Plan 2023-2028},
+  eprint           = {https://www.southampton.gov.uk/media/zwjffm2u/scc-aqap-2023-2028.pdf},
+  comment          = {We have identified 5 priority areas where new efforts under the action plan will be focussed: 
+1. Empowering Communities 
+2. Supporting Businesses 
+3. Active and Sustainable Travel 
+4. Low Emission Vehicles 
+5. Planning and Monitoring  
+
+We recognise that there are many effective measures which The Council cannot achieve alone. We will continue to work with external organisations including businesses, residents and central government on policies and issues beyond Southampton City Council’s direct influence.  The key measures in the plan include: 
+- Wood burning public engagement programme
+- Air quality school’s engagement programme
+- New high-tech air quality monitors
+- Shore-side power for cruise ships docking at the Port of Southampton
+- Enhanced air quality requirements in the planning process
+- Electric taxi and light commercial vehicle try before you buy scheme including new chargers across the city
+- Identify further opportunities for better pedestrian infrastructure including Active Travel Zones 
+- Supporting shared  `micromobility' by providing rental manual bike, e-bikes and cargo bikes for residents
+
+`` Of a group of 282 residents surveyed, 88% consider poor air quality to be a fairly big or very big problem.''
+
+Public Health England estimates that 6.3% of deaths in Southampton can be attributed to particulate matter pollution - higher than the Southeast England figure of 6.0%. Research by the Clean Air Fund indicated that if air pollution was cut by a fifth in the city, every year we could see:
+- 150 fewer children suffering with reduced lung function
+- 81 fewer children suffering with a chest infection and 69 fewer asthmatic children suffering with bronchitic symptoms (cough and phlegm);
+- A decrease in the risk of coronary heart disease by around 4.2\% which would result in 48 fewer cases a year; and
+- A decrease in lung cancer cases by around 5.9\%, which would result in 10 fewer cases every year.},
+  creationdate     = {2023-03-25T19:27:14},
+  keywords         = {health, environment, Southampton, policy},
+  modificationdate = {2023-03-25T20:02:53},
+  owner            = {izzy_olivine},
+}
+
+@Report{ERG2019,
+  author           = {{Environmental Research Group}},
+  date             = {2019-11-25},
+  institution      = {King’s College London},
+  title            = {How Southampton Air Pollution Impacts Our Health and Puts a Strain on the Nhs},
+  eprint           = {https://s40026.pcdn.co/wp-content/uploads/policy-brief-Southampton-1.pdf},
+  url              = {https://www.cleanairfund.org/resource/policy-brief-air-pollution-impacts-birmingham/},
+  creationdate     = {2023-03-25T19:48:48},
+  keywords         = {health, environment, Southampton, policy},
+  modificationdate = {2023-03-25T20:02:41},
+  owner            = {izzy_olivine},
+}
+
+@Report{Guppy2019,
+  author           = {Steve Guppy},
+  date             = {2019-03-15},
+  institution      = {Southampton City Council},
+  title            = {A Revised Clean Air Strategy for Southampton City Council},
+  eprint           = {https://www.southampton.gov.uk/modernGov/documents/s39764/Briefing%20Paper%20-%20A%20Revised%20Clean%20Air%20Strategy%20for%20Southampton%20City%20Council.doc.pdf},
+  comment          = {``Exposure to particulate matter alone is currently estimated to attribute to 110 deaths in Southampton each year''},
+  creationdate     = {2023-03-25T19:55:46},
+  keywords         = {health, environment, Southampton, policy},
+  modificationdate = {2023-03-25T20:02:47},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
