@@ -11737,4 +11737,31 @@ In addition to understanding the health burden of physical inactivity, it is of 
   owner            = {izzy_olivine},
 }
 
+@Report{SCCChildrenParticipation2022,
+  author           = {{Southampton City Council}},
+  institution      = {Southampton City Council},
+  title            = {Southampton’s Children and Young People’s Participation Strategic Plan 2022/27},
+  comment          = {Be child-friendly city by 2025
+
+There are 3 key areas to engaging children and young people in decisions:
+- Individual or collective voice of children and young people
+- Equalities for children and young people
+- Surveys involving children and young people},
+  creationdate     = {2023-03-26T16:05:29},
+  modificationdate = {2023-03-26T16:12:40},
+  owner            = {izzy_olivine},
+}
+
+@Report{SCCElection2022,
+  author           = {Mark Heath},
+  date             = {2022-05-06},
+  institution      = {Southampton City Council},
+  title            = {Southampton City Council: Declaration of Result of Poll},
+  eprint           = {https://www.southampton.gov.uk/media/d4fizxtq/lge_2022-dorp.pdf},
+  comment          = {See also \url{https://en.wikipedia.org/wiki/2022_Southampton_City_Council_election}},
+  creationdate     = {2023-03-26T16:14:40},
+  modificationdate = {2023-03-26T16:18:32},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
