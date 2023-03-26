@@ -10853,12 +10853,12 @@ Deliver the Green City Plan 2030
 
 Questions on satisfaction with local area, Covid-19 response, public services, transport, crime and safety, loneliness and support networks, health, digital inclusion, culture
 
-3\% of people do not have technology for accessing the internet - mainly in oldest agegruop but other ages represented
+3\% of people do not have technology for accessing the internet - mainly in oldest age group but other ages represented
 
 The majority of people agree with changing how roads and streets are designed to reallocate space towards walking, buses and cycling},
   creationdate     = {2023-03-20T12:58:10},
   keywords         = {policy, bureaucracy, Southampton},
-  modificationdate = {2023-03-20T13:04:37},
+  modificationdate = {2023-03-26T12:24:33},
   owner            = {izzy_olivine},
 }
 
@@ -11008,12 +11008,12 @@ Recommendations include ``Recognise children as key stakeholders in tackling the
   url              = {https://www.southampton.gov.uk/our-green-city/council-commitments/plan-2030/},
   comment          = {15\% of journeys into the city will be by bike by 2027
 
-Probably some of this is out of date due to the changes of administration.
+This was produced out of the 2021-2022 administration \url{https://www.southampton.gov.uk/media/0srjn2yi/170-18-infographic-v4.pdf}
 
-However this was produced out of the 2021-2022 administration \url{https://www.southampton.gov.uk/media/0srjn2yi/170-18-infographic-v4.pdf}},
+Maybe some of this is out of date due to the changes of administration - however it is referenced in the draft net zero strategy SCC2023.},
   creationdate     = {2023-03-20T15:15:10},
   keywords         = {policy, climate, transport, children, environment, Southampton},
-  modificationdate = {2023-03-20T20:46:14},
+  modificationdate = {2023-03-26T13:51:02},
   owner            = {izzy_olivine},
 }
 
@@ -11027,6 +11027,8 @@ However this was produced out of the 2021-2022 administration \url{https://www.s
   comment          = {``Ensure policy frameworks, decision making processes and funding mechanisms support their goals. It is recognised that there are signifcant challenges to Southampton achieving its targets. Achieving these targets will require National Government Action and changes to the national policy landscape. It will require a clear funded roadmap to support action at local level. ''
 
 `` The council’s priority is to create an offsetting scheme that ensures that the benefts of carbon sequestration are retained in Southampton.'' treeplanting, green roofs, etc
+
+`` Net Zero will have many environmental, social, and economic benefts such as job creation, equity and social cohesion, health and wellbeing, resilience, and citizen engagement. The council must commit to this target to ensure that future generations will be able to live sustainably''
 
 64\% of emissions 2019 baseline are from procurement of goods and services
 
@@ -11042,10 +11044,18 @@ congestion is estimated to cost the economy more than £100M a year
 
 ``Citizens Climate Assembly – The University of Southampton are currently engaged in setting up a Citizens Assembly focussed on climate change. It is expected to be launched this year (2023). ''
 
-``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents’ groups.''},
+``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents’ groups.''
+
+Goal 1: achieve net zero for the council’s scope 1 and 2 emissions
+
+Goal 2: reduce the council’s scope 3 emissions and establish a practical solution to achieving net zero
+
+Goal 3: social housing stock to be net zero by 2035
+
+Goal 4: apply authority and use infuence to support the city in becoming net zero by 2035},
   creationdate     = {2023-03-20T15:32:18},
   keywords         = {policy, climate, transport, children, environment, Southampton},
-  modificationdate = {2023-03-20T20:46:23},
+  modificationdate = {2023-03-26T13:57:26},
   owner            = {izzy_olivine},
 }
 
@@ -11085,9 +11095,7 @@ Women's liberation moved from consciousness-raising to other tasks because educa
 
 Women's liberation movement -  great emphasis has been placed on what are called leaderless, structureless groups as the main form of the movement.
 
-``A 'laissez-faire' group is about as realistic as a 'laissez-faire' society;
-the idea becomes a smokescreen for the strong or the lucky to establish
-unquestioned hegemony over others.''
+``A 'laissez-faire' group is about as realistic as a 'laissez-faire' society; the idea becomes a smokescreen for the strong or the lucky to establish unquestioned hegemony over others.''
 
 does not prevent the formation of informal structures, but only formal ones.
 
@@ -11119,7 +11127,7 @@ Principles:
 7. equal access to resources},
   creationdate     = {2023-03-21T11:52:49},
   keywords         = {bureaucracy, transformation, open source,},
-  modificationdate = {2023-03-21T13:40:33},
+  modificationdate = {2023-03-26T12:23:44},
   owner            = {izzy_olivine},
   year             = {1972},
 }
@@ -11598,8 +11606,8 @@ Funding available for a range of programmes including ``behaviour change outreac
 Objectives for walking and cycling include
 ``increase the percentage of children aged 5 to 10 who usually walk to school from 49\% in 2014 to 55\% in 2025''},
   creationdate     = {2023-03-26T11:47:08},
-  keywords         = {transport, active travel, policy, health, environment},
-  modificationdate = {2023-03-26T12:20:00},
+  keywords         = {transport, active travel, policy, health, environment, economy},
+  modificationdate = {2023-03-26T12:20:05},
   owner            = {izzy_olivine},
 }
 
@@ -11618,8 +11626,50 @@ Objectives for walking and cycling include
 
 Interesting statistics on the health benefits of regular exercise},
   creationdate     = {2023-03-26T12:00:50},
-  keywords         = {transport, health, environment, policy, economy},
-  modificationdate = {2023-03-26T12:18:41},
+  keywords         = {transport, health, environment, policy, economy, active travel},
+  modificationdate = {2023-03-26T12:20:18},
+  owner            = {izzy_olivine},
+}
+
+@Online{SCCBedfordPlace2022,
+  author           = {{Southampton City Council}},
+  date             = {2022},
+  title            = {Connecting Southampton: Better Transport for a Sustainable City - Bedford Place/Carlton Place consultation and survey results},
+  url              = {https://transport.southampton.gov.uk/public-realm-schemes/bedford-place-scheme-and-permanent-pedestrianisation-of-carlton-place/survey-results/},
+  comment          = {2021 Survey of Businesses - 57% of respondents were in favour of seeing the road reopened
+
+2022 Consultation Questionnaire - 89% of respondents feel the measures proposed for both Bedford Place and Carlton Place will make the area feel safer, benefit the local environment and make the area more accessible for disabled people and people with mobility issues},
+  creationdate     = {2023-03-26T12:46:15},
+  keywords         = {policy, climate, transport, mobility, environment, Southampton},
+  modificationdate = {2023-03-26T13:48:56},
+  owner            = {izzy_olivine},
+}
+
+@Online{SCCPortswood2023,
+  author           = {{Southampton City Council}},
+  date             = {2023},
+  title            = {Connecting Southampton: Better Transport for a Sustainable City - Portswood Corridor},
+  url              = {https://transport.southampton.gov.uk/tcf/eastleigh-to-southampton-corridor/portswood-corridor/},
+  creationdate     = {2023-03-26T12:50:26},
+  keywords         = {policy, climate, transport, mobility, environment, Southampton},
+  modificationdate = {2023-03-26T12:52:13},
+  owner            = {izzy_olivine},
+}
+
+@Report{SCCCycling2017,
+  author           = {{Southampton City Council}},
+  date             = {2017},
+  institution      = {Southampton City Council},
+  title            = {Cycling Southampton – a cycling strategy for our city 2017-2027},
+  eprint           = {https://transport.southampton.gov.uk/media/1071/cycle-southampton-strategy-2-page-final.pdf},
+  comment          = {``On average over the past five years 124 people riding bikes are involved in a collision each year – this means that 16% of all accidents involved cyclists even though they only represent 1.4\% of all traffic''
+
+``Cycling provides over £5.5m of health economic benefits each year in Southampton''
+
+``4.6\% of journeys to work in Southampton are made by bike, above the national average of 2.8\% , and 5.4\% of all journeys to school are by bike – again above the national average of 1.8\%''},
+  creationdate     = {2023-03-26T14:01:17},
+  keywords         = {policy, climate, transport, mobility, environment, Southampton},
+  modificationdate = {2023-03-26T14:09:27},
   owner            = {izzy_olivine},
 }
 
