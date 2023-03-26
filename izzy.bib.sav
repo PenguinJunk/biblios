@@ -1795,7 +1795,7 @@ Also propose a reflection matrix for working with geospatial data that asks refl
   url              = {https://www.pnas.org/doi/abs/10.1073/pnas.2101084119},
   volume           = {119},
   abstract         = {Biofuels are included in many proposed strategies to reduce anthropogenic greenhouse gas emissions and limit the magnitude of global warming. The US Renewable Fuel Standard is the world's largest existing biofuel program, yet despite its prominence, there has been limited empirical assessment of the program's environmental outcomes. Even without considering likely international land use effects, we find that the production of corn-based ethanol in the United States has failed to meet the policy's own greenhouse gas emissions targets and negatively affected water quality, the area of land used for conservation, and other ecosystem processes. Our findings suggest that profound advances in technology and policy are still needed to achieve the intended environmental benefits of biofuel production and use. The Renewable Fuel Standard (RFS) specifies the use of biofuels in the United States and thereby guides nearly half of all global biofuel production, yet outcomes of this keystone climate and environmental regulation remain unclear. Here we combine econometric analyses, land use observations, and biophysical models to estimate the realized effects of the RFS in aggregate and down to the scale of individual agricultural fields across the United States. We find that the RFS increased corn prices by 30\% and the prices of other crops by 20\%, which, in turn, expanded US corn cultivation by 2.8 Mha (8.7\%) and total cropland by 2.1 Mha (2.4\%) in the years following policy enactment (2008 to 2016). These changes increased annual nationwide fertilizer use by 3 to 8\%, increased water quality degradants by 3 to 5\%, and caused enough domestic land use change emissions such that the carbon intensity of corn ethanol produced under the RFS is no less than gasoline and likely at least 24\% higher. These tradeoffs must be weighed alongside the benefits of biofuels as decision-makers consider the future of renewable energy policies and the potential for fuels like corn ethanol to meet climate mitigation goals.},
-  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2 °C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
+  comment          = {''Bioenergy is an essential component of most proposed pathways to reduce anthropogenic greenhouse gas (GHG) emissions and limit global warming to 1.5 or 2°C by middle to late century (1-6). Liquid biofuels may contribute to bioenergy's share of climate mitigation by displacing petroleum-based fuels with those generated from modern-day plants (7, 8). The GHG benefits of such substitution, however, are dependent on several factors including'':
 - whether biofuel production invokes additional plant growth (9-12), 
 - the extent to which combusted plants (typically crops) are replaced in the food system (13-15), 
 - the degree to which biofuel production directly and indirectly alters patterns of land use and management (2, 16-20)
@@ -1804,8 +1804,8 @@ Also propose a reflection matrix for working with geospatial data that asks refl
 
 Studied the Renewable Fuel Standard (RFS) between 2008 to 2016 and found:
 - RFS stimulated 20.8 billion L (5.5 Bgal) of additional annual ethanol production, which requires nearly 1.3 billion bushels of corn after accounting for coproducts that can be fed to animals (46)
-- heightened demand led to persistent increases in corn prices of ∼31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
--  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [−8\%, 72\%] and wheat by 20\% [2\%, 60\%]
+- heightened demand led to persistent increases in corn prices of ~31\% (95\% confidence interval [CI]: 5\%, 70\%) compared to BAU
+-  increased demand for corn also spilled over onto other crops, increasing soybean prices by 19\% [-8\%, 72\%] and wheat by 20\% [2\%, 60\%]
 - increase in corn prices relative to other crops increased the area planted to corn on existing cropland by an average of 2.8 Mha* per year [95\% CI: 2.4, 3.1], which is an 8.7\% increase attributable to the RFS
 -  produced a net increase in cropland area of 2.1 Mha [1.8, 2.5] relative to BAU
 -  intensity of corn production and extent of cropland caused 7.5\% more reactive nitrogen (N) from synthetic fertilizer to be applied annually to the landscape
@@ -10441,7 +10441,7 @@ GDPR is about individual data control
   publisher        = {Routledge},
 }
 
-@Online{Shapiro2023,
+@Online{ShapiroEcho2023,
   author           = {Jamie Shapiro},
   date             = {2023-03-17},
   title            = {Councillors clash during debate to close Portswood Broadway},
@@ -10451,7 +10451,7 @@ GDPR is about individual data control
   creationdate     = {2023-03-18T12:12:04},
   journaltitle     = {Southern Daily Echo},
   keywords         = {policy, democracy, bureaucracy},
-  modificationdate = {2023-03-19T13:15:57},
+  modificationdate = {2023-03-26T16:54:28},
   owner            = {izzy_olivine},
 }
 
@@ -10946,7 +10946,7 @@ World at large indicators:
 Almost 40\% of young people are hesitant about having children due to climate change and almost 60\% feel betrayed by the government over climate change
 
 Spotlight 4 is ``children's journeys to school''
-``Contemporary childhood research shows that the decline in children’s independent mobility – and the consequent lack of engagement with their outdoor surroundings – has had negative implications for their physical, psychological and social well-being''
+``Contemporary childhood research shows that the decline in children's independent mobility - and the consequent lack of engagement with their outdoor surroundings - has had negative implications for their physical, psychological and social well-being''
 Children enjoy walking or taking bus to school - lost in thoughts, talk to their peers
 
 ``In another study, both active travellers and those driven by their parents expressed fear of traffic as a barrier to independent school journeys, seeing cars as making the travelling environment hostile''.
@@ -11028,7 +11028,7 @@ Maybe some of this is out of date due to the changes of administration - however
   url              = {https://www.southampton.gov.uk/council-democracy/have-your-say/draft-net-zero-strategy-consultation/},
   comment          = {``Ensure policy frameworks, decision making processes and funding mechanisms support their goals. It is recognised that there are signifcant challenges to Southampton achieving its targets. Achieving these targets will require National Government Action and changes to the national policy landscape. It will require a clear funded roadmap to support action at local level. ''
 
-`` The council’s priority is to create an offsetting scheme that ensures that the benefts of carbon sequestration are retained in Southampton.'' treeplanting, green roofs, etc
+`` The council's priority is to create an offsetting scheme that ensures that the benefts of carbon sequestration are retained in Southampton.'' treeplanting, green roofs, etc
 
 `` Net Zero will have many environmental, social, and economic benefts such as job creation, equity and social cohesion, health and wellbeing, resilience, and citizen engagement. The council must commit to this target to ensure that future generations will be able to live sustainably''
 
@@ -11036,21 +11036,21 @@ Maybe some of this is out of date due to the changes of administration - however
 
 Option for bringing the emissions lowest is air(/ground?) source heat pumps, abatement programme and PV (I think I've put those in order of impact) - not clear what abatement is
 
-``Nearly a third of the city’s carbon emissions come from the transport sector.''
+``Nearly a third of the city's carbon emissions come from the transport sector.''
 
 ``By 2040 another 30,000 people are predicted to be living in the city and more homes are planned in the Solentarea. This could generate another 74,000 trips in the city per day. ''
 
 congestion is estimated to cost the economy more than £100M a year
 
-``Despite best efforts there will be a need to ‘offset’ some of our current carbon emissions and there is an opportunity to achieve this at a local level through habitat creation.''
+``Despite best efforts there will be a need to `offset' some of our current carbon emissions and there is an opportunity to achieve this at a local level through habitat creation.''
 
-``Citizens Climate Assembly – The University of Southampton are currently engaged in setting up a Citizens Assembly focussed on climate change. It is expected to be launched this year (2023). ''
+``Citizens Climate Assembly - The University of Southampton are currently engaged in setting up a Citizens Assembly focussed on climate change. It is expected to be launched this year (2023). ''
 
-``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents’ groups.''
+``The frst meeting of the Southampton Climate Commission took place in November 2022, with key representatives from public sector, businesses, and residents' groups.''
 
-Goal 1: achieve net zero for the council’s scope 1 and 2 emissions
+Goal 1: achieve net zero for the council's scope 1 and 2 emissions
 
-Goal 2: reduce the council’s scope 3 emissions and establish a practical solution to achieving net zero
+Goal 2: reduce the council's scope 3 emissions and establish a practical solution to achieving net zero
 
 Goal 3: social housing stock to be net zero by 2035
 
@@ -11485,7 +11485,7 @@ financial position has become ``very uncertain''
 
 the authority has used £20.6m from its reserves to balance its budget for 2023/24. He detailed that the significant drawdown has left a forecast of only £10.3m of unallocated balance in the medium-term financial risk reserve.
 
-``use of reserves to such an extent also compromises the capacity for `invest to save’ and to achieve savings through transformation work''
+``use of reserves to such an extent also compromises the capacity for `invest to save' and to achieve savings through transformation work''
 
 ``The authority is in a very uncertain position financially, and one where its financial resilience is severely weakened to the point where, in my opinion, a s114 notice is a major risk during 2023/24''
 
@@ -11499,7 +11499,7 @@ see also \url{https://www.bbc.co.uk/news/uk-england-hampshire-64718924}},
 }
 
 @Report{OFerrall2023,
-  author           = {George O’Ferrall},
+  author           = {George O'Ferrall},
   date             = {2022-12-20},
   institution      = {Southampton City Council},
   title            = {Air Quality Action Plan 2023-2028},
@@ -11511,9 +11511,9 @@ see also \url{https://www.bbc.co.uk/news/uk-england-hampshire-64718924}},
 4. Low Emission Vehicles 
 5. Planning and Monitoring  
 
-We recognise that there are many effective measures which The Council cannot achieve alone. We will continue to work with external organisations including businesses, residents and central government on policies and issues beyond Southampton City Council’s direct influence.  The key measures in the plan include: 
+We recognise that there are many effective measures which The Council cannot achieve alone. We will continue to work with external organisations including businesses, residents and central government on policies and issues beyond Southampton City Council's direct influence.  The key measures in the plan include: 
 - Wood burning public engagement programme
-- Air quality school’s engagement programme
+- Air quality school's engagement programme
 - New high-tech air quality monitors
 - Shore-side power for cruise ships docking at the Port of Southampton
 - Enhanced air quality requirements in the planning process
@@ -11521,23 +11521,23 @@ We recognise that there are many effective measures which The Council cannot ach
 - Identify further opportunities for better pedestrian infrastructure including Active Travel Zones 
 - Supporting shared  `micromobility' by providing rental manual bike, e-bikes and cargo bikes for residents
 
-`` Of a group of 282 residents surveyed, 88% consider poor air quality to be a fairly big or very big problem.''
+`` Of a group of 282 residents surveyed, 88\% consider poor air quality to be a fairly big or very big problem.''
 
-Public Health England estimates that 6.3% of deaths in Southampton can be attributed to particulate matter pollution - higher than the Southeast England figure of 6.0%. Research by the Clean Air Fund indicated that if air pollution was cut by a fifth in the city, every year we could see:
+Public Health England estimates that 6.3\% of deaths in Southampton can be attributed to particulate matter pollution - higher than the Southeast England figure of 6.0\%. Research by the Clean Air Fund indicated that if air pollution was cut by a fifth in the city, every year we could see:
 - 150 fewer children suffering with reduced lung function
 - 81 fewer children suffering with a chest infection and 69 fewer asthmatic children suffering with bronchitic symptoms (cough and phlegm);
 - A decrease in the risk of coronary heart disease by around 4.2\% which would result in 48 fewer cases a year; and
 - A decrease in lung cancer cases by around 5.9\%, which would result in 10 fewer cases every year.},
   creationdate     = {2023-03-25T19:27:14},
   keywords         = {health, environment, Southampton, policy},
-  modificationdate = {2023-03-25T20:02:53},
+  modificationdate = {2023-03-26T16:23:40},
   owner            = {izzy_olivine},
 }
 
 @Report{ERG2019,
   author           = {{Environmental Research Group}},
   date             = {2019-11-25},
-  institution      = {King’s College London},
+  institution      = {King's College London},
   title            = {How Southampton Air Pollution Impacts Our Health and Puts a Strain on the {NHS}},
   eprint           = {https://s40026.pcdn.co/wp-content/uploads/policy-brief-Southampton-1.pdf},
   url              = {https://www.cleanairfund.org/resource/policy-brief-air-pollution-impacts-birmingham/},
@@ -11564,7 +11564,7 @@ Public Health England estimates that 6.3% of deaths in Southampton can be attrib
   author           = {LGA},
   date             = {2021-10-18},
   institution      = {Local Government Association},
-  title            = {Working in partnership – how councils can work with the voluntary and community sector to increase civic participation},
+  title            = {Working in partnership - how councils can work with the voluntary and community sector to increase civic participation},
   url              = {https://www.local.gov.uk/publications/working-partnership-how-councils-can-work-voluntary-and-community-sector-increase},
   comment          = {Great for literature on civil/citizen participation and examples of different cases in local authorities. Also how they are funded.
 
@@ -11625,7 +11625,7 @@ Objectives for walking and cycling include
 - routes and schemes must take account of how users actually behave
 - Purely cosmetic alterations should be avoided
 - Barriers, such as chicane barriers and dismount signs, should be avoided
-- Routes should be designed only by those who have experienced the road on a cycle
+- Routes should be designed only by those who have experienced the road on a cycle
 
 Interesting statistics on the health benefits of regular exercise},
   creationdate     = {2023-03-26T12:00:50},
@@ -11640,9 +11640,9 @@ Interesting statistics on the health benefits of regular exercise},
   title            = {Connecting Southampton: Better Transport for a Sustainable City - Bedford Place/Carlton Place consultation and survey results},
   url              = {https://transport.southampton.gov.uk/public-realm-schemes/bedford-place-scheme-and-permanent-pedestrianisation-of-carlton-place/survey-results/},
   urldate          = {2023-03-26},
-  comment          = {2021 Survey of Businesses - 57% of respondents were in favour of seeing the road reopened
+  comment          = {2021 Survey of Businesses - 57\% of respondents were in favour of seeing the road reopened
 
-2022 Consultation Questionnaire - 89% of respondents feel the measures proposed for both Bedford Place and Carlton Place will make the area feel safer, benefit the local environment and make the area more accessible for disabled people and people with mobility issues},
+2022 Consultation Questionnaire - 89\% of respondents feel the measures proposed for both Bedford Place and Carlton Place will make the area feel safer, benefit the local environment and make the area more accessible for disabled people and people with mobility issues},
   creationdate     = {2023-03-26T12:46:15},
   keywords         = {policy, climate, transport, mobility, environment, Southampton},
   modificationdate = {2023-03-26T15:21:59},
@@ -11665,13 +11665,13 @@ Interesting statistics on the health benefits of regular exercise},
   author           = {{Southampton City Council}},
   date             = {2017},
   institution      = {Southampton City Council},
-  title            = {Cycling Southampton – a cycling strategy for our city 2017-2027},
+  title            = {Cycling Southampton - a cycling strategy for our city 2017-2027},
   eprint           = {https://transport.southampton.gov.uk/media/1071/cycle-southampton-strategy-2-page-final.pdf},
-  comment          = {``On average over the past five years 124 people riding bikes are involved in a collision each year – this means that 16% of all accidents involved cyclists even though they only represent 1.4\% of all traffic''
+  comment          = {``On average over the past five years 124 people riding bikes are involved in a collision each year - this means that 16\% of all accidents involved cyclists even though they only represent 1.4\% of all traffic''
 
 ``Cycling provides over £5.5m of health economic benefits each year in Southampton''
 
-``4.6\% of journeys to work in Southampton are made by bike, above the national average of 2.8\% , and 5.4\% of all journeys to school are by bike – again above the national average of 1.8\%''},
+``4.6\% of journeys to work in Southampton are made by bike, above the national average of 2.8\% , and 5.4\% of all journeys to school are by bike - again above the national average of 1.8\%''},
   creationdate     = {2023-03-26T14:01:17},
   keywords         = {policy, climate, transport, mobility, environment, Southampton},
   modificationdate = {2023-03-26T14:09:27},
@@ -11709,9 +11709,9 @@ Interesting statistics on the health benefits of regular exercise},
   title            = {Southampton Data Observatory > Health > Health behaviours > Physical activity},
   url              = {https://data.southampton.gov.uk/health/health-behaviours/physical-activity/},
   urldate          = {2023-03-26},
-  comment          = {``38.8% of young people aged 5 to 16 year olds were self-reported as being active. This is 5.8 percentage points lower than the national average of 44.6%. Nationally it was found that both deprivation and ethnicity impacted physical activity levels'' 
+  comment          = {``38.8\% of young people aged 5 to 16 year olds were self-reported as being active. This is 5.8 percentage points lower than the national average of 44.6\%. Nationally it was found that both deprivation and ethnicity impacted physical activity levels'' 
 
-``64.8% of adults, in Southampton, were considered active. This is statistically similar to the national average of 65.9% but is still the second lowest within Southampton’s ONS comparators and the lowest for Southampton’s local neighbours''},
+``64.8\% of adults, in Southampton, were considered active. This is statistically similar to the national average of 65.9\% but is still the second lowest within Southampton's ONS comparators and the lowest for Southampton's local neighbours''},
   creationdate     = {2023-03-26T15:21:24},
   keywords         = {policy, children, Southampton, health},
   modificationdate = {2023-03-26T15:32:50},
@@ -11741,7 +11741,7 @@ In addition to understanding the health burden of physical inactivity, it is of 
   author           = {{Southampton City Council}},
   date             = {2022},
   institution      = {Southampton City Council},
-  title            = {Southampton’s Children and Young People’s Participation Strategic Plan 2022/27},
+  title            = {Southampton's Children and Young People's Participation Strategic Plan 2022/27},
   comment          = {Be child-friendly city by 2025
 
 There are 3 key areas to engaging children and young people in decisions:
@@ -11762,6 +11762,17 @@ There are 3 key areas to engaging children and young people in decisions:
   comment          = {See also \url{https://en.wikipedia.org/wiki/2022_Southampton_City_Council_election}},
   creationdate     = {2023-03-26T16:14:40},
   modificationdate = {2023-03-26T16:18:32},
+  owner            = {izzy_olivine},
+}
+
+@Online{ShapiroBBC2023,
+  author           = {Jamie Shaprio},
+  date             = {2023-02-08},
+  title            = {Portswood Road: Funding warning over bus-only area plans},
+  url              = {https://www.bbc.co.uk/news/uk-england-hampshire-64555849},
+  urldate          = {2023-03-26},
+  creationdate     = {2023-03-26T16:53:38},
+  modificationdate = {2023-03-26T16:54:17},
   owner            = {izzy_olivine},
 }
 
