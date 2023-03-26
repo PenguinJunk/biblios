@@ -11824,6 +11824,7 @@ introduces an Innovation in Democracy programme, piloting approaches where ‘pe
 
 @Report{IiDPHandbook2020,
   author           = {{IiDP}},
+  date             = {2020},
   institution      = {Innovation in Democracy},
   title            = {How to run a citizens’ assembly: A handbook for local authorities based on the Innovation in Democracy Programme},
   eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/896502/IiDP_handbook_-_How_to_run_a_citizen_assembly.pdf},
@@ -11834,7 +11835,7 @@ Found this via blog post on Involve website, which referenced UK Gov's Civil Soc
 
 Pretty good summary of everything I've read to date, how did I not find this earlier?},
   creationdate     = {2023-03-26T18:44:44},
-  modificationdate = {2023-03-26T18:55:09},
+  modificationdate = {2023-03-26T18:55:23},
   owner            = {izzy_olivine},
 }
 
