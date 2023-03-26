@@ -6019,10 +6019,21 @@ UK has failed to meet at least 14 of the 19 Aichi biodiversity targets},
   url              = {https://www.ippr.org/research/publications/trust-issues},
   comment          = {Very few people have trust in politicians
 
-``Growing distrust in politicians should be of particular concern to democrats and progressives. A lack of trust matters for two main reasons. First, growing distrust can lead to a downwards spiral of democratic decline, with voters disengaging, becoming polarised, or turning to populist leaders and causes (Hooghe and Dassonneville 2018). Second, it matters for social progress: a lack of trust undermines the ability of government to intervene and deliver better policy outcomes (Hetherington 2006).''},
+``Growing distrust in politicians should be of particular concern to democrats and progressives. A lack of trust matters for two main reasons. First, growing distrust can lead to a downwards spiral of democratic decline, with voters disengaging, becoming polarised, or turning to populist leaders and causes (Hooghe and Dassonneville 2018). Second, it matters for social progress: a lack of trust undermines the ability of government to intervene and deliver better policy outcomes (Hetherington 2006).''
+
+Trust is determined by two main sets of factors. 
+1. The performance of government
+2. The processes of government
+
+Interesting table on the links between trust and
+- Populism
+- Polarisation
+- Participation
+- Dissatisfaction
+- De-alignment},
   creationdate     = {2022-12-03T16:01:38},
   keywords         = {economics, politics, policy, trust},
-  modificationdate = {2022-12-03T18:31:22},
+  modificationdate = {2023-03-26T10:02:26},
   owner            = {ISargent},
 }
 
@@ -11251,7 +11262,7 @@ Although our findings may be difficult to generalize due to the particularity of
 
 From \href{https://en.wikipedia.org/wiki/Strong_Democracy}{Wikipedia}:``Winning a mass election is normally a function of how much money is used for advertisement, and, thus, results in a rule by oligarchs, or plutocracy,''
 
-``distinguish ‘conventional participation’ in pub-lic  meetings  and  hearings  and  ‘thin  participation’  in  crowd-sourcing  and  crowd-funding  activities  from  ‘thick  participation’  involving  group-based  interaction that enables people to learn, decide and act together (Nabatchi \&  Leighninger  2015,  14–22)''
+``distinguish ‘conventional participation’ in public  meetings  and  hearings  and  ‘thin  participation’  in  crowd-sourcing  and  crowd-funding  activities  from  ‘thick  participation’  involving  group-based  interaction that enables people to learn, decide and act together (Nabatchi \&  Leighninger  2015,  14–22)''
 
 Lists merits and problems of both reprentative and participatory and deliberative democracy. Examples:
 ``Helps to construct a ‘we’ and thus to counteract individualistic atomization and group-based fragmentation''
@@ -11265,7 +11276,7 @@ Task Committees are formed with a mix of ~20 politicians, citizens and stakehold
 Lots of detail comparing the hybrid model between two locations and how successful it is overall.},
   creationdate     = {2023-03-21T15:53:30},
   keywords         = {policy, bureaucracy, participatory, democracy},
-  modificationdate = {2023-03-22T21:21:10},
+  modificationdate = {2023-03-26T11:23:42},
   owner            = {izzy_olivine},
   year             = {2019},
 }
@@ -11517,12 +11528,12 @@ Public Health England estimates that 6.3% of deaths in Southampton can be attrib
   author           = {{Environmental Research Group}},
   date             = {2019-11-25},
   institution      = {King’s College London},
-  title            = {How Southampton Air Pollution Impacts Our Health and Puts a Strain on the Nhs},
+  title            = {How Southampton Air Pollution Impacts Our Health and Puts a Strain on the {NHS}},
   eprint           = {https://s40026.pcdn.co/wp-content/uploads/policy-brief-Southampton-1.pdf},
   url              = {https://www.cleanairfund.org/resource/policy-brief-air-pollution-impacts-birmingham/},
   creationdate     = {2023-03-25T19:48:48},
-  keywords         = {health, environment, Southampton, policy},
-  modificationdate = {2023-03-25T20:02:41},
+  keywords         = {health, environment, Southampton, policy, transport},
+  modificationdate = {2023-03-26T12:19:00},
   owner            = {izzy_olivine},
 }
 
@@ -11534,8 +11545,81 @@ Public Health England estimates that 6.3% of deaths in Southampton can be attrib
   eprint           = {https://www.southampton.gov.uk/modernGov/documents/s39764/Briefing%20Paper%20-%20A%20Revised%20Clean%20Air%20Strategy%20for%20Southampton%20City%20Council.doc.pdf},
   comment          = {``Exposure to particulate matter alone is currently estimated to attribute to 110 deaths in Southampton each year''},
   creationdate     = {2023-03-25T19:55:46},
-  keywords         = {health, environment, Southampton, policy},
-  modificationdate = {2023-03-25T20:02:47},
+  keywords         = {health, environment, Southampton, policy, transport},
+  modificationdate = {2023-03-26T12:19:11},
+  owner            = {izzy_olivine},
+}
+
+@Report{LGA2021,
+  author           = {LGA},
+  date             = {2021-10-18},
+  institution      = {Local Government Association},
+  title            = {Working in partnership – how councils can work with the voluntary and community sector to increase civic participation},
+  url              = {https://www.local.gov.uk/publications/working-partnership-how-councils-can-work-voluntary-and-community-sector-increase},
+  comment          = {Great for literature on civil/citizen participation and examples of different cases in local authorities. Also how they are funded.
+
+Worth revisiting for specifics
+
+West Cheshire, Leeds, Morecambe Bay and east Surrey, have developed Poverty Truth Commissions
+
+The Young Advisors and subgroup Youth Independent Advisory Group (YIAG) in Waltham Forest
+
+Operation Black Vote, Birmingham City Council
+
+Southwark Stands Together
+
+MiFriendly Cities, Birmingham, Coventry and Wolverhampton City Councils funded by Urban Innovative Actions, aims to make cities more migrant-friendly
+
+Smith and Wang in 2016 shows that socio-economic status and education are strong predictors of civic participation
+
+Key principles to increase civic participation:
+• strength-based - recognising the strengths, value and contributions that exist within all communities and, in particular, the benefits of lived experience informing local decision-making
+• collaborative - with underrepresented groups to shape and deliver plans and activity
+• honest and open - meaningful relationships and clear leadership
+• adaptable - appropriate, accessible and comfortable opportunities for residents to participate that overcome existing obstacles
+• proactive and responsive - engaging individuals on their own terms and establishing proactive ways to attract participants},
+  creationdate     = {2023-03-26T11:32:11},
+  keywords         = {participatory, democracy, policy,},
+  modificationdate = {2023-03-26T12:19:29},
+  owner            = {izzy_olivine},
+}
+
+@Online{DfT2023,
+  author           = {{Department for Transport}},
+  date             = {2023-03-10},
+  title            = {The second cycling and walking investment strategy (CWIS2)},
+  url              = {https://www.gov.uk/government/publications/the-second-cycling-and-walking-investment-strategy/the-second-cycling-and-walking-investment-strategy-cwis2},
+  comment          = {``newly created body, Active Travel England (ATE), to set high standards for active travel infrastructure, new development design, engagement, training and behaviour change''
+
+``This long-term approach will be supported through ATE as part of a strategic objective to increase local authority capacity and capability around the delivery of active travel infrastructure and behaviour change programmes.''
+
+Funding available for a range of programmes including ``behaviour change outreach''
+
+Objectives for walking and cycling include
+``increase the percentage of children aged 5 to 10 who usually walk to school from 49\% in 2014 to 55\% in 2025''},
+  creationdate     = {2023-03-26T11:47:08},
+  keywords         = {transport, active travel, policy, health, environment},
+  modificationdate = {2023-03-26T12:20:00},
+  owner            = {izzy_olivine},
+}
+
+@Report{DfT2020,
+  author           = {{Department for Transport}},
+  date             = {2020},
+  institution      = {Department for Transport, UK Government},
+  title            = {Gear Change: A bold vision for cycling and walking},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/904146/gear-change-a-bold-vision-for-cycling-and-walking.pdf},
+  comment          = {Key design principles for cycling include
+- Routes must join together; isolated stretches of good provision are of little value
+- routes and schemes must take account of how users actually behave
+- Purely cosmetic alterations should be avoided
+- Barriers, such as chicane barriers and dismount signs, should be avoided
+- Routes should be designed only by those who have experienced the road on a cycle
+
+Interesting statistics on the health benefits of regular exercise},
+  creationdate     = {2023-03-26T12:00:50},
+  keywords         = {transport, health, environment, policy, economy},
+  modificationdate = {2023-03-26T12:18:41},
   owner            = {izzy_olivine},
 }
 
