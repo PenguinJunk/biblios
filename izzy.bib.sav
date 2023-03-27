@@ -11845,9 +11845,10 @@ Pretty good summary of everything I've read to date, how did I not find this ear
   date             = {2016},
   title            = {Innovation and the State: Towards an Evolutionary Theory of Policy Capacity},
   editor           = {Wu, X. and Howlett, M. and Ramesh, M.},
+  eprint           = {http://hum.ttu.ee/wp/paper72.pdf},
   comment          = {propose an evolutionary analytical approach to policy capacity with a specific focus on policy domains where uncertainty and need for policy innovations, or novelty creation, is a central concern
 
-specifically evolution of science, technology and innovation (STI) policy capacities of three Asian Tigers
+specifically evolution of science, technology and innovation (STI) policy capacities of three Asian Tigers: Taiwan, South Korea and Singapore
 
 crucial elements of policy capacity are: a) organizational routines, b) search and selection processes and the endogenous and exogenous sources of novelty creation, and c) selection and feedback environments.
 
@@ -11863,9 +11864,33 @@ But innovation is uncertain both in process and outcome
 
 So what constitute policy capacities},
   creationdate     = {2023-03-27T11:39:50},
-  modificationdate = {2023-03-27T12:13:53},
+  keywords         = {policy, organisation, economics, bureaucracy},
+  modificationdate = {2023-03-27T12:42:45},
   owner            = {izzy_olivine},
   year             = {2016},
+}
+
+@Online{ResultsMap2020,
+  author           = {{Results Map}},
+  date             = {2020},
+  title            = {Capacity vs. Capability: What’s the Difference?},
+  url              = {https://www.resultsmap.com/blog/capacity-vs-capability-whats-the-difference/},
+  urldate          = {2023-03-27},
+  comment          = {Best explanation of the difference between capacity and capability that I've found
+
+Capacity: individual or organization’s ability to absorb change effectively. Build capacity by:
+- Providing more time
+- Providing more resource
+- Developing understanding
+- Ensure energy is recovered
+
+Capability:  skills and knowledge required for a particular task. Build capability by:
+- Training
+- Coaching},
+  creationdate     = {2023-03-27T12:35:53},
+  keywords         = {policy, economics, organisation},
+  modificationdate = {2023-03-27T12:42:17},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
