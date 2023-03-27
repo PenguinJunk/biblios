@@ -11319,7 +11319,7 @@ Participatory, deliberative politics for dealing with grievance politics around 
 Examples:
 Italian regions have legal frameworks for participation. This started in Tuscany (although recently this has stopped). They had an independent authority of public participation practitioners and a running budget to do participation and competitions - find out more about this process. See also Emilia-Romagna and Scicily.
 Ireland - About a third of the assembly was politicians. The citizens assembly was probably necessary but not sufficient to enable same sex marriage vote.
-British Columbia original (climate?) assembly incorporated a process by which members of the assembly returned to their communities between meetings to enable diffusion. The first meeting was a learning phase and then this learning was taken back to community. Responses of community was then fed back to next assembly meeting. 
+British Columbia original assembly incorporated a process by which members of the assembly returned to their communities between meetings to enable diffusion. The first meeting was a learning phase and then this learning was taken back to community. Responses of community was then fed back to next assembly meeting. 
 European model - seems to be mainly about mini-publics than diffusion.
 Assembly South/North closer to citizens jury, cheaper model, \href{https://scholar.google.com/citations?user=j6382AQAAAAJ&hl=en}{James Fishkin} considered opinion poll, this is probably the model that NGOs are implementing regularly
 Oregon - citizens initiative review - people put initiative on ballot - initiative review with about 40 citizens interviewing witnesses - put recommendations and dissenting view in card to every voter. Citizens were found to have remained interested after getting involved.
@@ -11371,7 +11371,7 @@ There is a pressure for leaders to constantly innovate - so even if PB has been 
 Sortition-based is starting to get criticism because they do quota sampling and response rates are really low but claim is that people who response are similar to MPs and very engaged politically already},
   creationdate     = {2023-03-22T11:38:48},
   keywords         = {policy, bureaucracy, participatory, democracy},
-  modificationdate = {2023-03-26T20:53:46},
+  modificationdate = {2023-03-27T18:08:29},
   owner            = {izzy_olivine},
 }
 
@@ -11943,10 +11943,25 @@ Advocates of citizen deliberation methods argue they are superior to traditional
   title            = {Tuscany's Institutionalization of Public Participation and Deliberation},
   url              = {https://participedia.net/collection/7125},
   urldate          = {2023-03-27},
-  comment          = {Tuscany passed laws in 2007 making citizen participation and deliberative democracy an explicity long-term policy},
+  comment          = {Tuscany passed laws in 2007 and 2013 making citizen participation and deliberative democracy an explicitly long-term policy},
   creationdate     = {2023-03-27T17:41:30},
-  modificationdate = {2023-03-27T17:43:08},
+  modificationdate = {2023-03-27T17:53:53},
   owner            = {izzy_olivine},
+}
+
+@InBook{Mazepus2018,
+  author           = {Mazepus, Honorata},
+  booktitle        = {Policy Capacity and Governance: Assessing Governmental Competences and Capabilities in Theory and Practice},
+  title            = {Does political legitimacy matter for policy capacity?},
+  doi              = {10.1007/978-3-319-54675-9_10},
+  editor           = {Wu, X., Howlett, M., and Ramesh, M.},
+  pages            = {229-–242},
+  publisher        = {Springer International Publishing},
+  series           = {Studies in the Political Economy of Public Policy},
+  creationdate     = {2023-03-27T19:33:46},
+  modificationdate = {2023-03-27T19:36:03},
+  owner            = {izzy_olivine},
+  year             = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
