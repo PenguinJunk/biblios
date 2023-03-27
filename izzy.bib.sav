@@ -12030,14 +12030,30 @@ consensus around the question - two way education, collaborative decision making
   owner            = {izzy_olivine},
 }
 
-@Online{IAP"2018,
-  title            = {Spectrum of Participation},
+@Online{IAP22018,
+  author           = {{International Association of Public Participation (IAP2)}},
+  title            = {IAP2 Spectrum of Public Participation},
   url              = {https://www.iap2.org/page/pillars},
+  urldate          = {2023-03-27},
   creationdate     = {2023-03-27T20:42:14},
+  eprint           = {https://cdn.ymaws.com/www.iap2.org/resource/resmgr/pillars/Spectrum_8.5x11_Print.pdf},
   institution      = {IAP2 International Federation},
-  modificationdate = {2023-03-27T20:43:12},
+  keywords         = {participatory, data, bureaucracy},
+  modificationdate = {2023-03-27T20:47:39},
   owner            = {izzy_olivine},
   year             = {2018},
+}
+
+@Online{ScotGov2020,
+  author           = {{Scottish Government}},
+  date             = {2020},
+  title            = {Gender Recognition Reform (Scotland) Bill: A consultation},
+  url              = {https://consult.gov.scot/family-law/gender-recognition-reform-scotland-bill/},
+  urldate          = {2023-03-27},
+  creationdate     = {2023-03-27T21:23:52},
+  keywords         = {participatory, policy, bureaucracy},
+  modificationdate = {2023-03-27T21:24:51},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
