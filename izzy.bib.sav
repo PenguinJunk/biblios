@@ -11954,14 +11954,49 @@ Advocates of citizen deliberation methods argue they are superior to traditional
   booktitle        = {Policy Capacity and Governance: Assessing Governmental Competences and Capabilities in Theory and Practice},
   title            = {Does political legitimacy matter for policy capacity?},
   doi              = {10.1007/978-3-319-54675-9_10},
-  editor           = {Wu, X., Howlett, M., and Ramesh, M.},
+  editor           = {Wu, X. and Howlett, M. and Ramesh, M.},
+  eprint           = {https://scholarlypublications.universiteitleiden.nl/access/item%3A3191999/view},
   pages            = {229-–242},
   publisher        = {Springer International Publishing},
   series           = {Studies in the Political Economy of Public Policy},
+  comment          = {Political legitimacy increases compliance with court rulings, laws and policiies and raises satisfaction and distribution of outcomes
+
+Scharpf and Schmidt distinguished intput, throughput and output legitimacy
+
+input legitimacy - preferences experessed by citizens, e.g. by voting
+throughput legitimacy - quality of the governance process
+output legitimacy - how well the outcomes match what the people want
+
+``There are two ways in which fair treatment seems to be linked to legitimacy: fairness of processes (procedural fairness) and fairness of outcomes (distributive fairness) (Van den Bos et al. 1997)''
+
+``A fair process is comprised of several specific procedures: providing opportunity to voice people's opinions (voice/public deliberation/participation)...the role of deliberation processes has been emphasized in political science discussions of democracy and communication science discussions of information processing by citizens''
+
+``Deliberation ... involves citizens in a discussion and provides them with an opportunity to voice their opinions and inquire about the issues that are decided on by the authorities. Such deliberative practices are part of procedural fairness and overlap with the throughput dimension of legitimacy (governing with the people)''
+
+``How the policy is made thus influences the shape of the policy ... but also the perception of its fairness''
+
+``the evaluation of the policy, is affected by the level of legitimacy (normative approval)''
+
+``policy studies would benefit from research on procedural fairness (input and throughput legitimacy) and how it relates to distributive fairness (output legitimacy)''
+
+What I take from this is that how a policy is arrived at affects its legitimacy and fairness of process and distribution are important aspect of this legitimacy},
   creationdate     = {2023-03-27T19:33:46},
-  modificationdate = {2023-03-27T19:36:03},
+  modificationdate = {2023-03-27T19:55:44},
   owner            = {izzy_olivine},
   year             = {2018},
+}
+
+@Online{MellorH2018,
+  author           = {Julie Mellor and Adam Hawksbee},
+  date             = {2018-11-08},
+  title            = {Radical Governance for Divided Times},
+  url              = {https://involve.org.uk/resources/blog/opinion/radical-governance-divided-times},
+  urldate          = {2023-03-27},
+  comment          = {New ways to engage citizens to overcome our divided society and democracy},
+  creationdate     = {2023-03-27T20:07:08},
+  keywords         = {policy, participatory, democracy, bureaucracy},
+  modificationdate = {2023-03-27T20:09:01},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
