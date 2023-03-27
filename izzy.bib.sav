@@ -11768,14 +11768,14 @@ There are 3 key areas to engaging children and young people in decisions:
 }
 
 @Online{ShapiroBBC2023,
-  author           = {Jamie Shaprio},
+  author           = {Jamie Shapiro},
   date             = {2023-02-08},
   title            = {Portswood Road: Funding warning over bus-only area plans},
   url              = {https://www.bbc.co.uk/news/uk-england-hampshire-64555849},
   urldate          = {2023-03-26},
   creationdate     = {2023-03-26T16:53:38},
   keywords         = {policy, Southampton},
-  modificationdate = {2023-03-27T12:44:10},
+  modificationdate = {2023-03-27T22:55:00},
   owner            = {izzy_olivine},
 }
 
@@ -12126,6 +12126,7 @@ Young people didn't get involved much},
   author           = {Marc Par\'{e}s and Hug March},
   date             = {2013},
   title            = {Guide to Evaluating Participatory Processes},
+  eprint           = {http://www.gencat.cat/governacio/pub/sum/qdem/guiesbreus_3_ang.pdf},
   number           = {3},
   series           = {Short Guides for Citizen Participation},
   address          = {Barcelona},
@@ -12135,7 +12136,8 @@ there is no single way to evaluate a participatory process
 
 identifies lots of possible criteria, questions and methodologies for evaluating participatory processes},
   creationdate     = {2023-03-27T22:43:22},
-  modificationdate = {2023-03-27T22:46:10},
+  keywords         = {participatory, democracy, bureaucracy},
+  modificationdate = {2023-03-27T22:46:34},
   owner            = {izzy_olivine},
 }
 
