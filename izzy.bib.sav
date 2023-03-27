@@ -11909,7 +11909,8 @@ Capability:  skills and knowledge required for a particular task. Build capabili
 2. Make things open: it makes things better - blog lots, code in the open, etc
 3. Do the hard work to make it simple (tech edition)},
   creationdate     = {2023-03-27T15:04:14},
-  modificationdate = {2023-03-27T15:05:30},
+  keywords         = {transformation, bureaucracy,},
+  modificationdate = {2023-03-27T20:29:36},
   owner            = {izzy_olivine},
 }
 
@@ -11933,7 +11934,8 @@ Assembly members found it difficult to advocate for an electoral system that wou
 
 Advocates of citizen deliberation methods argue they are superior to traditional means of citizen consultation for a number of reasons. On complex policy issues, citizens have the chance to become informed not only about the issues but also about their fellow citizens’ preferences.37 Democratic deliberation produces fairer and potentially more moderate outcomes because it insists on justifying decisions through reasons that are acceptable to all those who will be bound.38 Involving ordinary citizens in deliberative decision making is key to producing potentially more effective decisions, because they bring in their own local knowledge of the problem at hand.39 As described above, the experience of the British Columbia Citizens’ Assembly largely bears out these theoretical arguments in favor of citizen-led deliberation and decision making.},
   creationdate     = {2023-03-27T17:14:29},
-  modificationdate = {2023-03-27T17:32:13},
+  keywords         = {policy, participatory, democracy, bureaucracy},
+  modificationdate = {2023-03-27T20:29:20},
   owner            = {izzy_olivine},
 }
 
@@ -11945,7 +11947,8 @@ Advocates of citizen deliberation methods argue they are superior to traditional
   urldate          = {2023-03-27},
   comment          = {Tuscany passed laws in 2007 and 2013 making citizen participation and deliberative democracy an explicitly long-term policy},
   creationdate     = {2023-03-27T17:41:30},
-  modificationdate = {2023-03-27T17:53:53},
+  keywords         = {policy, participatory, democracy, bureaucracy},
+  modificationdate = {2023-03-27T20:29:15},
   owner            = {izzy_olivine},
 }
 
@@ -11981,7 +11984,8 @@ output legitimacy - how well the outcomes match what the people want
 
 What I take from this is that how a policy is arrived at affects its legitimacy and fairness of process and distribution are important aspect of this legitimacy},
   creationdate     = {2023-03-27T19:33:46},
-  modificationdate = {2023-03-27T19:55:44},
+  keywords         = {policy, democracy, bureaucracy},
+  modificationdate = {2023-03-27T20:29:12},
   owner            = {izzy_olivine},
   year             = {2018},
 }
@@ -11992,11 +11996,48 @@ What I take from this is that how a policy is arrived at affects its legitimacy 
   title            = {Radical Governance for Divided Times},
   url              = {https://involve.org.uk/resources/blog/opinion/radical-governance-divided-times},
   urldate          = {2023-03-27},
-  comment          = {New ways to engage citizens to overcome our divided society and democracy},
+  comment          = {New ways to engage citizens to overcome our divided society and democracy post Brexit
+
+adopt a new mindset that is equal parts humility and boldness
+
+new tools and approaches:
+ - Convening power - bringing together people who don't normally interact
+- Informational power - two way education
+- Consensual power - find where people agree
+
+This will require a range of enabling legislation and policy, before we see a new suite of applications of citizen deliberation and advice to politicians:
+- Providing Leadership
+- Changing Policy
+- Ensuring Quality
+
+consensus around the question - two way education, collaborative decision making, working through complex challenges, controversial policy questions that successive governments have ducked},
   creationdate     = {2023-03-27T20:07:08},
   keywords         = {policy, participatory, democracy, bureaucracy},
-  modificationdate = {2023-03-27T20:09:01},
+  modificationdate = {2023-03-27T20:12:47},
   owner            = {izzy_olivine},
+}
+
+@Report{OECDParticipation2020,
+  author           = {{OECD}},
+  date             = {2020-06-10},
+  institution      = {Organisation for Economic Cooperation and Development},
+  title            = {Innovative Citizen Participation and New Democratic Institutions: Catching the Deliberative Wave},
+  url              = {https://www.oecd.org/gov/innovative-citizen-participation-and-new-democratic-institutions-339306da-en.htm},
+  comment          = {Suggests good practice principles for deliberative processes},
+  creationdate     = {2023-03-27T20:26:45},
+  keywords         = {policy, participatory, democracy, bureaucracy},
+  modificationdate = {2023-03-27T20:29:06},
+  owner            = {izzy_olivine},
+}
+
+@Online{IAP"2018,
+  title            = {Spectrum of Participation},
+  url              = {https://www.iap2.org/page/pillars},
+  creationdate     = {2023-03-27T20:42:14},
+  institution      = {IAP2 International Federation},
+  modificationdate = {2023-03-27T20:43:12},
+  owner            = {izzy_olivine},
+  year             = {2018},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
