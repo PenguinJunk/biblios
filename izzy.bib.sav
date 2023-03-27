@@ -11749,7 +11749,8 @@ There are 3 key areas to engaging children and young people in decisions:
 - Equalities for children and young people
 - Surveys involving children and young people},
   creationdate     = {2023-03-26T16:05:29},
-  modificationdate = {2023-03-26T16:18:50},
+  keywords         = {policy, children, Southampton, health, participatory, bureaucracy},
+  modificationdate = {2023-03-27T12:43:41},
   owner            = {izzy_olivine},
 }
 
@@ -11761,7 +11762,8 @@ There are 3 key areas to engaging children and young people in decisions:
   eprint           = {https://www.southampton.gov.uk/media/d4fizxtq/lge_2022-dorp.pdf},
   comment          = {See also \url{https://en.wikipedia.org/wiki/2022_Southampton_City_Council_election}},
   creationdate     = {2023-03-26T16:14:40},
-  modificationdate = {2023-03-26T16:18:32},
+  keywords         = {Southampton, policy, democracy},
+  modificationdate = {2023-03-27T12:43:55},
   owner            = {izzy_olivine},
 }
 
@@ -11772,7 +11774,8 @@ There are 3 key areas to engaging children and young people in decisions:
   url              = {https://www.bbc.co.uk/news/uk-england-hampshire-64555849},
   urldate          = {2023-03-26},
   creationdate     = {2023-03-26T16:53:38},
-  modificationdate = {2023-03-26T16:54:17},
+  keywords         = {policy, Southampton},
+  modificationdate = {2023-03-27T12:44:10},
   owner            = {izzy_olivine},
 }
 
@@ -11791,7 +11794,8 @@ There are 3 key areas to engaging children and young people in decisions:
 6. Transparency and accountability
 7. Life, survival and development},
   creationdate     = {2023-03-26T17:31:18},
-  modificationdate = {2023-03-26T17:33:13},
+  keywords         = {policy, children, participatory},
+  modificationdate = {2023-03-27T12:44:27},
   owner            = {izzy_olivine},
 }
 
@@ -11806,8 +11810,8 @@ There are 3 key areas to engaging children and young people in decisions:
 
 introduces an Innovation in Democracy programme, piloting approaches where ‘people are empowered to deliberate and participate in the public decisions that affect their communities’},
   creationdate     = {2023-03-26T18:26:11},
-  keywords         = {policy, democracy, participatory},
-  modificationdate = {2023-03-26T18:51:09},
+  keywords         = {policy, democracy, participatory, bureaucracy},
+  modificationdate = {2023-03-27T12:43:00},
   owner            = {izzy_olivine},
 }
 
@@ -11818,7 +11822,8 @@ introduces an Innovation in Democracy programme, piloting approaches where ‘pe
   url              = {https://www.gov.uk/government/publications/innovation-in-democracy-programme-launch},
   urldate          = {2023-03-26},
   creationdate     = {2023-03-26T18:29:37},
-  modificationdate = {2023-03-26T18:45:55},
+  keywords         = {policy, participatory, bureaucracy},
+  modificationdate = {2023-03-27T12:44:40},
   owner            = {izzy_olivine},
 }
 
@@ -11835,7 +11840,8 @@ Found this via blog post on Involve website, which referenced UK Gov's Civil Soc
 
 Pretty good summary of everything I've read to date, how did I not find this earlier?},
   creationdate     = {2023-03-26T18:44:44},
-  modificationdate = {2023-03-26T18:55:23},
+  keywords         = {policy, participatory, bureaucracy},
+  modificationdate = {2023-03-27T12:44:56},
   owner            = {izzy_olivine},
 }
 
@@ -11888,8 +11894,58 @@ Capability:  skills and knowledge required for a particular task. Build capabili
 - Training
 - Coaching},
   creationdate     = {2023-03-27T12:35:53},
-  keywords         = {policy, economics, organisation},
-  modificationdate = {2023-03-27T12:42:17},
+  keywords         = {policy, economics, organisation, bureaucracy},
+  modificationdate = {2023-03-27T12:42:51},
+  owner            = {izzy_olivine},
+}
+
+@Online{Shipman2018,
+  author           = {Anna Shipman},
+  date             = {2018},
+  title            = {What I Learned in Six Years at {GDS}},
+  url              = {https://24ways.org/2018/what-i-learned-in-six-years-at-gds/},
+  urldate          = {2023-03-27},
+  comment          = {1. What is the user need?
+2. Make things open: it makes things better - blog lots, code in the open, etc
+3. Do the hard work to make it simple (tech edition)},
+  creationdate     = {2023-03-27T15:04:14},
+  modificationdate = {2023-03-27T15:05:30},
+  owner            = {izzy_olivine},
+}
+
+@Article{Lang2007,
+  author           = {Amy Lang},
+  date             = {2007},
+  journaltitle     = {Politics \& Society},
+  title            = {But Is It for Real? The British Columbia Citizens' Assembly as a Model of State-Sponsored Citizen Empowerment},
+  doi              = {10.1177/0032329206297147},
+  url              = {https://journals.sagepub.com/doi/10.1177/0032329206297147},
+  urldate          = {2023-03-27},
+  comment          = {see also \url{https://www.ssc.wisc.edu/~wright/929-utopias-2013/Real%20Utopia%20Readings/Lang-35-7%20-%20Politics%20Society-2007.pdf} and \url{https://participedia.net/case/1}
+
+Really detailed discussion of the British Columbia citizens' assembly on electoral reform
+
+Couldn't be sure that politicians would design it for the people so kept them out of the decision
+
+Learning phase with 160 members. They all went back to their communities for Public Hearing Phase and then Deliberation Phase.
+
+Assembly members found it difficult to advocate for an electoral system that would help to increase women’s representation or Aboriginal representation. First, the demographics of these groups in the Assembly did not lend themselves to the formation of a caucus. On one hand, women composed half the Assembly members; on the other hand, there were only two Aboriginal members and a handful of non-Aboriginal members who were interested in the issue of Aboriginal representation. There were too many women to organize a caucus and too few proponents of Aboriginal representation to feel comfortable caucusing. Second, there was little agreement on what constituted a common identity or set of interests for these groups.
+
+Advocates of citizen deliberation methods argue they are superior to traditional means of citizen consultation for a number of reasons. On complex policy issues, citizens have the chance to become informed not only about the issues but also about their fellow citizens’ preferences.37 Democratic deliberation produces fairer and potentially more moderate outcomes because it insists on justifying decisions through reasons that are acceptable to all those who will be bound.38 Involving ordinary citizens in deliberative decision making is key to producing potentially more effective decisions, because they bring in their own local knowledge of the problem at hand.39 As described above, the experience of the British Columbia Citizens’ Assembly largely bears out these theoretical arguments in favor of citizen-led deliberation and decision making.},
+  creationdate     = {2023-03-27T17:14:29},
+  modificationdate = {2023-03-27T17:32:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{ParticipediaTuscany2021,
+  author           = {Participedia},
+  date             = {2021},
+  title            = {Tuscany's Institutionalization of Public Participation and Deliberation},
+  url              = {https://participedia.net/collection/7125},
+  urldate          = {2023-03-27},
+  comment          = {Tuscany passed laws in 2007 making citizen participation and deliberative democracy an explicity long-term policy},
+  creationdate     = {2023-03-27T17:41:30},
+  modificationdate = {2023-03-27T17:43:08},
   owner            = {izzy_olivine},
 }
 
