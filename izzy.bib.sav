@@ -11311,7 +11311,7 @@ Lots of detail comparing the hybrid model between two locations and how successf
 @Misc{Ryan2023,
   author           = {Matt Ryan},
   date             = {2023-03-21},
-  title            = {Personal conversation},
+  title            = {Personal communication},
   comment          = {Matt Ryan notes:
 
 Participatory, deliberative politics for dealing with grievance politics around flashpoints
@@ -11371,7 +11371,7 @@ There is a pressure for leaders to constantly innovate - so even if PB has been 
 Sortition-based is starting to get criticism because they do quota sampling and response rates are really low but claim is that people who response are similar to MPs and very engaged politically already},
   creationdate     = {2023-03-22T11:38:48},
   keywords         = {policy, bureaucracy, participatory, democracy},
-  modificationdate = {2023-03-22T16:18:03},
+  modificationdate = {2023-03-26T20:53:46},
   owner            = {izzy_olivine},
 }
 
@@ -11837,6 +11837,35 @@ Pretty good summary of everything I've read to date, how did I not find this ear
   creationdate     = {2023-03-26T18:44:44},
   modificationdate = {2023-03-26T18:55:23},
   owner            = {izzy_olivine},
+}
+
+@InBook{KaroK2016,
+  author           = {Erkki Karo and Rainer Kattel},
+  booktitle        = {Policy Capacity: State and Societal Perspectives},
+  date             = {2016},
+  title            = {Innovation and the State: Towards an Evolutionary Theory of Policy Capacity},
+  editor           = {Wu, X. and Howlett, M. and Ramesh, M.},
+  comment          = {propose an evolutionary analytical approach to policy capacity with a specific focus on policy domains where uncertainty and need for policy innovations, or novelty creation, is a central concern
+
+specifically evolution of science, technology and innovation (STI) policy capacities of three Asian Tigers
+
+crucial elements of policy capacity are: a) organizational routines, b) search and selection processes and the endogenous and exogenous sources of novelty creation, and c) selection and feedback environments.
+
+policy capacity, defined as the 'set of skills and resources – or competencies and capabilities – necessary to perform policy functions' (Wu et al., 2015, p. 166),
+
+innovation as a phenomenon is quite difficult to theorize, model and measure because it is influenced by both exogenous and endogenous variables and as `endogenous change originates, in the last resort, from the capacity of the system under investigation to produce novelty'
+
+policy-related skills and competences (political, analytical, operational)
+
+Most discussion of capacity considers it there or not there
+
+But innovation is uncertain both in process and outcome
+
+So what constitute policy capacities},
+  creationdate     = {2023-03-27T11:39:50},
+  modificationdate = {2023-03-27T12:13:53},
+  owner            = {izzy_olivine},
+  year             = {2016},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
