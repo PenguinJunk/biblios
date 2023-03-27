@@ -12117,7 +12117,25 @@ Young people didn't get involved much},
   url              = {https://www.childrensparliament.org.uk/climate-change-for-the-climate-assembly/},
   comment          = {Report from the Children's Parliament before COP26},
   creationdate     = {2023-03-27T22:13:00},
-  modificationdate = {2023-03-27T22:17:29},
+  keywords         = {participatory, democracy, children, climate},
+  modificationdate = {2023-03-27T22:17:51},
+  owner            = {izzy_olivine},
+}
+
+@Article{PeresM2013,
+  author           = {Marc Par\'{e}s and Hug March},
+  date             = {2013},
+  title            = {Guide to Evaluating Participatory Processes},
+  number           = {3},
+  series           = {Short Guides for Citizen Participation},
+  address          = {Barcelona},
+  comment          = {There are no magic recipes for running quality participatory processes
+
+there is no single way to evaluate a participatory process
+
+identifies lots of possible criteria, questions and methodologies for evaluating participatory processes},
+  creationdate     = {2023-03-27T22:43:22},
+  modificationdate = {2023-03-27T22:46:10},
   owner            = {izzy_olivine},
 }
 
