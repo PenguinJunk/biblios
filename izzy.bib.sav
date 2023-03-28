@@ -10497,7 +10497,9 @@ Chapter 4 A Comparative Analysis of Participatory Budgeting: explains QCA and ho
 
 Chapter 6: considers the work of Wampler and applies QCA to test Wampler's claims. Find that there isn't enough consistency to make claims about necessity advisable. Concludes that necessity claims are premature and overblown.
 
-Mayoral support seems to be the only necessary condition, but it's not sufficient, I think
+Political leader's support seems to be the only necessary condition, but it's not sufficient p198
+
+``Where civil society retains autonomy and acts both in contention and concert with willing political leaders, and bureaucratic staff are able and willing to support the process, this combination of factors is sufficient for success, regardless of financial challenges'' p198
 
 Conclusion: 
 Provides since specific combinations that may alternatively produce good outcomes p198
@@ -10515,7 +10517,7 @@ Autonomous civil society in contention and concert with political leaders and bu
 Warns that pb is difficult, can fail, it have missing outcomes and suggests being transparent about this},
   creationdate     = {2023-03-19T09:08:25},
   keywords         = {policy, participatory, democracy, bureaucracy},
-  modificationdate = {2023-03-22T10:05:51},
+  modificationdate = {2023-03-28T10:47:34},
   owner            = {izzy_olivine},
   year             = {2021},
 }
@@ -11922,9 +11924,7 @@ Capability:  skills and knowledge required for a particular task. Build capabili
   doi              = {10.1177/0032329206297147},
   url              = {https://journals.sagepub.com/doi/10.1177/0032329206297147},
   urldate          = {2023-03-27},
-  comment          = {see also \url{https://www.ssc.wisc.edu/~wright/929-utopias-2013/Real%20Utopia%20Readings/Lang-35-7%20-%20Politics%20Society-2007.pdf} and \url{https://participedia.net/case/1}
-
-Really detailed discussion of the British Columbia citizens' assembly on electoral reform
+  comment          = {Really detailed discussion of the British Columbia citizens' assembly on electoral reform
 
 Couldn't be sure that politicians would design it for the people so kept them out of the decision
 
@@ -11935,7 +11935,7 @@ Assembly members found it difficult to advocate for an electoral system that wou
 Advocates of citizen deliberation methods argue they are superior to traditional means of citizen consultation for a number of reasons. On complex policy issues, citizens have the chance to become informed not only about the issues but also about their fellow citizens’ preferences.37 Democratic deliberation produces fairer and potentially more moderate outcomes because it insists on justifying decisions through reasons that are acceptable to all those who will be bound.38 Involving ordinary citizens in deliberative decision making is key to producing potentially more effective decisions, because they bring in their own local knowledge of the problem at hand.39 As described above, the experience of the British Columbia Citizens’ Assembly largely bears out these theoretical arguments in favor of citizen-led deliberation and decision making.},
   creationdate     = {2023-03-27T17:14:29},
   keywords         = {policy, participatory, democracy, bureaucracy},
-  modificationdate = {2023-03-27T20:29:20},
+  modificationdate = {2023-03-27T22:58:55},
   owner            = {izzy_olivine},
 }
 
