@@ -12229,17 +12229,49 @@ Difficult to find many mentions of the NII after 2015, except:
 - personal data
 - population level data
 - administrative, operational and transactional data
-- infrastructure, geospatial and environmental data},
+- infrastructure, geospatial and environmental data
+
+Considers the benefits, linkages, risks and barriers to public sector data sharing
+
+Requirements:
+- legal framework
+- data management and quality
+- data intermediaries
+- organisational culture and data skills
+- privacy and consent
+- transparency and cooperation},
   creationdate     = {2023-03-31T15:03:52},
   keywords         = {data, policy, infrastructure},
-  modificationdate = {2023-03-31T15:16:23},
+  modificationdate = {2023-03-31T15:33:22},
   owner            = {izzy_olivine},
 }
 
 @Report{ODINDS2020,
+  author           = {{ODI and others}},
+  date             = {2020},
+  institution      = {Ada Lovelace Institute, the Centre for Public Data, the Institute for Government, the Open Data Institute, and the Royal Statistical Society},
+  title            = {Getting data right: Perspective on the UK National Data Strategy 2020},
   eprint           = {http://theodi.org/wp-content/uploads/2021/01/Getting-data-right_-perspectives-on-the-UK-National-Data-Strategy-2020-1.pdf},
+  comment          = {Critique and proposals on the UK national data strategy 2020
+National Data Strategy 2020 has four pillars:
+1. Foundations: ensuring data is fit for purpose
+2. Skills: data skills for a data-driven economy and data-rich lives
+3. Availability: ensuring data is appropriately accessible
+4. Responsibility: driving safe and trusted use of data 
+
+Loads to draw on here!
+
+Refers to open data as ``the backbone of a modern, `smart' digital economy''
+
+
+discussion of new models of data institutions such as data co-ops, data trusts and data unions. 
+
+``important that any data generated as part of a project was treated as an asset, rather than as underlying physical infrastructure, and that there would be continued funding to maintain useful datasets beyond the time frame of the project''
+
+talks a lot about data infrastructure},
   creationdate     = {2023-03-31T15:14:46},
-  modificationdate = {2023-03-31T15:14:59},
+  keywords         = {data, policy, transformation, infrastructure},
+  modificationdate = {2023-03-31T15:49:23},
   owner            = {izzy_olivine},
 }
 
