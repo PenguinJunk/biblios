@@ -12339,19 +12339,24 @@ Asks loads of interesting questions like What could a feminist, ecological, deco
   owner            = {izzy_olivine},
 }
 
-@Online{,
+@Online{ODIInfra2018,
+  author           = {{ODI}},
+  date             = {2018},
+  title            = {Data infrastructure},
   url              = {https://www.theodi.org/topic/data-infrastructure/},
-  comment          = {Data is infrastrcture
+  comment          = {Data is infrastructure
 
-Government, business, and communities
-strategicaly 
+Government, business, and communities 
+strategically 
 Plan, fund, govern infrastructure
 
 Data infrastructure is made up of data, the organisations that operate them and the guides that tell us how to maintain and use data
 
-We need to make it as open as possible whilst protecting that which should remain private},
+We need to make it as open as possible whilst protecting that which should remain private
+
+Data is currently not being treated as infrastructure. We need to change this.},
   creationdate     = {2023-03-31T17:42:14},
-  modificationdate = {2023-03-31T17:44:12},
+  modificationdate = {2023-03-31T17:49:30},
   owner            = {izzy_olivine},
 }
 
