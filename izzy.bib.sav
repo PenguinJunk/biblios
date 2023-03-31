@@ -12361,7 +12361,9 @@ Data is currently not being treated as infrastructure. We need to change this.},
   owner            = {izzy_olivine},
 }
 
-@Book{,
+@Book{StarL2009,
+  author           = {Susan Leigh Star and Martha Lampland},
+  date             = {2009},
   title            = {Reckoning with Standards},
   eprint           = {https://sociology.ucsd.edu/_files/people/lampland/Star%20and%20Lampland%20Reckoning%20Introduction%20to%20Standards%20and%20their%20Stories.pdf},
   comment          = {How to people interact wiht standards?
@@ -12391,9 +12393,9 @@ infrastructure is strange
 
 even discuss maps on p21 identifying how assumptions can be challenged by radically different maps such as explicit mapping of time, emotion and trust
 
-deconstructing infrastructure can reveal a master voice that does not problematize diversity},
+deconstructing infrastructure can reveal a master voice that does not problematize diversity p22 with many embedded assumptions (e.g. skin colour)},
   creationdate     = {2023-03-31T18:28:24},
-  modificationdate = {2023-03-31T19:00:39},
+  modificationdate = {2023-03-31T19:04:52},
   owner            = {izzy_olivine},
 }
 
