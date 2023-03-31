@@ -12203,6 +12203,8 @@ cyber systems are not be a critical infrastructure sector according to the Criti
   urldate          = {2023-03-31},
   comment          = {9.5 years ago!
 
+This is different from the US National Information Infrastructure which seems to be more about internet: \url{https://clintonwhitehouse6.archives.gov/1993/09/1993-09-15-the-national-information-infrastructure-agenda-for-action.html}
+
 Includes the National Information Infrastructure data list first iteration which contains 
 322 rows
 biggest contributor is Ordnance Survey with 40 rows
@@ -12212,7 +12214,7 @@ Difficult to find many mentions of the NII after 2015, except:
 - in POST6642022, in box 2 about the National Data Strategy (e.g. ODINDS2020):  previous strategies have not achieved similar data-related goals, namely the 2010 National Information Infrastructure plan},
   creationdate     = {2023-03-31T14:43:13},
   keywords         = {infrastruture, digital, economics, policy},
-  modificationdate = {2023-03-31T15:14:42},
+  modificationdate = {2023-03-31T15:57:49},
   owner            = {izzy_olivine},
 }
 
@@ -12272,6 +12274,21 @@ talks a lot about data infrastructure},
   creationdate     = {2023-03-31T15:14:46},
   keywords         = {data, policy, transformation, infrastructure},
   modificationdate = {2023-03-31T15:49:23},
+  owner            = {izzy_olivine},
+}
+
+@Conference{DMI2017,
+  author           = {{Digital Methods Initiative}},
+  booktitle        = {Data Infrastructures: Database Stories, Dumps and Query Driven Narratives},
+  date             = {2017},
+  title            = {Digital Methods Winter School 2017},
+  url              = {https://wiki.digitalmethods.net/Dmi/WinterSchool2017},
+  comment          = {I came across this because of their alluvial chart of data.gov.uk given in Gray2023 data that seemed to indicate that no ``mapping'' theme data came from Ordnance Survey (looking at data.gov.uk it seems OS has a habit of not labelling the theme of their data)
+
+``Data infrastructures provide the conditions of possibility for social action as well as ways of seeing the world. Among them online data infrastructures these days range widely from social media API query environments as Facebook’s and Twitter's and secrets repositories and dumps as Wikileaks to interactive databases of missing migrants, uncounted police killings as well as war deaths by social researchers and leading newspapers such as the New York Times and the Guardian''},
+  creationdate     = {2023-03-31T16:11:33},
+  keywords         = {infrastructure, data},
+  modificationdate = {2023-03-31T16:37:57},
   owner            = {izzy_olivine},
 }
 
