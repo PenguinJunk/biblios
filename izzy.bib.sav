@@ -12518,8 +12518,8 @@ Also the Office of Public Sector Information (OPSI), a unit of the cabinet offic
 
 (OS OpenData appeared in 2010)},
   creationdate     = {2023-04-01T16:01:48},
-  keywords         = {infrastructure, digital, mapping, open data},
-  modificationdate = {2023-04-01T16:07:19},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:35:51},
   owner            = {izzy_olivine},
 }
 
@@ -12533,8 +12533,8 @@ Also the Office of Public Sector Information (OPSI), a unit of the cabinet offic
 
 also that OS did not value the database and so only needed to fund the services (not the value of the database asset)},
   creationdate     = {2023-04-01T16:09:16},
-  keywords         = {infrastructure, digital, mapping, open data},
-  modificationdate = {2023-04-01T16:18:05},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:35:47},
   owner            = {izzy_olivine},
 }
 
@@ -12546,8 +12546,8 @@ also that OS did not value the database and so only needed to fund the services 
   urldate          = {2023-04-01},
   comment          = {announcement by the government that it intends to make Ordnance Survey maps free for use online by any organisation – including commercial ones – at resolutions more detailed than commercial 1:25,000 Landranger maps from April 2010},
   creationdate     = {2023-04-01T16:19:31},
-  keywords         = {infrastructure, digital, mapping, open data},
-  modificationdate = {2023-04-01T16:22:49},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:35:44},
   owner            = {izzy_olivine},
 }
 
@@ -12559,7 +12559,8 @@ also that OS did not value the database and so only needed to fund the services 
   urldate          = {2023-04-01},
   comment          = {from tomorrow you can download maps as detailed as 1:10,000 scale, or collect a list of locations appearing on maps at the 1:50,000 scale, or a conversion system for postcodes to grid references – free for personal or commercial use},
   creationdate     = {2023-04-01T16:22:03},
-  modificationdate = {2023-04-01T16:23:13},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:35:39},
   owner            = {izzy_olivine},
 }
 
@@ -12570,7 +12571,21 @@ also that OS did not value the database and so only needed to fund the services 
   url              = {https://www.gov.uk/government/news/baroness-hanham-maps-the-progress-of-government-transparency},
   comment          = {Seems to be the first report on gov.uk about the opening up of OS data},
   creationdate     = {2023-04-01T16:34:00},
-  modificationdate = {2023-04-01T16:35:13},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:35:33},
+  owner            = {izzy_olivine},
+}
+
+@Report{BISOS2013,
+  author           = {{BIS} and {OS}},
+  date             = {2013-06-19},
+  institution      = {Department for Business, Innovation \& Skills and Ordnance Survey},
+  title            = {Assessing the value of OS OpenData to the economy of Great Britain: synopsis},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/207692/bis-13-950-assessing-value-of-opendata-to-economy-of-great-britain.pdf},
+  url              = {https://www.gov.uk/government/publications/ordnance-survey-open-data-economic-value-study},
+  creationdate     = {2023-04-01T16:37:46},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T16:39:24},
   owner            = {izzy_olivine},
 }
 
