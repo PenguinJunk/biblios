@@ -12463,4 +12463,42 @@ Height  and  Imagery},
   owner            = {izzy_olivine},
 }
 
+@InProceedings{Murray2008,
+  author           = {K. J. Murray},
+  booktitle        = {ISPRS Congress Beijing 2008},
+  date             = {2008},
+  title            = {From Local to European {SDI} – Inspiring the Next Generation of Spatial Information in Great Britain},
+  eprint           = {https://www.isprs.org/proceedings/XXXVII/congress/4_pdf/298.pdf},
+  maintitle        = {Silk Road for Information from Imagery},
+  pages            = {1707--1714},
+  url              = {https://www.isprs.org/proceedings/XXXVII/congress/tc4.aspx},
+  address          = {Beijing, China},
+  comment          = {Detailed history of Ordnance Survey
+
+uses the analogy of railway infrastructure to demonstrate how a common framework and a vision of the future can be applied to create a Spatial DAta Infrastructure as part of ``a more coherent national information infrastructure''
+
+In the 1990s discovery metadata services were established and in some cases attempts were made to show the data in a portal (NSDI in the US and the NGDF in the UK -  promoted as ``spatial data infrastructures'' (SDI)
+
+Considers a more tangible analogy:
+There are two main parts to an operational rail network: 
+1. The rail infrastructure 
+2. The rail services that run on the infrastructure
+
+Few standards existed in the early days of railway development and different gauges of track were not uncommon, bridge heights varied and often two railway companies would develop independent routes to the same or similar locations
+
+The challenge for the future of spatial information is therefore to develop a vision for the information infrastructure that does not lead to ``dead ends'' but identifies and supports the kinds of joined-up ``services'' and applications that can be offered
+
+OS MasterMap was launched in late 2001 and the DNF element then took a backseat - but within 2-3 years users were starting to use the methods outlined in the consultation papers.
+
+Gives case studies:
+- Atlantis - EA detailed river network developed by OSusing DNF model
+- Dudley council - property database which corss references base objects in the DNF
+- National Access Land - definitive record of public access land after the 2000 countryside and rights of way act
+- INSPIRE - interoperable model across EU (2007)},
+  creationdate     = {2023-04-01T13:09:35},
+  keywords         = {infrastructure, digital, mapping},
+  modificationdate = {2023-04-01T13:35:04},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
