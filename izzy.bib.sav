@@ -12617,10 +12617,24 @@ no single “killer app” was identified, but rather a whole series of incremen
   url              = {https://www.gov.uk/government/publications/geospatial-commission-call-for-evidence-responses},
   comment          = {all the responses to the 21 questions about geospatial data
 
+Hundreds of organisations responded
+
 Lots of comments that the data are difficult to access},
   creationdate     = {2023-04-01T17:04:52},
   keywords         = {infrastructure, digital, mapping, open data, policy},
-  modificationdate = {2023-04-01T17:06:27},
+  modificationdate = {2023-04-01T17:09:50},
+  owner            = {izzy_olivine},
+}
+
+@Online{COGC2020,
+  author           = {{Cabinet Office} and {Geospatial Commission} and {The Rt Hon Lord True CBE}},
+  date             = {2020-04-02},
+  title            = {Government announces new 10 year Public Sector Geospatial Agreement with Ordnance Survey},
+  url              = {https://www.gov.uk/government/news/government-announces-new-10-year-public-sector-geospatial-agreement-with-ordnance-survey},
+  comment          = {The announcement about the PSGA and that geospatial data should be easier to access},
+  creationdate     = {2023-04-01T17:14:08},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-01T17:16:02},
   owner            = {izzy_olivine},
 }
 
