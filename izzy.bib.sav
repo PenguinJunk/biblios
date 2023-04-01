@@ -12543,10 +12543,34 @@ also that OS did not value the database and so only needed to fund the services 
   date             = {2009-11-19},
   title            = {OS mapping data: a new landscape unfolds},
   url              = {https://www.theguardian.com/technology/2009/nov/19/ordnance-survey-maps-free-online},
+  urldate          = {2023-04-01},
   comment          = {announcement by the government that it intends to make Ordnance Survey maps free for use online by any organisation – including commercial ones – at resolutions more detailed than commercial 1:25,000 Landranger maps from April 2010},
   creationdate     = {2023-04-01T16:19:31},
   keywords         = {infrastructure, digital, mapping, open data},
-  modificationdate = {2023-04-01T16:20:46},
+  modificationdate = {2023-04-01T16:22:49},
+  owner            = {izzy_olivine},
+}
+
+@Online{Arthur2010,
+  author           = {Charles Arthur},
+  date             = {2010-04-01},
+  title            = {Ordnance Survey launches free downloadable maps},
+  url              = {https://www.theguardian.com/technology/2010/apr/01/ordnance-survey-maps-download-free},
+  urldate          = {2023-04-01},
+  comment          = {from tomorrow you can download maps as detailed as 1:10,000 scale, or collect a list of locations appearing on maps at the 1:50,000 scale, or a conversion system for postcodes to grid references – free for personal or commercial use},
+  creationdate     = {2023-04-01T16:22:03},
+  modificationdate = {2023-04-01T16:23:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{UKGovOSOpenData2010,
+  author           = {{UK Government}},
+  date             = {2010-07-16},
+  title            = {Baroness Hanham maps the progress of government transparency},
+  url              = {https://www.gov.uk/government/news/baroness-hanham-maps-the-progress-of-government-transparency},
+  comment          = {Seems to be the first report on gov.uk about the opening up of OS data},
+  creationdate     = {2023-04-01T16:34:00},
+  modificationdate = {2023-04-01T16:35:13},
   owner            = {izzy_olivine},
 }
 
