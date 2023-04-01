@@ -12395,7 +12395,47 @@ even discuss maps on p21 identifying how assumptions can be challenged by radica
 
 deconstructing infrastructure can reveal a master voice that does not problematize diversity p22 with many embedded assumptions (e.g. skin colour)},
   creationdate     = {2023-03-31T18:28:24},
-  modificationdate = {2023-03-31T19:04:52},
+  keywords         = {infrastructure, standards, policy,},
+  modificationdate = {2023-03-31T19:10:01},
+  owner            = {izzy_olivine},
+}
+
+@Online{NPSA2023,
+  author           = {{National Protective Security Authority}},
+  date             = {2023-02-26},
+  title            = {Critical National Infrastructure},
+  url              = {https://www.npsa.gov.uk/critical-national-infrastructure-0},
+  comment          = {The 13 national infrastructure sectors
+Chemicals 
+Civil Nuclear
+Communications
+Defence
+Emergency Services
+Energy
+Finance
+Food
+Government
+Health
+Space
+Transport
+Water},
+  creationdate     = {2023-03-31T19:07:41},
+  keywords         = {policy, infrastructure},
+  modificationdate = {2023-03-31T19:10:12},
+  owner            = {izzy_olivine},
+}
+
+@Report{Holland2001,
+  author           = {David Holland},
+  date             = {2001},
+  institution      = {Ordnance Survey},
+  title            = {The Digital National Framework},
+  eprint           = {https://portal.ogc.org/files/?artifact_id=6693},
+  note             = {Article for August, 2001 GeoEurope Magazine�. Archived by Open Geospatial Consortium},
+  comment          = {The Digital National Framework DNF redefines the role of providing a geographic framework for GB in a digital, on-line environment, and is composed of a reference system, a core dataset, a means of associating data, and a way of delivering it to users},
+  creationdate     = {2023-04-01T12:27:30},
+  keywords         = {infrastructure, digital, mapping},
+  modificationdate = {2023-04-01T12:33:22},
   owner            = {izzy_olivine},
 }
 
