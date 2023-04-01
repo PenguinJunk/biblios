@@ -12472,7 +12472,6 @@ Height  and  Imagery},
   maintitle        = {Silk Road for Information from Imagery},
   pages            = {1707--1714},
   url              = {https://www.isprs.org/proceedings/XXXVII/congress/tc4.aspx},
-  address          = {Beijing, China},
   comment          = {Detailed history of Ordnance Survey
 
 uses the analogy of railway infrastructure to demonstrate how a common framework and a vision of the future can be applied to create a Spatial DAta Infrastructure as part of ``a more coherent national information infrastructure''
@@ -12494,10 +12493,48 @@ Gives case studies:
 - Atlantis - EA detailed river network developed by OSusing DNF model
 - Dudley council - property database which corss references base objects in the DNF
 - National Access Land - definitive record of public access land after the 2000 countryside and rights of way act
-- INSPIRE - interoperable model across EU (2007)},
+- INSPIRE - interoperable model across EU (2007)
+
+UK Location Strategy -  GI has to move into and support the mainstream information industry if it was to be taken seriously},
   creationdate     = {2023-04-01T13:09:35},
   keywords         = {infrastructure, digital, mapping},
-  modificationdate = {2023-04-01T13:35:04},
+  modificationdate = {2023-04-01T13:39:23},
+  owner            = {izzy_olivine},
+}
+
+@Online{MathiesonC2006,
+  author           = {S. A. Mathieson and Michael Cross},
+  date             = {2006-03-13},
+  title            = {Ordnance Survey challenged to open up},
+  url              = {https://www.theguardian.com/society/2006/mar/23/epublic.technology},
+  urldate          = {2023-04-01},
+  comment          = {Free Our Data campaign from Tim Berners-Lee and The Guardian call for Ordnance Survey data to be made freely available
+
+Ed Parsons:
+``If it happens, it will be in the next six months or so''
+``We're constrained by competition law''
+
+Also the Office of Public Sector Information (OPSI), a unit of the cabinet office charged with promoting fair access to crown copyright data, says there is substance to complaints from commercial mapping firms that OS has been "obstructive and slow" in licensing its data
+
+(OS OpenData appeared in 2010)},
+  creationdate     = {2023-04-01T16:01:48},
+  keywords         = {infrastructure, digital, mapping, open data},
+  modificationdate = {2023-04-01T16:07:19},
+  owner            = {izzy_olivine},
+}
+
+@Online{ArthurC2016,
+  author           = {Charles Arthur and Michael Cross},
+  date             = {2006-03-16},
+  title            = {What price information?},
+  url              = {https://www.theguardian.com/technology/2006/mar/16/epublic.guardianweeklytechnologysection},
+  urldate          = {2023-04-01},
+  comment          = {Article about the Free Our Data campaign published a few days after MathiesonC2006 that compares OS and Google and explains better obligations under the trading fund regime
+
+also that OS did not value the database and so only needed to fund the services (not the value of the database asset)},
+  creationdate     = {2023-04-01T16:09:16},
+  keywords         = {infrastructure, digital, mapping, open data},
+  modificationdate = {2023-04-01T16:18:05},
   owner            = {izzy_olivine},
 }
 
