@@ -9855,7 +9855,7 @@ Capacity Maturity Model had five levels},
   url              = {https://www.rockefellerfoundation.org/report/co-develop-digital-public-infrastructure-for-an-equitable-recovery/},
   comment          = {Report on creating digital public infrastructure DPI
 
-DPI that led to good outcomes in covid-19 pandemic:
+DPI that led to good outcomes in covid-19 pandemic: p7
 - were already widely used by people and organizations across whole countries or sectors
 - had basic, powerful and broadly applicable functionality
 - enabled functions of core societal importance; regulated or
@@ -9913,7 +9913,7 @@ Characteristics shared by DPIs:
 * Ubiquitous, with a tendency to become de facto prerequisites  for modern governance and  commerce, making it difficult to opt-out of their use 
 * Data generating, potentially  creating detailed information  about users and their activities  and interactions},
   creationdate     = {2023-03-09T18:40:32},
-  modificationdate = {2023-04-02T14:00:01},
+  modificationdate = {2023-04-02T14:00:26},
   owner            = {ISargent},
 }
 
@@ -12393,7 +12393,7 @@ Data is currently not being treated as infrastructure. We need to change this.},
   date             = {2009},
   title            = {Reckoning with Standards},
   eprint           = {https://sociology.ucsd.edu/_files/people/lampland/Star%20and%20Lampland%20Reckoning%20Introduction%20to%20Standards%20and%20their%20Stories.pdf},
-  comment          = {How to people interact wiht standards?
+  comment          = {How to people interact with standards?
 
 Talks about infrastructure a lot - how standards are embedded and can become invisible until residual categories, edge cases ``the detritus of infrastructure'' become apparent
 
@@ -12405,14 +12405,7 @@ What is infrastructure? p17
 ``boring things'', something that others ``run on'', ``substrate to events and movements'', ``good infrastructure is invisible''
 But not everyone is served by a particular infrastructure ``one person's infrastructure is another person's brick wall'' it is relational, only infrastructure in a given cultural context
 
-Star and Ruhleder listed properties of infrastructure as: p17
-- embeddedness
-- transparency
-- having reach or scope
-- being learned as part of membership
-- building built on an installed base (and its inertia)
-- becoming visible on breakdown
-- being fixed in modular increments, not centrally or from overview
+See also StarR1996 for properties of infrastructure (as listed on p17)
 
 infrastructure is strange
 
@@ -12423,7 +12416,7 @@ even discuss maps on p21 identifying how assumptions can be challenged by radica
 deconstructing infrastructure can reveal a master voice that does not problematize diversity p22 with many embedded assumptions (e.g. skin colour)},
   creationdate     = {2023-03-31T18:28:24},
   keywords         = {infrastructure, standards, policy,},
-  modificationdate = {2023-03-31T19:10:01},
+  modificationdate = {2023-04-02T16:08:13},
   owner            = {izzy_olivine},
 }
 
@@ -12690,9 +12683,43 @@ Creating, maintaining and disseminating consistent, definitive and authoritative
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Article{StarR1996,
+  author           = {Susan Leigh Star and Karen Ruhleder},
+  date             = {1996},
+  journaltitle     = {Information Systems Research},
+  title            = {Steps Toward an Ecology of Infrastructure: Design and Access for Large Information Spaces},
+  eprint           = {https://www.jstor.org/stable/pdf/23010792.pdf},
+  number           = {1},
+  pages            = {111--134},
+  url              = {https://www.jstor.org/stable/23010792},
+  volume           = {7},
+  comment          = {Study of the Worm Community System which developed over geographically dispersed scientific community as the internet and world wide web grow
+
+Need for standards and customisable components
+
+paradox of technology - rigid and customizable, product and process, engine and barrier
+
+Ultimately requires standards and calibration and the adapatations to it also require standards and calibration
+
+``universal niche'' - one person's standard is another's chaos
+
+asks ``when is an infrastructure'' p112 - it is not possible to study the thing but the relationships with it p113
+
+properties of infrastructure: p113
+- embeddedness - ``sunk'' into other structures, etc
+- transparency - does not have to be reinvented each time
+- having reach or scope - either spatial or temporal
+- being learned as part of membership - needs to be learned about, familiarity is acquired, members take for granted
+- links with conventions of practice - shapes and is shaped by conventions
+- embodiment of standards - modified by scope of often conflicting conventions
+- built on an installed base - from which it inherits strengths and weaknesses
+- becoming visible on breakdown
+
+StarL2009 seem to add another property which isn't obvious in this piece:
+- being fixed in modular increments, not centrally or from overview},
   creationdate     = {2023-04-02T12:09:56},
-  modificationdate = {2023-04-02T12:09:56},
+  keywords         = {infrastructure, digital, policy, transformation},
+  modificationdate = {2023-04-02T16:23:51},
   owner            = {izzy_olivine},
 }
 
