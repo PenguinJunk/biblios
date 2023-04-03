@@ -12927,9 +12927,33 @@ UK's obligations under the European INSPIRE directive
 
 Clearly location data are very important but not being used as much as they could
 
-Contains reference to the 1999 report that said economic contribution of OS is more than £100bn a year},
+Contains reference to the 1999 report that said economic contribution of OS is more than £100bn a year
+
+Strategic actions:
+- know what data we have and avoid duplication
+- use common reference data so we know we're talking about the same places
+- share location-related information easily through common infrastructure of standards, technology and business relationships
+- have the appropriate skills 
+- have strong leadership and governance
+
+common reference example is the use of DNF by NUAG (national undergroup asset group)
+
+footnote on page 21: ``DNF methods developed in Great Britain over the last 2-3 years, are aligned with and now support the INSPIRE Implement Rules''},
   creationdate     = {2023-04-03T17:35:49},
-  modificationdate = {2023-04-03T17:41:44},
+  modificationdate = {2023-04-03T17:45:22},
+  owner            = {izzy_olivine},
+}
+
+@Online{OGC2006,
+  author           = {{Open Geospatial Consortium}},
+  date             = {2006-04-12},
+  title            = {Ordnance Survey Joins {OGC}},
+  url              = {https://www.ogc.org/news/ordnance-survey-joins-ogc/},
+  comment          = {OS  joined OGC as a Technical Committee member
+
+``Ordnance Survey anticipates that Membership in OGC will help us to influence and anticipate software interface and component product design. This will help minimise the risk that geoprocessing software vendors' new products will fail to meet our requirements. It will also ensure that we take full advantage of geospatially related developments which are based on the most effective mainstream and emerging Information Technology''},
+  creationdate     = {2023-04-03T18:18:10},
+  modificationdate = {2023-04-03T18:20:31},
   owner            = {izzy_olivine},
 }
 
