@@ -12405,7 +12405,7 @@ What is infrastructure? p17
 ``boring things'', something that others ``run on'', ``substrate to events and movements'', ``good infrastructure is invisible''
 But not everyone is served by a particular infrastructure ``one person's infrastructure is another person's brick wall'' it is relational, only infrastructure in a given cultural context
 
-See also StarR1996 for properties of infrastructure (as listed on p18). This paper adds one (claiming that it was in the original StarR1996): 
+See also StarR1996 for properties of infrastructure (as listed here on p18). This paper adds one (claiming that it was in the original StarR1996): 
 - being fixed in modular increments, not centrally or from overview
 
 infrastructure is strange
@@ -12417,7 +12417,7 @@ even discuss maps on p21 identifying how assumptions can be challenged by radica
 deconstructing infrastructure can reveal a master voice that does not problematize diversity p22 with many embedded assumptions (e.g. skin colour)},
   creationdate     = {2023-03-31T18:28:24},
   keywords         = {infrastructure, standards, policy,},
-  modificationdate = {2023-04-03T07:03:02},
+  modificationdate = {2023-04-03T07:12:09},
   owner            = {izzy_olivine},
 }
 
@@ -12737,6 +12737,22 @@ Fantastic typology of issues, also includes how to address these:
   creationdate     = {2023-04-02T12:09:56},
   keywords         = {infrastructure, digital, policy, transformation},
   modificationdate = {2023-04-02T16:36:20},
+  owner            = {izzy_olivine},
+}
+
+@Online{Long2021,
+  author           = {Cathal Long},
+  date             = {2021-10-26},
+  title            = {Digital public infrastructure, platforms and public finance},
+  url              = {https://odi.org/en/insights/digital-public-infrastructure-platforms-and-public-finance/},
+  urldate          = {2023-04-03},
+  comment          = {Based on ONeilR2022
+Links digital public infrastructure and government as a platform and Pope2019
+
+``This description of DPI (from the authors of the Co-Develop report) has its roots in the concept of Government as a Platform (GaaP), first coined by Tim O’Reilly, and later adopted and adapted by different governments.''},
+  creationdate     = {2023-04-03T11:39:29},
+  keywords         = {infrastructure, digital, open data, policy, platform},
+  modificationdate = {2023-04-03T11:43:13},
   owner            = {izzy_olivine},
 }
 
