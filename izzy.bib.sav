@@ -12756,4 +12756,17 @@ Links digital public infrastructure and government as a platform and Pope2019
   owner            = {izzy_olivine},
 }
 
+@Report{OS2006,
+  author           = {{Ordnance Survey}},
+  date             = {2006},
+  institution      = {Select Committee on Science and Technology Written Evidence, UK Parliament},
+  title            = {Science and Technology - Seventh Report. Written Evidence. Memorandum 43: Submission from the Ordnance Survey},
+  url              = {https://publications.parliament.uk/pa/cm200607/cmselect/cmsctech/66/66we49.htm},
+  comment          = {The large-scale digital database of the surface of Britain is known as the National Geographic Database (NGD), from which the OS MasterMap®product is produced},
+  creationdate     = {2023-04-03T12:33:58},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T12:38:58},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
