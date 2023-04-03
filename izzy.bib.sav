@@ -12791,7 +12791,118 @@ Also
   url              = {https://odimpact.org/case-united-kingdoms-ordnance-survey-opendata.html},
   comment          = {2016 report finding that the remit for OS to be self-financing clashes with the government's goal to open up more public sector data},
   creationdate     = {2023-04-03T13:11:14},
-  modificationdate = {2023-04-03T13:17:49},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T13:18:12},
+  owner            = {izzy_olivine},
+}
+
+@Online{DNF2011,
+  author           = {{DNF Expert Group}},
+  date             = {2011-10-13},
+  title            = {BCS announces new Linked Data geospatial group to further DNF principles},
+  url              = {https://web.archive.org/web/20160315011716/http://www.dnf.org/news/bcs_announces_new_linked_data_geospatial_group_to_further_dnf_principles/},
+  comment          = {One of the last posts on www.dnf.org in 2011 (the site was taken down in 2016). The next post is 
+
+BCS has announced the formation of a new Linked Data geospatial group to take forward the work of the DNF Expert Group. It has been formed as a sub-group of what was known as the Geospatial Specialist Group, which is now to be known as the Location Information Specialist Group (LISG).},
+  creationdate     = {2023-04-03T13:31:28},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T15:42:35},
+  owner            = {izzy_olivine},
+}
+
+@Online{DNF2010,
+  author           = {{DNF Expert Group}},
+  date             = {2010-02-04},
+  title            = {About {DNF}},
+  url              = {https://web.archive.org/web/20160315101405/http://www.dnf.org/about_DNF/},
+  urldate          = {2023-04-03},
+  comment          = {The DNF Vision
+Most organisations' business information can be associated with a location. The ability to combine or use different information based upon a common location, and to do this reliably and easily, is critical in solving regular business tasks.  The Digital National Framework provides technical methods and guidance to support these operations and is aligned with national strategies and international standards.  By adopting a set of principles and using best practice, such integration is independent of who is responsible for its maintenance and where the work is undertaken, thus achieving the goal of "plug and play"  information, essential in a world of web services.
+
+Ultimately this approach has the potential to evolve into a distributed network of information which, when brought together, can be used with assurance.  Business information can be shared in the knowledge that all users have the confidence that they are referring to the same location and object in the real world.
+
+DNF can be applied to many applications and is also a key requirement of the INSPIRE Directive and the implementation of the UK Location Strategy (UKLS).     
+
+The Digital National Framework is intended to be:
+1. Definitive maximising the benefits of definitive referencing
+
+DNF provides a framework using location as the common denominator.  It offers the ability to link information from multiple sources to a definitive location reference through unique identifiers
+2. Inclusive reflecting principles of industry best practice
+
+DNF is an open initiative taking input from a variety of interested parties. It encompasses proven and robust international standards. Although developed in the United Kingdom and Ireland, the DNF concept is transferable to other countries.
+3. Structured using effective techniques for a “create once, use many times” model
+
+DNF features are referenced through unique identifiers enabling explicit and unambiguous linking and exchange of information. DNF’s object-based approach means that data should be collected once, maintained at the most effective level of detail, and then reused in any way the user requires. It offers the ability to create a consistent and structured geographic data model to integrate information easily and reliably.
+4. Reliable delivering data integrity for underpinning critical business decisions
+
+DNF uses a consistent form of referencing to provide information integrity, such that information of all kinds can be used to link ifferent views of the world to a common base.   This provides for a high degree of data reliability and accuracy across a multitude of business applications. 
+5. Cost-effective lowering the costs of handling multi-source data
+
+The greater the take-up of DNF, the more significant the benefits will be for wider data sharing, thereby leading to lower data handling costs, ease of maintenance and the avoidance of duplicated effort.
+6. Flexible enabling information exchange and cross-business applications
+
+The DNF model enables the integration of information from vraried sources,  giving users the ability to share information in cross organisational applications.  It is then easier to associate data from all kinds of sources in a reliable way and to support information transfer in everything from street works and buried services to insurance and civil contingency.   
+The Five DNF Principles
+Guiding Principles of DNF
+Since its inception in 1999 following principles have been adopted:
+1. The concept and methods shall be driven by the strategic needs of the wider GI community and the needs of the information industry.
+
+the aim of DNF is to serve the wider community of information users using a common framework and approach.
+2. Data should be collected only once and then re-used.
+
+The aim is to avoid unnecessary duplication and confusion and thereby promote faster industry growth
+This in turn can enable a new range of applications based on definitive datasets that are proven, reliable, up to date and easy to use
+3. Reference information/data should be captured at the highest resolution whenever economically possible.
+
+Information reuse in a wide variety of applications is limited where data has been captured at low resolution
+This limits potential data sharing capabilities and downstream value
+4. Such information may then, where appropriate, subsequently be used to meet analysis and multi-resolution publishing requirements.
+
+Organisations that capture will invariably wish to publish this at the level of capture and at lower resolutions in one form of aggregated or generalised form
+5. DNF will incorporate and adopt existing de facto and de jure standards, wherever they are proven and robust.
+
+In common with the reuse principle any standard e.g., OGC, ISO etc should be adopted where it is shown to add value.
+"Hence DNF will foster an environment where users should not need to capture information that already exists. In future information can be reused and added together to form new datasets building on existing proven components."
+DNF White Paper, October 2004},
+  creationdate     = {2023-04-03T15:35:40},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T15:42:36},
+  owner            = {izzy_olivine},
+}
+
+@Online{BCS2015,
+  author           = {BCS},
+  date             = {2015-04-20},
+  title            = {Digital National Framework to be Incorporated in Open Address Initiative},
+  url              = {https://www.wired-gov.net/wg/news.nsf/articles/Digital+National+Framework+to+be+Incorporated+in+Open+Address+Initiative+20042015140500},
+  urldate          = {2023-04-03},
+  comment          = {Is address where DNF went to die - or be subsumed? Final mention online that I can find of DNF. A report saying that Jeni Tennison's Open Address project would take on DNF and apply it to address, hopefully using OS's recently released UPRN identifiers.
+
+Funding from Cabinet Office and BCS 
+
+``The DNF was created by a group of small and medium sized software companies including: 1Spatial, Dotted Eyes and Manchester Geomatics. Together they worked with Ordnance Survey and the British Geological Survey to define a framework for linking geospatial data which culminated in production of a number of specification and guidelines for best practice to link data''
+
+OS moved onto EU INSPIRE after this, I guess},
+  creationdate     = {2023-04-03T15:45:04},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T15:50:35},
+  owner            = {izzy_olivine},
+}
+
+@Report{INSPIRE2008,
+  author           = {{INSPIRE}},
+  date             = {2008-04-07},
+  institution      = {European Commission},
+  title            = {Methodology for the development of data specifications: baseline version (D 2.6, Version 3.0)},
+  url              = {https://inspire.ec.europa.eu/documents/methodology-development-data-specifications-baseline-version-d-26-version-30},
+  urldate          = {2023-04-03},
+  comment          = {This document contains the baseline version of the methodology for the development of INSPIRE data specifications
+
+The starting point for the development of INSPIRE data pecifications is the input delivered by the Legally Mandated Organisation LMOs and Spatial Data Interest Community SDICs with their reference material and domain knowledge
+
+Further and more specifically the foundation is formed by the internationally accepted standards reflecting the collective state-of-theart knowledge (such as the reference model described in ISO 19101)},
+  creationdate     = {2023-04-03T16:31:06},
+  modificationdate = {2023-04-03T16:35:16},
   owner            = {izzy_olivine},
 }
 
