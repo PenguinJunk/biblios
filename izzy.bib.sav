@@ -12702,6 +12702,8 @@ paradox of technology - rigid and customizable, product and process, engine and 
 
 Ultimately requires standards and calibration and the adapatations to it also require standards and calibration
 
+infrastructure is found to become such by its relationship to organised practices
+
 ``universal niche'' - one person's standard is another's chaos
 
 asks ``when is an infrastructure'' p112 - it is not possible to study the thing but the relationships with it p113
@@ -12736,7 +12738,7 @@ Fantastic typology of issues, also includes how to address these:
   - tool building and reward structure in scientific careers},
   creationdate     = {2023-04-02T12:09:56},
   keywords         = {infrastructure, digital, policy, transformation},
-  modificationdate = {2023-04-02T16:36:20},
+  modificationdate = {2023-04-03T20:33:09},
   owner            = {izzy_olivine},
 }
 
@@ -12906,7 +12908,8 @@ INSPIRE is a Directive proposed by the European Commission in July 2004 setting 
 
 INSPIRE will be based on the infrastructures for spatial information that are created and maintained by the Member States},
   creationdate     = {2023-04-03T16:31:06},
-  modificationdate = {2023-04-03T16:36:29},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T18:39:06},
   owner            = {izzy_olivine},
 }
 
@@ -12940,7 +12943,8 @@ common reference example is the use of DNF by NUAG (national undergroup asset gr
 
 footnote on page 21: ``DNF methods developed in Great Britain over the last 2-3 years, are aligned with and now support the INSPIRE Implement Rules''},
   creationdate     = {2023-04-03T17:35:49},
-  modificationdate = {2023-04-03T17:45:22},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T18:39:08},
   owner            = {izzy_olivine},
 }
 
@@ -12953,7 +12957,19 @@ footnote on page 21: ``DNF methods developed in Great Britain over the last 2-3 
 
 ``Ordnance Survey anticipates that Membership in OGC will help us to influence and anticipate software interface and component product design. This will help minimise the risk that geoprocessing software vendors' new products will fail to meet our requirements. It will also ensure that we take full advantage of geospatially related developments which are based on the most effective mainstream and emerging Information Technology''},
   creationdate     = {2023-04-03T18:18:10},
-  modificationdate = {2023-04-03T18:20:31},
+  keywords         = {infrastructure, digital, mapping, open data, policy},
+  modificationdate = {2023-04-03T18:39:10},
+  owner            = {izzy_olivine},
+}
+
+@Online{WIREDGOV2011,
+  author           = {{WIRED GOV}},
+  date             = {2011-05-12},
+  title            = {Ordnance Survey reaches INSPIRE milestone},
+  url              = {https://www.wired-gov.net/wg/wg-news-1.nsf/0/840375DAC94AFF978025788E002A16BB},
+  urldate          = {2023-04-04},
+  creationdate     = {2023-04-04T06:46:44},
+  modificationdate = {2023-04-04T06:48:52},
   owner            = {izzy_olivine},
 }
 
