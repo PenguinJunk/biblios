@@ -13127,4 +13127,22 @@ The breadth and number of data holders means there is an inherent fragmentation 
   owner            = {izzy_olivine},
 }
 
+@Article{OReilly2011,
+  author           = {Tim O'Reilly},
+  date             = {2011},
+  journaltitle     = {Innovations: Technology, Governance, Globalizatio},
+  title            = {Government as a Platform},
+  doi              = {10.1162/INOV_a_00056},
+  eprint           = {https://direct.mit.edu/itgg/article-pdf/6/1/13/1626142/inov_a_00056.pdf},
+  number           = {1},
+  pages            = {13--40},
+  url              = {https://direct.mit.edu/itgg/article/6/1/13/9649/Government-as-a-Platform},
+  volume           = {6},
+  comment          = {Unlike vending machine democracy (pay taxes, get services) in which our only participation when it goes wrong is protest use government as manager of marketplace - the Bizarre in Raymond1999},
+  creationdate     = {2023-04-04T18:02:09},
+  keywords         = {transformation, digital, policy},
+  modificationdate = {2023-04-04T18:06:56},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
