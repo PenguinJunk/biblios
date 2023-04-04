@@ -13138,10 +13138,50 @@ The breadth and number of data holders means there is an inherent fragmentation 
   pages            = {13--40},
   url              = {https://direct.mit.edu/itgg/article/6/1/13/9649/Government-as-a-Platform},
   volume           = {6},
-  comment          = {Unlike vending machine democracy (pay taxes, get services) in which our only participation when it goes wrong is protest use government as manager of marketplace - the Bizarre in Raymond1999},
+  comment          = {Unlike vending machine democracy (pay taxes, get services) in which our only participation when it goes wrong is protest use government as manager of marketplace - the Bizarre in Raymond1999
+
+a system in which all of the outcomes aren’t specified beforehand, but instead evolve through interactions between government and its citizens, as a service provider enabling its user community
+
+See also MargettsN2017},
   creationdate     = {2023-04-04T18:02:09},
   keywords         = {transformation, digital, policy},
-  modificationdate = {2023-04-04T18:06:56},
+  modificationdate = {2023-04-04T18:08:52},
+  owner            = {izzy_olivine},
+}
+
+@Online{Steiner2022,
+  author           = {Achim Steiner},
+  date             = {2022-09-23},
+  title            = {The Future of Digital Cooperation: Building resilience through safe, trusted, and inclusive digital public infrastructure},
+  url              = {https://www.undp.org/speeches/future-digital-cooperation-building-resilience-through-safe-trusted-and-inclusive-digital-public-infrastructure},
+  urldate          = {2023-04-03},
+  comment          = {DPI can ``accelerate action towards the Sustainable Development Goals''},
+  creationdate     = {2023-04-04T18:10:31},
+  keywords         = {digital, transformation, infrastructure},
+  modificationdate = {2023-04-04T18:12:05},
+  owner            = {izzy_olivine},
+}
+
+@Online{DesaiMMV2023,
+  author           = {Vyjayanti T. Desai and Jonathan Marskell and Georgina Marin and Minita Varghese},
+  date             = {2023-03-15},
+  title            = {How digital public infrastructure supports empowerment, inclusion, and resilience},
+  url              = {https://blogs.worldbank.org/digital-development/how-digital-public-infrastructure-supports-empowerment-inclusion-and-resilience},
+  urldate          = {2023-04-03},
+  comment          = {DPI supports empowerment, inclusion, and resilience},
+  creationdate     = {2023-04-04T18:12:57},
+  keywords         = {digital, transformation, infrastructure},
+  modificationdate = {2023-04-04T18:15:28},
+  owner            = {izzy_olivine},
+}
+
+@Online{MassallyS2022,
+  author           = {Keyzom Ngodup Massally and Devesh Sharma},
+  date             = {2022-09-21},
+  title            = {Digital public infrastructure can help solve global challenges. This is how to implement it},
+  url              = {https://www.weforum.org/agenda/2022/09/6-first-principles-for-making-digital-public-infrastructure-impactful/},
+  creationdate     = {2023-04-04T18:16:09},
+  modificationdate = {2023-04-04T18:17:01},
   owner            = {izzy_olivine},
 }
 
