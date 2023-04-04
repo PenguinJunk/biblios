@@ -12511,15 +12511,15 @@ The challenge for the future of spatial information is therefore to develop a vi
 OS MasterMap was launched in late 2001 and the DNF element then took a backseat - but within 2-3 years users were starting to use the methods outlined in the consultation papers.
 
 Gives case studies:
-- Atlantis - EA detailed river network developed by OSusing DNF model
-- Dudley council - property database which corss references base objects in the DNF
+- Atlantis - EA detailed river network developed by OS using DNF model
+- Dudley council - property database which cross references base objects in the DNF
 - National Access Land - definitive record of public access land after the 2000 countryside and rights of way act
 - INSPIRE - interoperable model across EU (2007)
 
 UK Location Strategy -  GI has to move into and support the mainstream information industry if it was to be taken seriously},
   creationdate     = {2023-04-01T13:09:35},
   keywords         = {infrastructure, digital, mapping, standards},
-  modificationdate = {2023-04-04T11:24:26},
+  modificationdate = {2023-04-04T18:56:25},
   owner            = {izzy_olivine},
 }
 
@@ -13180,8 +13180,76 @@ See also MargettsN2017},
   date             = {2022-09-21},
   title            = {Digital public infrastructure can help solve global challenges. This is how to implement it},
   url              = {https://www.weforum.org/agenda/2022/09/6-first-principles-for-making-digital-public-infrastructure-impactful/},
+  urldate          = {2023-04-03},
+  comment          = {DPI is crucial in addressing important global challenges such as climate change and the need for responsive and effective public finance},
   creationdate     = {2023-04-04T18:16:09},
-  modificationdate = {2023-04-04T18:17:01},
+  modificationdate = {2023-04-04T18:18:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{PSPublicTask2020,
+  author           = {{Ordnance Survey}},
+  date             = {2020},
+  title            = {Our public task},
+  url              = {https://www.ordnancesurvey.co.uk/governance/public-task},
+  urldate          = {2023-04-04},
+  comment          = {Lots of information about NGD
+
+Themes:
+- Addresses
+- Administrative and statistical units
+- Buildings
+- Geographical Names
+- Height
+- Imagery
+- Land Cover
+- Land Use
+- Structures
+- Transport Networks
+- Water},
+  creationdate     = {2023-04-04T18:33:53},
+  keywords         = {infrastructure, digital, mapping, policy, trust},
+  modificationdate = {2023-04-04T18:41:21},
+  owner            = {izzy_olivine},
+}
+
+@Online{OSNGDAPI2022,
+  author           = {{Ordnance Survey}},
+  date             = {2022},
+  title            = {OS NGD API – Features: Overview},
+  url              = {https://osdatahub.os.uk/docs/ofa/overview},
+  urldate          = {2023-04-04},
+  comment          = {Documentation for OS NGD API - Features},
+  creationdate     = {2023-04-04T18:38:04},
+  keywords         = {infrastructure, digital, mapping, policy, trust},
+  modificationdate = {2023-04-04T18:39:45},
+  owner            = {izzy_olivine},
+}
+
+@Report{UN2020DPG,
+  author           = {{UN}},
+  date             = {2020},
+  institution      = {United Nations},
+  title            = {Report of the Secretary-General Roadmap for Digital Cooperation},
+  eprint           = {https://www.un.org/en/content/digital-cooperation-roadmap/assets/pdf/Roadmap_for_Digital_Cooperation_EN.pdf},
+  url              = {https://www.codevelop.fund/explaining-co-develops-definition-of-dpi},
+  urldate          = {2023-04-04},
+  comment          = {defines Digital Public Goods DPGs as open-source software, open data, open artificial intelligence models, open standards and open content that adhere to privacy and other applicable international and domestic laws, standards and best practices and do no harm
+
+Also a section on AI and other digital stuff
+
+Areas for action
+ACHIEVING UNIVERSAL CONNECTIVITY BY 2030
+PROMOTING DIGITAL PUBLIC GOODS TO CREATE A MORE EQUITABLE WORLD
+ENSURING DIGITAL INCLUSION FOR ALL, INCLUDING THE MOST VULNERABLE
+STRENGTHENING DIGITAL CAPACITY-BUILDING
+ENSURING THE PROTECTION OF HUMAN RIGHTS IN THE DIGITAL ERA
+SUPPORTING GLOBAL COOPERATION ON ARTIFICIAL INTELLIGENCE
+PROMOTING TRUST AND SECURITY IN THE DIGITAL ENVIRONMENT
+BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
+  creationdate     = {2023-04-04T20:30:22},
+  keywords         = {infrastructure, digital, open data, policy, platform},
+  modificationdate = {2023-04-04T20:40:44},
   owner            = {izzy_olivine},
 }
 
