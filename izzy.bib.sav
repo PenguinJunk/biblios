@@ -13009,13 +13009,32 @@ use cases:
   owner            = {izzy_olivine},
 }
 
-@Report{,
+@Report{OxfordEconomics2018,
+  author           = {{Oxford Economics}},
+  date             = {2018},
   institution      = {Rail Industry Association},
-  title            = {The Economic Contribution of UK Rail},
+  title            = {The Economic Contribution of UK Rail 2018},
   url              = {https://www.riagb.org.uk/RIA/Newsroom/Publications Folder/Oxford_Economics.aspx},
+  comment          = {Contributes over £36bn annually to the UK economy (a greater economic impact than the food, drink and tobacco manufacturing and the chemical and pharmaceutical industries);
+
+Provides around 600,000 jobs (employing more people than the entire workforce of Birmingham);
+
+Generates £11bn annually in tax revenue; and
+
+Generates £2.20 of income from every £1 spent on the rail network.},
   creationdate     = {2023-04-04T10:38:56},
-  keywords         = {infrastructure, economy,},
-  modificationdate = {2023-04-04T10:40:33},
+  keywords         = {infrastructure, economy, policy},
+  modificationdate = {2023-04-04T10:42:30},
+  owner            = {izzy_olivine},
+}
+
+@Online{ODCGeoconnexion2015,
+  author           = {{OGC}},
+  date             = {2015-06-25},
+  title            = {Ordnance Survey becomes a Strategic Member of the Open Geospatial Consortium},
+  url              = {https://www.geoconnexion.com/publication-articles/ordnance-survey-becomes-a-strategic-member-of-the-open-geospatial-consortium},
+  creationdate     = {2023-04-04T11:19:49},
+  modificationdate = {2023-04-04T11:21:29},
   owner            = {izzy_olivine},
 }
 
