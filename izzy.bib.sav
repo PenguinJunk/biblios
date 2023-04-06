@@ -9346,6 +9346,8 @@ Evaluation layers:
 
 Held a public value workshop at BBC of 13 stakeholders 
 
+Refers to allocative efficiency SongS2018
+
 Societal value includes informing as part of democratic process, representation of different cultures etc.
 
 Industry value, especially Creative industries, de-risking and
@@ -9396,7 +9398,7 @@ Next steps:
 - Feed early feedback from tests into the mid-term review},
   creationdate     = {2023-03-04T14:14:31},
   keywords         = {value, economics, policy, bureaucracy},
-  modificationdate = {2023-03-05T09:58:31},
+  modificationdate = {2023-04-06T16:13:49},
   owner            = {ISargent},
 }
 
@@ -13142,10 +13144,12 @@ The breadth and number of data holders means there is an inherent fragmentation 
 
 a system in which all of the outcomes aren’t specified beforehand, but instead evolve through interactions between government and its citizens, as a service provider enabling its user community
 
-See also MargettsN2017},
+See also MargettsN2017
+
+Gaap},
   creationdate     = {2023-04-04T18:02:09},
   keywords         = {transformation, digital, policy},
-  modificationdate = {2023-04-04T18:08:52},
+  modificationdate = {2023-04-04T20:43:02},
   owner            = {izzy_olivine},
 }
 
@@ -13250,6 +13254,54 @@ BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
   creationdate     = {2023-04-04T20:30:22},
   keywords         = {infrastructure, digital, open data, policy, platform},
   modificationdate = {2023-04-04T20:40:44},
+  owner            = {izzy_olivine},
+}
+
+@Article{SongS2018,
+  author           = {Ligang Song and Ch\'{e}rie Simpson},
+  date             = {2018},
+  journaltitle     = {Asia Pacific Policy Studies},
+  title            = {Linking “adaptive efficiency” with the basic market functions: A new analytical perspective for institution and policy analysis},
+  doi              = {10.1002/app5.249},
+  pages            = {544--557},
+  volume           = {5},
+  comment          = {Markets are not just allocative, they also have discovery and creative functions
+
+They are not self‐creating, self‐regulating, self‐stabilising, or
+self‐legitimising (Rodrik, 2007). This requires incentive structures, enforcement mechanisms, institutions (formal and informal), and the state
+
+Developed from (North, 2005, p. 169): adaptive efficiency is redefined as an ongoing condition of innovation and modification in which the market, through the allocative, discovery and creative functions, responds to the incentive structures that confront choice‐makers, utilises localised information, and exploits the creative potential of man to provide solutions to problems and novel situations as they arise.
+
+Definitely needs re-reading in relation to organisations and institutions and how people work together to create good outcomes (deliberation as a market?) 
+
+develops a new perspective linking the concept of “adaptive efficiency” with the allocative, discovery and creative functions of the market from an institutional perspective
+
+referenced in MazzucatoCMKA2020
+
+Understanding the functions of the market in the context of the dynamics of institutional change first requires a perspective that recognises the cumulative and persistent effects of history on the present, as well as the indeterminacy and unknowability of a future that “is in construction, a construction that is going on in all existing activities” (Prigogine, 1985, p. 117)
+
+incorporates the concept of uncertainty introduced by Frank Knight and recognises the deficiency of the assumptions of the neoclassical model when applied to a complex and uncertain reality (Knight, 1921)
+
+also identify the mechanisms that efficiently communicate knowledge among individuals who possess incomplete and imperfect information (Hayek, 1945) and motivate the creative, innovative, and imaginative capacity of individuals
+
+coordinating dispersed knowledge is a central organisation problem (Hayek)
+
+theory of dynamic change is necessary
+
+freedom to fail is vital
+
+willingness in society to undertake risk
+
+adaptive behaviour, evolution towards Nash equilibria not necessarily a predetermined goal
+
+institutional change is incremental and path dependent
+
+discussion of morality - ideally entrepreneurs will have propriety but if not, property needs to be stabilised, respected and protected (unlike leading up to 2007-8 financial crisis).
+
+Public policy should be driven by adaptive efficiency, not allocative efficiency. Washington Consensus failed because of different societies: institutional structures, cultures, histories},
+  creationdate     = {2023-04-06T16:05:35},
+  keywords         = {institution, bureaucracy, economics, policy},
+  modificationdate = {2023-04-06T16:35:53},
   owner            = {izzy_olivine},
 }
 
