@@ -13354,12 +13354,12 @@ Attitude that bugs are inevitable reduces accountability},
 Simplicity - does it do one thing and do it well?
 Clear scope - it should be clear where something fits in the overall `civic stack' and if it is designed for use by a single public institution, or by wider society.
 Ongoing development - does it have a team and funding in place to continuously improve it?
-Ease of use - can it be used `as is' or does it require customisation? Doers it have well designed documentation and open-source code libraries (in addition to the core piece of software)?
+Ease of use - can it be used `as is' or does it require customisation? Does it have well designed documentation and open-source code libraries (in addition to the core piece of software)?
 Solves a common need - is it meeting a genuine need for multiple use cases, and is there evidence for it?
 Governance model - does it have a decision-making process that represents the interests of all users not just a single organisation?},
   creationdate     = {2023-04-07T17:22:49},
   keywords         = {infrastructure, digital, transformation},
-  modificationdate = {2023-04-07T17:29:14},
+  modificationdate = {2023-04-07T17:29:28},
   owner            = {izzy_olivine},
 }
 
@@ -13391,6 +13391,21 @@ I argue that the community that is building around digital public goods should a
   creationdate     = {2023-04-07T17:26:45},
   keywords         = {digital, transformation, infrastructure},
   modificationdate = {2023-04-07T17:28:27},
+  owner            = {izzy_olivine},
+}
+
+@Online{MannMRSC2021,
+  author           = {Robin Mann and Rajive Mathur and Dave Rogers and James Stewart and Miguel Carrasco},
+  date             = {2021-08-30},
+  title            = {Fixing Digital Funding in Government},
+  url              = {https://www.bcg.com/publications/2021/fixing-digital-funding-in-government},
+  urldate          = {2023-04-07},
+  comment          = {Piece about how funding needs to be reformed to match agile practice
+
+Governments cannot engage effectively in digital transformation without addressing funding reform.},
+  creationdate     = {2023-04-07T17:34:30},
+  keywords         = {digital, transformation, finance, government},
+  modificationdate = {2023-04-07T17:36:57},
   owner            = {izzy_olivine},
 }
 
