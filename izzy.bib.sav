@@ -13305,8 +13305,9 @@ Public policy should be driven by adaptive efficiency, not allocative efficiency
   owner            = {izzy_olivine},
 }
 
-@Article{,
-  author           = {Nissenbaum, H.},
+@Article{Nissenbaum1996,
+  author           = {Nissenbaum, Helen},
+  date             = {1996},
   journaltitle     = {Science and Engineering Ethics},
   title            = {Accountability in a Computerized Society},
   doi              = {10.1007/BF02639315},
@@ -13337,9 +13338,60 @@ Many hands example is Therac-25 radiation treatment machine that massively overd
 Attitude that bugs are inevitable reduces accountability},
   creationdate     = {2023-04-07T17:15:54},
   keywords         = {trust, transformation, digital},
-  modificationdate = {2023-04-07T17:17:57},
+  modificationdate = {2023-04-07T17:18:30},
   owner            = {izzy_olivine},
   year             = {1996},
+}
+
+@Online{Pope2021DPG,
+  author           = {Richard Pope},
+  date             = {2021-07-05},
+  title            = {Digital public goods as infrastructure: government as a platform for all?},
+  url              = {https://medium.com/digital-public-infrastructure/digital-public-goods-as-infrastructure-government-as-a-platform-for-all-c7bc14cbf0b7},
+  urldate          = {2023-04-07},
+  comment          = {Here’s a non-exhaustive list of things that those backing digital public goods as infrastructure should think about when identifying good platforms.
+
+Simplicity - does it do one thing and do it well?
+Clear scope - it should be clear where something fits in the overall `civic stack' and if it is designed for use by a single public institution, or by wider society.
+Ongoing development - does it have a team and funding in place to continuously improve it?
+Ease of use - can it be used `as is' or does it require customisation? Doers it have well designed documentation and open-source code libraries (in addition to the core piece of software)?
+Solves a common need - is it meeting a genuine need for multiple use cases, and is there evidence for it?
+Governance model - does it have a decision-making process that represents the interests of all users not just a single organisation?},
+  creationdate     = {2023-04-07T17:22:49},
+  keywords         = {infrastructure, digital, transformation},
+  modificationdate = {2023-04-07T17:29:14},
+  owner            = {izzy_olivine},
+}
+
+@Online{Pope2021Institutions,
+  author           = {Richard Pope},
+  date             = {2021-08-01},
+  title            = {Institutions for the long-term},
+  url              = {https://medium.com/digital-public-infrastructure/institutions-for-the-long-term-d1323853936},
+  urldate          = {2023-04-07},
+  comment          = {A good analogy might be to Trinity House which for over 500 years has been responsible for maritime safety in England’s coastal waters, including navigation aids, maritime radio/satellite communication systems, and education. It’s not part of government -- it is an independent charity with a clear mission, paid for through a mix of fees paid by commercial vessels and an endowment. Oversight is provided by a court of thirty-one people, drawn from a wider group of lay people with marine experience. This shared infrastructure supports not only commercial operations, but also the business of government. The organisation does one thing and is funded to do so for the long-term...By systematically publishing information about how they work and how they are changing, digital public goods could enable scrutiny and reduce some of the risks associated with digital infrastructure},
+  creationdate     = {2023-04-07T17:24:43},
+  keywords         = {digital, transformation, infrastructure},
+  modificationdate = {2023-04-07T17:28:38},
+  owner            = {izzy_olivine},
+}
+
+@Online{Pope2021Infrastructure,
+  author           = {Richard Pope},
+  date             = {2021-08-03},
+  title            = {Building public services with digital public goods},
+  url              = {https://medium.com/digital-public-infrastructure/building-public-services-with-digital-public-goods-4357946272d5},
+  urldate          = {2023-04-07},
+  comment          = {Why build infrastructure? Answer: to enable other things to be built with it that meet the needs of the public in some way or another.
+
+Thinking about building public services from (or is it `on top of'? Or `with'?) digital infrastructure means thinking about the experience of building those services and the nature of the services that can be built. 
+
+enabling local variation
+I argue that the community that is building around digital public goods should actually double down on the focus on infrastructure, even if it means less software carrying the label of ‘digital public goods’. Digital public goods should become synonymous with infrastructure.},
+  creationdate     = {2023-04-07T17:26:45},
+  keywords         = {digital, transformation, infrastructure},
+  modificationdate = {2023-04-07T17:28:27},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
