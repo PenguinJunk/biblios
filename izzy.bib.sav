@@ -13268,8 +13268,7 @@ BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
   volume           = {5},
   comment          = {Markets are not just allocative, they also have discovery and creative functions
 
-They are not self‐creating, self‐regulating, self‐stabilising, or
-self‐legitimising (Rodrik, 2007). This requires incentive structures, enforcement mechanisms, institutions (formal and informal), and the state
+They are not self‐creating, self‐regulating, self‐stabilising, or self‐legitimising (Rodrik, 2007). This requires incentive structures, enforcement mechanisms, institutions (formal and informal), and the state
 
 Developed from (North, 2005, p. 169): adaptive efficiency is redefined as an ongoing condition of innovation and modification in which the market, through the allocative, discovery and creative functions, responds to the incentive structures that confront choice‐makers, utilises localised information, and exploits the creative potential of man to provide solutions to problems and novel situations as they arise.
 
@@ -13302,8 +13301,45 @@ discussion of morality - ideally entrepreneurs will have propriety but if not, p
 Public policy should be driven by adaptive efficiency, not allocative efficiency. Washington Consensus failed because of different societies: institutional structures, cultures, histories},
   creationdate     = {2023-04-06T16:05:35},
   keywords         = {institution, bureaucracy, economics, policy},
-  modificationdate = {2023-04-06T16:37:37},
+  modificationdate = {2023-04-07T09:06:31},
   owner            = {izzy_olivine},
+}
+
+@Article{,
+  author           = {Nissenbaum, H.},
+  journaltitle     = {Science and Engineering Ethics},
+  title            = {Accountability in a Computerized Society},
+  doi              = {10.1007/BF02639315},
+  issue            = {1},
+  pages            = {25--42},
+  volume           = {2},
+  comment          = {Two concerns:
+1. Achieving a degree of reliability and safety of systems
+2. Achieving a robust culture of accountability for impacts of systems
+The second is of greater concern and least addressed
+
+Joel Feinberg on moral blame (not identical to accountability but correspondent)
+A person is morally blameworthy if a) their actions caused harm or significantly contributed to it and b) their actions were ``faulty''
+
+Faulty can be decisions or intentions:
+- Intention to harm
+- Recklessness in foreseeing harm but taking no action
+- Negligence in considering probable harmful consequences
+
+Four barriers to accountability 
+1. The problem of many hands
+2. The problem of bugs
+3. Blaming the computer
+4. Software ownership without liability
+
+Many hands example is Therac-25 radiation treatment machine that massively overdosed patients
+
+Attitude that bugs are inevitable reduces accountability},
+  creationdate     = {2023-04-07T17:15:54},
+  keywords         = {trust, transformation, digital},
+  modificationdate = {2023-04-07T17:17:57},
+  owner            = {izzy_olivine},
+  year             = {1996},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
