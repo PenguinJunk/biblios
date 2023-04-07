@@ -13264,6 +13264,7 @@ BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
   title            = {Linking “adaptive efficiency” with the basic market functions: A new analytical perspective for institution and policy analysis},
   doi              = {10.1002/app5.249},
   pages            = {544--557},
+  url              = {https://onlinelibrary.wiley.com/doi/10.1002/app5.249},
   volume           = {5},
   comment          = {Markets are not just allocative, they also have discovery and creative functions
 
@@ -13301,7 +13302,7 @@ discussion of morality - ideally entrepreneurs will have propriety but if not, p
 Public policy should be driven by adaptive efficiency, not allocative efficiency. Washington Consensus failed because of different societies: institutional structures, cultures, histories},
   creationdate     = {2023-04-06T16:05:35},
   keywords         = {institution, bureaucracy, economics, policy},
-  modificationdate = {2023-04-06T16:35:53},
+  modificationdate = {2023-04-06T16:37:37},
   owner            = {izzy_olivine},
 }
 
