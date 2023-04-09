@@ -9421,16 +9421,49 @@ Next steps:
   date             = {2023},
   title            = {Agile Stability in the Post-Second World War Era},
   chapter          = {4},
-  comment          = {Weiss argues that dominant focus of the US federal technology and innovation policies has been on technology leadership `in order to sustain US military-political primacy, not to achieve commercial advantage' - national identity building
+  comment          = {``US federal government took a more central
+role in steering and directing innovation ... about half of the public investments go into the military sector and half into the civilian sector, and of the civilian research only a small minority is funded on the basis of the linear or diffusion-oriented model, while the majority is funded to tackle the specific challenges of mission-oriented agencies (health, environment, energy, etc.)'' p97
+
+Before second world war there was more borroing from Germany and UK p98
+
+WWII therefore played role in establishment of research laboratories leading to parallel systems: ``the more politically legitimate military mission-oriented system (Weiss) and the less politically legitimate and more hidden generic economic growth and diffusion-oriented innovation system (Block and Keller) which have over time become increasingly interlinked p99
+
+Weiss argues that dominant focus of the US federal technology and innovation policies has been on technology leadership `in order to sustain US military-political primacy, not to achieve commercial advantage' - national identity building
 
 Innovation bureaucracy, self organising
 
-Focus on impact not risk - DARPA projects are selected and evaluated
-on what impact they could make on achieving a demanding
-capability or challenge.},
+Examples of different dynamic organisations within the US innovation bureaucracy p101-2, 108-12
+
+DARPA evolved into an agile funder and intermediary rather than a doer or creator p103
+
+Bonvillian identifies unique routines p104-5:
+- small and flexible (only 100 programme managers)
+- flat (non-hierachical)
+- entrepreneurial (managers selected for industry/academic experience on 3-4 year terms)
+- no laboratories
+- Focus on impact not risk - DARPA projects are selected and evaluated on what impact they could make on achieving a demanding capability or challenge
+- seed and scale (initial short terms funding that can scale or terminate)
+- autonomy and freedom from bureaucratic impediments
+- hybrid model (innovative firms and university researchers)
+- teams and networks
+- acceptance of failure
+- orientation to revolutionary breakthroughs in a connected approach
+
+Majority of research in US and Europe is funded by private sector (except Netherlands) p106
+
+German science gained most from Marshall plan p107
+
+Demise of mission-oriented policies and industrial planning due to emergence of EEC p112
+
+Discussion of East Asia: Korea, Taiwan, SIngapore, Japan
+Also Israel p113-6
+
+Japan - MITI - movement of staff between here and other organisations which resulted in spread of ideas e.g. setting policy p116-7
+
+South Korea, President Park identified need for explicit focus on local technological capability as US aid was declining p119},
   creationdate     = {2023-03-04T17:31:00},
-  keywords         = {economics, policy, bureaucracy},
-  modificationdate = {2023-03-04T21:52:52},
+  keywords         = {economics, policy, bureaucracy, science, budget},
+  modificationdate = {2023-04-09T16:39:19},
   owner            = {ISargent},
 }
 
@@ -13402,10 +13435,18 @@ I argue that the community that is building around digital public goods should a
   urldate          = {2023-04-07},
   comment          = {Piece about how funding needs to be reformed to match agile practice
 
-Governments cannot engage effectively in digital transformation without addressing funding reform.},
+Governments cannot engage effectively in digital transformation without addressing funding reform.
+
+Fund less, but fund more often
+
+Announce more achievements and fewer intentions
+
+Regularly review every part of the budget
+
+Fund persistent, mission-centered, multidisciplinary teams},
   creationdate     = {2023-04-07T17:34:30},
-  keywords         = {digital, transformation, finance, government},
-  modificationdate = {2023-04-07T17:36:57},
+  keywords         = {digital, transformation, budget, government, policy},
+  modificationdate = {2023-04-07T17:40:00},
   owner            = {izzy_olivine},
 }
 
