@@ -13515,4 +13515,24 @@ Basic principles:
   owner            = {izzy_olivine},
 }
 
+@Online{UKGov2012,
+  author           = {{Cabinet Office} and {Central Digital \& Data Office}},
+  date             = {2012-11-06},
+  title            = {Digital Efficiency Report},
+  url              = {https://www.gov.uk/government/publications/digital-efficiency-report/digital-efficiency-report},
+  organization     = {Cabinet Office and Central Digital \& Data Office,UK Government},
+  urldate          = {2023-04-10},
+  comment          = {Report into the savings that could be made with digital transformation of government
+
+£1.7-1.8 billion savings fro 4 key areas:
+- reduced staff time
+- estates and accommodation
+- postage, packaging and materials
+- costs of supporting IT systems},
+  creationdate     = {2023-04-10T11:48:04},
+  keywords         = {digital, transformation, budget},
+  modificationdate = {2023-04-10T11:54:06},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
