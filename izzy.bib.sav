@@ -13488,7 +13488,30 @@ Referendums must have preceding phase of deliberation and 60\% confirmatory requ
 
 Not hopeful that this can happen because encumbants are benefiting form current system},
   creationdate     = {2023-04-10T11:10:35},
-  modificationdate = {2023-04-10T11:32:28},
+  keywords         = {bureaucracy, democracy, participatory, transformation},
+  modificationdate = {2023-04-10T11:32:52},
+  owner            = {izzy_olivine},
+}
+
+@Booklet{CarnahanHJ2019,
+  author           = {Robin Carnahan and Randy Hart and Waldo Jaquith},
+  date             = {2019},
+  title            = {State Software Budgeting Handbook: De-risking customtechnology projects},
+  eprint           = {https://derisking-guide.18f.gov/assets/state-software-budgeting-handbook-4a5d55baf7731eac3c823e08c87d773058535ec05fd73f8dfb3b748acdbcac04.pdf},
+  url              = {https://derisking-guide.18f.gov/state-field-guide/},
+  comment          = {Seems pretty useful for avoiding pitfalls of large digital projects such as vendor buy-in, modernising legacy systems, budget cycles that don't match Agile approaches
+
+Basic principles:
+- User-centered design
+- Agile software development
+- Product ownership
+- DevOps
+- Building with loosely coupled parts
+- Modular contracting},
+  creationdate     = {2023-04-10T11:37:49},
+  institution      = {18F},
+  keywords         = {digital, transformation, budget, government},
+  modificationdate = {2023-04-10T11:43:40},
   owner            = {izzy_olivine},
 }
 
