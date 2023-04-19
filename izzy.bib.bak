@@ -13602,8 +13602,48 @@ All are far from perfect
 
 ``The 2024 elections could be unlike anything we have seen before''},
   creationdate     = {2023-04-19T06:37:31},
-  keywords         = {AI},
-  modificationdate = {2023-04-19T06:51:16},
+  keywords         = {AI, trust},
+  modificationdate = {2023-04-19T06:51:21},
+  owner            = {ISargent},
+}
+
+@Article{MazzucatoS2017,
+  author           = {Mariana Mazzucato and Gregor Semieniuk},
+  date             = {2017},
+  journaltitle     = {Oxford Review of Economic Policy},
+  title            = {Public financing of innovation: new questions},
+  eprint           = {https://discovery.ucl.ac.uk/id/eprint/1553082/1/Mazzucato_grw036.pdf},
+  number           = {1},
+  pages            = {24--48},
+  url              = {https://academic.oup.com/oxrep/article/33/1/24/2972707},
+  volume           = {33},
+  comment          = {Innovation is highly uncertain, has long lead times, is collective and cumulative - finance must be 
+- willing to bear high risks
+- patient
+- from a variety of public and private sources
+
+Private sector increasingly financialised
+
+Type of finance that innovators receive is not neutral
+
+Grand challenges need transformative innovation is there the finance for this?
+
+Investment is needed for supply (research and innovation) and demand (deployment and diffusion)
+
+Despite story told by nc economic theory, the evidence is that it is the state that has been responsible for the shaping of markets.
+
+``missions are about the creation of new markets'' - fully divorced from market fixing
+
+demonstrate how market failure framework is limited in some detail including aspects of Mazzucate2013
+
+Dynamic, not static, economics - Schumpeter
+
+Two frameworks:
+- mission-oriented innovation policy
+- the entrepreneurial state - recognises importance of state, risk aversion of private sector},
+  creationdate     = {2023-04-19T07:04:00},
+  keywords         = {economics, innovation, policy, missions},
+  modificationdate = {2023-04-19T09:01:47},
   owner            = {ISargent},
 }
 
