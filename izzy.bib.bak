@@ -13573,4 +13573,38 @@ Author does not work in AI, he is a ``marketing professional''},
   owner            = {ISargent},
 }
 
+@Online{Marcus2023,
+  author           = {Gary Marcus},
+  date             = {2023-03-17},
+  title            = {Why Are We Letting the AI Crisis Just Happen?},
+  url              = {https://www.theatlantic.com/technology/archive/2023/03/ai-chatbots-large-language-model-misinformation/673376/},
+  urldate          = {2023-04-19},
+  comment          = {Bad actors like far-right christians are using AI
+
+Also AIs over-generalise causing ``hallucinations'' such as Elon Musk died in a car crash in 2018
+
+Racial biases
+
+Ability to provide detailed and authentic science-style articles about things such as eating crushed glass and the advantages of anti-semitism
+
+State sponsored troll farms
+
+Supply of misinformation could soon be infinite
+
+The Russian ``Firehose of Falsehood''
+
+Possible ways to address this:
+1. Watermarking generated output
+2. Penalise misinformation when produced at large scale
+3. Train AI to detect misinformation
+
+All are far from perfect
+
+``The 2024 elections could be unlike anything we have seen before''},
+  creationdate     = {2023-04-19T06:37:31},
+  keywords         = {AI},
+  modificationdate = {2023-04-19T06:51:16},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
