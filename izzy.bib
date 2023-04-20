@@ -1405,11 +1405,12 @@ Whilst this is aimed at reinforcement learning, its an intuitive endorsement of 
   date             = {2022},
   title            = {Scale Efficiently: Insights from Pretraining and Finetuning Transformers},
   url              = {https://openreview.net/forum?id=f2OYVDyfIB},
-  comment          = {There should be more studies that analyse the outcomes of checkpoints from multiple of trained models, including across our's model zoo. This work is a sweep across the machine learning community to distill insights into language transformers. From over 100 checkpoints, they found that it remains difficult to determine downstream performance from pretraining parameters and that the most important `knob` (hyperparameter?) for performance seems to be depth, with deep-narrow models being more pareto-optimal.},
-  comments         = {Poster From <https://iclr.cc/virtual/2022/poster/5960> Hyperparameter sweep from the community - over 100 checkpoints - to distil insights into transformers (language). I like this work, there should be more sweeps across the community to gain insights into different approaches. Three key findings: 1. There's a gap between pretraining and finetuning. Upstream - the upstream perplexity scales with number of parameters but downstream it is hard to predict the accuracy from the number of parameters 2. Depth has a huge impact on performance but other 'knobs' don't do much 3. Existing models tend to not be pareto-optimal, although deep-narrow seem to be better.},
+  comment          = {There should be more studies that analyse the outcomes of checkpoints from multiple of trained models, including across our model zoo. This work is a sweep across the machine learning community to distill insights into language transformers. From over 100 checkpoints, they found that it remains difficult to determine downstream performance from pretraining parameters and that the most important `knob` (hyperparameter?) for performance seems to be depth, with deep-narrow models being more pareto-optimal. 
+
+Poster From \url{https://iclr.cc/virtual/2022/poster/5960} Hyperparameter sweep from the community - over 100 checkpoints - to distil insights into transformers (language). I like this work, there should be more sweeps across the community to gain insights into different approaches. Three key findings: 1. There's a gap between pretraining and finetuning. Upstream - the upstream perplexity scales with number of parameters but downstream it is hard to predict the accuracy from the number of parameters 2. Depth has a huge impact on performance but other 'knobs' don't do much 3. Existing models tend to not be pareto-optimal, although deep-narrow seem to be better.},
   creationdate     = {2022-05-08T15:25:21},
   keywords         = {transformers, pretraining, finetuning, NLP, algorithm analysis, transfer learning},
-  modificationdate = {2022-06-28T20:52:09},
+  modificationdate = {2023-04-20T09:40:53},
   owner            = {ISargent},
 }
 
