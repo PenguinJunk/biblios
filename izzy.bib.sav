@@ -13744,8 +13744,15 @@ CCUS, nuclear, EVs play a huge role in this report
 
 Additional stuff on \urel{https://twitter.com/CSkidmoreUK}},
   creationdate     = {2023-05-01T13:45:55},
-  keywords         = {climate, transition, metrics},
-  modificationdate = {2023-05-01T15:07:18},
+  keywords         = {climate, transition, metrics, innovation},
+  modificationdate = {2023-05-01T15:07:23},
+  owner            = {izzy_olivine},
+}
+
+@Report{McCulloughNJEGT2022,
+  title            = {The Role of Transition Plans in the {UK's} Pathway to Net Zero: Final Technical Report},
+  creationdate     = {2023-05-01T15:08:11},
+  modificationdate = {2023-05-01T15:09:04},
   owner            = {izzy_olivine},
 }
 
