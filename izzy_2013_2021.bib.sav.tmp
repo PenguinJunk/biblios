@@ -11029,19 +11029,20 @@ Found that no one measure defines sprawl and that the measures can be used to ch
 }
 
 @InProceedings{PerelloNietoFKF2016,
-  author    = {Perello-Nieto, Miquel and Filho, Telmo De Menezes E Silva and Kull, Meelis and Flach, Peter},
-  booktitle = {2016 IEEE 16th International Conference on Data Mining (ICDM)},
-  title     = {Background Check: A General Technique to Build More Reliable and Versatile Classifiers},
-  doi       = {10.1109/ICDM.2016.0150},
-  pages     = {1143-1148},
-  url       = {https://ieeexplore.ieee.org/document/7837963},
-  comment   = {View paper at https://research-information.bris.ac.uk/ws/portalfiles/portal/92014727/Peter_Flach_Background_Check_A_general_technique_to_build_more_reliable_and_versatile_classifiers.pdf
+  author           = {Perello-Nieto, Miquel and Filho, Telmo De Menezes E Silva and Kull, Meelis and Flach, Peter},
+  booktitle        = {2016 IEEE 16th International Conference on Data Mining (ICDM)},
+  title            = {Background Check: A General Technique to Build More Reliable and Versatile Classifiers},
+  doi              = {10.1109/ICDM.2016.0150},
+  pages            = {1143-1148},
+  url              = {https://ieeexplore.ieee.org/document/7837963},
+  comment          = {View paper at \url{https://research-information.bris.ac.uk/ws/portalfiles/portal/92014727/Peter_Flach_Background_Check_A_general_technique_to_build_more_reliable_and_versatile_classifiers.pdf}
 
 My adding in a 'background' class - which has higher likelihood outside of the region occupied by the data - it is possible to prevent a model from being overconfident and extrapolating answers where the model cannot make a confident judgement.},
-  keywords  = {machine learning, extrapolation, quality},
-  owner     = {ISargent},
-  creationdate = {2021-04-21},
-  year      = {2016},
+  creationdate     = {2021-04-21},
+  keywords         = {machine learning, extrapolation, quality},
+  modificationdate = {2023-05-04T10:58:59},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Article{SeresinhePM2017,
@@ -13050,6 +13051,4 @@ Spatial- (depth-wise - kernel over space) and channel-wise (point-wise - 1x1 con
 Really easy implementation - including a 280 character implementation for twitter!
 
 See also https://www.youtube.com/watch?v=Gl0s0GDqN3c},
-  keywords  = {image machine learning, convolutional neural networks, architecture, training},
-  owner     = {ISargent},
-  creationdat
+  keywords 
