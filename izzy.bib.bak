@@ -13780,8 +13780,8 @@ Worth returning to for
 - barriers and constraints to transition in different sectors (table 6)
 - possible research opportunities table 20},
   creationdate     = {2023-05-01T15:08:11},
-  keywords         = {climate, business, transition},
-  modificationdate = {2023-05-01T15:12:03},
+  keywords         = {climate, business, transition, business decisions},
+  modificationdate = {2023-05-16T16:19:47},
   owner            = {izzy_olivine},
 }
 
@@ -13937,10 +13937,19 @@ Themes:
 - Sustainable Decision Making Means Translating between Heterogeneous Disciplines, Communities, and Stakeholders - systems and interpersonal are dominant because part of a system and need to communicate decisions
 - Extrapolating Knowledge among Systems, Time Scales, and Ontological Levels - entire system not details, multiple time scales in sustainable development and climate change that can lead to overestimation and underestimation, and further on to misleading solutions in communication
 - Dealing with Uncertainty - increasing change, fundamental uncertainties grow, trust becomes more important, not guided by strong emotions, making the necessary possible
-- Building Resilience - professional, optimistic},
+- Building Resilience - professional, optimistic
+
+Aspects of sustainability competencies which are particularly important for decision makers:
+- Systemic Interdisciplinary Thinking
+  - Private- vs. Public-Sphere Decisions
+  - Taking a Macroscopic Standpoint
+  - Understanding the System Effect behind Many Individual Systems
+- Building Resilience
+- Following Own Values
+- Teamwork and Diverse Stakeholder Management},
   creationdate     = {2023-05-16T15:33:51},
   keywords         = {business decisions, environment},
-  modificationdate = {2023-05-16T16:08:55},
+  modificationdate = {2023-05-16T16:16:21},
   owner            = {ISargent},
 }
 
