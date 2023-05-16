@@ -13831,4 +13831,69 @@ The main decision-making theories are:
   owner            = {ISargent},
 }
 
+@Online{Gordon2022,
+  author           = {Jason Gordon},
+  date             = {2022-04-22},
+  title            = {What is Decision Theory?},
+  url              = {https://thebusinessprofessor.com/en_US/research-analysis-decision-science/decision-theory-definition},
+  urldate          = {2023-05-16},
+  comment          = {There are three main areas of the decision theory, they are:
+- Prescriptive decision theory: this theory aims to provide recommendations on how to make the best decisions even in an uncertain decision-making environment.
+- Descriptive decision theory: this theory seeks to describe how irrational agents make certain decisions.
+- Normative decision theory: based on a set of values, this theory provides direction for how decisions can be made.},
+  creationdate     = {2023-05-16T11:09:11},
+  keywords         = {business decisions},
+  modificationdate = {2023-05-16T11:10:33},
+  owner            = {ISargent},
+}
+
+@Online{CFI2023,
+  author           = {{CFI Team}},
+  date             = {2023-05-14},
+  title            = {What is Decision Theory?},
+  url              = {https://corporatefinanceinstitute.com/resources/capital-markets/decision-theory/},
+  urldate          = {2023-05-16},
+  comment          = {Contrasts with Gordon2022 because it finds only two types of decision theory:
+- Normative Decision Theory - about outcomes
+- Optimal Decision Theory - about why decisions are made
+
+There are three different types of uncertainty that can be found in decision-making theory
+- States
+- Consequences
+- Actions},
+  creationdate     = {2023-05-16T11:15:12},
+  keywords         = {business decisions},
+  modificationdate = {2023-05-16T11:18:29},
+  owner            = {ISargent},
+}
+
+@Report{BerryO2023,
+  author           = {Craig Berry and Nick O’Donovan},
+  date             = {2023},
+  institution      = {Institute of Innovation and Public Purpose, UCL},
+  title            = {Entrepreneurial egalitarianism: How inequality and insecurity stifleinnovation, and what we can doabout it},
+  eprint           = {https://www.ucl.ac.uk/bartlett/public-purpose/sites/bartlett_public_purpose/files/berry_c._and_odonovan_n._2023._entrepreneurial_egalitarianism_how_inequality_and_insecurity_stifle_innovation_and_what_we_can_do_about_it.pdf},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2023/apr/entrepreneurial-egalitarianism-how-inequality-and-insecurity-stifle-innovation},
+  comment          = {Argues that inequality may be bad for innovation because:
+- Insecurity
+- Loss aversion
+- Opportunity hoarding
+- Access to capital
+- Access to demand
+- Access to role models and social networks
+- Trust
+
+Also gives an overview of innovation policy and inequality such as the assumption that progress leads to inequality and thus there is less incentive to address it
+
+But there is subtle evidence that more innovation comes from more equal (not necessary very equal) societies
+
+Use Perez and her recognistion that not only the state but wider society drive innovative activity
+
+Outlines policy implications of possibility that inequality limits innovation (and thus economic growth)},
+  creationdate     = {2023-05-16T14:54:54},
+  keywords         = {economics, equality, innovation},
+  modificationdate = {2023-05-16T15:02:33},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
