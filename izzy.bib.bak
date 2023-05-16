@@ -1405,10 +1405,12 @@ Whilst this is aimed at reinforcement learning, its an intuitive endorsement of 
   date             = {2022},
   title            = {Scale Efficiently: Insights from Pretraining and Finetuning Transformers},
   url              = {https://openreview.net/forum?id=f2OYVDyfIB},
-  comment          = {There should be more studies that analyse the outcomes of checkpoints from multiple of trained models, including across our model zoo. This work is a sweep across the machine learning community to distill insights into language transformers. From over 100 checkpoints, they found that it remains difficult to determine downstream performance from pretraining parameters and that the most important `knob` (hyperparameter?) for performance seems to be depth, with deep-narrow models being more pareto-optimal. Poster From <https://iclr.cc/virtual/2022/poster/5960> Hyperparameter sweep from the community - over 100 checkpoints - to distil insights into transformers (language). I like this work, there should be more sweeps across the community to gain insights into different approaches. Three key findings: 1. There's a gap between pretraining and finetuning. Upstream - the upstream perplexity scales with number of parameters but downstream it is hard to predict the accuracy from the number of parameters 2. Depth has a huge impact on performance but other 'knobs' don't do much 3. Existing models tend to not be pareto-optimal, although deep-narrow seem to be better.},
+  comment          = {There should be more studies that analyse the outcomes of checkpoints from multiple of trained models, including across our model zoo. This work is a sweep across the machine learning community to distill insights into language transformers. From over 100 checkpoints, they found that it remains difficult to determine downstream performance from pretraining parameters and that the most important `knob` (hyperparameter?) for performance seems to be depth, with deep-narrow models being more pareto-optimal. 
+
+Poster From \url{https://iclr.cc/virtual/2022/poster/5960} Hyperparameter sweep from the community - over 100 checkpoints - to distil insights into transformers (language). I like this work, there should be more sweeps across the community to gain insights into different approaches. Three key findings: 1. There's a gap between pretraining and finetuning. Upstream - the upstream perplexity scales with number of parameters but downstream it is hard to predict the accuracy from the number of parameters 2. Depth has a huge impact on performance but other 'knobs' don't do much 3. Existing models tend to not be pareto-optimal, although deep-narrow seem to be better.},
   creationdate     = {2022-05-08T15:25:21},
   keywords         = {transformers, pretraining, finetuning, NLP, algorithm analysis, transfer learning},
-  modificationdate = {2023-04-20T09:36:17},
+  modificationdate = {2023-04-20T09:40:53},
   owner            = {ISargent},
 }
 
@@ -13650,6 +13652,162 @@ Also private investment in high risk areas is correlated with coinvestment by pu
   keywords         = {economics, innovation, policy, missions},
   modificationdate = {2023-04-19T13:33:49},
   owner            = {ISargent},
+}
+
+@Book{Chang2010,
+  author           = {Ha-Joon Chang},
+  date             = {2010},
+  title            = {23 Things They Don't Tell You About Capitalism},
+  url              = {https://www.penguin.co.uk/books/177805/23-things-they-dont-tell-you-about-capitalism-by-chang-ha-joon/9780141047973},
+  comment          = {1. There is no such thing as a free market
+2. Companies should not be run in the interest of their owners
+3. Most people in rich countries are paid more than they should be
+4. The washing machine has changed the world more than the internet has
+5. Assume the worst about people and you get the worst
+6. Greater macroeconomic stability has not made the world economy more stable
+7. Free-market policies rarely make poor countries rich
+8. Capital has a nationality
+9. We do not live in a post-industrial age
+10. The US does not have the highest living standard in the world
+11. Africa is not destined for underdevelopment
+12. Governments can pick winners
+13. Making rich people richers doesn't make the rest of us richer
+14. US managers are over-priced
+15. People in poor countries are more entrepreneurial then people in rich countries
+16. We are not smart enough to leave things to the market
+17. More education in itself is not going to make a country richer
+18. What is good for General Motors is no necessarily good for the United States
+19. Despite the fall of communism, we are still living in planned economies
+20. Equality of opportunity may not be fair
+21. Big government make people more open to change
+22. Financial markets need to become less, not more, efficient
+23. Good economic policy does not require good economists
+
+Concludes with how to rebuild the world economy},
+  creationdate     = {2023-04-26T20:26:08},
+  keywords         = {economics, policy},
+  modificationdate = {2023-04-26T20:35:16},
+  owner            = {izzy_olivine},
+}
+
+@Article{XieEtAl2023,
+  author           = {Chao Xie and Shitong Xiang and Chun Shen and Xuerui Peng and Jujiao Kang and Yuzhu Li and Wei Cheng and Shiqi He and Tobias Banaschewski and Gareth J. Barker and Arun L. W. Bokde and Uli Bromberg and Christian Büchel and Sylvane Desrivières and Herta Flor and Antoine Grigis and Hugh Garavan and Penny Gowland and Andreas Heinz and Bernd Ittermann and Jean-Luc Martinot and Marie-Laure Paillère Martinot and Frauke Nees and Dimitri Papadopoulos Orfanos and Tomáš Paus and Luise Poustka and Juliane H. Fröhner and Michael N. Smolka and Henrik Walter and Robert Whelan and Barbara J. Sahakian and Trevor W. Robbins and Gunter Schumann and Tianye Jia and Jianfeng Feng and {IMAGEN Consortium} and {STRATIFY Consortium} and {ZIB Consortium}},
+  date             = {2023-04-24},
+  journaltitle     = {Nature Medicine},
+  title            = {A shared neural basis underlying psychiatric comorbidity},
+  url              = {https://www.nature.com/articles/s41591-023-02317-4},
+  comment          = {The paper finding that neural pruning is (delayed or reduced, I'm not sure which) in some late adolescents and that this appears to be related to multiple mental health conditions such as ADHD, anxiety and depression},
+  creationdate     = {2023-04-29T20:30:40},
+  keywords         = {neuroscience, mental health},
+  modificationdate = {2023-04-29T20:37:25},
+  owner            = {izzy_olivine},
+}
+
+@Report{Skidmore2023,
+  author           = {Chris Skidmore and Ryan McLaughlin and Lee McDonough and Adam Kerson and Amber Woodward and Barnaby Powell and Max Austin and Colm Williams and Harry Robinson and Henna Deol and Henry Green and Jack Taylor and Joanna Carew and Julie Damborg and Lois Raines and Louis Maskery and Lydia McKee and Magdalena Lomacka and Massimiliano Verri and Nick Velani and Olivia Johnson and Sally Heard and Swapna Uddin and TheresaLöber and Verena Leckebusch.},
+  date             = {2023-01-13},
+  institution      = {Net Zero Review team},
+  title            = {Mission Zero: Independent Reviewof Net Zero},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1128689/mission-zero-independent-review.pdf},
+  url              = {https://www.gov.uk/government/publications/review-of-net-zero},
+  comment          = {Massive report following what appears to be a pretty massive consultation finding a need for:
+- clarity
+- certainty
+- consistency
+- continuity
+
+Recommendations:
+- Using infrastructure to unlock net zero (3 actions)
+- Creating sustainable governance structures for net zero (3 actions)
+- Backing businesses to go green (3 actions)
+- Catalysing local action (3 actions)
+- Increasing transparency and engaging people (4 actions)
+- Delivering cleaner, cheaper and greener homes (2 actions)
+- Capitalising on the UK’s international leadership (2 actions)
+- Setting the UK up for 2050 and beyond (2 actions)
+
+Main message from consultations is there is huge problem with long term uncertainty lack of long term confidence/funding/etc
+
+Overview and reactions available at \url{https://lordslibrary.parliament.uk/mission-zero-independent-review-of-net-zero/}
+
+``the Review has heard from many respondents frustrated by a lack of long-term thinking, siloed behaviour from government departments, and uncertainty over the length of funding commitments''
+
+``The government, working with sectoral leads by Autumn 2023, must apply whole systems thinking to create an R&D and technology roadmap outlining the key decision points that must be made to ensure priority technologies deliver on the UK’s net zero and growth ambitions''
+
+3rd key recommendation: ``Make regulatory processes more agile to match that of innovation by a) establishing up to three new R&D demonstrator projects, out to 2035, aligning with the ten-year missions set out by this review, and b) including in forthcoming work from the Office for Science and Technology Strategy (OSTS) how regulators can provide more opportunity for demonstrations for net zero technologies'' - see reference to Vallance in \url{https://hansard.parliament.uk/commons/2022-11-17/debates/97DB3122-0068-46CD-B026-F757C8DF39AF/AutumnStatement}
+
+Metrics: recommend reporting GHG like GDP and reporting climate impacts of future spending reviews
+
+Lots on R&D - especially section 6.2 Getting R&D and technology for net zero ready for the future including the technology readiness level TRLs for carbon reduction and low carbon technologies
+
+CCUS, nuclear, EVs play a huge role in this report
+
+Additional stuff on \urel{https://twitter.com/CSkidmoreUK}},
+  creationdate     = {2023-05-01T13:45:55},
+  keywords         = {climate, transition, metrics, innovation},
+  modificationdate = {2023-05-01T15:07:23},
+  owner            = {izzy_olivine},
+}
+
+@Report{McCulloughNJEGT2022,
+  author           = {Alan McCullough and Chris Nuttall and Cath Jones-Morris and Sophie Elmhirst and Elisa Grosso and Harold Toms},
+  date             = {2022-06-23},
+  institution      = {Ricardo Energy \& Environment and Committee on Climate Change},
+  title            = {The Role of Transition Plans in the {UK's} Pathway to Net Zero: Final Technical Report},
+  eprint           = {https://www.theccc.org.uk/wp-content/uploads/2022/06/The-role-of-transition-plans-in-the-UKs-pathway-to-Net-Zero-Ricardo-Energy-Environment.pdf},
+  url              = {https://www.theccc.org.uk/publication/the-role-of-transition-plans-in-the-uks-pathway-to-net-zero-ricardo-energy-environment/},
+  comment          = {Huge report considering business transition plans for net zero.
+
+Finds that current plans are very varied and it's difficult to detect greenwash as few standard metrics
+
+Recommends standards for transition plans and independent auditing. Also, sector-specific pathways and public indicators to indicate progress to directors, staff, customers and industry how each business compares to others in the same sector
+
+Also lots on investment and sustainable bond markets
+
+Current ISO standards do not quite cover this but there are aspects in several existing standards. Suggest that a new transition plan standard is required
+
+Many companies with plans are reporting the rest things they have done but less of what they plan to do. 
+
+There are a range of approaches in the literature that are considered. Suggest that these are based around for competing design concepts
+
+Worth returning to for
+- ideas on transitioning businesses
+- transition plan standard outline (section 6)
+- methodology for reviewing a large corpus in a short time
+- green finance terminology
+- key metrics (tables 4 and 5)
+- the 36 topics that are relevant to transition plans (e.g. fig 4)
+- barriers and constraints to transition in different sectors (table 6)
+- possible research opportunities table 20},
+  creationdate     = {2023-05-01T15:08:11},
+  keywords         = {climate, business, transition},
+  modificationdate = {2023-05-01T15:12:03},
+  owner            = {izzy_olivine},
+}
+
+@Article{RaupachDPACCFJVL2014,
+  author           = {Michael R. Raupach and Steven J. Davis and Glen P. Peters and Robbie M. Andrew and Josep G. Canadell and Philippe Ciais and Pierre Friedlingstein and Frank Jotzo and Detlef P. van Vuuren and Corinne Le Qu\'{e}r\'{e}},
+  date             = {2014},
+  journaltitle     = {Nature Climate Change},
+  title            = {Sharing a quota on cumulative carbon emissions},
+  doi              = {10.1038/nclimate2384},
+  pages            = {873--879},
+  url              = {https://www.nature.com/articles/nclimate2384},
+  volume           = {4},
+  comment          = {Amazing article that considers different ways of dividing up the emissions reduction quota between regions:
+- allocated by current emissions
+- blended allocation
+- allocated by population
+
+Compares these to each region's fossil fuel reserves
+
+Considers the mitigation rate per year (this is where the global 7\% per year rate arises from) given change of each temperature outcome (they have 2, 2.5 and 3 degrees)
+
+Considers the mitigation challenge for each region - e.g. how the mitigation rate against the per capita emissions. This shows how, in the equity scenario, some regions can increase their emissions.},
+  creationdate     = {2023-05-06T15:15:57},
+  keywords         = {climate, equality, ethics},
+  modificationdate = {2023-05-06T15:24:57},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
