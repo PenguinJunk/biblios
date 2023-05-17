@@ -13920,4 +13920,59 @@ More environmentally effective actions are taken by leaders in politics, economi
 
 ``The fact that 70% of the emissions come from fossil fuel producers makes sustainable transformation predominantly a political task''
 
-Suggests that developing educational programmes can help bridge the d
+Suggests that developing educational programmes can help bridge the distance between the private and public sphere and this research aims to identify what skills sustainbility-aware and effective decision-makers use (so that these may be incorporated into training programmes).
+
+interviewed 14 actual decision makers from politics, the economy, and civil society with a strong commitment to environmental and social ethics and who are contributing to global sustainable development
+
+``The interview recordings were transcribed manually according to the Dresing and Pehl convention [35], and analyzed within the qualitative content analysis framework suggested by Kuckartz [36]. MAXQDA, a software developed to support text analysis digitally, has been applied to assist the inductive and deductive coding, note-taking, summarizing, and categorizing of research data. We analyzed the interview data with theory-based competency models. In this article, we applied Wiek et al.’s [7] framework of key competencies in sustainability''
+
+Competencies:
+- (systems) considering inter- and trans-disciplinarity; identifying the core behind a sustainable-related problem; and taking a broader perspective between (sub)systems, disciplines, and regions.
+- (anticipatory): understanding intrinsic times of different systems and different scenarios with their effects, dealing with increasing uncertainty, and accepting finiteness
+- (normative): committing to grown values as an orientation framework, seeing challenges as opportunities, and building resilience when dealing with negative facts
+- (strategic): understanding the complex dynamics of democratic decision making, developing transformative strategies towards sustainability, and seeing challenges as opportunities
+- (interpersonal): collaboration with different stakeholders in highly conflicted and controversial settings, working in interdisciplinary teams, and designing transformative communication strategies
+
+Themes:
+- Sustainable Decision Making Means Translating between Heterogeneous Disciplines, Communities, and Stakeholders - systems and interpersonal are dominant because part of a system and need to communicate decisions
+- Extrapolating Knowledge among Systems, Time Scales, and Ontological Levels - entire system not details, multiple time scales in sustainable development and climate change that can lead to overestimation and underestimation, and further on to misleading solutions in communication
+- Dealing with Uncertainty - increasing change, fundamental uncertainties grow, trust becomes more important, not guided by strong emotions, making the necessary possible
+- Building Resilience - professional, optimistic
+
+Aspects of sustainability competencies which are particularly important for decision makers:
+- Systemic Interdisciplinary Thinking
+  - Private- vs. Public-Sphere Decisions
+  - Taking a Macroscopic Standpoint
+  - Understanding the System Effect behind Many Individual Systems
+- Building Resilience
+- Following Own Values
+- Teamwork and Diverse Stakeholder Management
+
+Referencers Polanyi's Great Transformation},
+  creationdate     = {2023-05-16T15:33:51},
+  keywords         = {business decisions, environment},
+  modificationdate = {2023-05-16T16:24:51},
+  owner            = {ISargent},
+}
+
+@Article{LeQuere2020,
+  author           = {Le Qu\'{e}r\'{e}, Corinne and Jackson, Robert B. and Jones, Matthew W. and Smith, Adam J. P. and Abernethy, Sam and Andrew, Robbie M. and De-Gol, Anthony J. and Willis, David R. and Shan, Yuli and Canadell, Josep G. and Friedlingstein, Pierre and Creutzig, Felix and Peters, Glen P.},
+  date             = {2020-07-01},
+  journaltitle     = {Nature Climate Change},
+  title            = {Temporary reduction in daily global CO2 emissions during the COVID-19 forced confinement},
+  doi              = {10.1038/s41558-020-0797-x},
+  number           = {7},
+  pages            = {647--653},
+  url              = {https://www.nature.com/articles/s41558-020-0797-x},
+  volume           = {10},
+  comment          = {Paper that tries to estimate the reduction in emissions in 2020
+In April this is down 17\%
+However estimates for the whole year are on either side of the 6.4\% that I think the figure was eventually determine to be in Tollefson2021},
+  creationdate     = {2023-05-16T15:44:57},
+  keywords         = {climate, covid},
+  modificationdate = {2023-05-16T15:51:14},
+  owner            = {ISargent},
+}
+
+@Article{BigScience2023,
+  author           = {{BigScience Workshop} and Teven Le Scao and Angela Fan and Christopher Akiki and Ellie Pavlick and Suzana Ilić and Daniel Hesslow and Roman Castagné and Alexandra Sasha Luccioni and François Yvon and Matthias Gallé and Jonathan Tow and Alexander M. Rush and Stella Biderman and Albert Webson and Pawan Sasanka Ammanamanchi and Thomas Wang and Benoît Sagot and Niklas Muennighoff and Albert Villanova del Moral and Olatunji Ruwase and Rachel Bawden and Stas Bekman and Angelina McMillan-Major and Iz Beltagy and Huu Nguyen and Lucile Saulnier and Samson Tan and Pedro Ortiz Suarez and Victor Sanh and Hugo Laurençon and Yacine Jernite and Julien Launay and Margaret Mitchell and Colin Raffel and Aaron Gokaslan and Adi Simhi and Aitor Soroa and Alham Fikri Aji and Amit Alfassy and Anna Rogers and Ariel Kreisberg Nitzav and Canwen Xu and Chenghao Mou and Chris Emezue and Christopher Klamm and Colin Leong and Daniel van Strien and David Ifeoluwa Adelani and Dragomir Radev and Eduardo González Ponferrada and Efrat Levkovizh and Ethan Kim and Eyal Bar Natan and Francesco De Toni and Gérard Dupont and Germán Kruszewski and Giada Pistilli and Hady Elsahar and Hamza Benyamina and Hieu Tran and Ian Yu and Idris Abdulmumin and Isaac Johnson and Itziar Gonzalez-Dios and Javier de la Rosa and Jenny Chim and Jesse Dodge and Jian Zhu and Jonathan Chang and Jörg Frohberg and Joseph Tobing and Joydeep Bhattacharjee and Khalid Almubarak and Kimbo Chen and Kyle Lo and Leandro Von Werra and Leon Weber and Long Phan and Loubna Ben allal and Ludovic Tanguy and Manan Dey and Manuel Romero Muñoz and Maraim Masoud and María Grandury and Mario Šaško and Max Huang and Maximin Coavoux and Mayank Singh and Mike Tian-Jian Jiang and Minh Chien Vu and Mohammad A. Jauhar and Mustafa Ghaleb and Nishant Subramani and Nora Kassner and Nurulaqilla Khamis and Olivier Nguyen and Omar Espejel and Ona de Gibert and Paulo Villegas and Peter Henderson and Pierre Colombo and Priscilla Amuok and Quentin Lhoest and Rheza Harliman and Rishi Bommasani and Roberto Luis López and Rui Ribeiro and Salomey Osei and Sampo Pyysalo and Sebastian Nagel and Shamik Bose and Shamsuddeen Hassan Muhammad and Shanya Sharma and Shayne Longpre and Somaieh Nikpoor and Stanislav Silberberg and Suhas Pai and Sydney Zink and Tiago Timponi Torrent and Timo Schick and Tristan Thrush and Valentin Danchev and Vassilina Nikoulina and Veronika Laippala and Violette Lepercq and Vrinda Prabhu and Zaid Alyafeai and Zeerak Talat and Arun Raja and Benjamin Heinzerling and Chenglei Si and Davut Emre Taşar and Elizabeth Salesky and Sabrina J. Mielke and Wilson Y. Lee and Abheesht Sharma and Andrea Santilli and Antoine Chaffin and Arnaud Stiegler and Debajyoti Datta and Eliza Szczechla and Gunjan Chhablani and Han Wang and Harshit Pandey and Hendrik Strobelt and Jason Alan Fries and Jos Rozen and Leo Gao and Lintang Sutawika and M Saiful Bari and Maged S. Al-shaibani and Matteo Manica and Nihal Nayak and Ryan Teehan and Samuel Albanie and Sheng Shen and Srulik Ben-David and Stephen H. Bach and Taewoon Kim and Tali Bers and Thibault Fevry and Trishala Neeraj and Urmish Thakker and Vikas Raunak and Xiangru Tang and Zheng-Xin Yong and Zhiqing Sun and Shaked Brody and Yallow Uri and Hadar Tojarieh and Adam Roberts and Hyung Won Chung and Jaesung Tae and Jason Phang and Ofir Press and Conglong Li and Deepak Narayanan and Hatim Bourfoune and Jared Casper and Jeff Rasley and Max Ryabinin and Mayank Mishra and Minjia Zhang and Mohammad Shoeybi and Myriam Peyrounette and Nicolas Patry and Nouamane Tazi and Omar Sanseviero and Patrick von Platen and Pierre Cornette and Pierre François Lavallée and Rémi Lacroix and Samyam Rajbhandari and S
