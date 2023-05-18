@@ -14005,4 +14005,19 @@ Details how the data were curated, the model architecture, how the model was tra
   year             = {2023},
 }
 
+@Article{OswaldB2021,
+  author           = {Lisa Oswald and Jonathan Bright},
+  date             = {2021},
+  journaltitle     = {arXiv preprint arXiv:2102.06516},
+  title            = {How do climate change skeptics engage with opposing views? Understanding mechanisms of social identity and cognitive dissonance in an online forum},
+  url              = {https://demtech.oii.ox.ac.uk/research/posts/how-do-climate-change-skeptics-engage-with-opposing-views-understanding-mechanisms-of-social-identity-and-cognitive-dissonance-in-an-online-forum/},
+  comment          = {Paper looking at climate sceptic forums on reddit. Determines what engages users - mainly dissonant perspectives. Lots of other detail.
+
+If I understand correctly, one of the main conclusions is that, in my own words, countering climate change scepticism with facts can entrench sceptical views. The raises concerns about how we take greater action on climate change because it could radicalise more people to become disbelievers in climate change.},
+  creationdate     = {2023-05-18T09:37:27},
+  modificationdate = {2023-05-18T09:41:13},
+  owner            = {ISargent},
+  year             = {2021},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
