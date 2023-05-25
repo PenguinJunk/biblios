@@ -14155,12 +14155,39 @@ Takes the models of
 
 Form these into a frameworkd which considers technology developments and effects, and develop an overall model of technology composition from Arthur's work.
 
-Propose that big data analytics can be used to forecasting technology disruption and perform a proof of concept by considering the progression of the smartphone and Uber.
+Propose that big data analytics can be used to forecasting technology disruption and perform a proof of concept by considering the progression of the smartphone and Uber. Found ``that there is a significant and to some degree predictable lag between technology availability [measured e.g. by Apple store opening] and applications exploiting it was shown to be valid''
 
 See also ZeppiniFK2014},
   creationdate     = {2023-05-25T13:59:16},
   keywords         = {revolution, technology, innovation, transformation},
-  modificationdate = {2023-05-25T14:20:31},
+  modificationdate = {2023-05-25T14:25:10},
+  owner            = {ISargent},
+}
+
+@Article{BrackinJLMJ2022,
+  author           = {Brackin, Roger C. and Jackson, Michael J. and Leyshon, Andrew and Morley, Jeremy G. and Jewitt, Sarah},
+  date             = {2022},
+  journaltitle     = {Future Internet},
+  title            = {Generating Indicators of Disruptive Innovation Using Big Data},
+  doi              = {10.3390/fi14110327},
+  issn             = {1999-5903},
+  number           = {11},
+  url              = {https://www.mdpi.com/1999-5903/14/11/327},
+  volume           = {14},
+  abstract         = {Technological evolution and its potential impacts are of significant interest to governments, corporate organizations and for academic enquiry; but assessments of technology progression are often highly subjective. This paper prototypes potential objective measures to assess technology progression using internet-based data. These measures may help reduce the subjective nature of such assessments and, in conjunction with other techniques, reduce the uncertainty of technology progression assessment. The paper examines one part of the technology ecosystem, namely, academic research and publications. It uses analytics performed against a large body of academic paper abstracts and metadata published over 20 years to propose and demonstrate candidate indicators of technology progression. Measures prototyped are: (i) overall occurrence of technologies used over time in research, (ii) the fields in which this use was made; (iii) the geographic spread of specific technologies within research and (iv) the clustering of technology research over time. An outcome of the analysis is an ability to assess the measures of technology progression against a set of inputs and a set of commentaries and forecasts made publicly in the subject area over the last 20 years. The potential automated indicators of research are discussed together with other indicators which might help working groups in assessing technology progression using more quantitative methods.},
+  article-number   = {327},
+  comment          = {Built on BrackinJLM2019, this paper uses academic publication metadata to determine if it may be possible to predict technological disruption.
+
+Interesting references to Mazzucato:
+
+``Mazzucato (2011) [6] suggests that many commercial products (such as the Apple iPhone), only exist because of numerous government research outputs which were then exploited by Apple (see Brackin et al. (2019) [16]). The implication of technology (the precursor to products) being created in commercial organizations is that it is less visible. The experimentation described in this paper highlights issues around this.''
+
+``Mazzucuto’s [sic] work in papers relating to state funding of research, again cannot be fully proven by this work but the indicators show that many technologies identified by consultants or the press did occur previously in research. A good example of this is Internet of Things''.
+
+My questions about this work concern that reliability of any developed measure if it were to become known - e.g. could it be gamed? Also, more immediately, some researchers are more prolific in terms of publications than others, it doesn't always reflect the volume of research that they do. Is this a problem with the method?},
+  creationdate     = {2023-05-25T15:29:59},
+  keywords         = {revolution, technology, innovation, transformation},
+  modificationdate = {2023-05-25T15:38:41},
   owner            = {ISargent},
 }
 
