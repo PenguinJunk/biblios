@@ -14300,4 +14300,68 @@ AI researchers consider the issue in 4 categories:
   owner            = {ISargent},
 }
 
+@Online{SchifferN2023,
+  author           = {Zoe Schiffer and Casey Newton},
+  date             = {2023-03-14},
+  title            = {Microsoft lays off team that taught employees how to make AI tools responsibly},
+  url              = {https://www.theverge.com/2023/3/13/23638823/microsoft-ethics-society-team-responsible-ai-layoffs},
+  comment          = {After drastically reducing their ethics and society team they have now disbanded it
+
+This is after the team highlighted concerns about the direction of some of MS's activities
+
+``this team has always been deeply concerned about is how we impact society and the negative impacts that we’ve had. And they are significant''
+
+Most members of the team were transferred elsewhere within Microsoft. Afterward, remaining ethics and society team members said that the smaller crew made it difficult to implement their ambitious plans.
+
+``The worst thing is we’ve exposed the business to risk and human beings to risk in doing this''
+
+Members of the ethics and society team said they generally tried to be supportive of product development. But they said that as Microsoft became focused on shipping AI tools more quickly than its rivals, the company’s leadership became less interested in the kind of long-term thinking that the team specialized in.
+
+The elimination of the ethics and society team came just as the group’s remaining employees had trained their focus on arguably their biggest challenge yet: anticipating what would happen when Microsoft released tools powered by OpenAI to a global audience.},
+  creationdate     = {2023-06-06T13:47:30},
+  keywords         = {AI, trust, ethics, economics},
+  modificationdate = {2023-06-06T13:52:04},
+  owner            = {ISargent},
+}
+
+@Article{SchneidewindA2016,
+  author           = {Schneidewind, Uwe and Karoline Augenstein},
+  date             = {2016},
+  journaltitle     = {GAIA - Ecological Perspectives for Science and Society},
+  title            = {Three schools of transformation thinking: the impact of ideas, institutions, and technological innovation on transformation processes},
+  number           = {2},
+  url              = {https://link.gale.com/apps/doc/A466616005/AONE?u=ucl_ttda&sid=bookmark-AONE&xid=2913dc8b},
+  volume           = {25},
+  abstract         = {To identify the main drivers of transformation, it is helpful to identify the transformation perspectives of three specific schools of thought: idealist, institutional, and technological innovation. By differentiating among these schools of thought, a more informed transformation debate becomes possible, thereby increasing transformative literacy in academia and society.},
+  comment          = {Propose three schools of transformation thinking with a view to dealing with the descrepancy between a radical problem diagnosis and less radical solution proposals. Each centres itself but does not deny the others. Transformation is a fuzzy term, with a range of meanings.
+
+The Idealist School--Ideas Rule the World
+- trace to ancient philosophers
+- collective ideas ``have an intersubjective existence that stands above individual minds and is typically embodied in symbols, discourse, and institutions'' (Legro)
+- Weber argues that a particular form of capitalism arose from protestantism
+- Geels interpretivism/constructivism
+- cultural values, dominant paradigms and world views shaping human actions at different levels--ranging from local social practices, societies as a whole, the economic system or even international governance at a global level
+
+The Institutional School--Institutions are Enablers of Societal Change
+- trace to age of enlightenment
+- institutions are broadly ``webs of interrelated rules and norms that govern social relationships, comprise the formal and informal social constraints that shape the choice-set of actors'' (Nee)
+- their longevity creates stability, reducing uncertainty
+- the regime in the multi-level perspective (Geels)
+- both constraining and enabling of human action
+
+The Technological Innovation School--Technological Progress Drives Modern Societies
+- trace to 20th century, industrialisation
+- Kondratieff's (1926) long-waves of development, Schumpeter's (1939) creative destruction
+- innovation in technologies and infrastructures increasingly become recognized as the central driver of societal change
+- Nelson and Winter, Freeman and Perez, Geels
+
+Power is also a factor - power over and power with},
+  creationdate     = {2023-06-06T14:29:03},
+  keywords         = {transformation, economics, organisation, economics},
+  modificationdate = {2023-06-06T15:04:00},
+  owner            = {ISargent},
+  publisher        = {Gale Academic},
+  year             = {2016},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
