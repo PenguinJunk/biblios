@@ -10283,9 +10283,35 @@ The necessarily simple abstractions of large bureaucratic institutions can never
 
 Visual order is not working order p275
 
-I think this raises the question about the value of science for application that are necessarily diverse [really interesting, is this similar to the arguments against using RCT for social science?] p288},
+I think this raises the question about the value of science for application that are necessarily diverse [really interesting, is this similar to the arguments against using RCT for social science?] p288
+
+Work-to-rule actions cause work to grind to a halt or go at snail's pace because work processes depend heavily on informal understandings and improvisation p310
+
+Metis - ability that is learned by doing (my words). Activities that require Metis are difficult to teach without doing. Example from Odysseus who had ability to adapt and capacity to understand. p313
+
+Metis is contextual, ``traditional'', plastic and drifts p332
+
+Techne is technical knowledge precise and universal p320
+
+No rules of Techni or Episteme can explain scientific invention and insight [innovation] - this perhaps requires Metis p320
+
+Techne is most suitable to activities that have singular ... qunatitative measurement - referencing Nussbaum Fragility of Goodness (p99) p322
+
+Jenner's smallpox innoculation followed cultural knowledge and practise of variolation [vaccine] p325-6
+
+Stephen Marglin: ``if the only certainty about the future is that the future is uncertain, if the only sure thing is that we are in for surprises, then no amount of planning, not mount of prescription, can deal with the contingencies that the future will reveal'' [Agile] p244
+
+Aldo Leopold ``the first rule of intelligent thinking is to keep all the parts'' [ecology, ecosystem] p345
+
+Even the market is dependent on a larger system of social relations which it does not acknowledge. Laws, power, trust, commumity, cooperation p351
+
+Herman and Daly 1996: the economy is ``a subsystem of a finite and nongrowing eco-system'' p351
+
+``metis to the rescue'' ... nonconforming practice is an indepensable condition for formal order p352
+
+Complex systems have redundancy, resilieance and stability. My inference - simplifications would already have occurred where this would still maintain these three qualities p353},
   creationdate     = {2023-03-11T12:13:59},
-  modificationdate = {2023-03-15T22:14:25},
+  modificationdate = {2023-05-29T10:44:16},
   owner            = {izzy_olivine},
 }
 
@@ -14188,6 +14214,81 @@ My questions about this work concern that reliability of any developed measure i
   creationdate     = {2023-05-25T15:29:59},
   keywords         = {revolution, technology, innovation, transformation},
   modificationdate = {2023-05-25T15:38:41},
+  owner            = {ISargent},
+}
+
+@Online{Whitby2023,
+  author           = {Evan Whitby},
+  date             = {2023-02-22},
+  title            = {The Problem with Percentages Errata},
+  url              = {https://skepticalscience.com/Errata_Problem_with_Percentages.html},
+  organization     = {Skeptical Science},
+  comment          = {Case where open science led to better science
+
+see also \url{https://scicomm.xyz/@SkepticalScience/109907024073397667}},
+  creationdate     = {2023-05-29T10:49:22},
+  keywords         = {open source, science},
+  modificationdate = {2023-05-29T11:01:15},
+  owner            = {izzy_olivine},
+}
+
+@Article{VoelkelHSS2018,
+  author           = {Voelkel, Jackson and Hellman, Dana and Sakuma, Ryu and Shandas, Vivek},
+  date             = {2018},
+  journaltitle     = {International Journal of Environmental Research and Public Health},
+  title            = {Assessing Vulnerability to Urban Heat: A Study of Disproportionate Heat Exposure and Access to Refuge by Socio-Demographic Status in Portland, Oregon},
+  doi              = {10.3390/ijerph15040640},
+  issn             = {1660-4601},
+  number           = {4},
+  url              = {https://www.mdpi.com/1660-4601/15/4/640},
+  volume           = {15},
+  abstract         = {Extreme urban heat is a powerful environmental stressor which poses a significant threat to human health and well-being. Exacerbated by the urban heat island phenomenon, heat events are expected to become more intense and frequent as climate change progresses, though we have limited understanding of the impact of such events on vulnerable populations at a neighborhood or census block group level. Focusing on the City of Portland, Oregon, this study aimed to determine which socio-demographic populations experience disproportionate exposure to extreme heat, as well as the level of access to refuge in the form of public cooling centers or residential central air conditioning. During a 2014 heat wave, temperature data were recorded using a vehicle-traverse collection method, then extrapolated to determine average temperature at the census block group level. Socio-demographic factors including income, race, education, age, and English speaking ability were tested using statistical assessments to identify significant relationships with heat exposure and access to refuge from extreme heat. Results indicate that groups with limited adaptive capacity, including those in poverty and non-white populations, are at higher risk for heat exposure, suggesting an emerging concern of environmental justice as it relates to climate change. The paper concludes by emphasizing the importance of cultural sensitivity and inclusion, in combination with effectively distributing cooling centers in areas where the greatest burden befalls vulnerable populations.},
+  article-number   = {640},
+  comment          = {groups with limited adaptive capacity, including those in poverty and non-white populations, are at higher risk for heat exposure to urban heat
+
+See also HoffmanSP2020},
+  creationdate     = {2023-05-29T12:31:15},
+  keywords         = {heat, climate, housing, justice},
+  modificationdate = {2023-05-29T12:33:19},
+  owner            = {izzy_olivine},
+  pubmedid         = {29601546},
+}
+
+@Article{HoffmanSP2020,
+  author           = {Hoffman, Jeremy S. and Shandas, Vivek and Pendleton, Nicholas},
+  date             = {2020},
+  journaltitle     = {Climate},
+  title            = {The Effects of Historical Housing Policies on Resident Exposure to Intra-Urban Heat: A Study of 108 US Urban Areas},
+  doi              = {10.3390/cli8010012},
+  issn             = {2225-1154},
+  number           = {1},
+  url              = {https://www.mdpi.com/2225-1154/8/1/12},
+  volume           = {8},
+  abstract         = {The increasing intensity, duration, and frequency of heat waves due to human-caused climate change puts historically underserved populations in a heightened state of precarity, as studies observe that vulnerable communities&mdash;especially those within urban areas in the United States&mdash;are disproportionately exposed to extreme heat. Lacking, however, are insights into fundamental questions about the role of historical housing policies in cauterizing current exposure to climate inequities like intra-urban heat. Here, we explore the relationship between &ldquo;redlining&rdquo;, or the historical practice of refusing home loans or insurance to whole neighborhoods based on a racially motivated perception of safety for investment, with present-day summertime intra-urban land surface temperature anomalies. Through a spatial analysis of 108 urban areas in the United States, we ask two questions: (1) how do historically redlined neighborhoods relate to current patterns of intra-urban heat? and (2) do these patterns vary by US Census Bureau region? Our results reveal that 94% of studied areas display consistent city-scale patterns of elevated land surface temperatures in formerly redlined areas relative to their non-redlined neighbors by as much as 7 &deg;C. Regionally, Southeast and Western cities display the greatest differences while Midwest cities display the least. Nationally, land surface temperatures in redlined areas are approximately 2.6 &deg;C warmer than in non-redlined areas. While these trends are partly attributable to the relative preponderance of impervious land cover to tree canopy in these areas, which we also examine, other factors may also be driving these differences. This study reveals that historical housing policies may, in fact, be directly responsible for disproportionate exposure to current heat events.},
+  article-number   = {12},
+  comment          = {in several US cities the areas which suffer the hottest temperatures due to lack of vegetation are home to people with low socioeconomic status and people of colour
+
+See also VoelkelHSS2018},
+  creationdate     = {2023-05-29T12:34:01},
+  keywords         = {heat, climate, housing, justice},
+  modificationdate = {2023-05-29T12:35:26},
+  owner            = {izzy_olivine},
+}
+
+@Online{Colome2023,
+  author           = {Jordi P\'{e}rez Colom\'{e}},
+  date             = {2023-06-04},
+  title            = {Why are the people who pushed for artificial intelligence now signing so many doomsday manifestos?},
+  url              = {https://english.elpais.com/science-tech/2023-06-03/why-are-the-people-who-pushed-for-artificial-intelligence-now-signing-so-many-doomsday-manifestos.html},
+  urldate          = {2023-06-06},
+  comment          = {Theories about why big names in AI are now starting to talk about the risks
+
+They include:
+- Its a smokescreen - get people to worry about the future so that tech companies can carry on developing AI in the present (rather than being obstructed by regulation now)
+- By making AI seem complicated, tech ``experts'' reserve themselves a place at the legislation table},
+  creationdate     = {2023-06-06T13:17:51},
+  keywords         = {AI, trust},
+  modificationdate = {2023-06-06T13:33:52},
   owner            = {ISargent},
 }
 
