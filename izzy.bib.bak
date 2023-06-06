@@ -14285,10 +14285,18 @@ See also VoelkelHSS2018},
 
 They include:
 - Its a smokescreen - get people to worry about the future so that tech companies can carry on developing AI in the present (rather than being obstructed by regulation now)
-- By making AI seem complicated, tech ``experts'' reserve themselves a place at the legislation table},
+- By making AI seem complicated, tech ``experts'' reserve themselves a place at the legislation/regulation table
+
+Timnit Gebru ``It’s almost like a coordinated cyberattack to distract us from holding the real organizations doing the harm accountable''
+
+AI researchers consider the issue in 4 categories:
+1. The speed of AI’s development
+2. Ignorance about how AI works
+3. Doubt forces you to be prudent
+4. There are many other problems in the world, but it’s not necessary to be dismissive of the potential threat of AI},
   creationdate     = {2023-06-06T13:17:51},
   keywords         = {AI, trust},
-  modificationdate = {2023-06-06T13:33:52},
+  modificationdate = {2023-06-06T13:38:00},
   owner            = {ISargent},
 }
 
