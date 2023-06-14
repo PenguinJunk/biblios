@@ -10179,6 +10179,7 @@ In answer to a question: Kazakhstan pioneering in use of digital government beca
   author           = {James C. Scott},
   date             = {2020},
   title            = {Seeing Like a State},
+  url              = {https://en.wikipedia.org/wiki/Seeing_Like_a_State},
   comment          = {Discussion of how states simplify by brute force (forestry, roads, clearances, naming conventions) or by representations (mapping, aerial photography) the world for their own control (tax, conscription, repression). Main theme is of High Modernism.
 
 Interesting table on p220 comparing the illegible with the legible in terms of settlements, economic unites, property regimes and more
@@ -10313,7 +10314,8 @@ Herman and Daly 1996: the economy is ``a subsystem of a finite and nongrowing ec
 
 Complex systems have redundancy, resilieance and stability. My inference - simplifications would already have occurred where this would still maintain these three qualities p353},
   creationdate     = {2023-03-11T12:13:59},
-  modificationdate = {2023-06-14T10:18:01},
+  keywords         = {transformation, bureaucracy},
+  modificationdate = {2023-06-14T10:18:34},
   owner            = {izzy_olivine},
 }
 
@@ -14529,6 +14531,7 @@ Elon Musk has cited and endorsed Bostrom’s work and donated $1.5 million dolla
   author           = {Malcolm Gladwell},
   date             = {2000},
   title            = {The Tipping Point: How Little Things Can Make a Big Difference},
+  url              = {https://en.wikipedia.org/wiki/The_Tipping_Point},
   comment          = {The Law of the Few - it only takes a few people to cause a social epidemic, key players are:
 - Connectors: the few people who seem to easily connect to very many
 - Mavens: the people who specialise in information
@@ -14544,8 +14547,42 @@ Rule of 150 - that channel capacity of brain for social groups is limited. In th
 
 The description of this latter example made links for me with Scott2020, in which the creation of "legibility" for governments (and leaders of organisations) can destroy the functionality of the country/city/organisation. - people have intrinsic ways of working out how to function together which may appear chaotic on the outside but work extremely efficiently},
   creationdate     = {2023-06-14T10:05:11},
-  keywords         = {transformation},
-  modificationdate = {2023-06-14T10:17:35},
+  keywords         = {transformation, organisations},
+  modificationdate = {2023-06-14T13:15:13},
+  owner            = {ISargent},
+}
+
+@InBook{McGregor1966,
+  author           = {Douglas M. McGregor},
+  booktitle        = {Readings in Managerial Psychology},
+  date             = {1966},
+  title            = {The Human Side of Enterprise},
+  editor           = {Harold J. Leavitt and Louis R. Pondy and Dave M. Boje},
+  url              = {https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/McGregor_The_Human_Side_of_Enterprise.pdf},
+  comment          = {Theory X about management says  that workers are lazy, stupid, indolent, gullible and need either a hard/strong approach (coercian and threat) or a soft/weak approach (to make them tractable). Both have downsides.
+
+Recent studies are finding they may be so, but its is not their inherent nature but the nature of industrial organisations.
+
+The hierarchy of needs (physioslogical and safety, then social, ego and self-fulfillment). "A satisfied need is not a motivator of behaviour"
+
+"many studies have demonstrated that the tightly knit, cohesive work group may, under proper conditions, be far more effective than an equal number of separate individual in achieving organisational goals"
+
+Scientific management often works to reduce social connection (my word) and mechanistic production give little heed to egoistic human needs.
+
+passivity, hostility, refusal to accept responsiblity, lack of productivity are symptoms of unmet needs - often higher needs
+
+Good wages, conditions, benefits etc. support physiological and safety needs but other needs must be met
+
+Theory Y about management says that mgt are reponsible for money, materials, people, etc, staff are not passive, resistent by nature. Mgt is responsible for enabling staff to achieve their won goals with their own eforts - creating opportunities.
+
+Applications of theory Y:
+- decentralisation and delegation
+- job enlargement
+- participation and consultative management
+- performance appraisal - ``highly tentative'' - setting one's own tragets},
+  creationdate     = {2023-06-14T11:46:08},
+  keywords         = {bureaucracy, management, social science, organisations},
+  modificationdate = {2023-06-14T13:15:07},
   owner            = {ISargent},
 }
 
