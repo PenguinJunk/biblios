@@ -10293,6 +10293,8 @@ Metis is contextual, ``traditional'', plastic and drifts p332
 
 Techne is technical knowledge precise and universal p320
 
+I mention this book in comments on Gladwell2000
+
 No rules of Techni or Episteme can explain scientific invention and insight [innovation] - this perhaps requires Metis p320
 
 Techne is most suitable to activities that have singular ... qunatitative measurement - referencing Nussbaum Fragility of Goodness (p99) p322
@@ -10311,7 +10313,7 @@ Herman and Daly 1996: the economy is ``a subsystem of a finite and nongrowing ec
 
 Complex systems have redundancy, resilieance and stability. My inference - simplifications would already have occurred where this would still maintain these three qualities p353},
   creationdate     = {2023-03-11T12:13:59},
-  modificationdate = {2023-05-29T10:44:16},
+  modificationdate = {2023-06-14T10:18:01},
   owner            = {izzy_olivine},
 }
 
@@ -14357,7 +14359,7 @@ The Technological Innovation School--Technological Progress Drives Modern Societ
 
 Power is also a factor - power over and power with},
   creationdate     = {2023-06-06T14:29:03},
-  keywords         = {transformation, economics, organisation, economics, bureaucracy},
+  keywords         = {transformation, economics, organisation, bureaucracy},
   modificationdate = {2023-06-06T15:59:37},
   owner            = {ISargent},
   publisher        = {Gale Academic},
@@ -14498,6 +14500,52 @@ There are also women new industrialists Margaret Askew, Sarah Fell, Anita Roddic
   creationdate     = {2023-06-06T16:13:13},
   keywords         = {economics, bureaucracy, transformation, trust},
   modificationdate = {2023-06-06T16:14:20},
+  owner            = {ISargent},
+}
+
+@Article{Torres2021,
+  author           = {\'{E}mile P Torres},
+  date             = {2021-10-19},
+  journaltitle     = {Aeon},
+  title            = {Against longtermism},
+  url              = {https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo},
+  comment          = {Essay about "longtermism" a philosophy that sees achieving the future potential of humanity as more important than the safety, survival, health or happiness of individuals.
+
+Describes the origins and arguments and outlines how it could not only lead to the death of millions but how it might be self-defeating
+
+yet, these ideas have been discussed in governments
+
+``a small group of theorists mostly based in Oxford have been busy working out the details of a new moral worldview called longtermism, which emphasizes how our actions affect the very long-term future of the universe – thousands, millions, billions, and even trillions of years from now. This has roots in the work of Nick Bostrom, who founded the grandiosely named Future of Humanity Institute (FHI) in 2005, and Nick Beckstead, a research associate at FHI and a programme officer at Open Philanthropy. It has been defended most publicly by the FHI philosopher Toby Ord, author of The Precipice: Existential Risk and the Future of Humanity (2020). Longtermism is the primary research focus of both the Global Priorities Institute (GPI), an FHI-linked organisation directed by Hilary Greaves, and the Forethought Foundation, run by William MacAskill, who also holds positions at FHI and GPI''
+
+``Washington, DC-based Center for Security and Emerging Technologies (CSET) aims to place longtermists within high-level US government positions to shape national policy. In fact, CSET was established by Jason Matheny, a former research assistant at FHI who’s now the deputy assistant to US President Joe Biden for technology and national security. Ord himself has, astonishingly for a philosopher, ‘advised the World Health Organization, the World Bank, the World Economic Forum, the US National Intelligence Council, the UK Prime Minister’s Office, Cabinet Office, and Government Office for Science’, and he recently contributed to a report from the Secretary-General of the United Nations that specifically mentions ‘long-termism’''
+
+Elon Musk has cited and endorsed Bostrom’s work and donated $1.5 million dollars to FHI},
+  creationdate     = {2023-06-06T17:54:16},
+  modificationdate = {2023-06-06T18:01:49},
+  owner            = {ISargent},
+}
+
+@Book{Gladwell2000,
+  author           = {Malcolm Gladwell},
+  date             = {2000},
+  title            = {The Tipping Point: How Little Things Can Make a Big Difference},
+  comment          = {The Law of the Few - it only takes a few people to cause a social epidemic, key players are:
+- Connectors: the few people who seem to easily connect to very many
+- Mavens: the people who specialise in information
+- Salesmen: the people who persuade
+
+The stickiness factor - something makes the message unforgettable
+
+The power of context - the environment is strongly influential
+- studies showing crime/criminality/lying/etc. are more influence by environment that background
+- studies showing how the grouping of people impacts social epidemnics e.g. book groups that cause books to become bestsellers
+
+Rule of 150 - that channel capacity of brain for social groups is limited. In this book it suggests that its around 150 people - any individual cannot keep track or more than the relationships that occur within a group of around 150 people [other studies find other numbers I believe]. This organisations that take care to keep groups to this size function well often, e.g. Gore & Associates who split when their groups exceed 150 people, and who require little hierarchy as a result
+
+The description of this latter example made links for me with Scott2020, in which the creation of "legibility" for governments (and leaders of organisations) can destroy the functionality of the country/city/organisation. - people have intrinsic ways of working out how to function together which may appear chaotic on the outside but work extremely efficiently},
+  creationdate     = {2023-06-14T10:05:11},
+  keywords         = {transformation},
+  modificationdate = {2023-06-14T10:17:35},
   owner            = {ISargent},
 }
 
