@@ -14702,10 +14702,41 @@ OpenAI, DeepMind and others try to mitigate existential risk via an area of rese
 
 ``Shoggoth'' meme - the unknown that lies behind the sanitised public face of AI - HP Lovecraft’s tentacled monsters with a friendly little smiley face tacked on - ChapGPT appears ``aligned''
 
-Suggests using engineering biology as an analogy for how to treat AI - ``God-like AGI systems'' have best security, air-gapped, non-commercial. Narrowly useful AI regulated like new drugs.},
+Suggests using engineering biology as an analogy for how to treat AI - ``God-like AGI systems'' have best security, air-gapped, non-commercial. Narrowly useful AI regulated like new drugs.
+
+Hogarth is one of the authors of State of AI report},
   creationdate     = {2023-06-15T08:53:20},
   keywords         = {AI, trust},
-  modificationdate = {2023-06-15T09:21:59},
+  modificationdate = {2023-06-15T09:22:37},
+  owner            = {ISargent},
+}
+
+@Report{GC2023Strategy,
+  author           = {{Geospatial Commission}},
+  date             = {2023},
+  institution      = {Geospatial Commission},
+  title            = {UK Geospatial Strategy 2030},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1162795/2023-06-15_UK_Geospatial_Strategy_2023_.pdf},
+  comment          = {``Looking to 2030, the UK government’s science and technology agenda sets a compelling vision that will help us meet the challenges of the digital revolutionn. This strategy aligns with the UK Science and Technology Framework, published in March 2023, which underlines that science and technology will be the major driver of prosperity, power and history-making events this century. ''
+
+Mission 1: Embrace enabling technologies to accelerate geospatial innovation:
+- Market intelligence and other enabling technologies 
+- Remote sensing 
+- Population movement data
+Mission 2: Drive greater use of geospatial applications and insights across the economy:
+- Underground infrastructure
+- Land use
+- Targeted sectors
+- Public sector
+Mission 3: Build confidence in the future geospatial ecosystem
+- International
+- A strategic approach to data access
+- Skills
+
+Nothing on 3D},
+  creationdate     = {2023-06-15T15:57:19},
+  keywords         = {strategy, geospatial},
+  modificationdate = {2023-06-15T16:07:33},
   owner            = {ISargent},
 }
 
