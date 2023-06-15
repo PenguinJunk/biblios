@@ -13604,7 +13604,7 @@ Author does not work in AI, he is a ``marketing professional''},
   owner            = {ISargent},
 }
 
-@Online{Marcus2023,
+@Online{Marcus2023AICrisis,
   author           = {Gary Marcus},
   date             = {2023-03-17},
   title            = {Why Are We Letting the AI Crisis Just Happen?},
@@ -13634,7 +13634,7 @@ All are far from perfect
 ``The 2024 elections could be unlike anything we have seen before''},
   creationdate     = {2023-04-19T06:37:31},
   keywords         = {AI, trust},
-  modificationdate = {2023-04-19T06:51:21},
+  modificationdate = {2023-06-15T08:22:19},
   owner            = {ISargent},
 }
 
@@ -14483,4 +14483,122 @@ The phrase ``great awakening'' instead of ``great resignation''},
   urldate          = {2023-06-06},
   comment          = {Technology and industrial pioneers who changed the workplace such as Henry Ford (wage rises), Rowntree (decent housing), Kellogg (6-hour day), Boots (weekend)
 
-There are gaps between what some prom
+There are gaps between what some prominent industrialists say and do: ``
+There is a Taoist saying that `the bigger the front, the bigger the back'''
+
+There are also women new industrialists Margaret Askew, Sarah Fell, Anita Roddick},
+  creationdate     = {2023-06-06T16:12:33},
+  keywords         = {economics, bureaucracy, transformation, trust},
+  modificationdate = {2023-06-06T16:14:17},
+  owner            = {ISargent},
+}
+
+@Online{Cottam2022pt7,
+  author           = {Hilary Cottam},
+  title            = {Behind the Scenes},
+  url              = {https://medium.com/iipp-blog/the-work-project-behind-the-scenes-652b2d880b1d},
+  urldate          = {2023-06-06},
+  comment          = {Describes her influences for her work, how the workshops were run and what next},
+  creationdate     = {2023-06-06T16:13:13},
+  keywords         = {economics, bureaucracy, transformation, trust},
+  modificationdate = {2023-06-06T16:14:20},
+  owner            = {ISargent},
+}
+
+@Article{Torres2021,
+  author           = {\'{E}mile P Torres},
+  date             = {2021-10-19},
+  journaltitle     = {Aeon},
+  title            = {Against longtermism},
+  url              = {https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo},
+  comment          = {Essay about "longtermism" a philosophy that sees achieving the future potential of humanity as more important than the safety, survival, health or happiness of individuals.
+
+Describes the origins and arguments and outlines how it could not only lead to the death of millions but how it might be self-defeating
+
+yet, these ideas have been discussed in governments
+
+``a small group of theorists mostly based in Oxford have been busy working out the details of a new moral worldview called longtermism, which emphasizes how our actions affect the very long-term future of the universe – thousands, millions, billions, and even trillions of years from now. This has roots in the work of Nick Bostrom, who founded the grandiosely named Future of Humanity Institute (FHI) in 2005, and Nick Beckstead, a research associate at FHI and a programme officer at Open Philanthropy. It has been defended most publicly by the FHI philosopher Toby Ord, author of The Precipice: Existential Risk and the Future of Humanity (2020). Longtermism is the primary research focus of both the Global Priorities Institute (GPI), an FHI-linked organisation directed by Hilary Greaves, and the Forethought Foundation, run by William MacAskill, who also holds positions at FHI and GPI''
+
+``Washington, DC-based Center for Security and Emerging Technologies (CSET) aims to place longtermists within high-level US government positions to shape national policy. In fact, CSET was established by Jason Matheny, a former research assistant at FHI who’s now the deputy assistant to US President Joe Biden for technology and national security. Ord himself has, astonishingly for a philosopher, ‘advised the World Health Organization, the World Bank, the World Economic Forum, the US National Intelligence Council, the UK Prime Minister’s Office, Cabinet Office, and Government Office for Science’, and he recently contributed to a report from the Secretary-General of the United Nations that specifically mentions ‘long-termism’''
+
+Elon Musk has cited and endorsed Bostrom’s work and donated $1.5 million dollars to FHI},
+  creationdate     = {2023-06-06T17:54:16},
+  modificationdate = {2023-06-06T18:01:49},
+  owner            = {ISargent},
+}
+
+@Book{Gladwell2000,
+  author           = {Malcolm Gladwell},
+  date             = {2000},
+  title            = {The Tipping Point: How Little Things Can Make a Big Difference},
+  url              = {https://en.wikipedia.org/wiki/The_Tipping_Point},
+  comment          = {The Law of the Few - it only takes a few people to cause a social epidemic, key players are:
+- Connectors: the few people who seem to easily connect to very many
+- Mavens: the people who specialise in information
+- Salesmen: the people who persuade
+
+The stickiness factor - something makes the message unforgettable
+
+The power of context - the environment is strongly influential
+- studies showing crime/criminality/lying/etc. are more influence by environment that background
+- studies showing how the grouping of people impacts social epidemnics e.g. book groups that cause books to become bestsellers
+
+Rule of 150 - that channel capacity of brain for social groups is limited. In this book it suggests that its around 150 people - any individual cannot keep track or more than the relationships that occur within a group of around 150 people [other studies find other numbers I believe]. This organisations that take care to keep groups to this size function well often, e.g. Gore & Associates who split when their groups exceed 150 people, and who require little hierarchy as a result
+
+The description of this latter example made links for me with Scott2020, in which the creation of "legibility" for governments (and leaders of organisations) can destroy the functionality of the country/city/organisation. - people have intrinsic ways of working out how to function together which may appear chaotic on the outside but work extremely efficiently},
+  creationdate     = {2023-06-14T10:05:11},
+  keywords         = {transformation, organisations},
+  modificationdate = {2023-06-14T13:15:13},
+  owner            = {ISargent},
+}
+
+@InBook{McGregor1966,
+  author           = {Douglas M. McGregor},
+  booktitle        = {Readings in Managerial Psychology},
+  date             = {1966},
+  title            = {The Human Side of Enterprise},
+  editor           = {Harold J. Leavitt and Louis R. Pondy and Dave M. Boje},
+  url              = {https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Motivation/McGregor_The_Human_Side_of_Enterprise.pdf},
+  comment          = {Theory X about management says  that workers are lazy, stupid, indolent, gullible and need either a hard/strong approach (coercian and threat) or a soft/weak approach (to make them tractable). Both have downsides.
+
+Recent studies are finding they may be so, but its is not their inherent nature but the nature of industrial organisations.
+
+The hierarchy of needs (physioslogical and safety, then social, ego and self-fulfillment). ``A satisfied need is not a motivator of behaviour''
+
+``many studies have demonstrated that the tightly knit, cohesive work group may, under proper conditions, be far more effective than an equal number of separate individual in achieving organisational goals''
+
+Scientific management often works to reduce social connection (my word) and mechanistic production give little heed to egoistic human needs.
+
+passivity, hostility, refusal to accept responsiblity, lack of productivity are symptoms of unmet needs - often higher needs
+
+Good wages, conditions, benefits etc. support physiological and safety needs but other needs must be met
+
+Theory Y about management says that mgt are reponsible for money, materials, people, etc, staff are not passive, resistent by nature. Mgt is responsible for enabling staff to achieve their won goals with their own eforts - creating opportunities.
+
+Applications of theory Y:
+- decentralisation and delegation
+- job enlargement
+- participation and consultative management
+- performance appraisal - ``highly tentative'' - setting one's own tragets
+
+Consider also Simon1991},
+  creationdate     = {2023-06-14T11:46:08},
+  keywords         = {bureaucracy, management, social science, organisations},
+  modificationdate = {2023-06-15T07:58:32},
+  owner            = {ISargent},
+}
+
+@Online{Marcus2023AGI,
+  author           = {Gary Marcus},
+  date             = {2023-03-28},
+  title            = {AI risk ≠ AGI risk},
+  url              = {https://garymarcus.substack.com/p/ai-risk-agi-risk},
+  comment          = {Comment on why he agrees with HInton
+
+Also that risks are serious and near-term
+
+e.g. bad actors and self-improving machines [my reading: e.g. machines that optimise to maximise terror for terrorists)
+
+``The real issue is control''},
+  creationdate     = {2023-06-15T08:20:38},
+  modific

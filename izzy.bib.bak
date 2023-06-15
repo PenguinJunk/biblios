@@ -14563,9 +14563,9 @@ The description of this latter example made links for me with Scott2020, in whic
 
 Recent studies are finding they may be so, but its is not their inherent nature but the nature of industrial organisations.
 
-The hierarchy of needs (physioslogical and safety, then social, ego and self-fulfillment). "A satisfied need is not a motivator of behaviour"
+The hierarchy of needs (physioslogical and safety, then social, ego and self-fulfillment). ``A satisfied need is not a motivator of behaviour''
 
-"many studies have demonstrated that the tightly knit, cohesive work group may, under proper conditions, be far more effective than an equal number of separate individual in achieving organisational goals"
+``many studies have demonstrated that the tightly knit, cohesive work group may, under proper conditions, be far more effective than an equal number of separate individual in achieving organisational goals''
 
 Scientific management often works to reduce social connection (my word) and mechanistic production give little heed to egoistic human needs.
 
@@ -14579,10 +14579,12 @@ Applications of theory Y:
 - decentralisation and delegation
 - job enlargement
 - participation and consultative management
-- performance appraisal - ``highly tentative'' - setting one's own tragets},
+- performance appraisal - ``highly tentative'' - setting one's own tragets
+
+Consider also Simon1991},
   creationdate     = {2023-06-14T11:46:08},
   keywords         = {bureaucracy, management, social science, organisations},
-  modificationdate = {2023-06-14T13:15:07},
+  modificationdate = {2023-06-15T07:58:32},
   owner            = {ISargent},
 }
 
