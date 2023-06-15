@@ -14733,10 +14733,44 @@ Mission 3: Build confidence in the future geospatial ecosystem
 - A strategic approach to data access
 - Skills
 
-Nothing on 3D},
+Nothing on 3D - but mainly strategic with quite a few objectives to be delivered in 2023 and 2024},
   creationdate     = {2023-06-15T15:57:19},
   keywords         = {strategy, geospatial},
-  modificationdate = {2023-06-15T16:07:33},
+  modificationdate = {2023-06-15T16:08:01},
+  owner            = {ISargent},
+}
+
+@Report{Vallance2023,
+  author           = {Patrick Vallance},
+  date             = {2023},
+  institution      = {HM Government},
+  title            = {Pro-innovation Regulation of Technologies Review: Digital Technologies},
+  url              = {https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies},
+  comment          = {There's a response to this here: \url{https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies}
+
+Very much about reducing red tape, I think less about increasing incentives to do the right thing...?
+
+Recommendations:
+Sandboxing - Recommendation 1: Government should work with regulators to develop a multiregulator sandbox for AI to be in operation within the next six months
+Generative AI - Recommendation 2: Government should announce a clear policy position on the relationship between intellectual property law and generative AI to provide confidence to innovators and investors.
+Data - Recommendation 3: Facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the
+government’s public services transformation programme.
+Transport - Recommendation 4: The government should bring forward the Future of Transport Bill to unlock innovation across automated transport applications.
+
+Drones - work with and empower CAA, amend regulation of raio communications
+Data - update guidance on who is controller etc with AI services
+Space and satellite technologies - reduce regulatory constraints
+Cyber Security - stronger legal protections for cyber security reseearchers
+Looking ahead to newly emerging technologies - ``One message that comes across clearly from industry is that the government should avoid regulating emerging digital technologies too early, to avoid the risk of stifling innovation. We therefore recommend that the government and regulators should continue to engage with industry on issues around safety, risk and benefits of innovation, and that the government and regulators should rapidly build capability and know-how to enable them to positively shape regulatory frameworks at the right time. ''
+
+Challenges:
+-Fragmentation
+-Pacing
+-Skills
+-Incetives},
+  creationdate     = {2023-06-15T16:09:32},
+  keywords         = {ai, trust, digital},
+  modificationdate = {2023-06-15T16:19:07},
   owner            = {ISargent},
 }
 
