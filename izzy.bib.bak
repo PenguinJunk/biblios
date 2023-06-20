@@ -14795,4 +14795,40 @@ Mostly quite abstract, lots to be verified and discovered.
   owner            = {ISargent},
 }
 
+@Article{,
+  creationdate     = {2023-06-20T11:46:59},
+  modificationdate = {2023-06-20T11:46:59},
+  owner            = {ISargent},
+}
+
+
+
+
+
+
+@Article{JuliussonKG2005,
+  author           = {E. \'{A}sgeir Juliusson and Niklas Karlsson and Tommy G\"{a}rling},
+  date             = {2005},
+  journaltitle     = {European Journal of Cognitive Psychology},
+  title            = {Weighing the past and the future in decision making},
+  doi              = {10.1080/09541440440000159},
+  eprint           = {https://doi.org/10.1080/09541440440000159},
+  number           = {4},
+  pages            = {561-575},
+  url              = {https://doi.org/10.1080/09541440440000159},
+  volume           = {17},
+  comment          = {undertakes two experiments to determine which theories about why people continue to invest irrationally due to what has been described of ``sunk cost''
+
+Find that decision about whether to continue to invest (escalate commitment) uses prior losses AND prior gains. When future information is available this is used but past is not fully discounted.
+
+Outlines proposed explanations of escalation of commitment: - over-generalisation of a ``don't waste'' decision rule
+- a need for justification to self or others
+- discontinuing or continuing a chosencourse of action is interpreted as a choice between a sure and an uncertain loss},
+  creationdate     = {2023-06-20T11:47:26},
+  keywords         = {economics, decisions, psychology},
+  modificationdate = {2023-06-20T11:54:10},
+  owner            = {ISargent},
+  publisher        = {Routledge},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
