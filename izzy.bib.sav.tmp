@@ -14734,4 +14734,123 @@ Mission 3: Build confidence in the future geospatial ecosystem
 - A strategic approach to data access
 - Skills
 
-Nothing on 3D - but mai
+Nothing on 3D - but mainly strategic with quite a few objectives to be delivered in 2023 and 2024},
+  creationdate     = {2023-06-15T15:57:19},
+  keywords         = {strategy, geospatial},
+  modificationdate = {2023-06-15T16:08:01},
+  owner            = {ISargent},
+}
+
+@Report{Vallance2023,
+  author           = {Patrick Vallance},
+  date             = {2023},
+  institution      = {HM Government},
+  title            = {Pro-innovation Regulation of Technologies Review: Digital Technologies},
+  url              = {https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies},
+  comment          = {There's a response to this here: \url{https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies}
+
+Very much about reducing red tape, I think less about increasing incentives to do the right thing...?
+
+Recommendations:
+Sandboxing - Recommendation 1: Government should work with regulators to develop a multiregulator sandbox for AI to be in operation within the next six months
+Generative AI - Recommendation 2: Government should announce a clear policy position on the relationship between intellectual property law and generative AI to provide confidence to innovators and investors.
+Data - Recommendation 3: Facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the
+government’s public services transformation programme.
+Transport - Recommendation 4: The government should bring forward the Future of Transport Bill to unlock innovation across automated transport applications.
+
+Drones - work with and empower CAA, amend regulation of raio communications
+Data - update guidance on who is controller etc with AI services
+Space and satellite technologies - reduce regulatory constraints
+Cyber Security - stronger legal protections for cyber security reseearchers
+Looking ahead to newly emerging technologies - ``One message that comes across clearly from industry is that the government should avoid regulating emerging digital technologies too early, to avoid the risk of stifling innovation. We therefore recommend that the government and regulators should continue to engage with industry on issues around safety, risk and benefits of innovation, and that the government and regulators should rapidly build capability and know-how to enable them to positively shape regulatory frameworks at the right time. ''
+
+Challenges:
+-Fragmentation
+-Pacing
+-Skills
+-Incetives},
+  creationdate     = {2023-06-15T16:09:32},
+  keywords         = {ai, trust, digital},
+  modificationdate = {2023-06-15T16:19:07},
+  owner            = {ISargent},
+}
+
+@Online{Maltby2023,
+  author           = {Paul Maltby},
+  date             = {2023-06-09},
+  title            = {Government as a Platform 2.0: How government publishing needs to change in a world of generative AI},
+  url              = {https://medium.com/@maltbyps/government-as-a-platform-2-0-how-government-publishing-needs-to-change-in-a-world-of-generative-ai-82eecd9d9222},
+  comment          = {Discussion of large language models used as part of government as a platform GaaP.
+
+Mostly quite abstract, lots to be verified and discovered. 
+
+``At Faculty, we have seen good results from using natural language processing algorithms to understand what type of content is contained in which sections of long documents, so that we only pass the right sections into the GPT-4 model. Passing a thousand page document into the GPT-4 prompt costs around £15 a time currently, which can soon add up for a web-scale service''
+
+``maybe LLMs do not need good content design to present clear information back to people ... our early work with the latest generation of LLMs suggest an incredible ability to create clear, sophisticated and accurate summaries from messy, lengthy and even technical information''
+
+`` early use-case for LLMs in government ... regulators and operational arms-length bodies to better communicate to both internal and external users the rules for specific use cases based on their own complex operational and technical guidance, legislation and ... case law from The National Archives},
+  creationdate     = {2023-06-20T11:23:34},
+  keywords         = {AI, NLP, LLM, government, bureaucracy, digital, transformation},
+  modificationdate = {2023-06-20T11:28:05},
+  owner            = {ISargent},
+}
+
+@Article{,
+  creationdate     = {2023-06-20T11:46:59},
+  modificationdate = {2023-06-20T11:46:59},
+  owner            = {ISargent},
+}
+
+
+
+
+
+
+@Article{JuliussonKG2005,
+  author           = {E. \'{A}sgeir Juliusson and Niklas Karlsson and Tommy G\"{a}rling},
+  date             = {2005},
+  journaltitle     = {European Journal of Cognitive Psychology},
+  title            = {Weighing the past and the future in decision making},
+  doi              = {10.1080/09541440440000159},
+  eprint           = {https://doi.org/10.1080/09541440440000159},
+  number           = {4},
+  pages            = {561-575},
+  url              = {https://doi.org/10.1080/09541440440000159},
+  volume           = {17},
+  comment          = {undertakes two experiments to determine which theories about why people continue to invest irrationally due to what has been described of ``sunk cost''
+
+Find that decision about whether to continue to invest (escalate commitment) uses prior losses AND prior gains. When future information is available this is used but past is not fully discounted.
+
+Outlines proposed explanations of escalation of commitment: - over-generalisation of a ``don't waste'' decision rule
+- a need for justification to self or others
+- discontinuing or continuing a chosencourse of action is interpreted as a choice between a sure and an uncertain loss},
+  creationdate     = {2023-06-20T11:47:26},
+  keywords         = {economics, decisions, psychology},
+  modificationdate = {2023-06-20T11:54:10},
+  owner            = {ISargent},
+  publisher        = {Routledge},
+}
+
+@InBook{Kay2019,
+  author           = {Avi Kay},
+  booktitle        = {The Next Phase of Business Ethics: Celebrating 20 Years of REIO},
+  date             = {2019-09-04},
+  title            = {The Future of Business Ethics and the Individual Decision Maker},
+  url              = {https://www.emerald.com/insight/content/doi/10.1108/S1529-209620190000021007/full/html},
+  comment          = {Look at the history of business ethics to consider its future in the context of training future business decision-makers
+
+Some useful points considering business decision making in the future
+
+``the “forecasting business” is – at best – an imperfect endeavor. This task may, however, never have been as daunting as today, in this age of multiple disruptions: social, economic, spiritual, and technological''
+
+`an examination of the field of business ethics seems to point to the fact that at its different stages in its existence it has been coopted in the service of aims other than simply to promote ethical behavior ...
+- ... help establish and secure the status of business as a “real” profession [in early days] ...
+- ...  a means to impede the spread of communism by showing that market economies work best [in Cold War] ...
+- ... to (re)establish the legitimacy of business and stem the tide of waning public trust in business [recently, e.g. CSR] ...
+- the business citizen exhibits good citizenship simply by creating wealth [now, still CSR]''
+
+``result of the increased interest in CSR is the displacement of focus away from the individual decision maker and their personality, proclivities and problems''
+
+Summary of Millennials in relation to decision-making as they are likely to be future business leaders. One of many interesting characteristics of Millennials is ``hyper-mobility'' - they expect to change jobs a great deal. [Iz: This is an aspect of increasing business volatility and a reason for strong knowledge management]
+
+``the argument “ethics for ethics’ sake” may – actually – resonate particularly well with members of the Millennial genera

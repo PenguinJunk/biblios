@@ -14831,4 +14831,34 @@ Outlines proposed explanations of escalation of commitment: - over-generalisatio
   publisher        = {Routledge},
 }
 
+@InBook{Kay2019,
+  author           = {Avi Kay},
+  booktitle        = {The Next Phase of Business Ethics: Celebrating 20 Years of REIO},
+  date             = {2019-09-04},
+  title            = {The Future of Business Ethics and the Individual Decision Maker},
+  comment          = {Look at the history of business ethics to consider its future in the context of training future business decision-makers
+
+Some useful points considering business decision making in the future
+
+``the “forecasting business” is – at best – an imperfect endeavor. This task may, however, never have been as daunting as today, in this age of multiple disruptions: social, economic, spiritual, and technological''
+
+`an examination of the field of business ethics seems to point to the fact that at its different stages in its existence it has been coopted in the service of aims other than simply to promote ethical behavior ...
+- ... help establish and secure the status of business as a “real” profession [in early days] ...
+- ...  a means to impede the spread of communism by showing that market economies work best [in Cold War] ...
+- ... to (re)establish the legitimacy of business and stem the tide of waning public trust in business [recently, e.g. CSR] ...
+- the business citizen exhibits good citizenship simply by creating wealth [now, still CSR]''
+
+``result of the increased interest in CSR is the displacement of focus away from the individual decision maker and their personality, proclivities and problems''
+
+Summary of Millennials in relation to decision-making as they are likely to be future business leaders. One of many interesting characteristics of Millennials is ``hyper-mobility'' - they expect to change jobs a great deal. [Iz: This is an aspect of increasing business volatility and a reason for strong knowledge management]
+
+``the argument “ethics for ethics’ sake” may – actually – resonate particularly well with members of the Millennial generation destined to be those making business decisions in coming decades'' 
+
+``we are likely facing a situation in which the fluidity of change in the business world will severely limit the ability of law and perhaps even societal mechanisms dictating norms to keep pace with that change and the associated business dilemmas that may emerge''},
+  creationdate     = {2023-06-20T13:24:08},
+  keywords         = {trust, economics, ethics, business, decisions, transformation},
+  modificationdate = {2023-06-20T13:41:03},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
