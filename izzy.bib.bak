@@ -14896,13 +14896,26 @@ Suggest research is needed to understand if lack of empathic understanding, or p
   owner            = {ISargent},
 }
 
-@Online{,
-  title            = {How conspiracy theories emerge – and how their storylines fall apart},
-  url              = {https://newsroom.ucla.edu/releases/how-conspiracy-theories-emerge-and-fall-apart},
-  comment          = {This is the work using graphs to analyse conspiracies (actors are connected by nodes) that finds a difference in the graphs for real conspiracies compared to comspiracy theories},
+@Article{TangherliniSSER2020,
+  author           = {Tangherlini, Timothy R. AND Shahsavari, Shadi AND Shahbazi, Behnam AND Ebrahimzadeh, Ehsan AND Roychowdhury, Vwani},
+  date             = {2020},
+  journaltitle     = {PLOS ONE},
+  title            = {An automated pipeline for the discovery of conspiracy and conspiracy theory narrative frameworks: Bridgegate, Pizzagate and storytelling on the web},
+  doi              = {10.1371/journal.pone.0233879},
+  number           = {6},
+  pages            = {1-39},
+  url              = {https://doi.org/10.1371/journal.pone.0233879},
+  volume           = {15},
+  comment          = {This is the work using graphs to analyse conspiracies (actors are connected by nodes) that finds a difference in the graphs for real conspiracies compared to comspiracy theories
+
+See also \url{https://newsroom.ucla.edu/releases/how-conspiracy-theories-emerge-and-fall-apart}},
   creationdate     = {2023-06-21T15:28:28},
-  modificationdate = {2023-06-21T15:30:00},
+  keywords         = {graph, trust},
+  modificationdate = {2023-06-21T17:11:15},
+  month            = {06},
   owner            = {ISargent},
+  publisher        = {Public Library of Science},
+  year             = {2020},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
