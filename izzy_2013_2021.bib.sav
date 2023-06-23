@@ -13149,13 +13149,13 @@ Decoder reconstructs images using latent representations and the mask tokens.
 
 @Article{SargentHH2015,
   author           = {Isabel Sargent and David Holland and Jenny Harding},
-  date             = {2015/12/21},
+  date             = {2015-12-21},
   journaltitle     = {ISPRS International Journal of Geo-Information},
   title            = {The building blocks of user-focused 3D city models},
   issue            = {4},
   volume           = {4},
   creationdate     = {2023-06-23T16:56:59},
-  modificationdate = {2023-06-23T16:58:02},
+  modificationdate = {2023-06-23T16:58:41},
   owner            = {izzy_olivine},
 }
 
