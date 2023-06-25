@@ -14912,4 +14912,64 @@ See also \url{https://newsroom.ucla.edu/releases/how-conspiracy-theories-emerge-
   year             = {2020},
 }
 
+@Article{Kopp2023,
+  author           = {Kopp, Robert E. and Oppenheimer, Michael and O’Reilly, Jessica L. and Drijfhout, Sybren S. and Edwards, Tamsin L. and Fox-Kemper, Baylor and Garner, Gregory G.and Golledge, Nicholas R.and Hermans, Tim H. J. and Hewitt, Helene T. and Horton, Benjamin P. and Krinner, Gerhard and Notz, Dirk and Nowicki, Sophie and Palmer, Matthew D. and Slangen, Aim\'{e}e B. A. and Xiao, Cunde},
+  date             = {2023-06-19},
+  journaltitle     = {Nature Climate Change},
+  title            = {Communicating future sea-level rise uncertainty and ambiguity to assessment users},
+  doi              = {10.1038/s41558-023-01691-8},
+  pages            = {1758--6798},
+  url              = {https://www.nature.com/articles/s41558-023-01691-8},
+  comment          = {Describes the iterative refinement of how uncertainty (individual models are uncertain) and ambiguity (multiple models have different predicted outcomes) in IPCC reports are presented to support better guidance for users with different risk tolerances.
+
+Could this offer insights into presenting uncertainty and ambiguity in other data?
+
+Focus is on reporting of sea-level rise, quite a bit of detail of West Antarctic Ice Sheet},
+  creationdate     = {2023-06-25T12:52:56},
+  journal          = {Nature Climate Change},
+  keywords         = {climate, communication, trust, decisions},
+  modificationdate = {2023-06-25T12:52:56},
+  owner            = {izzy_olivine},
+  year             = {2023},
+}
+
+@Article{HalttunenSS2022,
+  author           = {Krista Halttunen and Raphael Slade and Iain Staffell},
+  date             = {2022},
+  journaltitle     = {Energy Research & Social Science},
+  title            = {“We don't want to be the bad guys”: Oil industry's sensemaking of the sustainability transition paradox},
+  doi              = {https://doi.org/10.1016/j.erss.2022.102800},
+  issn             = {2214-6296},
+  pages            = {102800},
+  url              = {https://www.sciencedirect.com/science/article/pii/S2214629622003036},
+  volume           = {92},
+  abstract         = {The operating model of the global oil industry is not compatible with the goals of the Paris Agreement. For the industry, there is a fundamental tension between two competing mandates: the pressure to contribute to the social goal of climate change mitigation, and the need to perform financially and meet obligations to shareholders in activities that directly contribute to climate change. To explore the range of responses to the tension, we interview professionals from large international oil companies who work or have worked in climate related roles. This is novel data from a professional group that has not previously been interviewed in depth about climate change. We develop a framework of six archetypical responses to tension within the oil industry. Examples of strategic responses include accepting the paradox to choose priorities other than climate change mitigation and confronting the paradox to demand changes to the way the oil industry operates. Examples of defensive responses include the transfer of responsibility and projection of tension to other stakeholders. Responses calling for change in the oil industry are the most common among people who have left the industry and the least common for participants from companies headquartered outside of Europe. In a field marked by controversies and value-based debates, a better understanding of the views of people working on the energy transition inside the oil industry provides new insight into the discussion about possible routes to the sustainability transition.},
+  comment          = {Useful structure for reporting on outputs of semi-structured interviews
+
+interesting review of literature of paradox in management ``A paradox-oriented frame of mind can help managers navigate the complexity and interconnectedness of sustainability concerns in the context of business''
+
+and sensemaking in the face of paradox ``Sensemaking is widely used as a research framing for studying organisational adaptation and change''
+
+``The research is inductive: themes emerging from the collected data are identified with the aim of mapping them onto a theoretical framework around the concepts of sensemaking and tension''
+
+Responses to identified paradox fall into two groups of archytypes:
+Strategic:
+- Acceptance - different priorities
+- Confrontation - change is needed
+- Transcendence - business and climate objectives align
+Defensive:
+- Transfer of responsibility - it's someone else's job
+- Projection of tension - others have it worse
+- Questioning realism - change will be slower and harder than you think
+
+Defensive responses are broken down further:
+- Transfer: Government; Public; Investors
+- Projection: Other oil companies; other industries; public
+- Questioning: Pace of change; Energy mix},
+  creationdate     = {2023-06-25T12:55:36},
+  keywords         = {tranformation, climate, decisions, trust},
+  modificationdate = {2023-06-25T13:40:57},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
