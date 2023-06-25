@@ -4564,13 +4564,14 @@ Perform data augmentation to address under represented classes.},
 }
 
 @Unpublished{SargentEuroSDR2012,
-  Title                    = {Goals and requirements of {E}uropean {N}ational {M}apping {O}rganisations for change detection Findings of the {E}uro{SDR} Working Group on {C}ommon goals and requirements for {NMA}s in change detection},
-  Author                   = {Isabel Sargent and Andr\'{e} Streilein and Pilemann Olsen, Brian and Christine Ressl and Emilio Domenech and Hugues Bruynseels and Mark Tabor and Poul Frederiksen and Tobias Kellenberger and Thomas Lit\'{e}n and Nicolas Champion},
-  Year                     = {2012},
-
-  Keywords                 = {ImageLearn},
-  Owner                    = {ISargent},
-  creationdate                = {2016.06.21}
+  author           = {Isabel Sargent and Andr\'{e} Streilein and Pilemann Olsen, Brian and Christine Ressl and Emilio Domenech and Hugues Bruynseels and Mark Tabor and Poul Frederiksen and Tobias Kellenberger and Thomas Lit\'{e}n and Nicolas Champion},
+  date             = {2012},
+  title            = {Goals and requirements of {E}uropean {N}ational {M}apping {O}rganisations for change detection Findings of the {E}uro{SDR} Working Group on {C}ommon goals and requirements for {NMA}s in change detection},
+  creationdate     = {2016.06.21},
+  keywords         = {ImageLearn},
+  modificationdate = {2023-06-23T16:59:55},
+  owner            = {ISargent},
+  year             = {2012},
 }
 
 @Misc{SargentYSH2016,

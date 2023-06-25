@@ -6491,10 +6491,9 @@ Focus is on reporting of sea-level rise, quite a bit of detail of West Antarctic
   date             = {2023-06-19},
   doi              = {10.1038/s41558-023-01691-8},
   journaltitle     = {Nature Climate Change},
-  keywords         = {climate, communication, trust, decisions},
-  modificationdate = {2023-06-25T12:52:17},
+  modificationdate = {2023-06-25T12:44:26},
   owner            = {izzy_olivine},
-  url              = {https://www.nature.com/articles/s41558-023-01691-8},
+  url              = {https://doi.org/10.1038/s41558-023-01691-8},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
