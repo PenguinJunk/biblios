@@ -15034,6 +15034,8 @@ Identifies tension that may be experienced between practitioners (e.g. data scie
 
 @Article{CyertST1956,
   author           = {Richard M. Cyert and Herbert A. Simon and Donald B. Trow},
+  date             = {1956},
+  journaltitle     = {The Journal of Business},
   title            = {Observation of a Business Decision},
   issn             = {00219398, 15375374},
   number           = {4},
@@ -15070,10 +15072,58 @@ There are also subprocesses:
   creationdate     = {2023-06-25T15:02:16},
   journal          = {The Journal of Business},
   keywords         = {business, decisions},
-  modificationdate = {2023-06-25T15:19:23},
+  modificationdate = {2023-06-25T15:26:31},
   owner            = {izzy_olivine},
   publisher        = {University of Chicago Press},
   year             = {1956},
+}
+
+@Report{,
+  author           = {Ann Light and Deborah Mason and Andrew Greenway and {One Team Gov} and Vik Sasi and Stephen Muers and Simon Parker and Guillermo Ortego and Adam Fletcher and Kevin Morgan and Charles Sabel and {Centre for Public Impact} and Anna Schlimm and Jacob Chabeaux and Greg Falconer and Nell Watson and Cat Drew and Stephen Bennett and Liv Bargman and Pheobe Ridgway and Phil Booth and Charles Ikem and Harry Farmer and Rachel Burgon},
+  institution      = {NESTA},
+  title            = {Radical Visions of Future Government},
+  eprint           = {https://media.nesta.org.uk/documents/Radical_Visions_of_Future_Government_-_final.pdf},
+  url              = {https://www.nesta.org.uk/report/radical-visions-future-government/},
+  comment          = {Different views of what government of the future could be like
+
+Earth 2030: Governance for life on an evolving planet
+Takes the form of an aged job description, employment contract, brief and traning manual for someone working in local government in a region of the UK that is already subject to severe impacts of climate change and the role is about nurturing the community
+
+Report on the organisation of the permanent civil service, 2030. Based on the Northcode-Trevelyan Report of 1854, into civil service reform. The themes are still pertinent: selection, progression, organisation and regulation. Scrapping individual performance reviews for civil servants - its by Andrew Greenway - the team is the unit of delivery!
+
+Radical visions up to the year 2030: ``imaginative, challenging, optimistic and radical'' - in 2017 two civil servants set up One Team Gov , turned into global community that was no longer needed by 2030 - ``we welcome the new rebels''
+
+Feasibility study: Sacrosanctuary, a state for the stateless (well worth considering!)
+
+How Donald Trump shows us the future - leaders already have little to do with the services we experience - that's down to street-level bureaucrats and others -, so why not make leadership about context-shaping - symbols and narratives -  rather than policy design and control?
+
+Beneath the Stones - a man wakes in a future world in which work is abolished
+
+Health investment team annual report 2030 - looking back from 2030 at how new HITs changed the Welsh nation's health by investing across government
+
+The experimentalist polity - a new kind of governance based on local experiment
+
+The future of government is in your hands - seems to be a set of playing cards
+
+The others - a third space for those who do not want to partake in existing power, politics, economics, etc
+
+The government that couldn't forget - Elephant is a system that means that nothing in government is never forgotten and policy-making is iteratively improved - and Elephant won't allow policy that will fail, publically. But its been disabled - unfortunately for the team this was noticed and the biometric identifiers policy was not passed without scrutiny.
+
+Automatex externality accounting - using machine intelligence to calculate the impacts to people, society and the environment of activies.
+
+Forst of the future? - artworks and descriptions of the future of forests, even in urban areas
+
+Government Response to the ad hoc Select Committee of the House of Lords on the 29th February Data Losses - discussing the implications and actions following a massive data breach in government
+
+Life after the state - Government as a digital ideology, digital public infrastructure, government as a platform
+
+A day in the life of the Department for Democratic AI - story illustrating issues around AI and trust. Everyone writing code must undergo ethics training. Citizens councils help set regulations, because the councils change, and people's morals vary, so do the regulations. Every time you got in your car, it would ask you to reconfirm how you wanted it to behave: ``before we set off, Mr Smith, I’ll need you to confirm: would you like me to protect the car’s occupants at all costs, or to minimise overall casualties and loss of life?''
+
+Overturning parliament - Its 2030, looking back: the house of commons was too focussed on party politics ``costly, ineffective and antagonistic model of governance'' the house of lords does not represent the diversity of socety and didn't see legislation until it was draft and delays etc (despite have expertise and insight in this area) could be seen as anti-democratic. After the chaos of brexit, march on parliament, the lower house then became peers and randomly selected members of the public, who proposed law, the upper house is the people who are voted in.},
+  creationdate     = {2023-06-25T15:39:55},
+  keywords         = {future, transformation, government, trust, climate},
+  modificationdate = {2023-06-25T16:36:46},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
