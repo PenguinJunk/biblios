@@ -15027,8 +15027,53 @@ Identifies tension that may be experienced between practitioners (e.g. data scie
 
 ``The way to resolve the mission vs. practice tension ... to name it and to work hard to more sharply specify the nature of each loyalty''},
   creationdate     = {2023-06-25T14:09:32},
-  modificationdate = {2023-06-25T14:54:03},
+  keywords         = {agile, transformation, mission, practice, organisation},
+  modificationdate = {2023-06-25T14:57:24},
   owner            = {izzy_olivine},
+}
+
+@Article{CyertST1956,
+  author           = {Richard M. Cyert and Herbert A. Simon and Donald B. Trow},
+  title            = {Observation of a Business Decision},
+  issn             = {00219398, 15375374},
+  number           = {4},
+  pages            = {237--248},
+  url              = {http://www.jstor.org/stable/2350807},
+  urldate          = {2023-06-25},
+  volume           = {29},
+  comment          = {In economics and statistics  the rational choice process:
+- number of different specified alternative courses of action
+- each has a set of consequences which will ensue if that alternative is chosen
+- set of preferences (``utilities'') that permit ranking of consequences - in business decisions ranking criterion is assumed to be profit
+
+Missing from this model when considering real human beings are:
+- the alternatives are often not given, but sought, which is thus part of the process
+- the information is seldom given and so searching for consequences is another part of the process
+- the comparisons are usually not made in terms of a single criterion, search is therefore often for a satisfactory alternative
+- the problem is also often not given, searching for significant problems becomes and important organisational task
+
+Paper details a decision in detail as it progresses through a company
+
+Identify the processes from which the decision comprises, each designed as a program:
+- keeping-up program - search for and correspond with experts, sales and equipments users, journals
+- procurement program - discuss application, choice accept/reject, transfer control to salesmen or consultants
+- consultant program - search for for choise consultant, transfer control to consultant
+
+There are also subprocesses:
+- Common processes:
+  - Communication processes
+  - Problem-solving processes
+
+``the comparability and non-comparability of the criteria of choice affects the decision processes in significant ways''
+
+``our illustration suggests that search processes and information-gathering processes constitute significant parts of decision-making and must be incorporated in a theory of decision''},
+  creationdate     = {2023-06-25T15:02:16},
+  journal          = {The Journal of Business},
+  keywords         = {business, decisions},
+  modificationdate = {2023-06-25T15:19:23},
+  owner            = {izzy_olivine},
+  publisher        = {University of Chicago Press},
+  year             = {1956},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
