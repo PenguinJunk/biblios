@@ -13980,8 +13980,8 @@ Aspects of sustainability competencies which are particularly important for deci
 
 Referencers Polanyi's Great Transformation},
   creationdate     = {2023-05-16T15:33:51},
-  keywords         = {business decisions, environment},
-  modificationdate = {2023-05-16T16:24:51},
+  keywords         = {business, decisions, environment},
+  modificationdate = {2023-06-25T13:44:39},
   owner            = {ISargent},
 }
 
@@ -14946,9 +14946,11 @@ Focus is on reporting of sea-level rise, quite a bit of detail of West Antarctic
   abstract         = {The operating model of the global oil industry is not compatible with the goals of the Paris Agreement. For the industry, there is a fundamental tension between two competing mandates: the pressure to contribute to the social goal of climate change mitigation, and the need to perform financially and meet obligations to shareholders in activities that directly contribute to climate change. To explore the range of responses to the tension, we interview professionals from large international oil companies who work or have worked in climate related roles. This is novel data from a professional group that has not previously been interviewed in depth about climate change. We develop a framework of six archetypical responses to tension within the oil industry. Examples of strategic responses include accepting the paradox to choose priorities other than climate change mitigation and confronting the paradox to demand changes to the way the oil industry operates. Examples of defensive responses include the transfer of responsibility and projection of tension to other stakeholders. Responses calling for change in the oil industry are the most common among people who have left the industry and the least common for participants from companies headquartered outside of Europe. In a field marked by controversies and value-based debates, a better understanding of the views of people working on the energy transition inside the oil industry provides new insight into the discussion about possible routes to the sustainability transition.},
   comment          = {Useful structure for reporting on outputs of semi-structured interviews
 
-interesting review of literature of paradox in management ``A paradox-oriented frame of mind can help managers navigate the complexity and interconnectedness of sustainability concerns in the context of business''
+Also useful review of literature of paradox management and sensemenaking in the face of paradox
 
-and sensemaking in the face of paradox ``Sensemaking is widely used as a research framing for studying organisational adaptation and change''
+``A paradox-oriented frame of mind can help managers navigate the complexity and interconnectedness of sustainability concerns in the context of business''
+
+``Sensemaking is widely used as a research framing for studying organisational adaptation and change''
 
 ``The research is inductive: themes emerging from the collected data are identified with the aim of mapping them onto a theoretical framework around the concepts of sensemaking and tension''
 
@@ -14968,7 +14970,47 @@ Defensive responses are broken down further:
 - Questioning: Pace of change; Energy mix},
   creationdate     = {2023-06-25T12:55:36},
   keywords         = {tranformation, climate, decisions, trust},
-  modificationdate = {2023-06-25T13:40:57},
+  modificationdate = {2023-06-25T13:41:50},
+  owner            = {izzy_olivine},
+}
+
+@Report{RangerG2011,
+  author           = {Nicola Ranger and Garbett-Shiels, Su-Lin},
+  date             = {2011-03-01},
+  institution      = {London School of Economics and Political Science},
+  title            = {How can decision-makers in developing countries incorporate uncertainty about future climate risks into existing planning and policymaking processes?},
+  eprint           = {https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2014/03/PP_climate-risks-policymaking_Ranger-etal.pdf},
+  url              = {https://www.lse.ac.uk/granthaminstitute/publication/how-can-decision-makers-in-developing-countries-incorporate-uncertainty-about-future-climate-risks-into-existing-planning-and-policymaking-processes/},
+  comment          = {Developing countries have greater vulnerability to climate impacts:
+1. higher exposure to climate, e.g. due to nature of economy
+2. lower capacity to adapt
+[no acknowledgement of why this the case!]
+
+``the incidence of natural catastrophes is similar in developed and developing countries, 90 per cent of deaths from these events occur in the developing world''
+
+
+In a way, nothing Earth-shattering in here, but plenty that is relevant to all economies and probably organisations in a time of greater uncertainty.
+
+Nicholas Stern (2009): adaptation should not be seen as an additional policy agenda to deliver, but as ``development in a harsher climate''
+
+principles relevant to managing uncertainty as well as integrating adaptation within existing priorities:
+- Coordination at national level
+- Broad-based and participatory planning - cross-sectoral government departments, non-government actors, including civil society groups and highly affected communities, and the private sector
+- Programmatic and integrated with existing priorities
+- Looking beyond the short term
+- Implement a continuous process, not a one-off
+- Learning the lessons
+
+`` starting with the adaptation problem itself, rather than the climate models, not only facilitates better integration with existing priorities, but also reduces the data and resources needed for adaptation planning ...  avoids wasting resources on generating information that is not pertinent to making decisions''
+
+Managing uncertainty: focus on principles, not projections:
+- Firstly, consider long-term climate risks within existing planning and policymaking processes - avoid lock-in
+- Secondly, move faster and harder on core development objectives - no-regrets adaptation
+- focus on additional measures that directly reduce vulnerability to current climate-related risks
+- with expensive, long-term projects, seek ‘low-regrets’ ways to build in flexibilit},
+  creationdate     = {2023-06-25T13:49:33},
+  keywords         = {decisions, climate, policy},
+  modificationdate = {2023-06-25T14:05:56},
   owner            = {izzy_olivine},
 }
 
