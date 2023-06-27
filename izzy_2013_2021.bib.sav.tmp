@@ -4563,13 +4563,15 @@ Perform data augmentation to address under represented classes.},
   creationdate                = {2014.11.04}
 }
 
-@Unpublished{SargentEuroSDR2012,
+@Report{SargentEuroSDR2012,
   author           = {Isabel Sargent and Andr\'{e} Streilein and Pilemann Olsen, Brian and Christine Ressl and Emilio Domenech and Hugues Bruynseels and Mark Tabor and Poul Frederiksen and Tobias Kellenberger and Thomas Lit\'{e}n and Nicolas Champion},
   date             = {2012},
+  institution      = {EuroSDR},
   title            = {Goals and requirements of {E}uropean {N}ational {M}apping {O}rganisations for change detection Findings of the {E}uro{SDR} Working Group on {C}ommon goals and requirements for {NMA}s in change detection},
+  subtitle         = {Findings of the EuroSDR Working Group on Common goals and requirements for NMAs in change detection},
   creationdate     = {2016.06.21},
   keywords         = {ImageLearn},
-  modificationdate = {2023-06-23T16:59:55},
+  modificationdate = {2023-06-23T17:31:11},
   owner            = {ISargent},
   year             = {2012},
 }
@@ -13048,116 +13050,4 @@ Take an image, split it into smaller non-overlapping patches and then flatten th
 
 Use simple convolutional layers rather than self attention (as used in ViT).
 
-Spatial- (depth-wise - kernel over space) and channel-wise (point-wise - 1x1 conv) mixing is key.  Convmix layer has depth-wise convs first, followed by residual connection, then pointwise convolution. Preseves the number of channels and spatial extent - output from layer is same dims as input - isotropic model.
-
-Really easy implementation - including a 280 character implementation for twitter!
-
-See also https://www.youtube.com/watch?v=Gl0s0GDqN3c},
-  keywords  = {image machine learning, convolutional neural networks, architecture, training},
-  owner     = {ISargent},
-  creationdate = {2021-11-23},
-  year      = {2022},
-}
-
-@Article{BelloFDCSLSZ2021,
-  author        = {Irwan Bello and William Fedus and Xianzhi Du and Ekin D. Cubuk and Aravind Srinivas and Tsung-Yi Lin and Jonathon Shlens and Barret Zoph},
-  title         = {Revisiting ResNets: Improved Training and Scaling Strategies},
-  eprint        = {2103.07579},
-  url           = {https://arxiv.org/abs/2103.07579},
-  archiveprefix = {arXiv},
-  comment       = {Improvements in ML image recognition performance broadly arise along four orthogonal axes: architecture, training/regularization methodology, scaling strategy and using additional training data. It can be difficult to disentangle the contribution of these.
-
-This paper revisits ResNet with two architectural changes:
-- ResNet-D which replaces the 7x7 conv in the stem with 3 3x3 convolutions as well as changing some stride sizes, swapping 1x1 convultions with 2x2 average pooling and replacing a 3x3 max pooling with a 3x3 convolution
-- Squeeze-and-Excitation - see HuSASW2019
-and various training methods:
-- Matching EfficientNet setup - train over different width, depth and resolution multipliers
-- Weight decay, label smoothing, dropout and stochastic depth (see WightmanTJ2021) regularization
-- Data augmentation (with RandAugment)
-- Hyperparameter tuning
-
-Improving the training methods alone adds 3.2percent to the baseline 79percent top-1 accuracy. The two architectural changes added a further ~1percent
-
-Loads of different experiements - ResNet architectures consistently performing more accurately for time taken on training step than EfficientNet (Pareto Curves).},
-  keywords      = {deep learning, image machine learning, convolutional neural networks, resnets, architecture, training},
-  owner         = {ISargent},
-  primaryclass  = {cs.CV},
-  creationdate     = {2021-11-24},
-  year          = {2021},
-}
-
-@Article{HuSASW2019,
-  author        = {Jie Hu and Li Shen and Samuel Albanie and Gang Sun and Enhua Wu},
-  title         = {Squeeze-and-Excitation Networks},
-  eprint        = {1709.01507},
-  url           = {https://arxiv.org/abs/1709.01507},
-  archiveprefix = {arXiv},
-  comment       = {The Squeeze-and-Excitation paper
-
-
-which average pools signal from the entire feature map (squeeze) to produce a channel descriptor. This vector (one value from each feature maps) is then used to scale the original feature maps (excitation). I think the channel descriptor scales the feature maps using learned weights.
-
-''The function of this descriptor is to produce an embedding of the global distribution of channel-wise feature responses, allowing information from the global receptive field of the network to be used by all its layers''},
-  creationdate  = {2021-11-24},
-  keywords      = {deep learning, image machine learning, convolutional neural networks, resnets, architecture},
-  owner         = {ISargent},
-  primaryclass  = {cs.CV},
-  year          = {2019},
-}
-
-
-@Online{RadfordSKKA2021,
-  author           = {Alec Radford and Ilya Sutskever and Jong Wook Kim and Gretchen Krueger and Sandhini Agarwal},
-  date             = {2021-01-05},
-  title            = {CLIP: ConnectingText and Images},
-  url              = {https://openai.com/blog/clip/},
-  comment          = {Create a more robust  task agnostic pre-trained backbone for image classification by training contrastively against the phrases that are associated with images (e.g. on the web).
-
-Nice
-
-''Our method uses an abundantly available source of supervision: the text paired with images found across the internet. This data is used to create the following proxy training task for CLIP: given an image, predict which out of a set of 32,768 randomly sampled text snippets, was actually paired with it in our dataset.''
-
-Probably a better paper to reference is RadfordEtAl2021},
-  creationdate     = {2021-12-02},
-  keywords         = {deep learning, training, natural language processing, imagery},
-  modificationdate = {2022-06-29T11:09:33},
-}
-
-@Article{HeCXLDG2021,
-  author           = {He, Kaiming and Chen, Xinlei and Xie, Saining and Li, Yanghao and Dollár, Piotr and Girshick, Ross},
-  title            = {Masked Autoencoders Are Scalable Vision Learners},
-  doi              = {10.48550/ARXIV.2111.06377},
-  url              = {https://arxiv.org/abs/2111.06377},
-  comment          = {Unsupervised training by masking out chunks of input image and output should be reconstruction of missing data.
-  
-  Method of training that requires less computation.
-
-Asymmetric encoder-decoder with transformers for both. The encoder's parameter count was roughly an order of magnitude greater than the decoder's.
-
-Input is images with portions masked out. Only the unmasked components are included - not the mask tokens.
-
-Decoder reconstructs images using latent representations and the mask tokens. 
-
-''We accelerate training (by 3x or more) and improve accuracy''.},
-  copyright        = {Creative Commons Attribution 4.0 International},
-  creationdate     = {2021-11-24},
-  keywords         = {Vision transformers, efficiency, deep learning, autoencoder, unsupervised},
-  modificationdate = {2022-07-11T08:40:19},
-  owner            = {ISargent},
-  publisher        = {arXiv},
-  year             = {2021},
-}
-
-@Article{SargentHH2015,
-  author           = {Isabel Sargent and David Holland and Jenny Harding},
-  date             = {2015-12-21},
-  journaltitle     = {ISPRS International Journal of Geo-Information},
-  title            = {The building blocks of user-focused 3D city models},
-  issue            = {4},
-  volume           = {4},
-  creationdate     = {2023-06-23T16:56:59},
-  modificationdate = {2023-06-23T16:58:41},
-  owner            = {izzy_olivine},
-}
-
-@Comment{jabref-meta: databaseType:biblatex;}
+Spatial- (depth-wise - kernel over space) and channel-wise (point-wise - 1x1 conv) mixing is key.  Convmix layer has depth-wise convs first, followed by residual connection, then pointwise convolution. Preseves the number of 

@@ -13980,8 +13980,8 @@ Aspects of sustainability competencies which are particularly important for deci
 
 Referencers Polanyi's Great Transformation},
   creationdate     = {2023-05-16T15:33:51},
-  keywords         = {business decisions, environment},
-  modificationdate = {2023-05-16T16:24:51},
+  keywords         = {business, decisions, environment},
+  modificationdate = {2023-06-25T13:44:39},
   owner            = {ISargent},
 }
 
@@ -14800,12 +14800,6 @@ Mostly quite abstract, lots to be verified and discovered.
   owner            = {ISargent},
 }
 
-@Article{,
-  creationdate     = {2023-06-20T11:46:59},
-  modificationdate = {2023-06-20T11:46:59},
-  owner            = {ISargent},
-}
-
 
 
 
@@ -14916,6 +14910,221 @@ See also \url{https://newsroom.ucla.edu/releases/how-conspiracy-theories-emerge-
   owner            = {ISargent},
   publisher        = {Public Library of Science},
   year             = {2020},
+}
+
+@Article{Kopp2023,
+  author           = {Kopp, Robert E. and Oppenheimer, Michael and O’Reilly, Jessica L. and Drijfhout, Sybren S. and Edwards, Tamsin L. and Fox-Kemper, Baylor and Garner, Gregory G.and Golledge, Nicholas R.and Hermans, Tim H. J. and Hewitt, Helene T. and Horton, Benjamin P. and Krinner, Gerhard and Notz, Dirk and Nowicki, Sophie and Palmer, Matthew D. and Slangen, Aim\'{e}e B. A. and Xiao, Cunde},
+  date             = {2023-06-19},
+  journaltitle     = {Nature Climate Change},
+  title            = {Communicating future sea-level rise uncertainty and ambiguity to assessment users},
+  doi              = {10.1038/s41558-023-01691-8},
+  pages            = {1758--6798},
+  url              = {https://www.nature.com/articles/s41558-023-01691-8},
+  comment          = {Describes the iterative refinement of how uncertainty (individual models are uncertain) and ambiguity (multiple models have different predicted outcomes) in IPCC reports are presented to support better guidance for users with different risk tolerances.
+
+Could this offer insights into presenting uncertainty and ambiguity in other data?
+
+Focus is on reporting of sea-level rise, quite a bit of detail of West Antarctic Ice Sheet},
+  creationdate     = {2023-06-25T12:52:56},
+  journal          = {Nature Climate Change},
+  keywords         = {climate, communication, trust, decisions},
+  modificationdate = {2023-06-25T12:52:56},
+  owner            = {izzy_olivine},
+  year             = {2023},
+}
+
+@Article{HalttunenSS2022,
+  author           = {Krista Halttunen and Raphael Slade and Iain Staffell},
+  date             = {2022},
+  journaltitle     = {Energy Research & Social Science},
+  title            = {“We don't want to be the bad guys”: Oil industry's sensemaking of the sustainability transition paradox},
+  doi              = {https://doi.org/10.1016/j.erss.2022.102800},
+  issn             = {2214-6296},
+  pages            = {102800},
+  url              = {https://www.sciencedirect.com/science/article/pii/S2214629622003036},
+  volume           = {92},
+  abstract         = {The operating model of the global oil industry is not compatible with the goals of the Paris Agreement. For the industry, there is a fundamental tension between two competing mandates: the pressure to contribute to the social goal of climate change mitigation, and the need to perform financially and meet obligations to shareholders in activities that directly contribute to climate change. To explore the range of responses to the tension, we interview professionals from large international oil companies who work or have worked in climate related roles. This is novel data from a professional group that has not previously been interviewed in depth about climate change. We develop a framework of six archetypical responses to tension within the oil industry. Examples of strategic responses include accepting the paradox to choose priorities other than climate change mitigation and confronting the paradox to demand changes to the way the oil industry operates. Examples of defensive responses include the transfer of responsibility and projection of tension to other stakeholders. Responses calling for change in the oil industry are the most common among people who have left the industry and the least common for participants from companies headquartered outside of Europe. In a field marked by controversies and value-based debates, a better understanding of the views of people working on the energy transition inside the oil industry provides new insight into the discussion about possible routes to the sustainability transition.},
+  comment          = {Useful structure for reporting on outputs of semi-structured interviews
+
+Also useful review of literature of paradox management and sensemenaking in the face of paradox
+
+``A paradox-oriented frame of mind can help managers navigate the complexity and interconnectedness of sustainability concerns in the context of business''
+
+``Sensemaking is widely used as a research framing for studying organisational adaptation and change''
+
+``The research is inductive: themes emerging from the collected data are identified with the aim of mapping them onto a theoretical framework around the concepts of sensemaking and tension''
+
+Responses to identified paradox fall into two groups of archytypes:
+Strategic:
+- Acceptance - different priorities
+- Confrontation - change is needed
+- Transcendence - business and climate objectives align
+Defensive:
+- Transfer of responsibility - it's someone else's job
+- Projection of tension - others have it worse
+- Questioning realism - change will be slower and harder than you think
+
+Defensive responses are broken down further:
+- Transfer: Government; Public; Investors
+- Projection: Other oil companies; other industries; public
+- Questioning: Pace of change; Energy mix},
+  creationdate     = {2023-06-25T12:55:36},
+  keywords         = {tranformation, climate, decisions, trust},
+  modificationdate = {2023-06-25T13:41:50},
+  owner            = {izzy_olivine},
+}
+
+@Report{RangerG2011,
+  author           = {Nicola Ranger and Garbett-Shiels, Su-Lin},
+  date             = {2011-03-01},
+  institution      = {London School of Economics and Political Science},
+  title            = {How can decision-makers in developing countries incorporate uncertainty about future climate risks into existing planning and policymaking processes?},
+  eprint           = {https://www.lse.ac.uk/granthaminstitute/wp-content/uploads/2014/03/PP_climate-risks-policymaking_Ranger-etal.pdf},
+  url              = {https://www.lse.ac.uk/granthaminstitute/publication/how-can-decision-makers-in-developing-countries-incorporate-uncertainty-about-future-climate-risks-into-existing-planning-and-policymaking-processes/},
+  comment          = {Developing countries have greater vulnerability to climate impacts:
+1. higher exposure to climate, e.g. due to nature of economy
+2. lower capacity to adapt
+[no acknowledgement of why this the case!]
+
+``the incidence of natural catastrophes is similar in developed and developing countries, 90 per cent of deaths from these events occur in the developing world''
+
+In a way, nothing Earth-shattering in here, but plenty that is relevant to all economies and probably organisations in a time of greater uncertainty.
+
+Nicholas Stern (2009): adaptation should not be seen as an additional policy agenda to deliver, but as ``development in a harsher climate''
+
+principles relevant to managing uncertainty as well as integrating adaptation within existing priorities:
+- Coordination at national level
+- Broad-based and participatory planning - cross-sectoral government departments, non-government actors, including civil society groups and highly affected communities, and the private sector
+- Programmatic and integrated with existing priorities
+- Looking beyond the short term
+- Implement a continuous process, not a one-off
+- Learning the lessons
+
+`` starting with the adaptation problem itself, rather than the climate models, not only facilitates better integration with existing priorities, but also reduces the data and resources needed for adaptation planning ...  avoids wasting resources on generating information that is not pertinent to making decisions''
+
+Managing uncertainty: focus on principles, not projections:
+- Firstly, consider long-term climate risks within existing planning and policymaking processes - avoid lock-in
+- Secondly, move faster and harder on core development objectives - no-regrets adaptation
+- focus on additional measures that directly reduce vulnerability to current climate-related risks
+- with expensive, long-term projects, seek ‘low-regrets’ ways to build in flexibilit},
+  creationdate     = {2023-06-25T13:49:33},
+  keywords         = {decisions, climate, policy},
+  modificationdate = {2023-06-25T14:05:59},
+  owner            = {izzy_olivine},
+}
+
+@Online{Plunkett2023,
+  author           = {James Plunkett},
+  date             = {2023-04-13},
+  title            = {How to solve wicked problems: Practice, practice, practice},
+  url              = {https://medium.com/@jamestplunkett/how-to-solve-wicked-problems-db9461afa917},
+  urldate          = {2023-06-25},
+  comment          = {e Working towards making collaboration conditions more effective at NESTA - mainly developing Agile practice
+
+Compare digital product teams, who are already using Agile with Missions teams, who may not be yet ``here are techniques that could be lifted from product work to mission work, some directly and some through adaptation''
+
+Identifies tension that may be experienced between practitioners (e.g. data scientists trying to do their craft well) and mission people (e.g. trying to address climate change trying to have impact). Noting this tension is valuable in itself and also because it does not need to be a tension because people's loyalties are different and complementary.
+
+``The way to resolve the mission vs. practice tension ... to name it and to work hard to more sharply specify the nature of each loyalty''},
+  creationdate     = {2023-06-25T14:09:32},
+  keywords         = {agile, transformation, mission, practice, organisation},
+  modificationdate = {2023-06-25T14:57:24},
+  owner            = {izzy_olivine},
+}
+
+@Article{CyertST1956,
+  author           = {Richard M. Cyert and Herbert A. Simon and Donald B. Trow},
+  date             = {1956},
+  journaltitle     = {The Journal of Business},
+  title            = {Observation of a Business Decision},
+  issn             = {00219398, 15375374},
+  number           = {4},
+  pages            = {237--248},
+  url              = {http://www.jstor.org/stable/2350807},
+  urldate          = {2023-06-25},
+  volume           = {29},
+  comment          = {In economics and statistics  the rational choice process:
+- number of different specified alternative courses of action
+- each has a set of consequences which will ensue if that alternative is chosen
+- set of preferences (``utilities'') that permit ranking of consequences - in business decisions ranking criterion is assumed to be profit
+
+Missing from this model when considering real human beings are:
+- the alternatives are often not given, but sought, which is thus part of the process
+- the information is seldom given and so searching for consequences is another part of the process
+- the comparisons are usually not made in terms of a single criterion, search is therefore often for a satisfactory alternative
+- the problem is also often not given, searching for significant problems becomes and important organisational task
+
+Paper details a decision in detail as it progresses through a company
+
+Identify the processes from which the decision comprises, each designed as a program:
+- keeping-up program - search for and correspond with experts, sales and equipments users, journals
+- procurement program - discuss application, choice accept/reject, transfer control to salesmen or consultants
+- consultant program - search for for choise consultant, transfer control to consultant
+
+There are also subprocesses:
+- Common processes:
+  - Communication processes
+  - Problem-solving processes
+
+``the comparability and non-comparability of the criteria of choice affects the decision processes in significant ways''
+
+``our illustration suggests that search processes and information-gathering processes constitute significant parts of decision-making and must be incorporated in a theory of decision''},
+  creationdate     = {2023-06-25T15:02:16},
+  journal          = {The Journal of Business},
+  keywords         = {business, decisions},
+  modificationdate = {2023-06-25T15:26:31},
+  owner            = {izzy_olivine},
+  publisher        = {University of Chicago Press},
+  year             = {1956},
+}
+
+@Report{NESTA2019,
+  author           = {Ann Light and Deborah Mason and Andrew Greenway and {One Team Gov} and Vik Sasi and Stephen Muers and Simon Parker and Guillermo Ortego and Adam Fletcher and Kevin Morgan and Charles Sabel and {Centre for Public Impact} and Anna Schlimm and Jacob Chabeaux and Greg Falconer and Nell Watson and Cat Drew and Stephen Bennett and Liv Bargman and Pheobe Ridgway and Phil Booth and Charles Ikem and Harry Farmer and Rachel Burgon},
+  date             = {2019-09-11},
+  institution      = {NESTA},
+  title            = {Radical Visions of Future Government},
+  eprint           = {https://media.nesta.org.uk/documents/Radical_Visions_of_Future_Government_-_final.pdf},
+  url              = {https://www.nesta.org.uk/report/radical-visions-future-government/},
+  comment          = {Different views of what government of the future could be like
+
+Earth 2030: Governance for life on an evolving planet
+Takes the form of an aged job description, employment contract, brief and traning manual for someone working in local government in a region of the UK that is already subject to severe impacts of climate change and the role is about nurturing the community
+
+Report on the organisation of the permanent civil service, 2030. Based on the Northcode-Trevelyan Report of 1854, into civil service reform. The themes are still pertinent: selection, progression, organisation and regulation. Scrapping individual performance reviews for civil servants - its by Andrew Greenway - the team is the unit of delivery!
+
+Radical visions up to the year 2030: ``imaginative, challenging, optimistic and radical'' - in 2017 two civil servants set up One Team Gov , turned into global community that was no longer needed by 2030 - ``we welcome the new rebels''
+
+Feasibility study: Sacrosanctuary, a state for the stateless (well worth considering!)
+
+How Donald Trump shows us the future - leaders already have little to do with the services we experience - that's down to street-level bureaucrats and others -, so why not make leadership about context-shaping - symbols and narratives -  rather than policy design and control?
+
+Beneath the Stones - a man wakes in a future world in which work is abolished
+
+Health investment team annual report 2030 - looking back from 2030 at how new HITs changed the Welsh nation's health by investing across government
+
+The experimentalist polity - a new kind of governance based on local experiment
+
+The future of government is in your hands - seems to be a set of playing cards
+
+The others - a third space for those who do not want to partake in existing power, politics, economics, etc
+
+The government that couldn't forget - Elephant is a system that means that nothing in government is never forgotten and policy-making is iteratively improved - and Elephant won't allow policy that will fail, publically. But its been disabled - unfortunately for the team this was noticed and the biometric identifiers policy was not passed without scrutiny.
+
+Automatex externality accounting - using machine intelligence to calculate the impacts to people, society and the environment of activies.
+
+Forst of the future? - artworks and descriptions of the future of forests, even in urban areas
+
+Government Response to the ad hoc Select Committee of the House of Lords on the 29th February Data Losses - discussing the implications and actions following a massive data breach in government
+
+Life after the state - Government as a digital ideology, digital public infrastructure, government as a platform
+
+A day in the life of the Department for Democratic AI - story illustrating issues around AI and trust. Everyone writing code must undergo ethics training. Citizens councils help set regulations, because the councils change, and people's morals vary, so do the regulations. Every time you got in your car, it would ask you to reconfirm how you wanted it to behave: ``before we set off, Mr Smith, I’ll need you to confirm: would you like me to protect the car’s occupants at all costs, or to minimise overall casualties and loss of life?''
+
+Overturning parliament - Its 2030, looking back: the house of commons was too focussed on party politics ``costly, ineffective and antagonistic model of governance'' the house of lords does not represent the diversity of socety and didn't see legislation until it was draft and delays etc (despite have expertise and insight in this area) could be seen as anti-democratic. After the chaos of brexit, march on parliament, the lower house then became peers and randomly selected members of the public, who proposed law, the upper house is the people who are voted in.},
+  creationdate     = {2023-06-25T15:39:55},
+  keywords         = {future, transformation, government, trust, climate},
+  modificationdate = {2023-06-25T16:37:22},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
