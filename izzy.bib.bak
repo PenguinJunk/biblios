@@ -15127,4 +15127,16 @@ Overturning parliament - Its 2030, looking back: the house of commons was too fo
   owner            = {izzy_olivine},
 }
 
+@Thesis{Boyes2022,
+  author           = {Peter Boyes},
+  date             = {2022},
+  institution      = {University of Nottingham},
+  title            = {Negotiating the Truth: Exploring the Influence of Metadata in Place-Related Group Decision Making},
+  type             = {phdthesis},
+  comment          = {Look at the value of geospatial data in organisational decision-making, in particular considering the use of data quality flags. Two scenarios - without and with time limitations. Valuable for references on decision theory. Makes specific contributions to this field.},
+  creationdate     = {2023-06-27T17:29:40},
+  modificationdate = {2023-06-27T17:32:06},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
