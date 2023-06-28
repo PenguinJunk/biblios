@@ -15133,10 +15133,33 @@ Overturning parliament - Its 2030, looking back: the house of commons was too fo
   institution      = {University of Nottingham},
   title            = {Negotiating the Truth: Exploring the Influence of Metadata in Place-Related Group Decision Making},
   type             = {phdthesis},
-  comment          = {Look at the value of geospatial data in organisational decision-making, in particular considering the use of data quality flags. Two scenarios - without and with time limitations. Valuable for references on decision theory. Makes specific contributions to this field.},
+  comment          = {Look at the value of geospatial data in organisational decision-making, in particular considering the use of data quality flags. Two scenarios - without and with time limitations. Valuable for references on decision theory. Makes specific contributions to this field.
+
+Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargent_os_uk/ETvLAlOPKX5GivOvGCM8TWEBa2FoCIYHlIlBsIkb0Exsiw?e=rTLpyw}},
   creationdate     = {2023-06-27T17:29:40},
-  modificationdate = {2023-06-27T17:32:06},
+  modificationdate = {2023-06-27T17:35:03},
   owner            = {ISargent},
+}
+
+@Article{Maniam2021,
+  author           = {Aaron Maniam},
+  date             = {2021},
+  journaltitle     = {SID Directors Bulletin},
+  title            = {Decision-Making in an Age of Uncertainty: Futures and Strategy for Leaders},
+  eprint           = {https://drive.google.com/file/d/1atjuFOpnZBJp74u3JyAxhNh9MtgKAf1Q/view},
+  issue            = {Quarter 3},
+  pages            = {18--23},
+  url              = {https://www.sid.org.sg/images/PDFS/Publications/DirectorsBulletin/DirectorsBulletin_3Q2021.pdf},
+  comment          = {The reuirement for futures thinking / foresight / scenario planning in government
+
+- emphasise divergent thinking to imagine plausible eventualities, rather than converge onto specific predictions with assigned probabilities
+- to sit with the discomfort and realise that it is naturally difficult to have our mental models and deep assumptions about the world challenged
+- be aware of deeply-held beliefs that may be subject to challenge
+- tapping into wide-ranging [diverse, internal and external] networks, preferably comprising people whose views are starkly different from ours, who will push us to consider new ways of perceiving the world},
+  creationdate     = {2023-06-28T10:34:05},
+  modificationdate = {2023-06-28T10:48:28},
+  owner            = {ISargent},
+  publisher        = {Singapore Institute of Directors},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
