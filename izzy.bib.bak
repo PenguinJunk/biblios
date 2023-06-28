@@ -15150,16 +15150,62 @@ Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargen
   issue            = {Quarter 3},
   pages            = {18--23},
   url              = {https://www.sid.org.sg/images/PDFS/Publications/DirectorsBulletin/DirectorsBulletin_3Q2021.pdf},
-  comment          = {The reuirement for futures thinking / foresight / scenario planning in government
+  comment          = {The requirement for futures thinking / foresight / scenario planning in government
 
 - emphasise divergent thinking to imagine plausible eventualities, rather than converge onto specific predictions with assigned probabilities
 - to sit with the discomfort and realise that it is naturally difficult to have our mental models and deep assumptions about the world challenged
 - be aware of deeply-held beliefs that may be subject to challenge
-- tapping into wide-ranging [diverse, internal and external] networks, preferably comprising people whose views are starkly different from ours, who will push us to consider new ways of perceiving the world},
+- tapping into wide-ranging [diverse, internal and external] networks, preferably comprising people whose views are starkly different from ours, who will push us to consider new ways of perceiving the world
+- the best futurists create immersive experiences, engaging leaders and decision-makers at multiple levels: the analytical or cognitive, behavioural and emotive
+- to adopt design approaches that focus ruthlessly on users’ needs, pain points, and preferences},
   creationdate     = {2023-06-28T10:34:05},
-  modificationdate = {2023-06-28T10:48:28},
+  keywords         = {decisions, futures, organisation, governement, bureaucracy},
+  modificationdate = {2023-06-28T14:38:20},
   owner            = {ISargent},
   publisher        = {Singapore Institute of Directors},
+}
+
+@Article{Simon1990,
+  author           = {Herbert A. Simon},
+  date             = {1990},
+  journaltitle     = {Annual Review of Psychology},
+  title            = {Invariants of Human Behavior},
+  doi              = {10.1146/annurev.ps.41.020190.000245},
+  eprint           = {https://www.annualreviews.org/doi/pdf/10.1146/annurev.ps.41.020190.000245},
+  pages            = {1--19},
+  url              = {https://www.annualreviews.org/doi/10.1146/annurev.ps.41.020190.000245},
+  volume           = {41},
+  comment          = {Science is about finding invariants. If we have only simple change we can use differential models, 
+
+Human rational behavious is the study of both:
+- structure of task environments 
+- the computational capabilities of the actor
+
+``any real-world problem, is also beyond exact compution. Therefore, because of the limits on their computing speeds and power, intelligent systems must use approximate methods to handle most tasks. Their rationality is bounded''. Principle of bounded rationality Simon 1989b.
+
+Invariants in cognitive psychology include time to recognise, number of chunks of info in short term memory (chunks need to be recognisable)
+
+We now know that experts make extensive use of recognition processes, based on stored knowledge, to handle their everyday tasks. This recognition capability, based (by rough estimate) on 50,000 or more stored cues and associated knowledge, allows them to solve many problems ``intuitively'' that is, in a few seconds, and without conscious analysis
+
+satisficing: using experience to construct an expectation of how good a solution we might reasonably achieve, and halting search as soon as a solution is reached that meets the expectation
+
+means-ends analysis: noting differences between the current situation and the desired goal situation, and retrieving from memory operators that, experience has taught us, remove differences of these kinds
+
+Problem solving by recognition. by heuristic search. and by pattern recognition and extrapolation are examples of rational adaptation to complex task environments that take appropriate account of computational limitations-of bounded rationality. They are not optimizing techniques. but methods for arriving at satisfactory solutions with modest amounts of computation
+
+Two tracks going back to Woodworth - problem-solving and reasoning
+
+Many variants are social and therefore only invariant over particular society or social group
+
+People are adaptive
+
+To explain the behavior of a system of bounded rationality we must describe the system's processes and also the environments to which it is adapting
+
+Problem solving by recognition, by heuristic search, and by pattern recognition are adaptive techniques that are compatible with bounded rationality},
+  creationdate     = {2023-06-28T16:34:47},
+  keywords         = {decisions, organisation, bureaucracy},
+  modificationdate = {2023-06-28T17:33:24},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
