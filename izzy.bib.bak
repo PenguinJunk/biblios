@@ -15183,7 +15183,9 @@ Human rational behavious is the study of both:
 
 ``any real-world problem, is also beyond exact compution. Therefore, because of the limits on their computing speeds and power, intelligent systems must use approximate methods to handle most tasks. Their rationality is bounded''. Principle of bounded rationality Simon 1989b.
 
-Invariants in cognitive psychology include time to recognise, number of chunks of info in short term memory (chunks need to be recognisable)
+Invariants in cognitive psychology include
+-  time to recognise
+- number of chunks of info in short term memory (chunks need to be recognisable)
 
 We now know that experts make extensive use of recognition processes, based on stored knowledge, to handle their everyday tasks. This recognition capability, based (by rough estimate) on 50,000 or more stored cues and associated knowledge, allows them to solve many problems ``intuitively'' that is, in a few seconds, and without conscious analysis
 
@@ -15201,10 +15203,48 @@ People are adaptive
 
 To explain the behavior of a system of bounded rationality we must describe the system's processes and also the environments to which it is adapting
 
-Problem solving by recognition, by heuristic search, and by pattern recognition are adaptive techniques that are compatible with bounded rationality},
+Problem solving by recognition, by heuristic search, and by pattern recognition are adaptive techniques that are compatible with bounded rationality
+
+Mentions AI and I wonder how true comments about computational capacity are today},
   creationdate     = {2023-06-28T16:34:47},
-  keywords         = {decisions, organisation, bureaucracy},
-  modificationdate = {2023-06-28T17:33:24},
+  keywords         = {decisions, organisation, bureaucracy, AI},
+  modificationdate = {2023-06-28T17:37:24},
+  owner            = {ISargent},
+}
+
+@Article{Jiang2023,
+  author           = {Gemma Jiang},
+  date             = {2023-06-21},
+  journaltitle     = {Frontiers in Research Metrics and Analytics},
+  title            = {Collaborative leadership in team science: dynamics of sense making, decision making, and action taking},
+  doi              = {10.3389/frma.2023.1211407},
+  url              = {https://www.frontiersin.org/articles/10.3389/frma.2023.1211407/full},
+  volume           = {8},
+  comment          = {Leadership (in this case collaborative) requires:
+- sensemaking
+- decision-making
+- action taking
+
+If these are not done effectively enough, pitfalls can occurr:
+1. perpetual sense making with no decisions made or actions taken - analysis paralysis
+2. decisions are made without adequately inclusive sensemaking - can lead to:
+  - non-optimal decision because not all information used
+  - resistence to decision impacts action taking
+3. no adaptation in action plans to changing contexts
+
+In an increasingly uncertain and unpredictable world, sense making, decision making, and action taking must become ever more rapidly and repeatedly iterated, deeply embedded, and widely distributed throughout the teams (Marlow, 2023).
+
+top down autocratic leadership practices ... the terms ``senior person'' and ``decision maker'' are typically treated as synonymous
+
+Presents 3 frameworks to avoid these pitfalls:
+- Theory U - going down the U is sensemaking, across is retreat and reflect, up the other side is act in an instant. Retreat and reflect encourages innovation. Related to OODA loop
+- Divergence-Convergence Diamand - acknowledges divergence followed by convergence of views but also conflicts to integrating divergent information
+- Strategic Doing - Where are we going? How will we get there? by following 10 rules that allow adaptation to changing information and circumstance
+
+Discusses roles, responsiblities in collaborative leadership},
+  creationdate     = {2023-06-28T17:39:07},
+  keywords         = {decisions,},
+  modificationdate = {2023-06-28T18:34:48},
   owner            = {ISargent},
 }
 
