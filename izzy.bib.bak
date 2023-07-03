@@ -15229,7 +15229,7 @@ If these are not done effectively enough, pitfalls can occurr:
 1. perpetual sense making with no decisions made or actions taken - analysis paralysis
 2. decisions are made without adequately inclusive sensemaking - can lead to:
   - non-optimal decision because not all information used
-  - resistence to decision impacts action taking
+  - resistance to decision impacts action taking
 3. no adaptation in action plans to changing contexts
 
 In an increasingly uncertain and unpredictable world, sense making, decision making, and action taking must become ever more rapidly and repeatedly iterated, deeply embedded, and widely distributed throughout the teams (Marlow, 2023).
@@ -15238,14 +15238,37 @@ top down autocratic leadership practices ... the terms ``senior person'' and ``d
 
 Presents 3 frameworks to avoid these pitfalls:
 - Theory U - going down the U is sensemaking, across is retreat and reflect, up the other side is act in an instant. Retreat and reflect encourages innovation. Related to OODA loop
-- Divergence-Convergence Diamand - acknowledges divergence followed by convergence of views but also conflicts to integrating divergent information
+- Divergence-Convergence Diamond - acknowledges divergence followed by convergence of views but also conflicts to integrating divergent information
 - Strategic Doing - Where are we going? How will we get there? by following 10 rules that allow adaptation to changing information and circumstance
 
 Discusses roles, responsiblities in collaborative leadership},
   creationdate     = {2023-06-28T17:39:07},
-  keywords         = {decisions,},
-  modificationdate = {2023-06-28T18:34:48},
+  keywords         = {decisions, science, leadership, bureaucracy},
+  modificationdate = {2023-06-29T09:37:11},
   owner            = {ISargent},
+}
+
+@Article{BirhanePHN2023,
+  author           = {Abeba Birhane and Vinay Prabhu and Sang Han and Vishnu Naresh Boddeti},
+  date             = {2023-07-28},
+  journaltitle     = {arXiv:2306.13141},
+  title            = {On Hate Scaling Laws For Data-Swamps},
+  eprint           = {https://arxiv.org/pdf/2306.13141.pdf},
+  url              = {https://arxiv.org/abs/2306.13141},
+  comment          = {1) the presence of hateful content in datasets, when measured with a Hate Content Rate (HCR) metric on the inferences of the Pysentimiento hate-detection Natural Language Processing (NLP) model, increased by nearly 12\% and 2) societal biases and negative stereotypes were also exacerbated with scale on the models we evaluated.
+
+Recommendations include:
+- compute constraints - self-auditing is essential but also is possibly prohibative and so call for coalition to support independent auditors
+- appropriate consistent metrics - most scaling studies do not includes bias and harm metrics, they should
+- mind the non-iid assumptions - data with underlying graph structure and rich inter-node correlations (e.g. CommonCrawl) probably invalidate iis assumptions which limits summary statistics
+- rigorously justify, document and make trasparnet dataset curation (don't just try to create a really large dataset) - this is super relevant to Geobalance
+- risk of physiognomy - facial characteristics that "indicate" criminality
+- these datasets are used for many ML backbones - legal and policy implications},
+  creationdate     = {2023-07-03T10:15:06},
+  keywords         = {AI, trust, bias, data, NLP},
+  modificationdate = {2023-07-03T10:35:40},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
