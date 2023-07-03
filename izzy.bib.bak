@@ -15265,8 +15265,8 @@ Recommendations include:
 - risk of physiognomy - facial characteristics that "indicate" criminality
 - these datasets are used for many ML backbones - legal and policy implications},
   creationdate     = {2023-07-03T10:15:06},
-  keywords         = {AI, trust, bias, data, NLP},
-  modificationdate = {2023-07-03T10:35:40},
+  keywords         = {AI, trust, bias, data, NLP, imagery},
+  modificationdate = {2023-07-03T10:36:09},
   owner            = {ISargent},
   year             = {2023},
 }
