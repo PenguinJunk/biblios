@@ -15444,4 +15444,22 @@ Analysis
   owner            = {ISargent},
 }
 
+@Online{Tooze2022,
+  author           = {Adam Tooze},
+  date             = {2022-10-28},
+  title            = {Welcome to the world of the polycrisis},
+  url              = {https://www.ft.com/content/498398e7-11b1-494b-9cd3-6d669dc3de33},
+  urldate          = {2023-07-04},
+  comment          = {Paper recognising the polycrisis that is referenced by OECD and others
+
+``A problem becomes a crisis when it challenges our ability to cope and thus threatens our identity. In the polycrisis the shocks are disparate, but they interact so that the whole is even more overwhelming than the sum of the parts''
+
+on technology solutions:
+``what crisis-fighting and technological fixes all too rarely do is address the underlying trends. The more successful we are at coping, the more the tension builds''},
+  creationdate     = {2023-07-04T09:55:40},
+  keywords         = {crisis, climate, transformation},
+  modificationdate = {2023-07-04T10:00:16},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
