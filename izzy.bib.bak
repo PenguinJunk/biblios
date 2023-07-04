@@ -15551,8 +15551,26 @@ Crisis research has a number of aspects that may be unconventional in other doma
 - it is difficult to identify causes due to complexity},
   creationdate     = {2023-07-04T10:54:05},
   keywords         = {crisis, decisions, leadership},
-  modificationdate = {2023-07-04T11:53:58},
+  modificationdate = {2023-07-04T16:05:14},
   owner            = {ISargent},
+}
+
+@Article{GoyalRB2023,
+  author           = {Goyal, Lovika and Kiran, Ravi and Bose, S. C.},
+  date             = {2023/05/15},
+  journaltitle     = {Current Psychology},
+  title            = {An empirical investigation of the influence of leadership styles and strategic decision-making on business performance: a generational ownership perspective},
+  doi              = {10.1007/s12144-023-04705-y},
+  pages            = {1936--4733},
+  url              = {https://doi.org/10.1007/s12144-023-04705-y},
+  comment          = {Could be useful for statements that differentiate autocratic from transformation leadership style as well as HR practices that indicate strategic decision making and measures of business performance.
+
+Finds that first generation business leaders are more likely to be autocratic, second generation are more likely to be transformational,  and that transformational leadership is more suitable for second generation businesses. Also that strategic decision making has a positive impact on business performance.},
+  creationdate     = {2023-07-04T16:05:13},
+  keywords         = {decisions, leadership},
+  modificationdate = {2023-07-04T16:10:55},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
