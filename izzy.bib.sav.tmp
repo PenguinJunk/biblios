@@ -15318,7 +15318,7 @@ Alternative paradigms:
   pages            = {409-421},
   url              = {https://www.researchgate.net/publication/211395920_Organizing_and_the_Process_of_Sensemaking},
   volume           = {16},
-  comment          = {Detailed discussion of sensemaking which links it to organisations but demonstrating how much sensemaking and organising share.
+  comment          = {Detailed discussion of sensemaking which links it to organisations by demonstrating how much sensemaking and organising share.
 
 Sensemaking is about the interplay of action and interpretation rather than the influence of evaluation on choice ``good people struggling to make sense'' rather than as ``bad ones making poor decisions''
 
@@ -15371,7 +15371,7 @@ Sensemaking also should have an emotional component - discussion of this},
   creationdate     = {2023-07-03T13:55:30},
   journal          = {ORGANIZATION SCIENCE},
   keywords         = {decisions, sensemaking, organisation, bureacracy},
-  modificationdate = {2023-07-03T18:07:49},
+  modificationdate = {2023-07-03T18:10:43},
   month            = {07},
   owner            = {ISargent},
   year             = {2005},
@@ -15405,4 +15405,4 @@ Governments should take steps to maximise the agility of their workforces},
   creationdate     = {2023-07-03T15:43:44},
   keywords         = {futures, bureaucracy, transformation, decisions, crises},
   modificationdate = {2023-07-03T15:52:19},
-  owner            
+  owner            =
