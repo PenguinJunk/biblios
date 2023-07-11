@@ -3103,7 +3103,7 @@ This theory counters Hardin's Tragedy of the Commons by identifying that communi
 
 This particular paper revisits the theory and empirical research using game theory to find that communication and other attributes of the resource and the appropriators (these are listed) can lead to different outcomes. This results in theories and practice around how CPRs can be successfully managed.},
   creationdate     = {2022-10-14T12:29:06},
-  keywords         = {decisions, economy,},
+  keywords         = {decisions, economy},
   modificationdate = {2023-07-10T11:29:30},
   owner            = {ISargent},
 }
@@ -3895,8 +3895,7 @@ Evolutionary interactions (within organisations, between organisations, between 
   date             = {2016},
   title            = {Innovative Enterprise and the Theory of the Firm},
   publisher        = {John Wiley \& Sons Ltd},
-  comment          = {''The problem is that adherence to the theory of the market economy
-prevents the economist from understanding the microeconomic sources of productivity growth in the economy. It is organisations—including household families, business enterprises and government agencies—and not markets that invest in the productive capabilities embodied in physical and human capital that generate productivity.''
+  comment          = {''The problem is that adherence to the theory of the market economy prevents the economist from understanding the microeconomic sources of productivity growth in the economy. It is organisations—including household families, business enterprises and government agencies—and not markets that invest in the productive capabilities embodied in physical and human capital that generate productivity.''
 
 ''In sum, the theory of the firm in perfect competition is a firm in which entrepreneurship and management play no roles.''
 
@@ -3918,7 +3917,7 @@ Gordon Moore, founder of Intel: start-up exploit what large organisations invent
 Financialisation of firms occurs when executives focus on purpose of maximising shareholder value and loss of investment in innovation},
   creationdate     = {2022-10-23T10:14:37},
   keywords         = {economics, innovation, organisations},
-  modificationdate = {2022-11-08T20:34:52},
+  modificationdate = {2023-07-11T16:56:14},
   owner            = {ISargent},
   year             = {2016},
 }
@@ -15711,6 +15710,45 @@ Personal values are unique to the individuals, people in organisations are vanis
   keywords         = {decisions, organisations, bureaucracy, agile, leadership, transformation},
   modificationdate = {2023-07-06T17:41:41},
   owner            = {ISargent},
+}
+
+@Article{BlettnerKL2023,
+  author           = {Daniela Blettner and Serhan Kotiloglu and Thomas G. Lechler},
+  date             = {2023},
+  journaltitle     = {Frontiers in Psychology},
+  title            = {Unfinished business: integrating individual decision-makers' experience and incentives to organizational performance feedback theory},
+  comment          = {Great for an overview of theories around decision making
+
+Set out a range of hypotheses based on these theories and perform meta analysis to test against 205 emprircal studies in the literature which analyse the effects of organisational feedback
+
+Carnegie perspective -> bounded rationality (Simon, Cyert, March) - organisational
+In line with Prospect Theory (which is theory of individual choice): predicts loss aversion for performance below aspirations and risk aversion for performance above aspirations, with the value function being concave for gains and convex for losses and about twice as steep for losses as for gains (Kahneman, Tversky, Greve)
+
+``decision behavior is likely also influenced by individual differences. Such differences can be demographic, for instance, the decision-maker's age, gender, education, disposition, affect, mood, or information processing (Trepel et al., 2005; Pachur et al., 2008, 2017; Hönl et al., 2017; Gächter et al., 2022)'' [sensemaking / orientation ?]
+
+Other individual differences that affect decision making are (gives citations for these):
+- self-efficacy
+- power
+- narcissism
+- regluatory focus
+- overconfidence
+
+Behavioral Agency Model (BAM) (Wiseman and Gomez-Mejia, 1998) (individual incentives) predicts that executives will react conservatively to organizational performance above aspirations because they expect a gain in wealth  (Wiseman and Gomez-Mejia, 1998) and any additional risk-taking on behalf of the organization might jeopardize this personal gain. When firm performance is below aspirations, decision-makers anticipate loss to personal wealth and, due to loss aversion, are willing to engage in greater organizational risk-taking.
+
+Codes up the reports (another useful example of qualitative analysis) and performs correlation between perfomance and decision maker response
+
+From the results they argue:
+- decision-makers overestimate the quality of their competance regarding knowledge gained by job experience, have many biases and thus they are less open to performance feedback (self-enhancing interpretation of performance feedback)
+- decision makers with high domain expertise are less prone to such biases because they have gained codified knowledge with more explicity rules (more likely to perform problemistic search with performance below aspirations)
+- incentives make decision makers less complacent when performance is above aspirations, but also less ambitious and less risk-taking
+
+
+ and as such are more likely to search},
+  creationdate     = {2023-07-11T17:04:52},
+  keywords         = {decisions, leadership, performance, organisation, bureaucracy},
+  modificationdate = {2023-07-11T18:07:52},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
