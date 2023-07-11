@@ -6395,4 +6395,85 @@ Typically a content-based 3D model retrieval system comprises 1) canonical coord
   Title                    = {Proceedings of {ASPRS} 2004 {C}onference},
   Year                     = {2004},
 
-  Address
+  Address                  = {Denver, Colorado},
+  Month                    = {May},
+  Organization             = {ASPRS},
+
+  Owner                    = {izzy},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{IGARSS2002,
+  Title                    = {Remote {S}ensing: {I}ntegrating {O}ur {V}iew of the {P}lanet},
+  Year                     = {2002},
+  Organization             = {IEEE},
+  Publisher                = {IEEE},
+
+  Booktitle                = {Remote {S}ensing: {I}ntegrating {O}ur {V}iew of the {P}lanet},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{ISPRS02,
+  Title                    = {Integrated {S}ystem for {S}patial {D}ata {P}roduction, {C}ustodian and {D}ecision {S}upport, {ISPRS} {C}ommission {II} {S}ymposium},
+  Year                     = {2002},
+
+  Address                  = {Xi'an, P.R.China},
+  Month                    = {August 20-23},
+
+  Owner                    = {izzy},
+  Text                     = {Olsen, B P, Knudsen, T and Frederiksen, P, 2002. Digital Change Detection For Map Database Update. Integrated System for Spatial Data Production, Custodian and Decision Support, {ISPRS} Commission II Symposium. Xi'an, P.R.China},
+  creationdate                = {2005/01/01},
+  Url                      = {http://www.ISPRS.org/commission2/proceedings/contents.html}
+}
+
+@Proceedings{PCV02,
+  Title                    = {Proceedings of the {P}hotogrammetric {C}omputer {V}ision},
+  Year                     = {2002},
+
+  Address                  = {Graz, Austria},
+  Month                    = {September},
+
+  Owner                    = {izzy},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{ISPRS00,
+  Title                    = {X{IX}th {C}ongress of {ISPRS}: {G}eoinformation for {A}ll},
+  Year                     = {2000},
+
+  Address                  = {Amsterdam, The Netherlands},
+  Month                    = {July},
+  Volume                   = {XXXIII},
+
+  Owner                    = {izzy},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{ISCAS99,
+  Title                    = {I{SCAS} '99: {PROCEEDINGS} {OF} {THE} 1999 {IEEE} {INTERNATIONAL} {SYMPOSIUM} {ON} {CIRCUITS} {AND} {SYSTEMS}},
+  Year                     = {1999},
+  Organization             = {IEEE},
+
+  Booktitle                = {I{SCAS} '99: {PROCEEDINGS} {OF} {THE} 1999 {IEEE} {INTERNATIONAL} {SYMPOSIUM} {ON} {CIRCUITS} {AND} {SYSTEMS}},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{CVPR85,
+  Title                    = {I{EEE} {CVPR} {C}onference, {S}an {F}rancisco.},
+  Year                     = {1985},
+  Organization             = {IEEE},
+
+  Booktitle                = {I{EEE} {CVPR} {C}onference, {S}an {F}rancisco.},
+  creationdate                = {2005/01/01}
+}
+
+@Proceedings{ieeecvpr85,
+  Title                    = {I{EEE} {CVPR} {C}onference},
+  Year                     = {1985},
+  Organization             = {IEEE},
+
+  Booktitle                = {I{EEE} {CVPR} {C}onference},
+  creationdate                = {2005/01/01}
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
