@@ -15786,12 +15786,41 @@ Topics covered:
   url              = {https://doi.org/10.1145/3563657.3596093},
   abstract         = {The COVID-19 pandemic exemplified the complexity of the field of crisis communication, with multiple channels and streams of information and misinformation causing new challenges for the authorities and general public alike. This complexity requires better addressing the situated and interrelated aspects of sensemaking practices and platforms, and how different disciplines and organisations collaborate during a crisis to turn ambiguity into resilience, and complexity into comprehension. We use design research and participatory design methodology to draw on learnings from the Finnish context and response to COVID-19 and other crises. These insights are then used to create design principles that bridge crisis informatics theory with HCI knowledge to create speculative, diegetic artefacts, which embody new practices and platforms that can be used to encourage collaborative sensemaking to tackle complex, large-scale crises and therefore have a positive impact on the resilience of the society.},
   address          = {New York, NY, USA},
+  comment          = {Uses PirolliC2005's model of sensemaking and design workshops to understand how communication, resilience and comprehension can work well in a crisis. Based on Covid-19 experience in Finland.
+
+Identify 6 design principles, which combine into:
+- sensemaking as a tool (create platforms for collaborative sensemaking)
+- sensemaking as a practice (hold sensemaking hackathons)
+- sensemaking as public engagement (citizen-centric collaborative sensemaking)},
   creationdate     = {2023-07-13T12:06:53},
   keywords         = {decisions, sensemaking, design, crisis, transformation, bureaucracy},
-  modificationdate = {2023-07-13T12:07:44},
+  modificationdate = {2023-07-13T12:11:02},
   numpages         = {14},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@InProceedings{PirolliC2005,
+  author           = {Pirolli, Peter and Card, Stuart},
+  booktitle        = {Proceedings of International Conference on Intelligence Analysis},
+  date             = {2005},
+  title            = {The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis},
+  url              = {https://www.researchgate.net/publication/215439203_The_sensemaking_process_and_leverage_points_for_analyst_technology_as_identified_through_cognitive_task_analysis},
+  comment          = {Discuss how intelligence and expertise is developed through experience of a [field] in such a way that the expert learns to put new data into schemas that they have developed. Identifies a notional model of how the process from discovering new information to creating a product (e.g. a presentation) is undertaken. This has two large loops - foraging and reality/policy, which includes sensemaking. These each comprise smaller loops which, in the foraging loop pull into external data, identifies that which is likely to be relevant (it goes into the shoebox) and then pulls out the relevant evidence. The reality/policy/sensemaking loop puts the evidence into the schema before creating a hypothesis. This route is the bottom up process. There is a top-down process that may arise from feedback on the product, or counter evidence that may then result in a reexamination of different loops. 
+
+Their figure illustrates this is multiple loops between increasingly refined information and different types of process (search (both external and various internal to the process), filter, read, extract, schematize, build case and tell story, as well as re-evaluate).
+
+Talk about leverage points (mostly pain points) that emerge. In the foraging loop these are the costs that are incurred in searching, understanding, etc (there's more detail on this). In the sensemaking loop these are:
+- Span of attention for evidence and hypotheses
+- Generation of alternative hypotheses
+- Confirmation bias
+It is these leverage points that technologies may be developed for improving the production of novel intelligence from massive data.},
+  creationdate     = {2023-07-13T12:14:05},
+  keywords         = {decision, sensemaking,},
+  modificationdate = {2023-07-13T12:24:42},
+  month            = {01},
+  owner            = {ISargent},
+  year             = {2005},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
