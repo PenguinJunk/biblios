@@ -8055,7 +8055,7 @@ Surveyed 322 people and 70\% were positive
   institution      = {UCL Institute for Innovation and Public Purpose},
   title            = {Evolutionary Economics, Routines, and Dynamic Capabilities},
   url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2022/oct/evolutionary-economics-routines-and-dynamic-capabilities},
-  comment          = {Looks at organisations (with focus on private sector) and considers the development of a change-orieted organisational structure
+  comment          = {Looks at organisations (with focus on private sector) and considers the development of a change-oriented organisational structure
 
 Starts with idea of evolutionary economics but identifies that dynamic capabilities cannot sit within this theory -  this is more Schumpeterian and also has roots in behaviour theory of the firm
 
@@ -8080,9 +8080,9 @@ Instead, `Teecian dynamic capabilities' which are characteristics that reside on
 
 Schumpeter's entrepreneur: leader  ... new techniques ... new comminations. Everyone has the skills to some degree.
 
-Urban see Musk as innovator using first principles as building blocks combined with experience and instinct
+Urban sees Musk as innovator using first principles as building blocks combined with experience and instinct
 
-Winter sees innovation as requiring ``talented cooks'' who first imagine the dish, based on understanding of the ingredients/conditions and then iterate over attempted solutions: ``there is not simple answer to the question of where knowledge comes from''
+Winter sees innovation as requiring ``talented cooks'' who first imagine the dish, based on understanding of the ingredients/conditions and then iterate over attempted solutions: ``there is no simple answer to the question of where knowledge comes from''
 
 ``there are creative and insight-dependent components that cannot be routinised''
 
@@ -8104,7 +8104,7 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
 ``Dynamic capabilities of the public sector are higher-order bundles of political, policy and organizational routines and managerial decisions that drive the strategic activities of public organisations in regimes of deep uncertainty and wicked challenges''},
   creationdate     = {2023-01-27T17:56:28},
   keywords         = {economics, bureaucracy, organisation, transformation, decisions},
-  modificationdate = {2023-07-10T11:41:39},
+  modificationdate = {2023-07-13T10:19:58},
   owner            = {izzy_olivine},
 }
 
@@ -15771,6 +15771,27 @@ Topics covered:
   keywords         = {AI, trust},
   modificationdate = {2023-07-12T08:31:18},
   owner            = {ISargent},
+}
+
+@InProceedings{VaranasiLSTA2023,
+  author           = {Varanasi, Uttishta Sreerama and Leinonen, Teemu and Sawhney, Nitin and Tikka, Minttu and Ahsanullah, Rahim},
+  booktitle        = {Proceedings of the 2023 ACM Designing Interactive Systems Conference},
+  title            = {Collaborative Sensemaking in Crisis: Designing Practices and Platforms for Resilience},
+  doi              = {10.1145/3563657.3596093},
+  isbn             = {9781450398930},
+  location         = {Pittsburgh, PA, USA},
+  pages            = {2537–2550},
+  publisher        = {Association for Computing Machinery},
+  series           = {DIS '23},
+  url              = {https://doi.org/10.1145/3563657.3596093},
+  abstract         = {The COVID-19 pandemic exemplified the complexity of the field of crisis communication, with multiple channels and streams of information and misinformation causing new challenges for the authorities and general public alike. This complexity requires better addressing the situated and interrelated aspects of sensemaking practices and platforms, and how different disciplines and organisations collaborate during a crisis to turn ambiguity into resilience, and complexity into comprehension. We use design research and participatory design methodology to draw on learnings from the Finnish context and response to COVID-19 and other crises. These insights are then used to create design principles that bridge crisis informatics theory with HCI knowledge to create speculative, diegetic artefacts, which embody new practices and platforms that can be used to encourage collaborative sensemaking to tackle complex, large-scale crises and therefore have a positive impact on the resilience of the society.},
+  address          = {New York, NY, USA},
+  creationdate     = {2023-07-13T12:06:53},
+  keywords         = {decisions, sensemaking, design, crisis, transformation, bureaucracy},
+  modificationdate = {2023-07-13T12:07:44},
+  numpages         = {14},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
