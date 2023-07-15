@@ -4563,14 +4563,17 @@ Perform data augmentation to address under represented classes.},
   creationdate                = {2014.11.04}
 }
 
-@Unpublished{SargentEuroSDR2012,
-  Title                    = {Goals and requirements of {E}uropean {N}ational {M}apping {O}rganisations for change detection Findings of the {E}uro{SDR} Working Group on {C}ommon goals and requirements for {NMA}s in change detection},
-  Author                   = {Isabel Sargent and Andr\'{e} Streilein and Pilemann Olsen, Brian and Christine Ressl and Emilio Domenech and Hugues Bruynseels and Mark Tabor and Poul Frederiksen and Tobias Kellenberger and Thomas Lit\'{e}n and Nicolas Champion},
-  Year                     = {2012},
-
-  Keywords                 = {ImageLearn},
-  Owner                    = {ISargent},
-  creationdate                = {2016.06.21}
+@Report{SargentEuroSDR2012,
+  author           = {Isabel Sargent and Andr\'{e} Streilein and Pilemann Olsen, Brian and Christine Ressl and Emilio Domenech and Hugues Bruynseels and Mark Tabor and Poul Frederiksen and Tobias Kellenberger and Thomas Lit\'{e}n and Nicolas Champion},
+  date             = {2012},
+  institution      = {EuroSDR},
+  title            = {Goals and requirements of {E}uropean {N}ational {M}apping {O}rganisations for change detection Findings of the {E}uro{SDR} Working Group on {C}ommon goals and requirements for {NMA}s in change detection},
+  subtitle         = {Findings of the EuroSDR Working Group on Common goals and requirements for NMAs in change detection},
+  creationdate     = {2016.06.21},
+  keywords         = {ImageLearn},
+  modificationdate = {2023-06-23T17:31:11},
+  owner            = {ISargent},
+  year             = {2012},
 }
 
 @Misc{SargentYSH2016,
@@ -10159,15 +10162,16 @@ Representative and large-scale RS image datasets with accurate annotations are d
 }
 
 @InProceedings{KramerHPS2017,
-  author       = {Kramer, Iris and Hare, Jonathon and Prugel-Bennett, Adam and Sargent, Isabel and others},
-  booktitle    = {New Forest Knowledge Conference 2017: New Forest Historical Research and Archaeology: Who's doing it?},
-  date         = {27 - 28 Oct 2017},
-  title        = {Automated detection of archaeology in the New Forest using deep learning with remote sensor data},
-  location     = {Lyndhurst, United Kingdom},
-  creationdate = {2021-01-15},
-  keywords     = {izzypub, MLStrat},
-  owner        = {ISargent},
-  year         = {2017},
+  author           = {Kramer, Iris and Hare, Jonathon and Prugel-Bennett, Adam and Sargent, Isabel and others},
+  booktitle        = {New Forest Knowledge Conference 2017: New Forest Historical Research and Archaeology: Who's doing it?},
+  date             = {2017},
+  title            = {Automated detection of archaeology in the New Forest using deep learning with remote sensor data},
+  location         = {Lyndhurst, United Kingdom},
+  creationdate     = {2021-01-15},
+  keywords         = {izzypub, MLStrat},
+  modificationdate = {2023-06-23T16:54:34},
+  owner            = {ISargent},
+  year             = {2017},
 }
 
 @Article{ZhangSPGHA2018,
@@ -11029,19 +11033,20 @@ Found that no one measure defines sprawl and that the measures can be used to ch
 }
 
 @InProceedings{PerelloNietoFKF2016,
-  author    = {Perello-Nieto, Miquel and Filho, Telmo De Menezes E Silva and Kull, Meelis and Flach, Peter},
-  booktitle = {2016 IEEE 16th International Conference on Data Mining (ICDM)},
-  title     = {Background Check: A General Technique to Build More Reliable and Versatile Classifiers},
-  doi       = {10.1109/ICDM.2016.0150},
-  pages     = {1143-1148},
-  url       = {https://ieeexplore.ieee.org/document/7837963},
-  comment   = {View paper at https://research-information.bris.ac.uk/ws/portalfiles/portal/92014727/Peter_Flach_Background_Check_A_general_technique_to_build_more_reliable_and_versatile_classifiers.pdf
+  author           = {Perello-Nieto, Miquel and Filho, Telmo De Menezes E Silva and Kull, Meelis and Flach, Peter},
+  booktitle        = {2016 IEEE 16th International Conference on Data Mining (ICDM)},
+  title            = {Background Check: A General Technique to Build More Reliable and Versatile Classifiers},
+  doi              = {10.1109/ICDM.2016.0150},
+  pages            = {1143-1148},
+  url              = {https://ieeexplore.ieee.org/document/7837963},
+  comment          = {View paper at \url{https://research-information.bris.ac.uk/ws/portalfiles/portal/92014727/Peter_Flach_Background_Check_A_general_technique_to_build_more_reliable_and_versatile_classifiers.pdf}
 
 My adding in a 'background' class - which has higher likelihood outside of the region occupied by the data - it is possible to prevent a model from being overconfident and extrapolating answers where the model cannot make a confident judgement.},
-  keywords  = {machine learning, extrapolation, quality},
-  owner     = {ISargent},
-  creationdate = {2021-04-21},
-  year      = {2016},
+  creationdate     = {2021-04-21},
+  keywords         = {machine learning, extrapolation, quality},
+  modificationdate = {2023-05-04T10:58:59},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Article{SeresinhePM2017,
@@ -13143,6 +13148,18 @@ Decoder reconstructs images using latent representations and the mask tokens.
   owner            = {ISargent},
   publisher        = {arXiv},
   year             = {2021},
+}
+
+@Article{SargentHH2015,
+  author           = {Isabel Sargent and David Holland and Jenny Harding},
+  date             = {2015-12-21},
+  journaltitle     = {ISPRS International Journal of Geo-Information},
+  title            = {The building blocks of user-focused 3D city models},
+  issue            = {4},
+  volume           = {4},
+  creationdate     = {2023-06-23T16:56:59},
+  modificationdate = {2023-06-23T16:58:41},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
