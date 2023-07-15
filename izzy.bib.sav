@@ -15831,6 +15831,7 @@ It is these leverage points that technologies may be developed for improving the
   editor           = {M. Augier and J. G. March},
   eprint           = {https://pure.mpg.de/rest/items/item_2101380/component/file_2101379/content},
   pages            = {389--409},
+  publisher        = {MIT Press},
   comment          = {goes over what Herbert Simon's work on bounded rationality is not - it's not optimisation under constraints or any other optimization
 
 Ecological rationality evolved in the environment
@@ -15846,7 +15847,7 @@ Gives a great example of a sports game with teams trying to make robots to play 
 E.g. predicting where ball will land is not what the teams should be doing but instead catching the ball - therefore heuristics for catching the ball are the process (not calculating the ball's trajectory or adjusting for optimism bias)},
   creationdate     = {2023-07-15T13:14:23},
   keywords         = {decisions, economics},
-  modificationdate = {2023-07-15T14:55:53},
+  modificationdate = {2023-07-15T14:56:13},
   owner            = {izzy_olivine},
 }
 
