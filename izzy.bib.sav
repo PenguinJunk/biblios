@@ -15139,7 +15139,8 @@ Overturning parliament - Its 2030, looking back: the house of commons was too fo
 
 Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargent_os_uk/ETvLAlOPKX5GivOvGCM8TWEBa2FoCIYHlIlBsIkb0Exsiw?e=rTLpyw}},
   creationdate     = {2023-06-27T17:29:40},
-  modificationdate = {2023-06-27T17:35:03},
+  keywords         = {decisions},
+  modificationdate = {2023-07-15T16:08:04},
   owner            = {ISargent},
 }
 
@@ -15848,6 +15849,21 @@ E.g. predicting where ball will land is not what the teams should be doing but i
   creationdate     = {2023-07-15T13:14:23},
   keywords         = {decisions, economics},
   modificationdate = {2023-07-15T14:56:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{Carter2023,
+  author           = {Zachary Carter},
+  date             = {2023-06-06},
+  title            = {What if We’re Thinking About Inflation All Wrong?},
+  url              = {https://www.newyorker.com/news/persons-of-interest/what-if-were-thinking-about-inflation-all-wrong},
+  comment          = {About Isabella Weber - I should look up her original papers
+Her point is that corporate profits are a key driver of today’s in!ation
+We should cap prices
+Germany introduced a price brake},
+  creationdate     = {2023-07-16T12:51:14},
+  keywords         = {economics, inflation,},
+  modificationdate = {2023-07-16T12:53:40},
   owner            = {izzy_olivine},
 }
 
