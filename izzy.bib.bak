@@ -15139,7 +15139,8 @@ Overturning parliament - Its 2030, looking back: the house of commons was too fo
 
 Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargent_os_uk/ETvLAlOPKX5GivOvGCM8TWEBa2FoCIYHlIlBsIkb0Exsiw?e=rTLpyw}},
   creationdate     = {2023-06-27T17:29:40},
-  modificationdate = {2023-06-27T17:35:03},
+  keywords         = {decisions},
+  modificationdate = {2023-07-15T16:08:04},
   owner            = {ISargent},
 }
 
@@ -15692,7 +15693,7 @@ Used not to be such a problem because processes were slower, action takers could
 @Online{Marlow2022,
   author           = {Geoff Marlow},
   date             = {2022-02-06},
-  title            = {The toxic myth of 'culture as shared values'},
+  title            = {The toxic myth of `culture as shared values'},
   url              = {https://geoffmarlow.substack.com/p/culture-shared-values-toxic-myth},
   urldate          = {2023-07-06},
   comment          = {``the organisations that trumpeted their shared values most loudly were the ones whose cultures were most toxic to innovation, agility, and adaptiveness''
@@ -15708,7 +15709,7 @@ Personal values are unique to the individuals, people in organisations are vanis
 - The Borg assimilate everyone's uniqueness},
   creationdate     = {2023-07-06T10:21:38},
   keywords         = {decisions, organisations, bureaucracy, agile, leadership, transformation},
-  modificationdate = {2023-07-06T17:41:41},
+  modificationdate = {2023-07-19T09:15:12},
   owner            = {ISargent},
 }
 
@@ -15816,11 +15817,100 @@ Talk about leverage points (mostly pain points) that emerge. In the foraging loo
 - Confirmation bias
 It is these leverage points that technologies may be developed for improving the production of novel intelligence from massive data.},
   creationdate     = {2023-07-13T12:14:05},
-  keywords         = {decision, sensemaking,},
-  modificationdate = {2023-07-13T12:24:42},
+  keywords         = {decisions, sensemaking, intelligence},
+  modificationdate = {2023-07-13T12:28:25},
   month            = {01},
   owner            = {ISargent},
   year             = {2005},
+}
+
+@InBook{Gigerenzer2004,
+  author           = {Gerd Gigerenzer},
+  booktitle        = {Models of a man: Essays in memory of Herbert A. Simon},
+  date             = {2004-03-26},
+  title            = {Striking a blow for sanity in theories of rationality},
+  editor           = {M. Augier and J. G. March},
+  eprint           = {https://pure.mpg.de/rest/items/item_2101380/component/file_2101379/content},
+  pages            = {389--409},
+  publisher        = {MIT Press},
+  comment          = {goes over what Herbert Simon's work on bounded rationality is not - it's not optimisation under constraints or any other optimization
+
+Ecological rationality evolved in the environment
+Bias is not error, when the environment is considered
+
+Optimisers use "as if" models but these are not what actually happens
+
+Gives a great example of a sports game with teams trying to make robots to play the game. The teams use different principles:
+- Optimising team, robot spends all its time calculating
+- Cognitive illusions team, believes that ``errors'' reveal the underlying processes
+- Adaptive toolbox team, use heuristics to achieve useful outcomes
+
+E.g. predicting where ball will land is not what the teams should be doing but instead catching the ball - therefore heuristics for catching the ball are the process (not calculating the ball's trajectory or adjusting for optimism bias)},
+  creationdate     = {2023-07-15T13:14:23},
+  keywords         = {decisions, economics},
+  modificationdate = {2023-07-15T14:56:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{Carter2023,
+  author           = {Zachary Carter},
+  date             = {2023-06-06},
+  title            = {What if We’re Thinking About Inflation All Wrong?},
+  url              = {https://www.newyorker.com/news/persons-of-interest/what-if-were-thinking-about-inflation-all-wrong},
+  urldate          = {2023-07-16},
+  comment          = {About Isabella Weber - I should look up her original papers
+Her point is that corporate profits are a key driver of today’s in!ation
+We should cap prices
+Germany introduced a price brake},
+  creationdate     = {2023-07-16T12:51:14},
+  keywords         = {economics, inflation},
+  modificationdate = {2023-07-16T12:53:57},
+  owner            = {izzy_olivine},
+}
+
+@Article{MoallemiZHSMZHKHMGLB2023,
+  author           = {Enayat A. Moallemi and Fateme Zare and Aniek Hebinck and Katrina Szetey and Edmundo Molina-Perez and Romy L. Zyngier and Michalis Hadjikakou and Jan Kwakkel and Marjolijn Haasnoot and Kelly K. Miller and David G. Groves and Peat Leith and Brett A. Bryan},
+  date             = {2023},
+  journaltitle     = {Global Environmental Change},
+  title            = {Knowledge co-production for decision-making in human-natural systems under uncertainty},
+  doi              = {https://doi.org/10.1016/j.gloenvcha.2023.102727},
+  issn             = {0959-3780},
+  pages            = {102727},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0959378023000936},
+  volume           = {82},
+  abstract         = {Decision-making under uncertainty is important for managing human-natural systems in a changing world. A major source of uncertainty is linked to the multi-actor settings of decisions with poorly understood values, complex relationships, and conflicting management approaches. Despite general agreement across disciplines on co-producing knowledge for viable and inclusive outcomes in a multi-actor context, there is still limited conceptual clarity and no systematic understanding on what co-production means in decision-making under uncertainty and how it can be approached. Here, we use content analysis and clustering to systematically analyse 50 decision-making cases with multiple time and spatial scales across 26 countries and in 9 different sectors in the last decade to serve two aims. The first is to synthesise the key recurring strategies that underpin high quality decision co-production across many cases of diverse features. The second is to identify important deficits and opportunities to leverage existing strategies towards flourishing co-production in support of decision-making. We find that four general strategies emerge centred around: promoting innovation for robust and equitable decisions; broadening the span of co-production across interacting systems; fostering social learning and inclusive participation; and improving pathways to impact. Additionally, five key areas that should be addressed to improve decision co-production are identified in relation to: participation diversity; collaborative action; power relationships; governance inclusivity; and transformative change. Characterising the emergent strategies and their key areas for improvement can help guide future works towards more pluralistic and integrated science and practice.},
+  comment          = {Interesting paper characterising approaches to co-produciton for decision making.
+
+Analyse 50 cases of decision-making that involved multi-actor settings. Identified 9 features in 3 groups, each feature has 4 qualitative levels:
+- Motivation
+  - Framing (problem formulation, decision scoping, ...)
+  - Solving (assessing scenarios, evaluating options, ...)
+  - Acting (implementating, communcation, monitoring, ...)
+- Setting
+  - Actor (stakeholder groups)
+  - Timing (when, frequency)
+  - Interaction (direction of information circulation)
+- Impact (intended)
+  - Power (ability to create/resist change, influence, conflict, cooperation)
+  - Politics (governance, who should do what)
+  - Change (guidance of transformation on the ground)
+
+From these they identified 4 clusters, types of strategy:
+- Innovation (often universities working with societal actors, mainly eliciting information, limited opportunities for social learning and bottom-up co-production)
+- Diversification (broadening span of actors e.g. with real world problems, funded beyond science programmes, organisations beyond universities, knowledge exchange between experts, deicion makers and citizens, mostly theorising and informing policy)
+- Collaboration (social learning, common ground through negotiation, wider actor groups include often marginalised, inform policy but less co-manage transformation)
+- Transformation (thinking through change and guiding implementation, understanding of power, actors expectations and responsibilities)
+
+Draw on several best practice cases to identify challenges and their opportunities. The 5 opportunties are:
+- Create trusted knowledge from multiple sources
+- Empower learning and collaboration
+- Understand and manager power dynamics with all actors
+- Account for politics and inclusive governance
+- Link knowledge with action for transformative change},
+  creationdate     = {2023-07-19T08:50:37},
+  keywords         = {Co-production, transformation, environment, decisions, design},
+  modificationdate = {2023-07-19T10:30:09},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
