@@ -2411,7 +2411,7 @@ Twenty challenges for innovation studies
 1 	From visible innovation to `dark innovation' 
 Innovation may not just be technology and manufacturing, other innovation exists but this is perhaps hidden or 'dark'. explains this with imprinting theory - that institutions have values and norms based on their formation and so technology and manufacturing would have been the focus for IS several decades ago. this focus is probably also reflected in the measures of innovation activity. 
 
-Schumpeter had a broader perspective on innovation,  whilst still using manufacturing temrs he was not restricted to product or process innovations.
+Schumpeter had a broader perspective on innovation,  whilst still using manufacturing terms he was not restricted to product or process innovations.
 
 Other innovations may be in organisations, incremental process innovations in factories, services, social (social media), grassroots. Also 'salami publishing' cutting a piece of work into smaller parts to publish separately. Self- plagarism or worse not referencing the other works.
 
@@ -2479,7 +2479,7 @@ See also https://www.youtube.com/watch?v=w926VBnsO3w},
   creationdate     = {2022-10-04T14:42:51},
   journal          = {Science and Public Policy},
   keywords         = {economics, innovation},
-  modificationdate = {2023-07-10T11:37:02},
+  modificationdate = {2023-07-20T14:16:40},
   month            = {04},
   owner            = {ISargent},
   year             = {2016},
@@ -4201,7 +4201,7 @@ Nice table that summarises the differences between correcting failures and creat
   url              = {https://www.ucl.ac.uk/bartlett/public-purpose/publications/2017/oct/thinking-about-technology-policy-market-failures-versus-innovation-systems},
   comment          = {Demonstrates throughout that market failure is a poor reason for various innovation policies and argues that evolutionary theory of economic change recognises the innovation system and is a useful framework for technology policy.
 
-Founded on the distinction the Schumpeter drew between two contexts for action:
+Founded on the distinction that Schumpeter drew between two contexts for action:
 - neoclassical: when economic activity occurs in a continuous circular flow, actors have full understanding
 - evolutionary economics: when innovation is going on, actors can never understand full the context
 
@@ -4216,7 +4216,7 @@ Thinking of innovation as a system with multiple diverse actors and instruments 
 Goes into detail the innovation around pharmaceuticals. Patents are important for profits but contraversial because it can lead to ``evergreening'' and limits to access by low income countries.},
   creationdate     = {2022-10-30T07:09:10},
   keywords         = {economics, policy, innovation},
-  modificationdate = {2022-10-30T14:45:44},
+  modificationdate = {2023-07-20T14:17:07},
   owner            = {ISargent},
 }
 
@@ -4521,7 +4521,7 @@ This is a useful paper to return to for detail on MLP as well as the related the
 
 The basic idea MLP is that technological innovations occur in niches. Some will gradually building up internal momentum and may place some pressure on the wider socio-technical regime (e.g. markets, industry, policy, science, etc) which may resist the change. The regime also exists within a wider socio-technical landscape which is external. Developments in the landscape also puts pressure on the regime and the niches. Changes in landscape open up windows of opportunity for the innovations to break into the regime which both changes the regime and the landscape.
 
-SCOT sits within the Science and Technologies Studies (STS) field (this is discussed in Martin2012). ``innovation is a social process of aligning heterogeneous elements, which involves actors moving between spheres such as science, markets, regulation and production.'' Core notions from SCOT within MLP are thet the MLP conceptualises technologies as socially constructed, rather than developing according to an internal technical logic, shares the broader STS assessment that science and technology are omnipresent in modern societies, and have contributed to major transformations in agro-food, energy, transport, housing, entertainment, and communication in the last two centuries.
+SCOT sits within the Science and Technologies Studies (STS) field (this is discussed in Martin2012). ``innovation is a social process of aligning heterogeneous elements, which involves actors moving between spheres such as science, markets, regulation and production.'' Core notions from SCOT within MLP are that the MLP conceptualises technologies as socially constructed, rather than developing according to an internal technical logic, shares the broader STS assessment that science and technology are omnipresent in modern societies, and have contributed to major transformations in agro-food, energy, transport, housing, entertainment, and communication in the last two centuries.
 
 ``Evolutionary economics has two complementary components, which are relevant for transitions and the MLP. Macro-evolution addresses long-term techno-economic patterns ... Schumpeter (1939: 102) ... Micro-evolution concerns mechanisms of variation, selection and retention that underlie genealogical lineages and trajectories ... Nelson and Winter (1982)''. The ideas of transition are part of MLP (later MLP accommodates more gradual transitions, however). The regime, technological trajectory and path dependence in MLP are derived from evolutionary economics. Other aspect of MLP come from evolutionary biology.
  
@@ -4535,7 +4535,7 @@ Transitions research
 ``Framing struggles are consequential because it matters if a problem like climate change is framed as a `market failure' (which would lead to market-based instruments such as a carbon tax) or as a `planetary boundary' (which may lead to stronger regulatory or innovation policies with greater urgency). It also matters how specific innovations are framed: are wind turbines seen as renewable energy technologies or as ugly artefacts that spoil the landscape and kill birds? Are nuclear plants framed as low-carbon technologies or as existential threats? The implication is that transitions should not only be seen as techno-economic management challenges, but also as socio-cultural processes which involve wider publics and cultural meanings.''},
   creationdate     = {2022-11-08T20:17:57},
   keywords         = {sociology, innovation, economics, transformation},
-  modificationdate = {2023-02-22T17:14:31},
+  modificationdate = {2023-07-20T10:27:58},
   owner            = {ISargent},
 }
 
@@ -5111,14 +5111,14 @@ Boucher: technology increasingly framed as reduced to GHG emissions, less so soc
   pages            = {178--198},
   url              = {https://www.tandfonline.com/doi/abs/10.5172/impp.2004.6.2.178},
   volume           = {6},
-  comment          = {Test the Geels Regimes model empirically the develop of  heat pump power generation and bio-gas production. Both these technologies 'failed' due to rules which directed the directon of innovation. 
+  comment          = {Test the Geels Regimes model empirically against the development of  heat pump power generation and bio-gas production. Both these technologies 'failed' due to rules which directed the directon of innovation. 
 
 I think they found examples not in The Netherlands where they were successful
 
 Interesting that heat pumps are now a success},
   creationdate     = {2022-11-17T19:10:17},
   keywords         = {innovation, transition, technology, economics},
-  modificationdate = {2023-03-04T09:51:43},
+  modificationdate = {2023-07-20T10:25:14},
   owner            = {ISargent},
 }
 
@@ -5148,8 +5148,8 @@ How one system changes into another - focus of the not on (economic) performance
 
 ``Radical novelties may have a `mis-match' with the existing regime (Freeman and Perez, 1988)''},
   creationdate     = {2022-11-17T19:56:30},
-  keywords         = {innovation, Institutional theory, Regimes, transformation, economics},
-  modificationdate = {2022-11-17T20:11:16},
+  keywords         = {decisions, innovation, Institutional theory, Regimes, transformation, economics},
+  modificationdate = {2023-07-20T10:22:24},
   owner            = {ISargent},
 }
 
@@ -15906,10 +15906,12 @@ Draw on several best practice cases to identify challenges and their opportuniti
 - Empower learning and collaboration
 - Understand and manager power dynamics with all actors
 - Account for politics and inclusive governance
-- Link knowledge with action for transformative change},
+- Link knowledge with action for transformative change
+
+Conclude that there may be more strategies to discover through future studies and that no single right way to do co-production of decisions},
   creationdate     = {2023-07-19T08:50:37},
   keywords         = {Co-production, transformation, environment, decisions, design},
-  modificationdate = {2023-07-19T10:30:09},
+  modificationdate = {2023-07-19T10:32:39},
   owner            = {ISargent},
 }
 
