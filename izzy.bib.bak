@@ -16025,10 +16025,8 @@ Evidence that creation of reserves, with relocation/eviction of indigenous peopl
   title            = {Citizens as an innovation source in sustainability transitions – linking the directionality of innovations with the locus of the problem in transformative innovation policy},
   doi              = {10.1080/14719037.2022.2062041},
   eprint           = {https://doi.org/10.1080/14719037.2022.2062041},
-  number           = {0},
   pages            = {1-23},
   url              = {https://doi.org/10.1080/14719037.2022.2062041},
-  volume           = {0},
   comment          = {A research provocation in which they develop a conceptually sound argument asserting that citizens' contributions to sustainability transitions are important because they are close to problems linked to unsustainable practices and can develop solutions that align with (latent) needs many other people are facing
 
 Key findings:
@@ -16062,7 +16060,8 @@ Study Vinnova funding allocation and finds ``The locus of innovation is on scien
 
 Question whether one-off measures such as hackathons are enough - suggest 5 others types of measures leading to a more systemic approach.},
   creationdate     = {2023-07-24T16:51:11},
-  modificationdate = {2023-07-24T17:21:19},
+  keywords         = {innovation, participation, transformation, sustainability},
+  modificationdate = {2023-07-24T17:24:41},
   owner            = {ISargent},
   publisher        = {Routledge},
 }
