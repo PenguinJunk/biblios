@@ -15744,10 +15744,10 @@ From the results they argue:
 - decision makers with high domain expertise are less prone to such biases because they have gained codified knowledge with more explicity rules (more likely to perform problemistic search with performance below aspirations)
 - incentives make decision makers less complacent when performance is above aspirations, but also less ambitious and less risk-taking and as such are more likely to search
 
-Seems to be testing hypotheses in ZolloW2002 but doesn't city that paper},
+Seems to be testing hypotheses in ZolloW2002 but doesn't cite that paper},
   creationdate     = {2023-07-11T17:04:52},
   keywords         = {decisions, leadership, performance, organisation, bureaucracy},
-  modificationdate = {2023-07-23T17:30:22},
+  modificationdate = {2023-07-24T13:20:52},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -15915,7 +15915,7 @@ Conclude that there may be more strategies to discover through future studies an
 }
 
 @Article{ZolloW2002,
-  author           = {Maurizio Zollo and Sidney G. Winter},
+  author           = {Maurizio Zollo and Sidney G. Winter and Max Adner and Tim Boisot and Anna Folta and Bruce Grandori and Ari Johnathan Ilko Kogut and Bart Lewin and Gabriel Nooteboom and Christoph Szulanski and Zott},
   date             = {2002},
   journaltitle     = {Organization Science},
   title            = {Deliberate Learning and the Evolution of Dynamic Capabilities},
@@ -15971,7 +15971,7 @@ suggest guiding principles:
 This seems to be backed up by BlettnerKL2023, which finds that knowledge gained by job experience is less effective than codified knowledge},
   creationdate     = {2023-07-23T16:24:52},
   keywords         = {decisions, bureaucracy, transformation},
-  modificationdate = {2023-07-23T17:50:34},
+  modificationdate = {2023-07-24T13:08:41},
   owner            = {izzy_olivine},
 }
 
@@ -15986,7 +15986,7 @@ This seems to be backed up by BlettnerKL2023, which finds that knowledge gained 
 
 The world is not dichotomous (the market - private goods - and the state - public goods), stuctures are more complex. Buchanan introduced ``club'' (Ostrom: ``toll'') goods but more widely there is not considerable empirical evidence of how ``common pool resources'' are managed by groups of participants. There are 7 broad types of rule that operate in these cases
 
-Studies finding that polycentric decision-making systems (e.g. policing arrangements) have demonstrated that, contrary to theory, these are more, not less, efficient
+Studies finding that polycentric decision-making systems (e.g. policing arrangements) have demonstrated that, contrary to theory, these are more, not less, efficient than if they are all amalgamated together
 
 ``earlier theories of rational, but helpless, individuals who are trapped in social dilemmas are not supported by a large number of studies using diverse methods ... ``rational choice theory'' is not a broad theory of human behavior but rather a useful model to predict behavior in a particular situation - a highly competitive market for private goods''
 
@@ -15994,7 +15994,7 @@ Individuals are boundedly rational, learn and use heuristics. However ``In eras 
 
 Environment strongly affects behaviour
 
-Trust is crucial to overcoming social dilemmas. Cooperation here (public goods and common pool resources) requires:
+User-governed systems show better performance [over state governed, I presume]. Trust is crucial to overcoming social dilemmas. Cooperation here (public goods and common pool resources) requires:
 1. ability to communicate
 2. knowledge of reputation
 3. knowledge marginal return per capita (high -> trust)
@@ -16009,8 +16009,62 @@ Evidence that creation of reserves, with relocation/eviction of indigenous peopl
 ``Extensive empirical research leads me to argue that instead, a core goal of public policy should be to facilitate the development of institutions that bring out the best in humans''},
   creationdate     = {2023-07-24T08:12:49},
   keywords         = {decisions, bureaucracy, transformation, deliberative, democracy, participatory},
-  modificationdate = {2023-07-24T08:56:39},
+  modificationdate = {2023-07-24T16:49:49},
   owner            = {ISargent},
+}
+
+
+
+
+
+
+@Article{TrischlerSWW2022,
+  author           = {Jakob Trischler and Peter O. Svensson and Hel\'{e}n Williams and Fredrik Wikstr\"{o}m},
+  date             = {2022},
+  journaltitle     = {Public Management Review},
+  title            = {Citizens as an innovation source in sustainability transitions – linking the directionality of innovations with the locus of the problem in transformative innovation policy},
+  doi              = {10.1080/14719037.2022.2062041},
+  eprint           = {https://doi.org/10.1080/14719037.2022.2062041},
+  number           = {0},
+  pages            = {1-23},
+  url              = {https://doi.org/10.1080/14719037.2022.2062041},
+  volume           = {0},
+  comment          = {A research provocation in which they develop a conceptually sound argument asserting that citizens' contributions to sustainability transitions are important because they are close to problems linked to unsustainable practices and can develop solutions that align with (latent) needs many other people are facing
+
+Key findings:
+- Transformative innovation policy practice adheres to the producer-centric innovation paradigm
+- A current weakness in transformative innovation policy is the lack of consideration of the actual locus of the problem and innovation
+- Citizens innovate but their underlying motivations differ from producers
+
+The current innovation paradigm is producer-centric
+
+Producer is thought of as organisations and consumer is citizens
+
+Citizen innovators are barely considered
+
+This paper argues that, especially for behaviour change, citizens should be enabled to be innovators
+
+This is not just public sector bodies including citizens, but innovation should be bottom up led by citizens with public sector support incitivisation, scale up, diffusion etc where necessary
+
+Considers Transformative Innovation Policy (TIP), which is currently insufficient and needs to be developed to include citizens as source of innovation
+
+narrow TIP - academia and industry towards addressing societal problems and closely associated with mission- or challenge-oriented innovations (Mazzucato etc)
+
+broad TIP- change of socio-technical system, which requires engagement by multiple actors
+
+use broad TIP as a starting point for formally including citizens as innovation source
+
+``literature on wicked problems has from its very beginning critiqued science-based policy approaches as too narrow for addressing societal problems''
+
+``even when a problem linked to unsustainable consumption appears to be situated on an individual consumer level, it is still affected by higher-order social, economic and cultural factors''
+
+Study Vinnova funding allocation and finds ``The locus of innovation is on scientific and technological breakthroughs whereas innovations that lead to social and behavioural changes receive little attention despite they form a key part of sustainability transitions''
+
+Question whether one-off measures such as hackathons are enough - suggest 5 others types of measures leading to a more systemic approach.},
+  creationdate     = {2023-07-24T16:51:11},
+  modificationdate = {2023-07-24T17:21:19},
+  owner            = {ISargent},
+  publisher        = {Routledge},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
