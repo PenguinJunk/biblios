@@ -15980,7 +15980,9 @@ This seems to be backed up by BlettnerKL2023, which finds that knowledge gained 
   date             = {2010},
   journaltitle     = {The American Economic Review},
   title            = {Beyond Markets and States: Polycentric Governance of Complex Economic Systems},
+  doi              = {10.1257/aer.100.3.641},
   number           = {3},
+  url              = {https://doi.org/10.1257/aer.100.3.641},
   volume           = {100},
   comment          = {Great for citations on lots of areas of economics, governance, complexity and human behaviour
 
@@ -16009,7 +16011,7 @@ Evidence that creation of reserves, with relocation/eviction of indigenous peopl
 ``Extensive empirical research leads me to argue that instead, a core goal of public policy should be to facilitate the development of institutions that bring out the best in humans''},
   creationdate     = {2023-07-24T08:12:49},
   keywords         = {decisions, bureaucracy, transformation, deliberative, democracy, participatory},
-  modificationdate = {2023-07-28T11:43:56},
+  modificationdate = {2023-07-29T10:47:04},
   owner            = {ISargent},
 }
 
