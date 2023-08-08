@@ -16206,9 +16206,21 @@ I wonder if Boyd drew on some of the work that this drew on? It seems to relate 
 
 They note possibility of other applications: ``other important geo-spatiotemporal forecasting problems, including climate and ecology, energy, agriculture, and human and biological activity, as well as other complex dynamical systems''},
   creationdate     = {2023-08-08T13:23:35},
-  modificationdate = {2023-08-08T14:10:26},
+  modificationdate = {2023-08-08T15:30:58},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Article{Rittenhouse1786,
+  author           = {Rittenhouse, D.},
+  date             = {1786},
+  journaltitle     = {Transactions of the American Philosophical Society},
+  title            = {Explanation of an optical deception},
+  pages            = {37--42},
+  volume           = {2},
+  creationdate     = {2023-08-08T15:30:21},
+  modificationdate = {2023-08-08T15:38:39},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
