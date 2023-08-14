@@ -16218,8 +16218,17 @@ They note possibility of other applications: ``other important geo-spatiotempora
   title            = {Explanation of an optical deception},
   pages            = {37--42},
   volume           = {2},
+  comment          = {Describes how viewing opjects through two lenses can make them sometimes appear reversed
+
+Looks at bricks, where the reversed effect is that the bricks appear depressed compared to the spaces between
+
+Also looks at a chocolate bar
+
+I think he says that the same effect is achieved with just a tube and he determines that its the context that allows the brain to understand the nature of the objects if it doesn't know the direction of light
+
+Relevant to punctate lighting priors, e.g. lighting from above prior},
   creationdate     = {2023-08-08T15:30:21},
-  modificationdate = {2023-08-08T15:38:39},
+  modificationdate = {2023-08-08T15:41:22},
   owner            = {ISargent},
 }
 
