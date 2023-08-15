@@ -16303,12 +16303,12 @@ within the system. There is a 3rd dimension that increases and decreases during 
 
 Novelty and experimentation are possible when connectedness is low and resilience is high - at the transition from the \alpha and r phases, which is a phase of great uncertainty
 
-Apply the metaphor to ecological and economic/organisational systems. "Fail" to discover useful exceptions in specific large human organisations. Do identify some excpetions in physical, biological and some human systems.
+Apply the metaphor to ecological and economic/organisational systems. "Fail" to discover useful exceptions in specific large human organisations. Do identify some exceptions in physical, biological and some human systems [c.f. KayK2020 ``absence of volatility is not absence of risk p421-2''].
 
 Quite a philosophical piece, considering whether we should be trying to protect "pristine" nature in a changing world, and the maladaptation of the "resilient" soviet system},
   creationdate     = {2023-08-14T16:00:51},
   keywords         = {transformation, bureaucracy, agile, stability, decisions},
-  modificationdate = {2023-08-14T17:02:15},
+  modificationdate = {2023-08-15T14:10:50},
   owner            = {ISargent},
 }
 
@@ -16333,10 +16333,88 @@ Discusses different perspectives of metaphysics:
 - philosophical idealism - reality is fundamentally a mental process, a transpersonal mind, the world begins with perceptions
 - panpsychism - consciousness and the physical world are fundamental and simply phase states of each other
 
-If we orient towards quality - towards the experience rather and quantity - for the foundation of our cutural stories we may hope to build better [AI], although not a panacea.},
+If we orient towards quality - towards the experience rather and quantity - for the foundation of our cutural stories we may hope to build better [AI], although not a panacea.
+
+Uses fish farm analogy. In the first instance competitive farmers deplete the commons and pollute the lake. The second I would describe as polycentric governance of Ostrom - based on our experience.},
   creationdate     = {2023-08-14T17:07:18},
   keywords         = {AI, trust, ethics, philosophy},
-  modificationdate = {2023-08-14T17:28:35},
+  modificationdate = {2023-08-14T17:30:27},
+  owner            = {ISargent},
+}
+
+@Article{Sultana2023,
+  author           = {Sultana, Farhana},
+  date             = {2023},
+  journaltitle     = {Geo: Geography and Environment},
+  title            = {Whose growth in whose planetary boundaries? Decolonising planetary justice in the Anthropocene},
+  doi              = {https://doi.org/10.1002/geo2.128},
+  eprint           = {https://rgs-ibg.onlinelibrary.wiley.com/doi/pdf/10.1002/geo2.128},
+  note             = {e00128 GEO-23-06-0046},
+  number           = {2},
+  pages            = {e00128},
+  url              = {https://rgs-ibg.onlinelibrary.wiley.com/doi/abs/10.1002/geo2.128},
+  volume           = {10},
+  abstract         = {Abstract This critical analysis examines the geopolitics of planetary environmental injustice and the imperative for systems change to address the intertwined crises of climate breakdown and unsustainable economic growth. Climate breakdown has heightened attention to uneven anthropogenic use and abuse of the planet's biosphere and common pool resources. Recent arguments by climate scholars suggest that various planetary boundaries have already been breached, resulting in dramatic and harmful socio-ecological consequences. These trends raise crucial questions of equity and justice, especially concerning responsibilities and impacts. By centring Global South perspectives, prevailing ideologies promoting hyperconsumption, overproduction and waste are interrogated. The incommensurability of socioecological justice with ongoing unsustainable extractive and exploitative economic growth paradigms, which contribute to further transgressions of planetary boundaries, underscore the urgency of decolonising underlying colonial-capitalist ideologies and practices. This entails a fundamental reformulation of paradigms to envision a more just and sustainable future, one that dismantles oppressive systems and advances justice-oriented praxis.},
+  comment          = {Argues that critiques of economic growth need to be made in the context of planetary boundaries by centring climate justice and Global South perspectives
+
+Covers the climate justice literature and thinking, including lots of heterdox perspectives on economics, development and justice},
+  creationdate     = {2023-08-14T19:51:33},
+  keywords         = {climate, economics, environment, trust, ethics},
+  modificationdate = {2023-08-14T20:29:07},
+  owner            = {izzy_olivine},
+}
+
+@Article{LangeMZKBPLA2023,
+  author           = {Benjamin Lange and Amanda McCroskery and Ben Zevenbergen and Geoff Keeling and Sandra Blascovich and Kyle Pedersen and Alison Lentz and Blaise Aguera y Arcas},
+  date             = {2023-06-15},
+  journaltitle     = {arXiv},
+  title            = {Engaging Google Teams Through Moral Imagination: A Bottom-Up Approach for Responsible Innovation and Ethical Culture Change in Technology Companies},
+  eprint           = {https://arxiv.org/pdf/2306.06901.pdf},
+  archiveprefix    = {arXiv},
+  comment          = {Introduce Moral Imagination methodology for developing culture of responsible innovation in day-to-day decision-making
+
+Three Key Ethical Capabilities for Moral Imagination:
+- Ethical Awareness (Ability to recognize normatively significant factors and implications (e.g. moral values, ethical risks of harms, constraints and rights violations) in situations, decisions, and other relevant choice scenarios)
+- Ethical Deliberation and Decision-Making (Ability to engage in reasoning and deliberation in relevant choice scenarios, including tensions between value and other moral commitments, conflicts, moral dilemmas, and trade-offs)
+- Ethical Commitment (Ability to derive and set concrete plans to guide further product development and/or research.)
+
+Workshops uses exercises to support technologists tp learn to see their work through ethical lens with four step structure:
+1. reflection
+2. expansion
+3. evaluation
+4. action},
+  creationdate     = {2023-08-15T16:40:59},
+  keywords         = {trust, AI, decicions},
+  modificationdate = {2023-08-15T16:50:28},
+  owner            = {ISargent},
+  primaryclass     = {cs.CY},
+  year             = {2023},
+}
+
+@Article{Ward2023,
+  author           = {Paul Ward},
+  date             = {2023-08-04},
+  journaltitle     = {IEEE Transactions on Human-machine Systems},
+  title            = {Choice, Uncertainty, and Decision Superiority: IsLess AI-Enabled Decision Support More?},
+  eprint           = {https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10177274},
+  comment          = {A meta study of empirical evidence on information overload and effectiveness of decision-making
+
+Too much information can lead to worse decision outcomes, as well as making more decisions or difficult and decrease satisfaction
+
+Also look at amount of choice, uncertainty, decision difficult, variety, entropy (high when lots of options of equal probability) on decision outcomes
+
+Probably loads of interesting nuggets in here, its very thorough
+
+Provides a table of advice for providing more or less choice under different conditions (much more detail in paper):
+- General - decision makers profer more choice but provide less as decisions increase in difficulty or complexity
+- Complexity, Difficulty, Uncertainty - when low give more choice, when high give less
+- Information relevance - even too much relevant information can be detrimental
+- Cognitive Effort - when high give less choice
+- Familiarity - when low give less choice
+- Entropy - decrease by highlighting unequal likelihood of options or attributes
+- Variety - less about increasing number of options and more about increasing the distinction between options},
+  creationdate     = {2023-08-15T17:05:17},
+  modificationdate = {2023-08-15T17:20:30},
   owner            = {ISargent},
 }
 
