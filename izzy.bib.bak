@@ -16420,4 +16420,54 @@ Provides a table of advice for providing more or less choice under different con
   owner            = {ISargent},
 }
 
+@Thesis{Erceg2023,
+  author           = {Erceg, Nikola},
+  date             = {2023},
+  institution      = {University of Zagreb, Faculty of Humanities and Social Sciences},
+  title            = {Decision-making skills and styles as predictors ofmanagerial performance},
+  type             = {phdthesis},
+  url              = {https://repozitorij.ffzg.unizg.hr/islandora/object/ffzg:8207},
+  comment          = {Finds that Actively Open-minded Thinking AOT is highly indicative of quality, rational reasoning and decision-making.
+
+``AOT can be defined as the disposition to actively search for and give fair treatment to possibilities other than the one we initially favor. Therefore, its main difference from rational thinking style is that it deals not only with the quantity of thinking (i.e. whether a person tends to think a lot before making important decisions), but also the quality, or the direction of thinking (i.e. whether person tends to look for counterevidence and reasons why he/she might be wrong which is a direct antidote to some prevalent reasoning errors). Empirically, this thinking disposition was found to be related to a range of indicators of rational thinking - it correlates negatively with a wide range of cognitive biases such as confirmation bias, sunk cost effect, outcome bias, belief bias and others''},
+  creationdate     = {2023-08-15T17:33:04},
+  keywords         = {decisions},
+  modificationdate = {2023-08-15T17:35:35},
+  owner            = {ISargent},
+}
+
+@Article{,
+  comment          = {Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas is key author here},
+  creationdate     = {2023-08-16T13:49:44},
+  modificationdate = {2023-08-16T13:50:16},
+  owner            = {ISargent},
+}
+
+@Article{SalasSTBL2014,
+  author           = {Eduardo Salas and Marissa L. Shuffler and Amanda L. Thayer and Wendy L. Bedwell and Elizabeth H. Lazzara},
+  date             = {2014-10-29},
+  journaltitle     = {Human Resource Management},
+  title            = {Understanding and Improving Teamwork in Organizations: A Scientifically Based Practical Guide},
+  doi              = {10.1002/hrm.21628},
+  url              = {https://onlinelibrary.wiley.com/doi/abs/10.1002/hrm.21628},
+  comment          = {I've not read but from HamJP2021
+
+``proposed nine factors affecting the performance of team decision-making tasks, which were categorized into two groups''
+- core processes (activities facilitating task achievement in the pursuit of goals) and emergent states (resultant dynamic properties of a team):
+  1. cooperation
+  2. conflict
+  3. coordination
+  4. communication
+  5. coaching
+  6. cognition
+- influencing conditions (factors affecting the core processes and emergent states):
+  1. composition
+  2. culture
+  3. context},
+  creationdate     = {2023-08-16T14:01:19},
+  keywords         = {teams, decisions},
+  modificationdate = {2023-08-16T14:06:51},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
