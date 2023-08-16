@@ -16436,11 +16436,27 @@ Provides a table of advice for providing more or less choice under different con
   owner            = {ISargent},
 }
 
-@Article{,
-  comment          = {Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas is key author here},
+@Article{HamJP2021,
+  author           = {Dong-Han Ham and Won-Jun Jung and Jinkyun Park},
+  date             = {2021},
+  journaltitle     = {Reliability Engineering & System Safety},
+  title            = {Identifying key factors affecting the performance of team decision-making based on the analysis of investigation reports issued from diverse industries},
+  doi              = {https://doi.org/10.1016/j.ress.2020.107304},
+  issn             = {0951-8320},
+  pages            = {107304},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0951832020308000},
+  volume           = {206},
+  comment          = {Conducted a comprehensive literature review to identify a set of independent and meaningful team decision-making performance factors
+
+Categorize these under a theoretically sound model in order to better understand the nature of decision-making tasks
+
+Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas is key author here},
   creationdate     = {2023-08-16T13:49:44},
-  modificationdate = {2023-08-16T13:50:16},
+  journal          = {Reliability Engineering & System Safety},
+  keywords         = {decisions, teams, bureaucracy},
+  modificationdate = {2023-08-16T14:26:59},
   owner            = {ISargent},
+  year             = {2021},
 }
 
 @Article{SalasSTBL2014,
@@ -16468,6 +16484,54 @@ Provides a table of advice for providing more or less choice under different con
   keywords         = {teams, decisions},
   modificationdate = {2023-08-16T14:06:51},
   owner            = {ISargent},
+}
+
+@Article{KozlowskiI2006,
+  author           = {Steve W.J. Kozlowski and Daniel R. Ilgen},
+  date             = {2006},
+  journaltitle     = {Psychological Science in the Public Interest},
+  title            = {Enhancing the Effectiveness of Work Groups and Teams},
+  doi              = {10.1111/j.1529-1006.2006.00030.x},
+  eprint           = {https://doi.org/10.1111/j.1529-1006.2006.00030.x},
+  note             = {PMID: 26158912},
+  number           = {3},
+  pages            = {77-124},
+  url              = {https://doi.org/10.1111/j.1529-1006.2006.00030.x},
+  volume           = {7},
+  comment          = {I have not read much of this, but it looks like a storming paper 
+reviwing the science of team effectiveness.
+
+``given the centrality of work teams, it is more than a bit remarkable that we have a strong individual-centric perspective in the western world. We school our children as individuals. We hire, train, and reward employees as individuals. And, yet, we have great faith that individuals thrown together into a team with little thought devoted to team composition, training and development, and leadership will be effective and successful''
+
+Reviews:
+
+Critical team processes and emergent states and how they contribute to team effectiveness:
+- teams with better individual teamwork KSAs, competencies, and functions will be more effective
+- teams with better regulatory-process dynamics that express these competencies as synchronized individual and team action will be more effective
+- factors that influence the development of self-regulation can be adapted to develop team regulation
+-  team leadership and team-training interventions are key leverage points for shaping the development of team regulatory-process competencies
+
+Aligning and leveraging team processes: Team design
+- Hackman (1992) normative model provides a basic heuristic that identifies critical factors that need to be considered when team work systems are created
+  - more research required
+
+Team training:
+- cross training, forms of simulation-based training, and team adaptation-coordination-CRM training all evidence sufficient research-based support to justify recommending them as credible and effective team-training techniques
+
+Team development:
+- inconsistent findings for the effectiveness of team-building interventions attest to the challenge of change
+- a ripe target for systematic and rigorous research
+
+Leadership:
+-  theory and evidence support leaders as a key leverage point for enhancing team effectiveness
+
+Make research, educational and organisational recommendations},
+  creationdate     = {2023-08-16T14:24:26},
+  journal          = {Psychological Science in the Public Interest},
+  keywords         = {decisions, teams, bureaucracy},
+  modificationdate = {2023-08-16T14:43:41},
+  owner            = {ISargent},
+  year             = {2006},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
