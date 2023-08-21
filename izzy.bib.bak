@@ -4624,7 +4624,7 @@ Identify knowledge intensive working practices (KIWP) grouped broadly under
   - tend to rely more on self-organization, autonomy and decentralized decision making
 2. Learning: organizational learning practices (developing and distributing knowledge)
   - formal and informal learning practices help organizations to develop unique resources enabling them to be competitive
-3. Technoloy: the use of technology (applying knowledge)
+3. Technology: the use of technology (applying knowledge)
   - people doing work that is more knowledge-intensive are more likely the work with IT
 
 conclude:
@@ -4637,7 +4637,7 @@ conclude:
 ``knowledge-intensive organizations and organizations in which knowledge intensity is increasing, are advised to look at the way in which they structure and govern their organization'' - are autonomy, learning and technology practices in place?},
   creationdate     = {2022-11-11T13:01:34},
   keywords         = {organisation, innovation, transformation, economics, decisions},
-  modificationdate = {2023-08-21T13:27:15},
+  modificationdate = {2023-08-21T13:27:18},
   owner            = {ISargent},
 }
 
@@ -5155,10 +5155,12 @@ Better conceptualises institutions and how they play a role in dynamic developme
 
 How one system changes into another - focus of the not on (economic) performance, but on dynamics and change
 
-``Radical novelties may have a `mis-match' with the existing regime (Freeman and Perez, 1988)''},
+``Radical novelties may have a `mis-match' with the existing regime (Freeman and Perez, 1988)''
+
+Could this moment of change be the same as \alpha to r in HollingG2002?},
   creationdate     = {2022-11-17T19:56:30},
   keywords         = {decisions, innovation, Institutional theory, Regimes, transformation, economics},
-  modificationdate = {2023-07-20T10:22:24},
+  modificationdate = {2023-08-21T13:32:16},
   owner            = {ISargent},
 }
 
@@ -16308,14 +16310,14 @@ Each shift in the cycle between phases changes the
 within the system. There is a 3rd dimension that increases and decreases during the succession:
 - resilience (vulnerability to unexpected disturbances)
 
-Novelty and experimentation are possible when connectedness is low and resilience is high - at the transition from the \alpha and r phases, which is a phase of great uncertainty
+Novelty and experimentation are possible when connectedness is low and resilience is high - at the transition from the \alpha and r phases, which is a phase of great uncertainty [is this similar to the transition phase described in Geels2004?]
 
 Apply the metaphor to ecological and economic/organisational systems. "Fail" to discover useful exceptions in specific large human organisations. Do identify some exceptions in physical, biological and some human systems [c.f. KayK2020 ``absence of volatility is not absence of risk p421-2''].
 
 Quite a philosophical piece, considering whether we should be trying to protect "pristine" nature in a changing world, and the maladaptation of the "resilient" soviet system},
   creationdate     = {2023-08-14T16:00:51},
   keywords         = {transformation, bureaucracy, agile, stability, decisions},
-  modificationdate = {2023-08-15T14:10:50},
+  modificationdate = {2023-08-21T13:33:03},
   owner            = {ISargent},
 }
 
