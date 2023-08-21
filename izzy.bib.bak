@@ -4620,17 +4620,24 @@ Its not all back and this paper also identifies analogies between degrowth and e
   comment          = {Analyses are based on data about over 20,000 companies in 28 European countries
 
 Identify knowledge intensive working practices (KIWP) grouped broadly under
-1. decentralized decision making (producing knowledge)
+1. Autonomy: decentralized decision making (producing knowledge)
   - tend to rely more on self-organization, autonomy and decentralized decision making
-2. organizational learning practices (developing and distributing knowledge)
+2. Learning: organizational learning practices (developing and distributing knowledge)
   - formal and informal learning practices help organizations to develop unique resources enabling them to be competitive
-3. the use of technology (applying knowledge)
+3. Technoloy: the use of technology (applying knowledge)
   - people doing work that is more knowledge-intensive are more likely the work with IT
 
-concluded that the use of these practices is more common in Sweden, the UK and Finland and that companies in Romania, Bulgaria and Lithuania make less use of these practices},
+conclude:
+- developments external to organizations has consequences for the way they are structured, in this case .. the way they manage their knowledge
+- knowledge intensity of the economy is associated with the knowledge intensity of work practics
+- the knowledge intensification of the economy affects all organizations
+- organizations apply KIWP in unison rather than as separate and isolated means of governing knowledge
+-  that the use of these practices is more common in Sweden, the UK and Finland and that companies in Romania, Bulgaria and Lithuania make less use of these practices
+
+``knowledge-intensive organizations and organizations in which knowledge intensity is increasing, are advised to look at the way in which they structure and govern their organization'' - are autonomy, learning and technology practices in place?},
   creationdate     = {2022-11-11T13:01:34},
   keywords         = {organisation, innovation, transformation, economics, decisions},
-  modificationdate = {2023-07-10T11:38:04},
+  modificationdate = {2023-08-21T13:27:15},
   owner            = {ISargent},
 }
 
@@ -16446,9 +16453,11 @@ Provides a table of advice for providing more or less choice under different con
   pages            = {107304},
   url              = {https://www.sciencedirect.com/science/article/pii/S0951832020308000},
   volume           = {206},
-  comment          = {Conducted a comprehensive literature review to identify a set of independent and meaningful team decision-making performance factors
+  comment          = {Conducted a comprehensive literature review to identify a set of independent and meaningful team decision-making performance factors from event investigation reports issued from diverse sociotechnical systems 
 
 Categorize these under a theoretically sound model in order to better understand the nature of decision-making tasks
+
+Field in human error in  safety critical situations (such as nuclear power plants). However, I believe that because the review draws from a wider range of studies it may be more widely applicable
 
 Identify five categories of 14 factors that they find evidence for affecting the performance of team decision making tasks. These are the factors without brackets below, the others make up the 34 factors but for which they did not find enough relevance:
 
@@ -16497,7 +16506,7 @@ Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas
   creationdate     = {2023-08-16T13:49:44},
   journal          = {Reliability Engineering & System Safety},
   keywords         = {decisions, teams, bureaucracy},
-  modificationdate = {2023-08-16T16:33:56},
+  modificationdate = {2023-08-16T16:36:35},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -16575,6 +16584,47 @@ Make research, educational and organisational recommendations},
   modificationdate = {2023-08-16T14:44:36},
   owner            = {ISargent},
   year             = {2006},
+}
+
+@Book{Cottam2018,
+  author           = {Hilary Cottam},
+  date             = {2018},
+  title            = {Radical Help},
+  subtitle         = {How can we remake the relationships between us and revolutionise the welfare state},
+  comment          = {The summary of years of experiments designing alternative approaches to the welfare state. Some experiments work, others don't. Something is learned from all of them. 
+
+Conclusions are around building relationships so that people have support to help themselves. Discussion and findings that these approaches are both cheaper and have more success.
+
+Experiments:
+1. Family Life - `Life', work with families within a community to support their aspirations and lives
+2. Growing Up - Loops', find that young people want to be included and have experiences so experiment with ways to provide this
+3. Good Work - `Backr', designing a new approach to finding work
+4. Good Health - Wellogram", the health system focuses on illness, not the whole person, how can people be helped to help themselves?
+5. Aging Well - `Circle', older people are a resource, create the conditions for people to address their own loneliness
+
+Principles:
+1. Vision: the good life
+2. Capabilities
+3. Above all, relationships
+4. Connect multiple forms of resource
+5. Create possibility
+6. Open: take care of everyone
+
+Beveridge's 3rd report identified that welfare state as designed and enacted undermined voluntary action 
+
+Amartya Sen and Martha Nussbaum and the capability approach - ability of everyone to flourish
+Capabilities that matter include:
+- Learning
+- Health
+- Community
+- Relationships
+
+``The Spanish co-operative group Mondragon, the biggest industrial federation in the Basque region, splits after reaching a certain size'' not dissimilar to points made in Gladwell2000
+
+Interestingly cites the Tavistock Adult Depression Study (TADS) which finds that  antidepressants, short-term courses of counselling or cognitive behavioural therapy have poor outcomes over the long term compared to psychoanalytic psychotherapy.},
+  creationdate     = {2023-08-20T10:11:02},
+  modificationdate = {2023-08-20T13:32:47},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
