@@ -7960,7 +7960,7 @@ EA sould be in constant transform p137, p142, always evolving, extensible, littl
 
 Governance process is passive, saying no, judgemental process, its like a reality TV show. p175-6
 
-Some kind of oversight is always desired so they came up with an Agile governence and oversight modelhelp interface with expectations of waterfall style organisation, including:
+Some kind of oversight is always desired so they came up with an Agile governence and oversight model help interface with expectations of waterfall style organisation, including:
 - investment decision and oversight process form a seamless continuum - initiative informs governance decision
 - progress gauged by operational results
 - boundaries set for planning, don't waste time on too much planning
@@ -7983,7 +7983,7 @@ IT leaders steward IT people/skills assets, EA assets and data assets p275-6 (al
 DevOps: When something is difficult it frightening we do it more often p292-3},
   creationdate     = {2023-01-21T14:58:51},
   keywords         = {transformation, technology, decisions},
-  modificationdate = {2023-07-10T11:41:15},
+  modificationdate = {2023-08-21T13:48:45},
   owner            = {izzy_olivine},
 }
 
@@ -8098,7 +8098,7 @@ Winter sees innovation as requiring ``talented cooks'' who first imagine the dis
 
 ``there are creative and insight-dependent components that cannot be routinised''
 
-Contrasts 2 roles of managers: operational, entrepreneurial and leadership and tables the responsibilities, activities, levers and goals of each.
+Contrasts 3 roles of managers: operational, entrepreneurial and leadership and tables the responsibilities, activities, levers and goals of each.
 
 Entrepreneurship is not adaptation but making of ``new combinations''
 
@@ -8116,7 +8116,7 @@ Organisation change in anticipation of environmental change - but entrepreneurs 
 ``Dynamic capabilities of the public sector are higher-order bundles of political, policy and organizational routines and managerial decisions that drive the strategic activities of public organisations in regimes of deep uncertainty and wicked challenges''},
   creationdate     = {2023-01-27T17:56:28},
   keywords         = {economics, bureaucracy, organisation, transformation, decisions},
-  modificationdate = {2023-07-13T10:19:58},
+  modificationdate = {2023-08-22T11:20:23},
   owner            = {izzy_olivine},
 }
 
@@ -11258,7 +11258,7 @@ the `real law' is the law that is applied, not something in a statute book
 
 Important points about public policy
 
-1. public policy is what is implkemented not what is formally declared (real speed limits are often higher, black and white, rich and poor, etc drivers have different traffic laws). Discretion of how law is exercised raises questions:
+1. public policy is what is implemented not what is formally declared (real speed limits are often higher, black and white, rich and poor, etc drivers have different traffic laws). Discretion of how law is exercised raises questions:
 a. need to hold agents to account for how they exercise law?
 b. what extent does discretion affect outcomes for citizens?
 c. what type of employees would most likely provide high quality inclusive services?
@@ -11291,7 +11291,7 @@ Arguments for shift to AI:
 Interesting to compare and contrast with HerdM2018 - adminstrative burden},
   creationdate     = {2023-03-21T13:45:24},
   keywords         = {bureaucracy, policy, trust, decisions},
-  modificationdate = {2023-07-10T11:34:55},
+  modificationdate = {2023-08-22T11:25:49},
   owner            = {izzy_olivine},
 }
 
@@ -13951,7 +13951,7 @@ Outlines policy implications of possibility that inequality limits innovation (a
   volume           = {15},
   comment          = {``decision makers with high-level responsibilities in economics, politics, and civil society require more sustainability competencies than the average citizen''
 
-Use sustainability framework of Wiek at al 2011 which has 5 key competencies:
+Use sustainability framework of WiekWR2011 which has 5 key competencies:
 - Systems Thinking
 - Anticipatory (Futures Thinking)
 - Normative (Values Thinking)
@@ -13993,7 +13993,7 @@ Aspects of sustainability competencies which are particularly important for deci
 Referencers Polanyi's Great Transformation},
   creationdate     = {2023-05-16T15:33:51},
   keywords         = {business, decisions, environment},
-  modificationdate = {2023-06-25T13:44:39},
+  modificationdate = {2023-08-22T13:35:59},
   owner            = {ISargent},
 }
 
@@ -16626,6 +16626,28 @@ Interestingly cites the Tavistock Adult Depression Study (TADS) which finds that
   creationdate     = {2023-08-20T10:11:02},
   modificationdate = {2023-08-20T13:32:47},
   owner            = {izzy_olivine},
+}
+
+@Article{WiekWR2011,
+  author           = {Wiek, Arnim and Withycombe, Lauren and Redman, Charles L.},
+  date             = {2011-07-01},
+  journaltitle     = {Sustainability Science},
+  title            = {Key competencies in sustainability: a reference framework for academic program development},
+  doi              = {10.1007/s11625-011-0132-6},
+  issue            = {2},
+  pages            = {203--218},
+  url              = {https://doi.org/10.1007/s11625-011-0132-6},
+  volume           = {6},
+  comment          = {I've not read this, but its used by EberzLBN2023 because it identifies 5 key competencies in sustainability:
+- Systems Thinking
+- Anticipatory (Futures Thinking)
+- Normative (Values Thinking)
+- Strategic (Action-Oriented)
+- Interpersonal (Collaboration)},
+  creationdate     = {2023-08-22T13:31:46},
+  modificationdate = {2023-08-22T13:36:50},
+  owner            = {ISargent},
+  year             = {2011},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
