@@ -4711,8 +4711,8 @@ Considers the last 5 major recessions (1920-21, 1929-32, 1973-75, 1979-82 and 19
   isbn             = {9780199241231},
   publisher        = {Oxford University Press},
   url              = {https://doi.org/10.1093/0199241236.003.0004},
-  abstract         = {{This book is mostly about demand, and how in the short term fluctuations in demand cause fluctuations in output and productivity growth. Over the longer term, major variations in growth rates have undoubtedly originated from the supply rather than the demand side. The aim of this chapter is to summarize what is known in general about variations in the rate of growth; and to argue that the kind of effects that supply‐side factors have is different from what is needed to explain the abrupt short‐term falls in output that occur in major recessions. The discussion thus touches on a large subject of which knowledge is incomplete, but since its relevance is indirect, discussion is brief and touches only on what is essential for the present purpose: Sect. 4.1 summarizes what is known about variations in growth rates; Sect. 4.2 first gives a general explanation--eclectic but not basically novel for the process of growth, and then goes on to offer explanations for some particular ways in which growth rates have varied since 1920; Sect. 4.3 summarizes conclusions. There are two short appendices: Appendix A4.l is a note on growth accounting and two other studies of growth; Appendix A4.2 gives estimates of the growth of output and exports of manufactures of six countries from 1870 to 1970.}},
-  comment          = {``The conclusion I come to is that major long‐term variations in the rate of growth of productivity—in the same country over time and also between countries—have probably originated (chiefly) on the supply side. On the other hand, the kind of abrupt short‐term falls in output, productivity, and employment that occur in major recessions—usually in many countries simultaneously or at nearly the same time—must have originated largely or entirely from the demand side, and must occur essentially through the effect of recession on employment and on (human and physical) investment''},
+  abstract         = {{This book is mostly about demand, and how in the short term fluctuations in demand cause fluctuations in output and productivity growth. Over the longer term, major variations in growth rates have undoubtedly originated from the supply rather than the demand side. The aim of this chapter is to summarize what is known in general about variations in the rate of growth; and to argue that the kind of effects that supply-side factors have is different from what is needed to explain the abrupt short-term falls in output that occur in major recessions. The discussion thus touches on a large subject of which knowledge is incomplete, but since its relevance is indirect, discussion is brief and touches only on what is essential for the present purpose: Sect. 4.1 summarizes what is known about variations in growth rates; Sect. 4.2 first gives a general explanation--eclectic but not basically novel for the process of growth, and then goes on to offer explanations for some particular ways in which growth rates have varied since 1920; Sect. 4.3 summarizes conclusions. There are two short appendices: Appendix A4.l is a note on growth accounting and two other studies of growth; Appendix A4.2 gives estimates of the growth of output and exports of manufactures of six countries from 1870 to 1970.}},
+  comment          = {``The conclusion I come to is that major long-term variations in the rate of growth of productivity—in the same country over time and also between countries—have probably originated (chiefly) on the supply side. On the other hand, the kind of abrupt short-term falls in output, productivity, and employment that occur in major recessions—usually in many countries simultaneously or at nearly the same time—must have originated largely or entirely from the demand side, and must occur essentially through the effect of recession on employment and on (human and physical) investment''},
   creationdate     = {2022-11-12T19:48:31},
   keywords         = {economics, shocks, recession, supply, demand},
   modificationdate = {2022-11-27T19:51:46},
@@ -4881,7 +4881,7 @@ Theoretical demonstrations of how individuals welfare is not maximised by govern
 
 Introduced The Calculus of Consent with two-level  framework of ordinary politics (decisions made by voting) and constitutional politics (decisions made according to frameworks)
 
-``Public choice includes both `methodological individualism' and `rational choice', directly from economic theory to the analysis of politics. At one level of abstraction, these two elements are themselves relatively empty of empirical content. To model the behavior of persons, whether in markets or in politics, as maximizing utilities, and as behaving rationally in so doing, does not require specification of the arguments in utility functions. Economists go further than this initial step, however, when they identify and place arguments into the categories of `goods' and `bads'. Persons are then modeled as acting so as to maximize some index of “goods” and to minimize some index of `bads'.'' - provides some justification for this approach.
+``Public choice includes both `methodological individualism' and `rational choice', directly from economic theory to the analysis of politics. At one level of abstraction, these two elements are themselves relatively empty of empirical content. To model the behavior of persons, whether in markets or in politics, as maximizing utilities, and as behaving rationally in so doing, does not require specification of the arguments in utility functions. Economists go further than this initial step, however, when they identify and place arguments into the categories of `goods' and `bads'. Persons are then modeled as acting so as to maximize some index of `goods' and to minimize some index of `bads'.'' - provides some justification for this approach.
 
 Also claims failure of collectivist schemes - nonperformance measured against promised claims.
 
@@ -5157,7 +5157,7 @@ How one system changes into another - focus of the not on (economic) performance
 
 ``Radical novelties may have a `mis-match' with the existing regime (Freeman and Perez, 1988)''
 
-Could this moment of change be the same as \alpha to r in HollingG2002?},
+Could this moment of change be the same as $\alpha$ to r in HollingG2002?},
   creationdate     = {2022-11-17T19:56:30},
   keywords         = {decisions, innovation, Institutional theory, Regimes, transformation, economics},
   modificationdate = {2023-08-21T13:32:16},
@@ -10026,7 +10026,7 @@ Needs:
   owner            = {ISargent},
 }
 
-@Online{UKGov2012,
+@Online{UKGov2012design,
   author           = {{Central Digital and Data Office}},
   date             = {2012-04-03},
   title            = {Government Design Principles},
@@ -12829,7 +12829,7 @@ Fantastic typology of issues, also includes how to address these:
   comment          = {Based on ONeilR2022
 Links digital public infrastructure and government as a platform and Pope2019
 
-``This description of DPI (from the authors of the Co-Develop report) has its roots in the concept of Government as a Platform (GaaP), first coined by Tim O’Reilly, and later adopted and adapted by different governments.''},
+``This description of DPI (from the authors of the Co-Develop report) has its roots in the concept of Government as a Platform (GaaP), first coined by Tim O'Reilly, and later adopted and adapted by different governments.''},
   creationdate     = {2023-04-03T11:39:29},
   keywords         = {infrastructure, digital, open data, policy, platform},
   modificationdate = {2023-04-03T11:43:13},
@@ -12912,7 +12912,7 @@ DNF provides a framework using location as the common denominator.  It offers th
 DNF is an open initiative taking input from a variety of interested parties. It encompasses proven and robust international standards. Although developed in the United Kingdom and Ireland, the DNF concept is transferable to other countries.
 3. Structured using effective techniques for a “create once, use many times” model
 
-DNF features are referenced through unique identifiers enabling explicit and unambiguous linking and exchange of information. DNF’s object-based approach means that data should be collected once, maintained at the most effective level of detail, and then reused in any way the user requires. It offers the ability to create a consistent and structured geographic data model to integrate information easily and reliably.
+DNF features are referenced through unique identifiers enabling explicit and unambiguous linking and exchange of information. DNF's object-based approach means that data should be collected once, maintained at the most effective level of detail, and then reused in any way the user requires. It offers the ability to create a consistent and structured geographic data model to integrate information easily and reliably.
 4. Reliable delivering data integrity for underpinning critical business decisions
 
 DNF uses a consistent form of referencing to provide information integrity, such that information of all kinds can be used to link ifferent views of the world to a common base.   This provides for a high degree of data reliability and accuracy across a multitude of business applications. 
@@ -13084,7 +13084,7 @@ use cases:
   title            = {What is Digital Public Infrastructure?},
   url              = {https://www.codevelop.fund/what-is-digital-public-infrastructure},
   urldate          = {2023-04-03},
-  comment          = {Some forms of infrastructure are so critical to the functioning of societies that inequitable access – for whatever reason – can lead to significant social and/or economic harm
+  comment          = {Some forms of infrastructure are so critical to the functioning of societies that inequitable access - for whatever reason - can lead to significant social and/or economic harm
 
 Infrastructure guaranteed by governments is known as ``public infrastructure.''
 
@@ -13178,7 +13178,7 @@ According to the OS every adult in Great Britain interacts with OS location data
   author           = {{Geospatial Commission}},
   date             = {2022-02-09},
   institution      = {Geospatial Commission, UK Government},
-  title            = {How FAIR are the UK's National geospatial data assets? Assessment of the UK’s national geospatial data assets},
+  title            = {How FAIR are the UK's National geospatial data assets? Assessment of the UK's national geospatial data assets},
   type             = {Policy Paper},
   url              = {https://www.gov.uk/government/publications/how-fair-are-the-uks-geospatial-assets/how-fair-are-our-national-geospatial-data-assets-assessment-of-the-uks-national-geospatial-data-html},
   comment          = {``We must treat geospatial data as a strategic national asset if we want to see the further productivity gains it promises.''
@@ -13188,7 +13188,7 @@ Data must be Findable, Accessible, Interoperable, Reusable - in short, geospatia
 Assess FAIR in national geospatial data assets, starting with GEO6
 
 lack of a shared supply framework has led to inconsistencies and challenges
-Q-FAIR (Quality, Findable, Accessible, Interoperable and Reusable) is the Geospatial Commission’s initiative to assess and appraise improvements to the UK geospatial network based on the FAIR principles
+Q-FAIR (Quality, Findable, Accessible, Interoperable and Reusable) is the Geospatial Commission's initiative to assess and appraise improvements to the UK geospatial network based on the FAIR principles
 
 Concludes
 1. There is a wide adoption of FAIR principles to UK geospatial data and overall it is adequate for its current use
@@ -13196,7 +13196,7 @@ Concludes
 
 organisation-centric approach to geospatial data improvement in accordance with individual organisational priorities, where cultures, capabilities and appetites for data improvement can diverge
 
-the UK’s service sector relies heavily on geospatial data for logistics, financial services, deliveries and marketing. Similarly, the public sector requires geospatial data for the provision of critical and citizen services such as planning, emergency response and border security
+the UK's service sector relies heavily on geospatial data for logistics, financial services, deliveries and marketing. Similarly, the public sector requires geospatial data for the provision of critical and citizen services such as planning, emergency response and border security
 
 The breadth and number of data holders means there is an inherent fragmentation in public sector data supply},
   creationdate     = {2023-04-04T14:23:44},
@@ -13218,7 +13218,7 @@ The breadth and number of data holders means there is an inherent fragmentation 
   volume           = {6},
   comment          = {Unlike vending machine democracy (pay taxes, get services) in which our only participation when it goes wrong is protest use government as manager of marketplace - the Bizarre in Raymond1999
 
-a system in which all of the outcomes aren’t specified beforehand, but instead evolve through interactions between government and its citizens, as a service provider enabling its user community
+a system in which all of the outcomes aren't specified beforehand, but instead evolve through interactions between government and its citizens, as a service provider enabling its user community
 
 See also MargettsN2017
 
@@ -13296,7 +13296,7 @@ Themes:
 @Online{OSNGDAPI2022,
   author           = {{Ordnance Survey}},
   date             = {2022},
-  title            = {OS NGD API – Features: Overview},
+  title            = {OS NGD API - Features: Overview},
   url              = {https://osdatahub.os.uk/docs/ofa/overview},
   urldate          = {2023-04-04},
   comment          = {Documentation for OS NGD API - Features},
@@ -13344,9 +13344,9 @@ BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
   volume           = {5},
   comment          = {Markets are not just allocative, they also have discovery and creative functions
 
-They are not self‐creating, self‐regulating, self‐stabilising, or self‐legitimising (Rodrik, 2007). This requires incentive structures, enforcement mechanisms, institutions (formal and informal), and the state
+They are not self-creating, self-regulating, self-stabilising, or self-legitimising (Rodrik, 2007). This requires incentive structures, enforcement mechanisms, institutions (formal and informal), and the state
 
-Developed from (North, 2005, p. 169): adaptive efficiency is redefined as an ongoing condition of innovation and modification in which the market, through the allocative, discovery and creative functions, responds to the incentive structures that confront choice‐makers, utilises localised information, and exploits the creative potential of man to provide solutions to problems and novel situations as they arise.
+Developed from (North, 2005, p. 169): adaptive efficiency is redefined as an ongoing condition of innovation and modification in which the market, through the allocative, discovery and creative functions, responds to the incentive structures that confront choice-makers, utilises localised information, and exploits the creative potential of man to provide solutions to problems and novel situations as they arise.
 
 Definitely needs re-reading in relation to organisations and institutions and how people work together to create good outcomes (deliberation as a market?) 
 
@@ -13425,7 +13425,7 @@ Attitude that bugs are inevitable reduces accountability},
   title            = {Digital public goods as infrastructure: government as a platform for all?},
   url              = {https://medium.com/digital-public-infrastructure/digital-public-goods-as-infrastructure-government-as-a-platform-for-all-c7bc14cbf0b7},
   urldate          = {2023-04-07},
-  comment          = {Here’s a non-exhaustive list of things that those backing digital public goods as infrastructure should think about when identifying good platforms.
+  comment          = {Here's a non-exhaustive list of things that those backing digital public goods as infrastructure should think about when identifying good platforms.
 
 Simplicity - does it do one thing and do it well?
 Clear scope - it should be clear where something fits in the overall `civic stack' and if it is designed for use by a single public institution, or by wider society.
@@ -13445,7 +13445,7 @@ Governance model - does it have a decision-making process that represents the in
   title            = {Institutions for the long-term},
   url              = {https://medium.com/digital-public-infrastructure/institutions-for-the-long-term-d1323853936},
   urldate          = {2023-04-07},
-  comment          = {A good analogy might be to Trinity House which for over 500 years has been responsible for maritime safety in England’s coastal waters, including navigation aids, maritime radio/satellite communication systems, and education. It’s not part of government -- it is an independent charity with a clear mission, paid for through a mix of fees paid by commercial vessels and an endowment. Oversight is provided by a court of thirty-one people, drawn from a wider group of lay people with marine experience. This shared infrastructure supports not only commercial operations, but also the business of government. The organisation does one thing and is funded to do so for the long-term...By systematically publishing information about how they work and how they are changing, digital public goods could enable scrutiny and reduce some of the risks associated with digital infrastructure},
+  comment          = {A good analogy might be to Trinity House which for over 500 years has been responsible for maritime safety in England's coastal waters, including navigation aids, maritime radio/satellite communication systems, and education. It's not part of government -- it is an independent charity with a clear mission, paid for through a mix of fees paid by commercial vessels and an endowment. Oversight is provided by a court of thirty-one people, drawn from a wider group of lay people with marine experience. This shared infrastructure supports not only commercial operations, but also the business of government. The organisation does one thing and is funded to do so for the long-term...By systematically publishing information about how they work and how they are changing, digital public goods could enable scrutiny and reduce some of the risks associated with digital infrastructure},
   creationdate     = {2023-04-07T17:24:43},
   keywords         = {digital, transformation, infrastructure},
   modificationdate = {2023-04-07T17:28:38},
@@ -13463,7 +13463,7 @@ Governance model - does it have a decision-making process that represents the in
 Thinking about building public services from (or is it `on top of'? Or `with'?) digital infrastructure means thinking about the experience of building those services and the nature of the services that can be built. 
 
 enabling local variation
-I argue that the community that is building around digital public goods should actually double down on the focus on infrastructure, even if it means less software carrying the label of ‘digital public goods’. Digital public goods should become synonymous with infrastructure.},
+I argue that the community that is building around digital public goods should actually double down on the focus on infrastructure, even if it means less software carrying the label of `digital public goods'. Digital public goods should become synonymous with infrastructure.},
   creationdate     = {2023-04-07T17:26:45},
   keywords         = {digital, transformation, infrastructure},
   modificationdate = {2023-04-07T17:28:27},
@@ -13558,7 +13558,7 @@ Basic principles:
   owner            = {izzy_olivine},
 }
 
-@Online{UKGov2012,
+@Online{UKGov2012digitalefficiency,
   author           = {{Cabinet Office} and {Central Digital \& Data Office}},
   date             = {2012-11-06},
   title            = {Digital Efficiency Report},
@@ -13588,7 +13588,7 @@ Basic principles:
 
 Takes the model from The Narrow Corridor: States, Societies and the Fate of Liberty by James Robinson (2019), which identifies the narrow corridor of ``shackled leviathan'' that can be found between the ``despotic leviathan'' (increasing with power of the state) and the ``absent leviathan'' (increasing with power of the private sector), and overlays a grid of four quadrants. There the despotic leviathan reigns is the surveillance state, where the leviathan is absent is the reight of the private sector silos. Where the power of state and private sector is weak is the failure to launch. Where both state and private sector are strong we have democratic governance. Then asks what does this last quadrant look like and how can digital capabilities help to serve it?
 
-``The key to high functioning states is a “Red Queen” effect (referencing Lewis Carroll’s “Through the Looking Glass” where the faster the queen runs the faster it must keep running)''},
+``The key to high functioning states is a “Red Queen” effect (referencing Lewis Carroll's “Through the Looking Glass” where the faster the queen runs the faster it must keep running)''},
   creationdate     = {2023-04-19T06:03:52},
   keywords         = {digital, transformation, policy, infrastructure},
   modificationdate = {2023-04-19T06:22:06},
@@ -13765,7 +13765,7 @@ Recommendations:
 - Catalysing local action (3 actions)
 - Increasing transparency and engaging people (4 actions)
 - Delivering cleaner, cheaper and greener homes (2 actions)
-- Capitalising on the UK’s international leadership (2 actions)
+- Capitalising on the UK's international leadership (2 actions)
 - Setting the UK up for 2050 and beyond (2 actions)
 
 Main message from consultations is there is huge problem with long term uncertainty lack of long term confidence/funding/etc
@@ -13774,17 +13774,17 @@ Overview and reactions available at \url{https://lordslibrary.parliament.uk/miss
 
 ``the Review has heard from many respondents frustrated by a lack of long-term thinking, siloed behaviour from government departments, and uncertainty over the length of funding commitments''
 
-``The government, working with sectoral leads by Autumn 2023, must apply whole systems thinking to create an R&D and technology roadmap outlining the key decision points that must be made to ensure priority technologies deliver on the UK’s net zero and growth ambitions''
+``The government, working with sectoral leads by Autumn 2023, must apply whole systems thinking to create an R\&D and technology roadmap outlining the key decision points that must be made to ensure priority technologies deliver on the UK's net zero and growth ambitions''
 
-3rd key recommendation: ``Make regulatory processes more agile to match that of innovation by a) establishing up to three new R&D demonstrator projects, out to 2035, aligning with the ten-year missions set out by this review, and b) including in forthcoming work from the Office for Science and Technology Strategy (OSTS) how regulators can provide more opportunity for demonstrations for net zero technologies'' - see reference to Vallance in \url{https://hansard.parliament.uk/commons/2022-11-17/debates/97DB3122-0068-46CD-B026-F757C8DF39AF/AutumnStatement}
+3rd key recommendation: ``Make regulatory processes more agile to match that of innovation by a) establishing up to three new R\&D demonstrator projects, out to 2035, aligning with the ten-year missions set out by this review, and b) including in forthcoming work from the Office for Science and Technology Strategy (OSTS) how regulators can provide more opportunity for demonstrations for net zero technologies'' - see reference to Vallance in \url{https://hansard.parliament.uk/commons/2022-11-17/debates/97DB3122-0068-46CD-B026-F757C8DF39AF/AutumnStatement}
 
 Metrics: recommend reporting GHG like GDP and reporting climate impacts of future spending reviews
 
-Lots on R&D - especially section 6.2 Getting R&D and technology for net zero ready for the future including the technology readiness level TRLs for carbon reduction and low carbon technologies
+Lots on R\&D - especially section 6.2 Getting R\&D and technology for net zero ready for the future including the technology readiness level TRLs for carbon reduction and low carbon technologies
 
 CCUS, nuclear, EVs play a huge role in this report
 
-Additional stuff on \urel{https://twitter.com/CSkidmoreUK}},
+Additional stuff on \url{https://twitter.com/CSkidmoreUK}},
   creationdate     = {2023-05-01T13:45:55},
   keywords         = {climate, transition, metrics, innovation},
   modificationdate = {2023-05-01T15:07:23},
@@ -13910,7 +13910,7 @@ There are three different types of uncertainty that can be found in decision-mak
 }
 
 @Report{BerryO2023,
-  author           = {Craig Berry and Nick O’Donovan},
+  author           = {Craig Berry and Nick O'Donovan},
   date             = {2023},
   institution      = {Institute of Innovation and Public Purpose, UCL},
   title            = {Entrepreneurial egalitarianism: How inequality and insecurity stifleinnovation, and what we can doabout it},
@@ -13960,13 +13960,13 @@ Use sustainability framework of WiekWR2011 which has 5 key competencies:
 
 More environmentally effective actions are taken by leaders in politics, economics and civil society but the overall responsibility to solve complex problems—such as the global climate crisis, loss of biodiversity, and pollution—is focused on individuals instead of on the big players - this is not sufficient
 
-``The fact that 70% of the emissions come from fossil fuel producers makes sustainable transformation predominantly a political task''
+``The fact that 70\% of the emissions come from fossil fuel producers makes sustainable transformation predominantly a political task''
 
 Suggests that developing educational programmes can help bridge the distance between the private and public sphere and this research aims to identify what skills sustainbility-aware and effective decision-makers use (so that these may be incorporated into training programmes).
 
 interviewed 14 actual decision makers from politics, the economy, and civil society with a strong commitment to environmental and social ethics and who are contributing to global sustainable development
 
-``The interview recordings were transcribed manually according to the Dresing and Pehl convention [35], and analyzed within the qualitative content analysis framework suggested by Kuckartz [36]. MAXQDA, a software developed to support text analysis digitally, has been applied to assist the inductive and deductive coding, note-taking, summarizing, and categorizing of research data. We analyzed the interview data with theory-based competency models. In this article, we applied Wiek et al.’s [7] framework of key competencies in sustainability''
+``The interview recordings were transcribed manually according to the Dresing and Pehl convention [35], and analyzed within the qualitative content analysis framework suggested by Kuckartz [36]. MAXQDA, a software developed to support text analysis digitally, has been applied to assist the inductive and deductive coding, note-taking, summarizing, and categorizing of research data. We analyzed the interview data with theory-based competency models. In this article, we applied Wiek et al.'s [7] framework of key competencies in sustainability''
 
 Competencies:
 - (systems) considering inter- and trans-disciplinarity; identifying the core behind a sustainable-related problem; and taking a broader perspective between (sub)systems, disciplines, and regions.
@@ -14132,14 +14132,12 @@ At this point, not a great deal of use in Finland because service providers are 
   volume           = {35},
   comment          = {Research note asserting that ``scholars of ethical leadership ought to move away from authenticity and towards ethicality as the subject of study''
 
-``complex tensions, dilemmas, and paradoxes encountered in the practice of ethical leadership, and the corresponding development of overtly paradoxical conceptualizations of ethical leadership, represents an important new direction for ‘critical’ ethical leadership research''
+``complex tensions, dilemmas, and paradoxes encountered in the practice of ethical leadership, and the corresponding development of overtly paradoxical conceptualizations of ethical leadership, represents an important new direction for `critical' ethical leadership research''
 
 Three propositions:
 1. turn attention to ``greater good'' which they suggest is complex and paradoxical, considering cultural worldview 
 2. studying tensions that must be negotiated, apprehended and conceptualised such as framing individualism and collectivism not as a dichotomy but as a paradox and finding abstract unities
-3. widen scope beyond western world/anglo-american nations
-
-May be worth reading those papers that cite this note: \url{https://www.sciencedirect.com/science/article/pii/S0263237316300597#section-cited-by}},
+3. widen scope beyond western world/anglo-american nations},
   creationdate     = {2023-05-25T12:52:06},
   keywords         = {bureaucracy, leadership, trust, ethics},
   modificationdate = {2023-05-25T13:04:28},
@@ -14224,7 +14222,7 @@ Interesting references to Mazzucato:
 
 ``Mazzucato (2011) [6] suggests that many commercial products (such as the Apple iPhone), only exist because of numerous government research outputs which were then exploited by Apple (see Brackin et al. (2019) [16]). The implication of technology (the precursor to products) being created in commercial organizations is that it is less visible. The experimentation described in this paper highlights issues around this.''
 
-``Mazzucuto’s [sic] work in papers relating to state funding of research, again cannot be fully proven by this work but the indicators show that many technologies identified by consultants or the press did occur previously in research. A good example of this is Internet of Things''.
+``Mazzucuto's [sic] work in papers relating to state funding of research, again cannot be fully proven by this work but the indicators show that many technologies identified by consultants or the press did occur previously in research. A good example of this is Internet of Things''.
 
 My questions about this work concern that reliability of any developed measure if it were to become known - e.g. could it be gamed? Also, more immediately, some researchers are more prolific in terms of publications than others, it doesn't always reflect the volume of research that they do. Is this a problem with the method?},
   creationdate     = {2023-05-25T15:29:59},
@@ -14280,7 +14278,7 @@ See also HoffmanSP2020},
   number           = {1},
   url              = {https://www.mdpi.com/2225-1154/8/1/12},
   volume           = {8},
-  abstract         = {The increasing intensity, duration, and frequency of heat waves due to human-caused climate change puts historically underserved populations in a heightened state of precarity, as studies observe that vulnerable communities&mdash;especially those within urban areas in the United States&mdash;are disproportionately exposed to extreme heat. Lacking, however, are insights into fundamental questions about the role of historical housing policies in cauterizing current exposure to climate inequities like intra-urban heat. Here, we explore the relationship between &ldquo;redlining&rdquo;, or the historical practice of refusing home loans or insurance to whole neighborhoods based on a racially motivated perception of safety for investment, with present-day summertime intra-urban land surface temperature anomalies. Through a spatial analysis of 108 urban areas in the United States, we ask two questions: (1) how do historically redlined neighborhoods relate to current patterns of intra-urban heat? and (2) do these patterns vary by US Census Bureau region? Our results reveal that 94% of studied areas display consistent city-scale patterns of elevated land surface temperatures in formerly redlined areas relative to their non-redlined neighbors by as much as 7 &deg;C. Regionally, Southeast and Western cities display the greatest differences while Midwest cities display the least. Nationally, land surface temperatures in redlined areas are approximately 2.6 &deg;C warmer than in non-redlined areas. While these trends are partly attributable to the relative preponderance of impervious land cover to tree canopy in these areas, which we also examine, other factors may also be driving these differences. This study reveals that historical housing policies may, in fact, be directly responsible for disproportionate exposure to current heat events.},
+  abstract         = {The increasing intensity, duration, and frequency of heat waves due to human-caused climate change puts historically underserved populations in a heightened state of precarity, as studies observe that vulnerable communities&mdash;especially those within urban areas in the United States&mdash;are disproportionately exposed to extreme heat. Lacking, however, are insights into fundamental questions about the role of historical housing policies in cauterizing current exposure to climate inequities like intra-urban heat. Here, we explore the relationship between &ldquo;redlining&rdquo;, or the historical practice of refusing home loans or insurance to whole neighborhoods based on a racially motivated perception of safety for investment, with present-day summertime intra-urban land surface temperature anomalies. Through a spatial analysis of 108 urban areas in the United States, we ask two questions: (1) how do historically redlined neighborhoods relate to current patterns of intra-urban heat? and (2) do these patterns vary by US Census Bureau region? Our results reveal that 94\% of studied areas display consistent city-scale patterns of elevated land surface temperatures in formerly redlined areas relative to their non-redlined neighbors by as much as 7 &deg;C. Regionally, Southeast and Western cities display the greatest differences while Midwest cities display the least. Nationally, land surface temperatures in redlined areas are approximately 2.6 &deg;C warmer than in non-redlined areas. While these trends are partly attributable to the relative preponderance of impervious land cover to tree canopy in these areas, which we also examine, other factors may also be driving these differences. This study reveals that historical housing policies may, in fact, be directly responsible for disproportionate exposure to current heat events.},
   article-number   = {12},
   comment          = {in several US cities the areas which suffer the hottest temperatures due to lack of vegetation are home to people with low socioeconomic status and people of colour
 
@@ -14303,13 +14301,13 @@ They include:
 - Its a smokescreen - get people to worry about the future so that tech companies can carry on developing AI in the present (rather than being obstructed by regulation now)
 - By making AI seem complicated, tech ``experts'' reserve themselves a place at the legislation/regulation table
 
-Timnit Gebru ``It’s almost like a coordinated cyberattack to distract us from holding the real organizations doing the harm accountable''
+Timnit Gebru ``It's almost like a coordinated cyberattack to distract us from holding the real organizations doing the harm accountable''
 
 AI researchers consider the issue in 4 categories:
-1. The speed of AI’s development
+1. The speed of AI's development
 2. Ignorance about how AI works
 3. Doubt forces you to be prudent
-4. There are many other problems in the world, but it’s not necessary to be dismissive of the potential threat of AI},
+4. There are many other problems in the world, but it's not necessary to be dismissive of the potential threat of AI},
   creationdate     = {2023-06-06T13:17:51},
   keywords         = {AI, trust},
   modificationdate = {2023-06-06T13:38:00},
@@ -14325,15 +14323,15 @@ AI researchers consider the issue in 4 categories:
 
 This is after the team highlighted concerns about the direction of some of MS's activities
 
-``this team has always been deeply concerned about is how we impact society and the negative impacts that we’ve had. And they are significant''
+``this team has always been deeply concerned about is how we impact society and the negative impacts that we've had. And they are significant''
 
 Most members of the team were transferred elsewhere within Microsoft. Afterward, remaining ethics and society team members said that the smaller crew made it difficult to implement their ambitious plans.
 
-``The worst thing is we’ve exposed the business to risk and human beings to risk in doing this''
+``The worst thing is we've exposed the business to risk and human beings to risk in doing this''
 
-Members of the ethics and society team said they generally tried to be supportive of product development. But they said that as Microsoft became focused on shipping AI tools more quickly than its rivals, the company’s leadership became less interested in the kind of long-term thinking that the team specialized in.
+Members of the ethics and society team said they generally tried to be supportive of product development. But they said that as Microsoft became focused on shipping AI tools more quickly than its rivals, the company's leadership became less interested in the kind of long-term thinking that the team specialized in.
 
-The elimination of the ethics and society team came just as the group’s remaining employees had trained their focus on arguably their biggest challenge yet: anticipating what would happen when Microsoft released tools powered by OpenAI to a global audience.},
+The elimination of the ethics and society team came just as the group's remaining employees had trained their focus on arguably their biggest challenge yet: anticipating what would happen when Microsoft released tools powered by OpenAI to a global audience.},
   creationdate     = {2023-06-06T13:47:30},
   keywords         = {AI, trust, ethics, economics},
   modificationdate = {2023-06-06T15:59:48},
@@ -14406,9 +14404,9 @@ The development of artificial intelligence (AI) is generating exponential demand
   comment          = {discussed was a new design, one that can work with constant change providing communities with the wherewithal to flow with and navigate the tides
 
  “We are slaves to the algorithm”
-a sense of belonging, relationships with family and friends ‘everything starts here’; a connection to the nature that everywhere surrounds us.
+a sense of belonging, relationships with family and friends `everything starts here'; a connection to the nature that everywhere surrounds us.
 
-All the really important things require time; ‘disposable time’.
+All the really important things require time; `disposable time'.
 
 Katie Kelly \url{https://www.newlocal.org.uk/video/community-power-and-me-katie-kelly-east-ayrshire/} is practising what could be seen as a new form of very local industrial policy which she has called Vibrant Communities. Katie thinks that vibrant communities are about the talents and lives of people who live there
 
@@ -14490,7 +14488,7 @@ The phrase ``great awakening'' instead of ``great resignation''},
 
 @Online{Cottam2022pt6,
   author           = {Hilary Cottam},
-  title            = {The role of the ‘New Industrialists’},
+  title            = {The role of the `New Industrialists'},
   url              = {https://medium.com/iipp-blog/the-work-project-the-role-of-the-new-industrialists-3952a0f77443},
   urldate          = {2023-06-06},
   comment          = {Technology and industrial pioneers who changed the workplace such as Henry Ford (wage rises), Rowntree (decent housing), Kellogg (6-hour day), Boots (weekend)
@@ -14523,17 +14521,17 @@ There are also women new industrialists Margaret Askew, Sarah Fell, Anita Roddic
   journaltitle     = {Aeon},
   title            = {Against longtermism},
   url              = {https://aeon.co/essays/why-longtermism-is-the-worlds-most-dangerous-secular-credo},
-  comment          = {Essay about "longtermism" a philosophy that sees achieving the future potential of humanity as more important than the safety, survival, health or happiness of individuals.
+  comment          = {Essay about ``longtermism'' a philosophy that sees achieving the future potential of humanity as more important than the safety, survival, health or happiness of individuals.
 
 Describes the origins and arguments and outlines how it could not only lead to the death of millions but how it might be self-defeating
 
 yet, these ideas have been discussed in governments
 
-``a small group of theorists mostly based in Oxford have been busy working out the details of a new moral worldview called longtermism, which emphasizes how our actions affect the very long-term future of the universe – thousands, millions, billions, and even trillions of years from now. This has roots in the work of Nick Bostrom, who founded the grandiosely named Future of Humanity Institute (FHI) in 2005, and Nick Beckstead, a research associate at FHI and a programme officer at Open Philanthropy. It has been defended most publicly by the FHI philosopher Toby Ord, author of The Precipice: Existential Risk and the Future of Humanity (2020). Longtermism is the primary research focus of both the Global Priorities Institute (GPI), an FHI-linked organisation directed by Hilary Greaves, and the Forethought Foundation, run by William MacAskill, who also holds positions at FHI and GPI''
+``a small group of theorists mostly based in Oxford have been busy working out the details of a new moral worldview called longtermism, which emphasizes how our actions affect the very long-term future of the universe - thousands, millions, billions, and even trillions of years from now. This has roots in the work of Nick Bostrom, who founded the grandiosely named Future of Humanity Institute (FHI) in 2005, and Nick Beckstead, a research associate at FHI and a programme officer at Open Philanthropy. It has been defended most publicly by the FHI philosopher Toby Ord, author of The Precipice: Existential Risk and the Future of Humanity (2020). Longtermism is the primary research focus of both the Global Priorities Institute (GPI), an FHI-linked organisation directed by Hilary Greaves, and the Forethought Foundation, run by William MacAskill, who also holds positions at FHI and GPI''
 
-``Washington, DC-based Center for Security and Emerging Technologies (CSET) aims to place longtermists within high-level US government positions to shape national policy. In fact, CSET was established by Jason Matheny, a former research assistant at FHI who’s now the deputy assistant to US President Joe Biden for technology and national security. Ord himself has, astonishingly for a philosopher, ‘advised the World Health Organization, the World Bank, the World Economic Forum, the US National Intelligence Council, the UK Prime Minister’s Office, Cabinet Office, and Government Office for Science’, and he recently contributed to a report from the Secretary-General of the United Nations that specifically mentions ‘long-termism’''
+``Washington, DC-based Center for Security and Emerging Technologies (CSET) aims to place longtermists within high-level US government positions to shape national policy. In fact, CSET was established by Jason Matheny, a former research assistant at FHI who's now the deputy assistant to US President Joe Biden for technology and national security. Ord himself has, astonishingly for a philosopher, `advised the World Health Organization, the World Bank, the World Economic Forum, the US National Intelligence Council, the UK Prime Minister's Office, Cabinet Office, and Government Office for Science', and he recently contributed to a report from the Secretary-General of the United Nations that specifically mentions `long-termism'''
 
-Elon Musk has cited and endorsed Bostrom’s work and donated $1.5 million dollars to FHI},
+Elon Musk has cited and endorsed Bostrom's work and donated \$1.5 million dollars to FHI},
   creationdate     = {2023-06-06T17:54:16},
   modificationdate = {2023-06-06T18:01:49},
   owner            = {ISargent},
@@ -14555,7 +14553,7 @@ The power of context - the environment is strongly influential
 - studies showing crime/criminality/lying/etc. are more influence by environment that background
 - studies showing how the grouping of people impacts social epidemnics e.g. book groups that cause books to become bestsellers
 
-Rule of 150 - that channel capacity of brain for social groups is limited. In this book it suggests that its around 150 people - any individual cannot keep track or more than the relationships that occur within a group of around 150 people [other studies find other numbers I believe]. This organisations that take care to keep groups to this size function well often, e.g. Gore & Associates who split when their groups exceed 150 people, and who require little hierarchy as a result
+Rule of 150 - that channel capacity of brain for social groups is limited. In this book it suggests that its around 150 people - any individual cannot keep track or more than the relationships that occur within a group of around 150 people [other studies find other numbers I believe]. This organisations that take care to keep groups to this size function well often, e.g. Gore \& Associates who split when their groups exceed 150 people, and who require little hierarchy as a result
 
 The description of this latter example made links for me with Scott2020, in which the creation of "legibility" for governments (and leaders of organisations) can destroy the functionality of the country/city/organisation. - people have intrinsic ways of working out how to function together which may appear chaotic on the outside but work extremely efficiently
 
@@ -14610,7 +14608,7 @@ Consider also Simon1991},
 @Online{Marcus2023AGI,
   author           = {Gary Marcus},
   date             = {2023-03-28},
-  title            = {AI risk ≠ AGI risk},
+  title            = {AI risk $\neq$ AGI risk},
   url              = {https://garymarcus.substack.com/p/ai-risk-agi-risk},
   comment          = {Comment on why he agrees with HInton
 
@@ -14656,7 +14654,7 @@ Hogarth2023 says that some of the signatories turned out to be fake},
   doi              = {10.1145/3442188.3445922},
   isbn             = {9781450383097},
   location         = {Virtual Event, Canada},
-  pages            = {610–623},
+  pages            = {610--623},
   publisher        = {Association for Computing Machinery},
   series           = {FAccT '21},
   url              = {https://doi.org/10.1145/3442188.3445922},
@@ -14678,7 +14676,7 @@ Hogarth2023 says that some of the signatories turned out to be fake},
   subtitle         = {What can policymakers do now to combat risks from advanced AI systems?},
   comment          = {In the pause called for in BengioREtAl2023, recommends developing protocols to:
 1. Mandate robust third-party auditing and certification for specific AI systems
-2. Regulate organizations’ access to computational power
+2. Regulate organizations' access to computational power
 3. Establish capable AI agencies at national level 
 4. Establish liability for AI-caused harm 
 5. Introduce measures to prevent and track AI model leaks
@@ -14695,7 +14693,7 @@ Hogarth2023 says that some of the signatories turned out to be fake},
   date             = {2023-04-13},
   journaltitle     = {Financial Times},
   title            = {We must slow down the race to God-like AI},
-  subtitle         = {I’ve invested in more than 50 artificial intelligence start-ups. What I’ve seen worries me},
+  subtitle         = {I've invested in more than 50 artificial intelligence start-ups. What I've seen worries me},
   url              = {https://www.ft.com/content/03895dc4-a3b7-481e-95cc-336a524f2ac2},
   comment          = {Has table showing the scale up between 2012 and 2022 in terms of:
 - compute used to train...
@@ -14720,7 +14718,7 @@ OpenAI, DeepMind and others try to mitigate existential risk via an area of rese
 
 ``As an investor, I have found it challenging to persuade other investors to fund alignment. Venture capital currently rewards racing to develop capabilities more than it does investigating how these systems work''
 
-``Shoggoth'' meme - the unknown that lies behind the sanitised public face of AI - HP Lovecraft’s tentacled monsters with a friendly little smiley face tacked on - ChapGPT appears ``aligned''
+``Shoggoth'' meme - the unknown that lies behind the sanitised public face of AI - HP Lovecraft's tentacled monsters with a friendly little smiley face tacked on - ChapGPT appears ``aligned''
 
 Suggests using engineering biology as an analogy for how to treat AI - ``God-like AGI systems'' have best security, air-gapped, non-commercial. Narrowly useful AI regulated like new drugs.
 
@@ -14737,7 +14735,7 @@ Hogarth is one of the authors of State of AI report},
   institution      = {Geospatial Commission},
   title            = {UK Geospatial Strategy 2030},
   eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1162795/2023-06-15_UK_Geospatial_Strategy_2023_.pdf},
-  comment          = {``Looking to 2030, the UK government’s science and technology agenda sets a compelling vision that will help us meet the challenges of the digital revolutionn. This strategy aligns with the UK Science and Technology Framework, published in March 2023, which underlines that science and technology will be the major driver of prosperity, power and history-making events this century. ''
+  comment          = {``Looking to 2030, the UK government's science and technology agenda sets a compelling vision that will help us meet the challenges of the digital revolutionn. This strategy aligns with the UK Science and Technology Framework, published in March 2023, which underlines that science and technology will be the major driver of prosperity, power and history-making events this century. ''
 
 Mission 1: Embrace enabling technologies to accelerate geospatial innovation:
 - Market intelligence and other enabling technologies 
@@ -14774,7 +14772,7 @@ Recommendations:
 Sandboxing - Recommendation 1: Government should work with regulators to develop a multiregulator sandbox for AI to be in operation within the next six months
 Generative AI - Recommendation 2: Government should announce a clear policy position on the relationship between intellectual property law and generative AI to provide confidence to innovators and investors.
 Data - Recommendation 3: Facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the
-government’s public services transformation programme.
+government's public services transformation programme.
 Transport - Recommendation 4: The government should bring forward the Future of Transport Bill to unlock innovation across automated transport applications.
 
 Drones - work with and empower CAA, amend regulation of raio communications
@@ -14854,7 +14852,7 @@ Outlines proposed explanations of escalation of commitment: - over-generalisatio
 
 Some useful points considering business decision making in the future
 
-``the “forecasting business” is – at best – an imperfect endeavor. This task may, however, never have been as daunting as today, in this age of multiple disruptions: social, economic, spiritual, and technological''
+``the “forecasting business” is - at best - an imperfect endeavor. This task may, however, never have been as daunting as today, in this age of multiple disruptions: social, economic, spiritual, and technological''
 
 `an examination of the field of business ethics seems to point to the fact that at its different stages in its existence it has been coopted in the service of aims other than simply to promote ethical behavior ...
 - ... help establish and secure the status of business as a “real” profession [in early days] ...
@@ -14866,7 +14864,7 @@ Some useful points considering business decision making in the future
 
 Summary of Millennials in relation to decision-making as they are likely to be future business leaders. One of many interesting characteristics of Millennials is ``hyper-mobility'' - they expect to change jobs a great deal. [Iz: This is an aspect of increasing business volatility and a reason for strong knowledge management]
 
-``the argument “ethics for ethics’ sake” may – actually – resonate particularly well with members of the Millennial generation destined to be those making business decisions in coming decades'' 
+``the argument “ethics for ethics' sake” may - actually - resonate particularly well with members of the Millennial generation destined to be those making business decisions in coming decades'' 
 
 ``we are likely facing a situation in which the fluidity of change in the business world will severely limit the ability of law and perhaps even societal mechanisms dictating norms to keep pace with that change and the associated business dilemmas that may emerge''},
   creationdate     = {2023-06-20T13:24:08},
@@ -14927,7 +14925,7 @@ See also \url{https://newsroom.ucla.edu/releases/how-conspiracy-theories-emerge-
 }
 
 @Article{Kopp2023,
-  author           = {Kopp, Robert E. and Oppenheimer, Michael and O’Reilly, Jessica L. and Drijfhout, Sybren S. and Edwards, Tamsin L. and Fox-Kemper, Baylor and Garner, Gregory G.and Golledge, Nicholas R.and Hermans, Tim H. J. and Hewitt, Helene T. and Horton, Benjamin P. and Krinner, Gerhard and Notz, Dirk and Nowicki, Sophie and Palmer, Matthew D. and Slangen, Aim\'{e}e B. A. and Xiao, Cunde},
+  author           = {Kopp, Robert E. and Oppenheimer, Michael and O'Reilly, Jessica L. and Drijfhout, Sybren S. and Edwards, Tamsin L. and Fox-Kemper, Baylor and Garner, Gregory G. and Golledge, Nicholas R.and Hermans, Tim H. J. and Hewitt, Helene T. and Horton, Benjamin P. and Krinner, Gerhard and Notz, Dirk and Nowicki, Sophie and Palmer, Matthew D. and Slangen, Aim\'{e}e B. A. and Xiao, Cunde},
   date             = {2023-06-19},
   journaltitle     = {Nature Climate Change},
   title            = {Communicating future sea-level rise uncertainty and ambiguity to assessment users},
@@ -14950,7 +14948,7 @@ Focus is on reporting of sea-level rise, quite a bit of detail of West Antarctic
 @Article{HalttunenSS2022,
   author           = {Krista Halttunen and Raphael Slade and Iain Staffell},
   date             = {2022},
-  journaltitle     = {Energy Research & Social Science},
+  journaltitle     = {Energy Research \& Social Science},
   title            = {“We don't want to be the bad guys”: Oil industry's sensemaking of the sustainability transition paradox},
   doi              = {https://doi.org/10.1016/j.erss.2022.102800},
   issn             = {2214-6296},
@@ -15020,7 +15018,7 @@ Managing uncertainty: focus on principles, not projections:
 - Firstly, consider long-term climate risks within existing planning and policymaking processes - avoid lock-in
 - Secondly, move faster and harder on core development objectives - no-regrets adaptation
 - focus on additional measures that directly reduce vulnerability to current climate-related risks
-- with expensive, long-term projects, seek ‘low-regrets’ ways to build in flexibility},
+- with expensive, long-term projects, seek `low-regrets' ways to build in flexibility},
   creationdate     = {2023-06-25T13:49:33},
   keywords         = {decisions, climate, policy},
   modificationdate = {2023-08-22T13:46:06},
@@ -15110,7 +15108,7 @@ Radical visions up to the year 2030: ``imaginative, challenging, optimistic and 
 
 Feasibility study: Sacrosanctuary, a state for the stateless (well worth considering!)
 
-How Donald Trump shows us the future - leaders already have little to do with the services we experience - that's down to street-level bureaucrats and others - so why not make leadership about context-shaping - symbols and narratives -  rather than policy design and control? ``policy statements are not descriptions of what a government will do – they are tools for sending symbolic messages about what matters and what a society should value''
+How Donald Trump shows us the future - leaders already have little to do with the services we experience - that's down to street-level bureaucrats and others - so why not make leadership about context-shaping - symbols and narratives -  rather than policy design and control? ``policy statements are not descriptions of what a government will do - they are tools for sending symbolic messages about what matters and what a society should value''
 
 Beneath the Stones - a man wakes in a future world in which work is abolished
 
@@ -15132,7 +15130,7 @@ Government Response to the ad hoc Select Committee of the House of Lords on the 
 
 Life after the state - Government as a digital ideology, digital public infrastructure, government as a platform
 
-A day in the life of the Department for Democratic AI - story illustrating issues around AI and trust. Everyone writing code must undergo ethics training. Citizens councils help set regulations, because the councils change, and people's morals vary, so do the regulations. Every time you got in your car, it would ask you to reconfirm how you wanted it to behave: ``before we set off, Mr Smith, I’ll need you to confirm: would you like me to protect the car’s occupants at all costs, or to minimise overall casualties and loss of life?''
+A day in the life of the Department for Democratic AI - story illustrating issues around AI and trust. Everyone writing code must undergo ethics training. Citizens councils help set regulations, because the councils change, and people's morals vary, so do the regulations. Every time you got in your car, it would ask you to reconfirm how you wanted it to behave: ``before we set off, Mr Smith, I'll need you to confirm: would you like me to protect the car's occupants at all costs, or to minimise overall casualties and loss of life?''
 
 Overturning parliament - Its 2030, looking back: the house of commons was too focussed on party politics ``costly, ineffective and antagonistic model of governance'' the house of lords does not represent the diversity of socety and didn't see legislation until it was draft and delays etc (despite have expertise and insight in this area) could be seen as anti-democratic. After the chaos of brexit, march on parliament, the lower house then became peers and randomly selected members of the public, who proposed law, the upper house is the people who are voted in.},
   creationdate     = {2023-06-25T15:39:55},
@@ -15172,7 +15170,7 @@ Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargen
 - be aware of deeply-held beliefs that may be subject to challenge
 - tapping into wide-ranging [diverse, internal and external] networks, preferably comprising people whose views are starkly different from ours, who will push us to consider new ways of perceiving the world
 - the best futurists create immersive experiences, engaging leaders and decision-makers at multiple levels: the analytical or cognitive, behavioural and emotive
-- to adopt design approaches that focus ruthlessly on users’ needs, pain points, and preferences},
+- to adopt design approaches that focus ruthlessly on users' needs, pain points, and preferences},
   creationdate     = {2023-06-28T10:34:05},
   keywords         = {decisions, future, organisation, governement, bureaucracy},
   modificationdate = {2023-07-04T10:11:32},
@@ -15296,7 +15294,7 @@ Recommendations include:
   volume           = {abs/2305.07722},
   comment          = {Explainable AI (XAI) for decision support
 
-Propose a simple theory that elucidates the frequent failure of AI explanations to engender appropriate reliance and complementary decision making performance. We argue explanations are only useful to the extent that they allow a human decision maker to verify the correctness of an AI’s prediction
+Propose a simple theory that elucidates the frequent failure of AI explanations to engender appropriate reliance and complementary decision making performance. We argue explanations are only useful to the extent that they allow a human decision maker to verify the correctness of an AI's prediction
 
 Finds/suggests that AI explanations:
 - are better equipped at facilitating holistic AI processes such as model development and debugging, regulatory audit, and knowledge discovery
@@ -15306,7 +15304,7 @@ Finds/suggests that AI explanations:
 
  If an AI model significantly outperforms human decision makers, and its explanations can effectively convey learned signals or patterns in the task features, then humans may be able to replicate such behavior to improve their own decision making on future instances
 
-``For decision making, the existing literature largely studies the influence of local explanations, which provide information about individual AI recommendations. These include visualizations of model uncertainty, feature importance, rule-based explanations, example-based explanations, counterfactual explanations, or natural language rationale explanations. In contrast, global explanations aim to provide holistic insight into the entirety of an AI model, for instance by visualizing or otherwise detailing a model’s complete architecture. Faithfulness is another dimension used to characterize explanations. A faithful explanation is one that accurately represents the reasoning process behind a model’s prediction. Some intrinsically interpretable models, such as GA2Ms [ 15 ], are favored because it is (relatively) easy for a human to understand the model’s behavior. Other explanations are generated by post-hoc analysis, e.g. using techniques such as LIME [ 57 ] or SHAP [45 ]. While these methods produce local explanations for otherwise inscrutable models, they are by definition approximations or a model’s true reasoning process, and hence raise concerns of faithfulness.''
+``For decision making, the existing literature largely studies the influence of local explanations, which provide information about individual AI recommendations. These include visualizations of model uncertainty, feature importance, rule-based explanations, example-based explanations, counterfactual explanations, or natural language rationale explanations. In contrast, global explanations aim to provide holistic insight into the entirety of an AI model, for instance by visualizing or otherwise detailing a model's complete architecture. Faithfulness is another dimension used to characterize explanations. A faithful explanation is one that accurately represents the reasoning process behind a model's prediction. Some intrinsically interpretable models, such as GA2Ms [ 15 ], are favored because it is (relatively) easy for a human to understand the model's behavior. Other explanations are generated by post-hoc analysis, e.g. using techniques such as LIME [ 57 ] or SHAP [45 ]. While these methods produce local explanations for otherwise inscrutable models, they are by definition approximations or a model's true reasoning process, and hence raise concerns of faithfulness.''
 
 
 Alternative paradigms:
@@ -15355,14 +15353,14 @@ Sensemaking Is About Presumption - presumption triggers action which then inform
 Sensemaking Is Social and Systemic
 
 Sensemaking Is About Action
-- ``what’s going on here?'' [used a lot in KeyK2020]
+- ``what's going on here?'' [used a lot in KeyK2020]
 - ``what do I do next?''
 
 Sensemaking Is About Organizing Through Communication - To share understanding means to lift equivocal knowledge out of the tacit, private, complex, random, and past to make it explicit, public, simpler, ordered, and relevant to the situation at hand (Obstfeld, 2004)
 
-Section on Campbell’s application of evolutionary epistemology to social life, which I can't really follow but includes a model of actors interacting with their environment, selecting those exchanges that are meaningful and preseving those that are plausible [I think]. 
+Section on Campbell's application of evolutionary epistemology to social life, which I can't really follow but includes a model of actors interacting with their environment, selecting those exchanges that are meaningful and preseving those that are plausible [I think]. 
 
-the concept of enacted environments suggests that constraints are partly of one’s own making and not simply objects to which one reacts
+the concept of enacted environments suggests that constraints are partly of one's own making and not simply objects to which one reacts
 
 Meanings derived from sensemaking are redrafted continuously. Plausibility is a fundamental criterion of sensemaking and is less about accuracy that fitting with [beliefs and needs] of the sensemaker(s). Evidence that managers' perceptions are highly inaccurate but ``Managerial misperceptions may not curtail effective performance if agents have learning mechanisms and operate in a context where there are incentives to improve performance''
 
@@ -15424,7 +15422,7 @@ Governments should take steps to maximise the agility of their workforces},
   author           = {Laurie Laybourn and Henry Throp and Suzannah Sherman},
   date             = {2023-02-16},
   institution      = {Institute of Public Policy Research and Chatham House},
-  title            = {1.5°C – dead or alive? The risks to transformational change from reaching and breaching the Paris Agreement goal},
+  title            = {1.5°C - dead or alive? The risks to transformational change from reaching and breaching the Paris Agreement goal},
   eprint           = {https://www.ippr.org/files/2023-02/1676546139_1.5c-dead-or-alive-feb23.pdf},
   url              = {https://www.ippr.org/research/publications/1-5c-dead-or-alive},
   comment          = {Fantastically frank report about the risks associated with breaching the Paris accord including the risks associated with talking about it - because one response is to delay action
@@ -15569,7 +15567,7 @@ Crisis research has a number of aspects that may be unconventional in other doma
 
 @Article{GoyalRB2023,
   author           = {Goyal, Lovika and Kiran, Ravi and Bose, S. C.},
-  date             = {2023/05/15},
+  date             = {2023-05-15},
   journaltitle     = {Current Psychology},
   title            = {An empirical investigation of the influence of leadership styles and strategic decision-making on business performance: a generational ownership perspective},
   doi              = {10.1007/s12144-023-04705-y},
@@ -15627,7 +15625,7 @@ Great review of literature on AI ethics, and history of ethics},
 }
 
 @Article{FosterHOT2023,
-  author           = {Steven A. Foster and Sudeep Hegde and Tyler C. O’Brien and Emily L. Tucker},
+  author           = {Steven A. Foster and Sudeep Hegde and Tyler C. O'Brien and Emily L. Tucker},
   date             = {2023-06-24},
   journaltitle     = {IISE Transactions on Occupational Ergonomics and Human Factors},
   title            = {Organizational Adaptive Capacity During a Large-Scale Surprise Event: A Case Study at an Academic Institution During the COVID-19 Pandemic},
@@ -15679,7 +15677,7 @@ Thematic coding of interview transcripts - look back over this},
   keywords         = {bureaucracy, agile, crisis, decisions},
   modificationdate = {2023-07-05T07:48:55},
   owner            = {ISargent},
-  publisher        = {Taylor & Francis},
+  publisher        = {Taylor \& Francis},
   year             = {2023},
 }
 
@@ -15792,7 +15790,7 @@ Topics covered:
   doi              = {10.1145/3563657.3596093},
   isbn             = {9781450398930},
   location         = {Pittsburgh, PA, USA},
-  pages            = {2537–2550},
+  pages            = {2537--2550},
   publisher        = {Association for Computing Machinery},
   series           = {DIS '23},
   url              = {https://doi.org/10.1145/3563657.3596093},
@@ -15866,11 +15864,11 @@ E.g. predicting where ball will land is not what the teams should be doing but i
 @Online{Carter2023,
   author           = {Zachary Carter},
   date             = {2023-06-06},
-  title            = {What if We’re Thinking About Inflation All Wrong?},
+  title            = {What if We're Thinking About Inflation All Wrong?},
   url              = {https://www.newyorker.com/news/persons-of-interest/what-if-were-thinking-about-inflation-all-wrong},
   urldate          = {2023-07-16},
   comment          = {About Isabella Weber - I should look up her original papers
-Her point is that corporate profits are a key driver of today’s in!ation
+Her point is that corporate profits are a key driver of today's in!ation
 We should cap prices
 Germany introduced a price brake},
   creationdate     = {2023-07-16T12:51:14},
@@ -16036,7 +16034,7 @@ Evidence that creation of reserves, with relocation/eviction of indigenous peopl
   author           = {Jakob Trischler and Peter O. Svensson and Hel\'{e}n Williams and Fredrik Wikstr\"{o}m},
   date             = {2022},
   journaltitle     = {Public Management Review},
-  title            = {Citizens as an innovation source in sustainability transitions – linking the directionality of innovations with the locus of the problem in transformative innovation policy},
+  title            = {Citizens as an innovation source in sustainability transitions - linking the directionality of innovations with the locus of the problem in transformative innovation policy},
   doi              = {10.1080/14719037.2022.2062041},
   eprint           = {https://doi.org/10.1080/14719037.2022.2062041},
   pages            = {1--23},
@@ -16300,8 +16298,8 @@ Traditional ecosystem succession has two functions
 - conservation (accumulation and storage) - K phase
 Likens these to entrepreneurial market and bureaucratic hierarchy
 Later understandings add
-- release (caused by agents of disturbance such as wildfire; creative destruction) \Omega phase
-- reorganisation (innovation and restructuring) \alpha phase
+- release (caused by agents of disturbance such as wildfire; creative destruction) $\Omega$ phase
+- reorganisation (innovation and restructuring) $\alpha$ phase
 
 Each shift in the cycle between phases changes the 
 - potential (for change, what is possible), and 
@@ -16309,7 +16307,7 @@ Each shift in the cycle between phases changes the
 within the system. There is a 3rd dimension that increases and decreases during the succession:
 - resilience (vulnerability to unexpected disturbances)
 
-Novelty and experimentation are possible when connectedness is low and resilience is high - at the transition from the \alpha and r phases, which is a phase of great uncertainty [is this similar to the transition phase described in Geels2004?]
+Novelty and experimentation are possible when connectedness is low and resilience is high - at the transition from the $\alpha$ and r phases, which is a phase of great uncertainty [is this similar to the transition phase described in Geels2004?]
 
 Apply the metaphor to ecological and economic/organisational systems. "Fail" to discover useful exceptions in specific large human organisations. Do identify some exceptions in physical, biological and some human systems [c.f. KayK2020 ``absence of volatility is not absence of risk p421-2''].
 
@@ -16326,7 +16324,7 @@ Quite a philosophical piece, considering whether we should be trying to protect 
   title            = {Reality Eats Culture For Breakfast: AI, Existential Risk and Ethical Tech},
   url              = {https://beiner.substack.com/p/reality-eats-culture-for-breakfast},
   subtitle         = {Why calls for ethical technology are missing something crucial},
-  comment          = {``What we believe to be real and relevant is the most significant factor in the formation of culture, which in turn influences our thoughts and emotions, which in turn influence our values, which influence our institutions and political policies. The change has to happen at the deepest level if it’s going to have any significant impact on an issue as important as whether or not we go extinct.''
+  comment          = {``What we believe to be real and relevant is the most significant factor in the formation of culture, which in turn influences our thoughts and emotions, which in turn influence our values, which influence our institutions and political policies. The change has to happen at the deepest level if it's going to have any significant impact on an issue as important as whether or not we go extinct.''
 
 ``AI research is embedded in a socio-economic system that is divorced from anything deeper than winning its own game'' - traces this from the Age of Enlightenment, Descartes and Hobbes, and the humanistic values that built the AI. Physicalism, which says experience is a byproduct of matter and can't tell you what it feels to be happy, or an AI. The only thing you know for sure is what you experience, your consciousness, but physicalism says that this is a by-product of something that you cannot know is real - especially given increasing quantum knowledge.
 
@@ -16447,7 +16445,7 @@ Provides a table of advice for providing more or less choice under different con
 @Article{HamJP2021,
   author           = {Dong-Han Ham and Won-Jun Jung and Jinkyun Park},
   date             = {2021},
-  journaltitle     = {Reliability Engineering & System Safety},
+  journaltitle     = {Reliability Engineering \& System Safety},
   title            = {Identifying key factors affecting the performance of team decision-making based on the analysis of investigation reports issued from diverse industries},
   doi              = {https://doi.org/10.1016/j.ress.2020.107304},
   issn             = {0951-8320},
@@ -16483,8 +16481,8 @@ Identify five categories of 14 factors that they find evidence for affecting the
 2.17 The level of work domain abstraction
 3 Team element:
 (3.18 The number of decision makers)
-(3.19 The difference of team members’ expertise level)
-(3.20 Clarity of team members’ roles)
+(3.19 The difference of team members' expertise level)
+(3.20 Clarity of team members' roles)
 3.21 Degree of team cooperation
 (3.22 Degree of DM* conflict)
 3.23 Degree of DM coordination
@@ -16505,7 +16503,7 @@ Identify five categories of 14 factors that they find evidence for affecting the
 
 Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas is key author here},
   creationdate     = {2023-08-16T13:49:44},
-  journal          = {Reliability Engineering & System Safety},
+  journal          = {Reliability Engineering \& System Safety},
   keywords         = {decisions, teams, bureaucracy},
   modificationdate = {2023-08-16T16:36:35},
   owner            = {ISargent},
@@ -16692,10 +16690,10 @@ A Tame Problem may be complicated but is:
 A management decision-maker can apply process to solve these problems
 Associated compliance is likely to be calculated, related to `rational' organisation such as companies 
 
-A Critical Problem, eg a ‘crisis’, is presented as self-evident in nature:
+A Critical Problem, eg a `crisis', is presented as self-evident in nature:
 * very little time for decisionmaking and action
-* virtually no uncertainty about what needs to be done – at least in the behaviour of the decision-maker
-A commander decision-maker uses authoritarianism, Command, to take the required decisive action – that is to provide the answer to the
+* virtually no uncertainty about what needs to be done - at least in the behaviour of the decision-maker
+A commander decision-maker uses authoritarianism, Command, to take the required decisive action - that is to provide the answer to the
 problem, not to engage processes (management) or ask questions (leadership)
 Associated compliance is likely to be coercive, based on physical power
 
@@ -16703,7 +16701,7 @@ A Wicked Problem is more complex, rather than just complicated:
 * it cannot be removed from its environment, solved, and returned without affecting the environment
 * there is no clear relationship between cause and effect
 * inherently political (not scientific or rational)
-The leader’s role with a Wicked Problem is to ask the right questions rather than provide the right answers because the answers may not be self-evident and will require a collaborative process to make any kind of progress
+The leader's role with a Wicked Problem is to ask the right questions rather than provide the right answers because the answers may not be self-evident and will require a collaborative process to make any kind of progress
 Associated compliance is likely to be normative, related to instiutions or organisations based on shared values
 
 Solutions can be:
@@ -16726,15 +16724,16 @@ H3. Reflection not Reaction - don't react (act too soon), or do nothing but refl
 
 Decision-makers will often try to avoid leadership, because questioning implies that
 1. the leader does not have the answer
-2. the leader’s role is to make the followers face up to their responsibilities
-3. the `answer' to the problem is going to take a long time to construct and that it will only ever be `more appropriate' rather than `the best’
+2. the leader's role is to make the followers face up to their responsibilities
+3. the `answer' to the problem is going to take a long time to construct and that it will only ever be `more appropriate' rather than `the best'
 4. it will require constant effort to maintain
 
-Discusses Aristotle’s phronesis - the Wisdom to acknowledge that the situation is not like any other. This arises from `apperception' - the ability y to relate new experiences to previous experiences. [relates to analogy in Klein1999] which requires reflective learning to understand patterns
+Discusses Aristotle's phronesis - the Wisdom to acknowledge that the situation is not like any other. This arises from `apperception' - the ability to relate new experiences to previous experiences. [relates to analogy in Klein1999] which requires reflective learning to understand patterns
 
 Rather ironically, this is a very elegant proposal},
   creationdate     = {2023-08-23T09:11:38},
-  modificationdate = {2023-08-23T16:09:53},
+  keywords         = {decisions, bureaucracy, transformation},
+  modificationdate = {2023-08-23T18:27:08},
   owner            = {ISargent},
 }
 
