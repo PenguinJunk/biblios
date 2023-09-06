@@ -16772,10 +16772,52 @@ See also Rikap2022},
   author           = {Cecilia Rikap},
   date             = {2022},
   title            = {Capitalism Power Innovation Intellectual Monopoly Capitalism Uncovered},
-  comment          = {See \url{https://www.ucl.ac.uk/bartlett/public-purpose/events/2022/jun/intellectual-monopoly-capitalism-how-big-tech-companies-became-worlds-largest} for a great summary},
+  comment          = {See \url{https://www.ucl.ac.uk/bartlett/public-purpose/events/2022/jun/intellectual-monopoly-capitalism-how-big-tech-companies-became-worlds-largest} for a great summary
+
+I've not read the book yet but wanted to link with WidderWW2023},
   creationdate     = {2023-09-06T13:40:11},
-  modificationdate = {2023-09-06T13:44:26},
+  modificationdate = {2023-09-06T14:12:31},
   owner            = {ISargent},
+}
+
+@Article{vanRooij2023,
+  author           = {van Rooij, Iris and Olivia Guest and Federico G. Adolfi and de Haan, Ronald and Antonina Kolokolova and Patricia Rich},
+  date             = {2023-08-01},
+  journaltitle     = {PsyArXiv},
+  title            = {Reclaiming {AI} as a Theoretical Tool for Cognitive Science},
+  doi              = {10.31234/osf.io/4cbuv},
+  url              = {https://psyarxiv.com/4cbuv/},
+  comment          = {prove , creating systems with human(-like or -level) cognition is intrinsically computationally intractable - I didn't follow how they do this
+
+propose returning to the idea of AI as a theoretical tool for cognitive science
+
+Cites works that defines `kyriarchy' as an intersectional generalisation of the notion of `patriarchy', i.e., a complex system of oppressions that include (intersections of) racism, sexism, homophobia, transphobia, ableism, etc. 
+
+Provides a list of different (not mutually exclusive) meanings of the word AI
+
+In the 1970s and 80s, `AI' was also used to refer to the aim of using computational tools to develop theories of natural cognition (among other uses). ``AI is one of the cognitive sciences'' e.g. Simon 1983
+
+``The thesis of computationalism implies that it is possible in principle to understand human cognition as a form of computation. However, this does not imply that it is possible in practice to computationally (re)make cognition''
+
+Defines and criticises ``Makeism'':  building cognition is possible and sufficient for being able to explain it etc. However, ``(re)making human-like or human-level minds is computationally intractable (even under highly idealised conditions)''.
+
+``any attempts to scale up to situations of real-world, human-level complexity (medium to large n) will necessarily consume an astronomical amount of resources (such as time and number of samples''
+
+``any factual AI system created in the short-run (say, within the next few decades or so) is so astronomically unlikely to be anything like a human mind, or even a coherent capacity that is part of that mind, that claims of ‘inevitability’ of AGI within the foreseeable future are revealed to be false and misleading'' - yet no-one is sacked for claiming this inevitability
+
+``if one were to test these AIs rigorously and unbiasedly for human-likeness, it would quickly become evident that they behave qualitatively differently from humans''
+
+Simon suggests that human-like/level thinking machines are realisable and Karpathy et al quote Fehnman supporting makeism
+
+Confusion of models (explanans) for the thing modelled (explanandum) - the model is not necessarily how things work in the real world. 
+
+
+. In this paper, we have shown that (re)making human-like or human-level minds is computationally intractable (even under highly idealised conditions). Despite the current hype surrounding ``impending'' AGI, this practical infeasibility actually fits very well with what we observe (for example, running out of quality training data and the non-human-like performance of AI systems when tested rigorously)''},
+  creationdate     = {2023-09-06T17:00:16},
+  keywords         = {psychology, AI, trust},
+  modificationdate = {2023-09-06T17:32:56},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
