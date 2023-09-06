@@ -16737,4 +16737,45 @@ Rather ironically, this is a very elegant proposal},
   owner            = {ISargent},
 }
 
+@Article{WidderWW2023,
+  author           = {David Gray Widder and Sarah West and Meredith Whittaker},
+  date             = {2023-09-18},
+  journaltitle     = {{SSRN}},
+  title            = {Open (For Business): Big Tech, Concentrated Power, and the Political Economy of Open {AI}},
+  doi              = {https://dx.doi.org/10.2139/ssrn.4543807},
+  eprint           = {https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID4543807_code3510333.pdf?abstractid=4543807&mirid=1&type=2},
+  url              = {https://ssrn.com/abstract=4543807},
+  comment          = {find that ```open' and `open source' are used in confusing and diverse ways, often constituting more aspiration or marketing than technical descriptor, and frequently blending concepts from both open source software and open science''
+
+Worth reading through more thoroughly, but 
+
+Defines open AI and identifies what is and what is not open about Open Source AI:
+* Development frameworks - Pytorch (Meta) and Tensorflow (Google) etc ``allow Meta, Google, and those steering framework development to standardize AI construction so it’s compatible with their own company platforms .. to shape the work practices of researchers and developers such that new AI models can be easily integrated and commercialized''
+* Compute - CUDA (Nvidia), Triton (OpenAI, currently only works on Nvidia GPUs), Google TPUS - ``while some lower level software that optimizes computational power for AI development may be open
+in that one can inspect their code, in practice, this software is often designed for efficiency in proprietary hardware environments, and is developed and governed by companies selling compute resources and/or licensing AI models''
+* Data - ``OpenAI/Microsoft have refused to disclose important information about the training data used to shape GPT-4'', others are open, hosted on AWS, but there are issues of extraction and intellectual property, colonial context of data exploitation. Data labelling often opaque and use proprietary platforms
+* Labor - labelling is opaque and has ``precarity, harm, and colonial dynamics of these labor practices'' and is poorly paid [also: GrayS2019]
+* AI models - even if weights are available, this is a loose application of the term `open' when data sets are unavailable (e.g. GPT), fine-tuning is less computationally intensive: the leak of LLaMA makes AI mroe accessible but also benefits META
+
+Lots of detail on OpenAI
+
+```openness' in AI does not directly lead to innovation, despite claims to the contrary; certainly not when significant industry presence, corporate ownership of the costly infrastructure needed to make new AI systems, and corporate capture of the field of academic AI research forms the backdrop for ‘open’ AI research. Evidence indicates these factors are already contributing to the development of an AI monoculture, incentivizing the creation of only the kinds of AI systems that industry is most invested in and able to profit from''
+
+See also Rikap},
+  creationdate     = {2023-09-06T13:07:57},
+  keywords         = {AI, digital, transformation},
+  modificationdate = {2023-09-06T13:39:40},
+  owner            = {ISargent},
+}
+
+@Book{Rikap2022,
+  author           = {Cecilia Rikap},
+  date             = {2022},
+  title            = {Capitalism Power Innovation Intellectual Monopoly Capitalism Uncovered},
+  comment          = {See \url{https://www.ucl.ac.uk/bartlett/public-purpose/events/2022/jun/intellectual-monopoly-capitalism-how-big-tech-companies-became-worlds-largest} for a great summary},
+  creationdate     = {2023-09-06T13:40:11},
+  modificationdate = {2023-09-06T13:44:26},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
