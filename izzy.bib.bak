@@ -16224,7 +16224,7 @@ They note possibility of other applications: ``other important geo-spatiotempora
   title            = {Explanation of an optical deception},
   pages            = {37--42},
   volume           = {2},
-  comment          = {Describes how viewing opjects through two lenses can make them sometimes appear reversed
+  comment          = {Describes how viewing objects through two lenses can make them sometimes appear reversed
 
 Looks at bricks, where the reversed effect is that the bricks appear depressed compared to the spaces between
 
@@ -16234,7 +16234,8 @@ I think he says that the same effect is achieved with just a tube and he determi
 
 Relevant to punctate lighting priors, e.g. lighting from above prior},
   creationdate     = {2023-08-08T15:30:21},
-  modificationdate = {2023-08-08T15:41:22},
+  keywords         = {vision, psychology},
+  modificationdate = {2023-09-13T14:23:02},
   owner            = {ISargent},
 }
 
@@ -16422,7 +16423,8 @@ Provides a table of advice for providing more or less choice under different con
 - Entropy - decrease by highlighting unequal likelihood of options or attributes
 - Variety - less about increasing number of options and more about increasing the distinction between options},
   creationdate     = {2023-08-15T17:05:17},
-  modificationdate = {2023-08-15T17:25:10},
+  keywords         = {decisions, AI},
+  modificationdate = {2023-09-13T14:22:21},
   owner            = {ISargent},
 }
 
@@ -16622,7 +16624,8 @@ Capabilities that matter include:
 
 Interestingly cites the Tavistock Adult Depression Study (TADS) which finds that  antidepressants, short-term courses of counselling or cognitive behavioural therapy have poor outcomes over the long term compared to psychoanalytic psychotherapy.},
   creationdate     = {2023-08-20T10:11:02},
-  modificationdate = {2023-08-20T13:32:47},
+  keywords         = {agile, bureaucracy, creative, transformation},
+  modificationdate = {2023-09-13T14:22:01},
   owner            = {izzy_olivine},
 }
 
@@ -16643,7 +16646,8 @@ Interestingly cites the Tavistock Adult Depression Study (TADS) which finds that
 - Strategic (Action-Oriented)
 - Interpersonal (Collaboration)},
   creationdate     = {2023-08-22T13:31:46},
-  modificationdate = {2023-08-22T13:38:12},
+  keywords         = {decisions, environment, organisations, education},
+  modificationdate = {2023-09-13T14:21:45},
   owner            = {ISargent},
   year             = {2011},
 }
@@ -16776,7 +16780,8 @@ See also Rikap2022},
 
 I've not read the book yet but wanted to link with WidderWW2023},
   creationdate     = {2023-09-06T13:40:11},
-  modificationdate = {2023-09-06T14:12:31},
+  keywords         = {economics, AI, technology},
+  modificationdate = {2023-09-13T14:17:55},
   owner            = {ISargent},
 }
 
@@ -16811,13 +16816,245 @@ Simon suggests that human-like/level thinking machines are realisable and Karpat
 
 Confusion of models (explanans) for the thing modelled (explanandum) - the model is not necessarily how things work in the real world. 
 
-
-. In this paper, we have shown that (re)making human-like or human-level minds is computationally intractable (even under highly idealised conditions). Despite the current hype surrounding ``impending'' AGI, this practical infeasibility actually fits very well with what we observe (for example, running out of quality training data and the non-human-like performance of AI systems when tested rigorously)''},
+``Despite the current hype surrounding ``impending'' AGI, this practical infeasibility actually fits very well with what we observe (for example, running out of quality training data and the non-human-like performance of AI systems when tested rigorously)''},
   creationdate     = {2023-09-06T17:00:16},
   keywords         = {psychology, AI, trust},
-  modificationdate = {2023-09-06T17:32:56},
+  modificationdate = {2023-09-06T17:33:16},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Online{Doyle2021,
+  author           = {Nancy Doyle},
+  date             = {2021-02-24},
+  title            = {Can Psychometrics Be Inclusive? Why Extra Time Simply Masks Barriers.},
+  url              = {https://www.forbes.com/sites/drnancydoyle/2021/02/24/can-psychometrics-be-inclusive-why-extra-simply-masks-barriers/},
+  organization     = {Forbes > Leadership > Diversity, Equity \& Inclusion},
+  urldate          = {2023-09-11},
+  comment          = {Great article about how psychometric tests used to screen people for roles/jobs can discriminate against neurodivergent candidates
+
+A small group of people with ADHD, autism, dyslexia and dyspraxia tried various tests. Found that extra time wasn't the issue. 
+
+Not being able to move on from a question that makes no sense, e.g. a multi-choice with no option to respond the way the candidate feels is correct for them
+
+Being affected by the noise of inconsistencies in the numerical reasoning tests that weren’t related to the question (but also demonstrates a desired skills) or otherwise able to ignore irrelevant but incongruent detail
+
+``Neurotypical culture privileges acquiescence and compliance over 100\% accuracy. I know many of my neurodivergent colleagues feel chastised for pointing out bigger picture incongruencies or potential improvements to detail that colleagues see as ``irrelevant'', but actually fine tuning is exactly how to achieve exceptional performance in many roles. Neurodiversity is thriving in work cultures where a specialist thinker is encouraged to deep dive into the detail or purpose of a project or product and isn't overruled for being pedantic or asking big picture ``so what'' questions. Bake our critique into your process and the quality will improve.''
+
+Offers some advice for recruiters},
+  creationdate     = {2023-09-11T16:35:28},
+  keywords         = {inclusion, neurodiversity, leadership, management, bureaucracy},
+  modificationdate = {2023-09-11T16:48:37},
+  owner            = {izzy_olivine},
+}
+
+@Article{KahnemanK2009,
+  author           = {Kahneman, Daniel and Klein, Gary},
+  date             = {2009},
+  journaltitle     = {American Psychologist},
+  title            = {Conditions for intuitive expertise: A failure to disagree},
+  doi              = {10.1037/a0016755},
+  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biasses'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings tother one of the key authors Klein, see also Klein1999 and Kahneman, see also Kahenman2012) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
+
+Neat histories of both approaches are given.
+
+Models for strategies in field settings (NDM) include:
+* recognition-based decision making (Klein)
+* cognitive continuum model (Hammond et al)
+* image theory (Beach)
+* search for dominance structures (Montgomery)
+* skills/rules/knowledge framework and decision ladder (Rasmussen)
+
+``Members of the HB community are of course aware of the existence of skill and expertise, but they tend to focus on flaws in human cognitive performance. Members of the NDM community know that professionals often err, but they tend to stress the marvels of successful expert performance''
+
+``The members of the HB community are mostly based in academic departments, and they tend to favor well-controlled experiments in the laboratory. The members of the NDM community are typically practitioners who operate in ``real-world'' organizations''
+
+Simon (1992, p155)  a concise definition of skilled intuition that they both endorse: ``The situation has provided a cue: This cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition''
+
+Some environments allow experts to make successful predictions, others, like the financial industry, do not. 
+
+``wicked environments'' are those in which wrong intuitions are likely to develop
+
+Recognition requires enough exposure. Notes that note many examples are required in some cases such as discriminating dogs from cats [interesting considering AI]
+
+Effective expertise enables good predictions if:
+* The environment has high validity [I interpret this as being an environment in which the learner can validate their predictions] 
+* There is enough opportunity to practise the skill 
+
+Shanteau says [I think this is clearer]:
+* the predictability of outcomes
+* the amount of experience
+* the availability of good feedback
+
+``A common genre of business literature celebrates successful leaders who made strategic decisions on the basis of gut feelings and intuitions that they did not adequately check, but many of these successes owe more to luck than to genius (Rosenzweig, 2007)'' [c.f. Teece2022]
+
+``The HB claim is not that intuitions that arise in heuristics are always incorrect, only that they are less trustworthy than intuitions that are rooted in specific experiences'' [c.f. BlettnerKL2023]
+
+``The safe way to evaluate the probable accuracy of a judgment is by considering the validity of the environment in which the judgment was made as well as the judge's history of
+learning the rules of that environment''
+
+``mechanical'' judgements outperform human ones when:
+a. validity is so low that human difficulties in detecting weak regularities and in maintaining consistency of judgment are critical
+b. validity is very high, in highly predictable environments, where ceiling effects are encountered and occasional lapses of attention can cause humans to fail
+
+An effective algorithms requires:
+a.  an adequate list of variables that will be used
+b. a reliable and measurable criterion
+c. a body of similar cases
+d. a cost/benefit ratio that warrants the investment in the algorithmic approach
+e. a low likelihood that changing conditions will render the algorithm obsolete
+
+Endorse Klein's premortem method for reducing overconfidence and improving decisions
+
+``Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions [or the validity of AI algorithm outputs]},
+  creationdate     = {2023-09-11T16:48:47},
+  keywords         = {decisions, AI},
+  modificationdate = {2023-09-11T18:14:48},
+  owner            = {izzy_olivine},
+}
+
+@Book{Klein2017,
+  author           = {Gary A. Klein},
+  date             = {2017},
+  title            = {Sources of Power},
+  doi              = {10.7551/mitpress/11307.001.0001},
+  publisher        = {The MIT Press},
+  subtitle         = {How People Make Decisions},
+  url              = {https://direct.mit.edu/books/book/3647/Sources-of-PowerHow-People-Make-Decisions},
+  comment          = {Fascinating tour of Klein's research practices and discoveries. Studies understanding what real people do in the field, e.g. firefighers, nurses in neonatal units, military situations and nuclear power plants. 
+
+One of the main themes is how experts use recognition-primed decision-making:
+* experience of a situation
+* determine if situation is typical [c.f. role of system 1, Kahneman2011]
+
+Recognition has by-products:
+* cues
+* action options
+* plausible goals
+* expectations
+
+Components also include:
+* diagnosis (story building)
+* action evaluation (mental simulation
+
+This work asserts: p287
+• Experience counts
+• expertise depends on perceptual skills
+• the computer metaphor of thinking is incomplete
+• skilled problem solvers and decision makers are themselves scientists and experimenters
+• skilled problem solvers and decision makers are chameleons
+• the sources of power described in this book operate in ways that are not analytical (they are generative, allow the redefinition of goals, trade accuracy for speed, build on experience, are used in context)
+
+Klein developed the pre-mortem method which uses mental simulation to overcome the risks of ignoring vital information because it doesn't fit our current mental model. Marvin Cohen has apparently been working on methods of training that also avoid these pitfalls. p69-70
+
+Pierre Wack developed decision scenarios rather than forecasts and conventional scenarios. Decision scenarios represent different ways to see the same situation and can highlight the unlikely assumptions on which executives build their mental models p72-3 See also work of Peter Schwartz
+
+RPD model: decision makers usually look for first work for option. Mental simulation allows them to spot weaknesses and find ways to overcome them
+
+Mental simulation performs several purposes: explanation, testing ideas, finding solutions
+Simulations usually have around 3 variables and 6 transitions
+Mental simulations can be improved using methods such as premortem and decision scenarios
+
+Rational choice is compensatory because weaknesses in one dimension are offset by strengths in others. Non-conpensatory models include elimination by aspects, and face off p94
+
+Study of decision points in field experiments found that most use recognition and only a few are comparative p99-100
+
+Goals are often ill-defined and goal modification occurs as part of problem solving. Goal setting is part of problem representation p124, 129 Means-ends analysis looks at the gap between current situation and the desired ends this as a new goal p136
+
+There is no evidence that people generate the problem space except in well-defined problems. This means that AI is not analogous because it operates in the problem space p132
+
+In industrial settings supervisors have trouble deciding to abandon BAU p135
+
+The evidence is that brainstorming reduces productivity p143
+
+Experts can see eight things that are invisible to others p147-175
+• patterns
+• anomalies
+• the big picture (situation awareness)
+• the way things work
+• opportunities and improvisations
+• events in the past and future
+• very small differences
+• their are limitations
+
+"In organisations, much of the knowledge is held within the heads of the workers and is never shared. This is tacit knowledge. In most organizations the culture seems to ignore the expertise that already exists to take it for granted. If the skilled worker retired after 30 years on the job and try to leave with a favorite personal computer, some programs or a set of tools, he or she would be stopped. The organisation knows the value of the equipment. But the organization lets the worker walk out with all of that expertise, which is worth far more than some minor equipment, and never says the word never even notices the loss" p170
+
+Stories are powerful. They help us make sense of events and can even be natural experiments as they are similar to mental simulations p177-196
+
+Analogues and metaphors are also helpful [I feel this is very much like stories] p197-213
+An approach to finding a solution is comparability analysis. This requires defining the system well, finding the closest possible similar system and then taking several further steps assessing whether this is the right choice and if adjustments need to be made. [Seems somewhat like a manual version of case-based reasoning and I wonder if it's more generally useful for I'll defined problems] p203
+
+Instructions can fail because the intent is not as clear as is thought. Teams work well together when they've learned to detect and predict each other's intent and perspectives. Buy communicating intent we are promoting independence and improvisation within the team p222
+
+Essential information when communicating intent [such as explaining the purpose of a piece of work could w use this in research?]: p225
+1. Purpose of the task
+2. Objective of the task
+3. Sequence of steps in the plan
+4. Rational for the plan
+5. Key decisions that may have to be made
+6. Antigoals (unwanted outcomes)
+7. Constraints and other considerations
+
+Ultimately it's nice valuables to receive feedback about how good are their communications of intent p231
+
+The team mind is analogous to an individual's mind, it is an intelligent entity. It has cognition and meta cognition. It controls the flow of ideas at this needs to be learned p233-257
+
+Analysing rationally may not apply in many situations: p259-269
+• There are no [standard] basic elements to break the problem down to
+• rules are ambiguous
+• calculations require subjective judgments
+• formal analysis can:
+  * degenerate into combinatorial explosions
+  * interfere with non-rational forms of thinking
+  * be prevented by features of natural settings
+• consistency is rare in natural settings
+
+The heuristics and biased paradigm is based on tasks in which probabilities can be calculated in advance allowing performance to be measured. However in natural settings and biases may be reduced in experience decision-makers p272
+
+Popper urged scientist to disconne their favorite theories p273
+
+Somebody that decision error doesn't exist it is caused by information, experience, goals and maybe design, training and procedures p273
+
+Three categories of decisions that appear to show error: p274
+• Lack of experience (majority)
+• lack of information
+• de minimus error: poor mental simulation and explaining away signs of a problem
+
+Stress does not cause bad decisions but it affects the way we process information p275
+
+Lipshitz and Shaul define uncertainty as "doubt that threatens to block action" p276
+
+Uncertainty, that results in a reluctance to act is when key information is: p276-7
+• Missing
+• unreliable
+• ambiguous, inconsistent or conflicting
+• too complex to interpret
+Uncertainty occurs at the levels of: p277
+• Data
+• knowledge - drawing inferences about data
+• understanding - inferences synthesized into projections, diagnoses and explanations
+
+Great commanders turn and certainty to their advantage appdicizerly yet prudently p279
+
+Expertise is important but can sometimes lead to oversight. People can struggle to learn from experience because cause and effect are not always obvious p280
+
+Society still has many superstitions and politics, health, business e.g. reorganizations for which there's no evidence to success p281
+
+It's difficult to learn from domains that (Shanteau 1992): p282 
+* are dynamic
+* Require the prediction of human behaviour
+* Have less chance of feedback
+* Have you repetitions to learn typicalities
+* Have fewer trials
+
+Better decisions:
+• Build expertise - this is easier in some domains than others p282
+• better mental simulation e.g. crystal ball p283
+• accept error as inevitable -safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
+  creationdate     = {2023-09-12T08:19:53},
+  keywords         = {decisions, recognition},
+  modificationdate = {2023-09-12T20:10:53},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
