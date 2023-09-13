@@ -16212,7 +16212,8 @@ I wonder if Boyd drew on some of the work that this drew on? It seems to relate 
 
 They note possibility of other applications: ``other important geo-spatiotemporal forecasting problems, including climate and ecology, energy, agriculture, and human and biological activity, as well as other complex dynamical systems''},
   creationdate     = {2023-08-08T13:23:35},
-  modificationdate = {2023-08-08T15:30:58},
+  keywords         = {AI, weather},
+  modificationdate = {2023-09-13T14:23:19},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -16921,7 +16922,7 @@ Endorse Klein's premortem method for reducing overconfidence and improving decis
   publisher        = {The MIT Press},
   subtitle         = {How People Make Decisions},
   url              = {https://direct.mit.edu/books/book/3647/Sources-of-PowerHow-People-Make-Decisions},
-  comment          = {Fascinating tour of Klein's research practices and discoveries. Studies understanding what real people do in the field, e.g. firefighers, nurses in neonatal units, military situations and nuclear power plants. 
+  comment          = {Fascinating tour of Klein's research practices and discoveries. Studies understanding what real people do in the field, e.g. firefighters, nurses in neonatal units, military situations and nuclear power plants
 
 One of the main themes is how experts use recognition-primed decision-making:
 * experience of a situation
@@ -16938,7 +16939,7 @@ Components also include:
 * action evaluation (mental simulation
 
 This work asserts: p287
-• Experience counts
+• experience counts
 • expertise depends on perceptual skills
 • the computer metaphor of thinking is incomplete
 • skilled problem solvers and decision makers are themselves scientists and experimenters
@@ -16981,7 +16982,7 @@ Experts can see eight things that are invisible to others p147-175
 
 Stories are powerful. They help us make sense of events and can even be natural experiments as they are similar to mental simulations p177-196
 
-Analogues and metaphors are also helpful [I feel this is very much like stories] p197-213
+Analogues and metaphors are also powerful [I feel this is very much like stories] p197-213
 An approach to finding a solution is comparability analysis. This requires defining the system well, finding the closest possible similar system and then taking several further steps assessing whether this is the right choice and if adjustments need to be made. [Seems somewhat like a manual version of case-based reasoning and I wonder if it's more generally useful for I'll defined problems] p203
 
 Instructions can fail because the intent is not as clear as is thought. Teams work well together when they've learned to detect and predict each other's intent and perspectives. Buy communicating intent we are promoting independence and improvisation within the team p222
@@ -16990,17 +16991,17 @@ Essential information when communicating intent [such as explaining the purpose 
 1. Purpose of the task
 2. Objective of the task
 3. Sequence of steps in the plan
-4. Rational for the plan
+4. Rationale for the plan
 5. Key decisions that may have to be made
 6. Antigoals (unwanted outcomes)
 7. Constraints and other considerations
 
-Ultimately it's nice valuables to receive feedback about how good are their communications of intent p231
+Ultimately it's good for managers to receive feedback about how good are their communications of intent p231
 
 The team mind is analogous to an individual's mind, it is an intelligent entity. It has cognition and meta cognition. It controls the flow of ideas at this needs to be learned p233-257
 
 Analysing rationally may not apply in many situations: p259-269
-• There are no [standard] basic elements to break the problem down to
+• there are no [standard] basic elements to break the problem down to
 • rules are ambiguous
 • calculations require subjective judgments
 • formal analysis can:
@@ -17013,10 +17014,10 @@ The heuristics and biased paradigm is based on tasks in which probabilities can 
 
 Popper urged scientist to disconne their favorite theories p273
 
-Somebody that decision error doesn't exist it is caused by information, experience, goals and maybe design, training and procedures p273
+Some believe that decision error doesn't exist and poor outcomes are caused by poor information, experience, goals and maybe design, training and procedures p273
 
 Three categories of decisions that appear to show error: p274
-• Lack of experience (majority)
+• lack of experience (majority)
 • lack of information
 • de minimus error: poor mental simulation and explaining away signs of a problem
 
@@ -17025,7 +17026,7 @@ Stress does not cause bad decisions but it affects the way we process informatio
 Lipshitz and Shaul define uncertainty as "doubt that threatens to block action" p276
 
 Uncertainty, that results in a reluctance to act is when key information is: p276-7
-• Missing
+• missing
 • unreliable
 • ambiguous, inconsistent or conflicting
 • too complex to interpret
@@ -17038,22 +17039,22 @@ Great commanders turn and certainty to their advantage appdicizerly yet prudentl
 
 Expertise is important but can sometimes lead to oversight. People can struggle to learn from experience because cause and effect are not always obvious p280
 
-Society still has many superstitions and politics, health, business e.g. reorganizations for which there's no evidence to success p281
+Society still has many superstitions and politics, health, business e.g. reorganisations for which there's no evidence to success p281
 
 It's difficult to learn from domains that (Shanteau 1992): p282 
 * are dynamic
-* Require the prediction of human behaviour
-* Have less chance of feedback
-* Have you repetitions to learn typicalities
-* Have fewer trials
+* require the prediction of human behaviour
+* have less chance of feedback
+* have you repetitions to learn typicalities
+* have fewer trials
 
 Better decisions:
 • Build expertise - this is easier in some domains than others p282
 • better mental simulation e.g. crystal ball p283
-• accept error as inevitable -safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
+• accept error as inevitable - safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
   creationdate     = {2023-09-12T08:19:53},
-  keywords         = {decisions, recognition},
-  modificationdate = {2023-09-12T20:10:53},
+  keywords         = {decisions, recognition, bureaucracy, transformation},
+  modificationdate = {2023-09-13T15:22:24},
   owner            = {izzy_olivine},
 }
 
