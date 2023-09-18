@@ -9032,8 +9032,8 @@ This paper studies the Basque Autonomous Community in Spain
 
 ``From a policy-making and a business practice perspective, some critical implications may be drawn. In particular, the fact that most businesses adopt a DUI type of interaction does not imply that it is an effective interaction mode. It delivers lower impact (than STI factors) in technological and radical innovation, whereas it matters more for non-technological innovation. And it is inadequate when it is bounded to the regional environment (DUI-regional)''.},
   creationdate     = {2023-02-24T17:13:28},
-  keywords         = {economics, innovation, transformation, policy, technology, organisations},
-  modificationdate = {2023-03-04T16:17:08},
+  keywords         = {economics, innovation, transformation, policy, technology, organisations, decisions},
+  modificationdate = {2023-09-18T12:41:00},
   owner            = {izzy_olivine},
 }
 
@@ -15751,13 +15751,13 @@ Codes up the reports (another useful example of qualitative analysis) and perfor
 
 From the results they argue:
 - decision-makers overestimate the quality of their competance regarding knowledge gained by job experience, have many biases and thus they are less open to performance feedback (self-enhancing interpretation of performance feedback)
-- decision makers with high domain expertise are less prone to such biases because they have gained codified knowledge with more explicity rules (more likely to perform problemistic search with performance below aspirations)
+- decision makers with high domain expertise are less prone to such biases because they have gained codified knowledge with more explicit rules (more likely to perform problemistic search with performance below aspirations)
 - incentives make decision makers less complacent when performance is above aspirations, but also less ambitious and less risk-taking and as such are more likely to search for solutions
 
 Seems to be testing hypotheses in ZolloW2002 but doesn't cite that paper},
   creationdate     = {2023-07-11T17:04:52},
   keywords         = {decisions, leadership, performance, organisation, bureaucracy},
-  modificationdate = {2023-08-22T14:30:39},
+  modificationdate = {2023-09-18T12:05:13},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -16856,7 +16856,7 @@ Offers some advice for recruiters},
   journaltitle     = {American Psychologist},
   title            = {Conditions for intuitive expertise: A failure to disagree},
   doi              = {10.1037/a0016755},
-  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biasses'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings tother one of the key authors Klein, see also Klein1999 and Kahneman, see also Kahenman2012) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
+  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biases'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings tother one of the key authors Klein, see also Klein1999 and Kahneman, see also Kahenman2012) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
 
 Neat histories of both approaches are given.
 
@@ -16911,7 +16911,7 @@ Endorse Klein's premortem method for reducing overconfidence and improving decis
 ``Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions [or the validity of AI algorithm outputs]},
   creationdate     = {2023-09-11T16:48:47},
   keywords         = {decisions, AI},
-  modificationdate = {2023-09-11T18:14:48},
+  modificationdate = {2023-09-14T11:15:23},
   owner            = {izzy_olivine},
 }
 
@@ -16977,14 +16977,14 @@ Experts can see eight things that are invisible to others p147-175
 • opportunities and improvisations
 • events in the past and future
 • very small differences
-• their are limitations
+• their own limitations
 
 "In organisations, much of the knowledge is held within the heads of the workers and is never shared. This is tacit knowledge. In most organizations the culture seems to ignore the expertise that already exists to take it for granted. If the skilled worker retired after 30 years on the job and try to leave with a favorite personal computer, some programs or a set of tools, he or she would be stopped. The organisation knows the value of the equipment. But the organization lets the worker walk out with all of that expertise, which is worth far more than some minor equipment, and never says the word never even notices the loss" p170
 
 Stories are powerful. They help us make sense of events and can even be natural experiments as they are similar to mental simulations p177-196
 
 Analogues and metaphors are also powerful [I feel this is very much like stories] p197-213
-An approach to finding a solution is comparability analysis. This requires defining the system well, finding the closest possible similar system and then taking several further steps assessing whether this is the right choice and if adjustments need to be made. [Seems somewhat like a manual version of case-based reasoning and I wonder if it's more generally useful for I'll defined problems] p203
+An approach to finding a solution is comparability analysis. The example is from the Wright-Patterson Air Force Base where engineers codify their experience to find similar examples when trying to solve problems. This requires defining the system well, finding the closest possible similar system and then taking several further steps assessing whether this is the right choice and if adjustments need to be made. [Seems somewhat like a manual version of case-based reasoning and I wonder if it's more generally useful for I'll defined problems] p203
 
 Instructions can fail because the intent is not as clear as is thought. Teams work well together when they've learned to detect and predict each other's intent and perspectives. Buy communicating intent we are promoting independence and improvisation within the team p222
 
@@ -17055,7 +17055,7 @@ Better decisions:
 • accept error as inevitable - safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
   creationdate     = {2023-09-12T08:19:53},
   keywords         = {decisions, recognition, bureaucracy, transformation},
-  modificationdate = {2023-09-14T11:14:49},
+  modificationdate = {2023-09-18T12:29:06},
   owner            = {izzy_olivine},
 }
 
