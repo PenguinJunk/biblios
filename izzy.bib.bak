@@ -3885,8 +3885,8 @@ Capabilities as skills and routines
 
 Evolutionary interactions (within organisations, between organisations, between regions and countries},
   creationdate     = {2022-10-23T08:54:03},
-  keywords         = {economics},
-  modificationdate = {2023-03-03T19:58:32},
+  keywords         = {economics, decisions},
+  modificationdate = {2023-09-28T15:54:58},
   owner            = {ISargent},
 }
 
@@ -3973,9 +3973,9 @@ Suggest incompatibilities:
   author           = {Martin, B.},
   institution      = {Office of Health Economics},
   title            = {{Science Policy Research: Having an Impact on Policy?}},
+  type             = {Seminar Briefings},
   eprint           = {https://www.ohe.org/system/files/private/publications/346%20-%20Science%20Policy%20Research.pdf},
   number           = {000197},
-  type             = {Seminar Briefings},
   url              = {https://ideas.repec.org/p/ohe/sembri/000197.html},
   abstract         = {Professor Ben Martin (Science and Technology Policy Studies at SPRU, University of Sussex) defines science policy research as 'economic, policy, management and organisational studies of science, technology and innovation (STI) with a view to providing useful inputs to decision-makers concerned with policies for and the management of STI'. The field is important because STI is important - it is a source of progress, a major contributor to the wealth of nations, provides the basis for new goods and services and for new capabilities, and contributes to changes in the quality of life and the environment. As globalisation and international competition increase, STI is gaining even greater importance. It also carries risks, however, and social costs. For these reasons, effective policies to encourage and manage STI are essential. This Seminar Briefing summarises Prof Martin's presentation of the results of his research on how the field of science policy research has evolved and advanced in the 50 years since its inception and how it has affected decision making.},
   comment          = {From Martin2016
@@ -4003,7 +4003,7 @@ Twenty advances in science policy
 20. 	 From closed to open innovation},
   creationdate     = {2022-10-23T12:40:36},
   keywords         = {economics, policy, innovation, science},
-  modificationdate = {2022-11-18T20:12:06},
+  modificationdate = {2023-09-28T15:43:25},
   month            = Dec,
   owner            = {ISargent},
   year             = {2010},
@@ -7341,8 +7341,8 @@ Sources of dynamic capabilities:
 
 ``Such organisations aim to be both dynamic and resilient by design. We can call these Neo-Weberian agencies.''},
   creationdate     = {2023-01-15T08:13:00},
-  keywords         = {economics, bureaucracy},
-  modificationdate = {2023-01-21T14:31:03},
+  keywords         = {economics, bureaucracy, decisions},
+  modificationdate = {2023-09-28T15:54:25},
   owner            = {izzyolivine},
   series           = {IIPP Working paper},
   year             = {2022},
@@ -9334,8 +9334,8 @@ Modes to create and maintain long-term capacities and dynamic capabilities:
 
 GDS ``victim of its own success'' not stabilty-focussed. Now a need to renew sources and reasons driving dynamic capabilities},
   creationdate     = {2023-03-04T08:40:37},
-  keywords         = {economics, policy, bureaucracy},
-  modificationdate = {2023-03-04T17:33:18},
+  keywords         = {economics, policy, bureaucracy, decisions},
+  modificationdate = {2023-09-28T15:53:26},
   owner            = {ISargent},
 }
 
@@ -17130,7 +17130,7 @@ The Investors Assistance Program uses 37 criteria to test the likelihood of succ
 
 Psychophysics is the study of how physical changes result in psychological changes - the latter tend to be logarhythmic p272
 
-Bruno Frey: ``the agent of econmic theory is rational, selfish and his tastes do not change'' p269
+Bruno Frey: ``the agent of economic theory is rational, selfish and his tastes do not change'' p269
 
 On observation, however, people do not maximise their expected values p 273
 
@@ -17163,7 +17163,25 @@ The experiences of welbeing are different to those of satisfaction p 397
 Welbeing also relates to people's goals and their attainment p 402},
   creationdate     = {2023-09-27T09:52:35},
   keywords         = {economics, psychology, decisions, trust},
-  modificationdate = {2023-09-27T12:10:23},
+  modificationdate = {2023-09-28T11:35:21},
+  owner            = {ISargent},
+}
+
+@Book{LempertPB2003,
+  author           = {Robert J. Lempert and Steven W. Popper and Steven C. Bankes},
+  date             = {2003},
+  title            = {Shaping the Next One Hundred Years},
+  isbn             = {978-0-8330-3275-1},
+  subtitle         = {New Methods for Quantitative, Long-Term Policy Analysis},
+  comment          = {From RAND corporation. Defines Deep Uncertainty (based on the term originally used by Arrow in reference to policy making under climate change). Precurser of DMDU - decision making under deep uncertainty work.},
+  creationdate     = {2023-09-28T16:14:52},
+  modificationdate = {2023-09-28T16:18:30},
+  owner            = {ISargent},
+}
+
+@Article{,
+  creationdate     = {2023-09-28T16:15:04},
+  modificationdate = {2023-09-28T16:15:04},
   owner            = {ISargent},
 }
 
