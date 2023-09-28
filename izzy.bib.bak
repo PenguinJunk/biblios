@@ -17173,15 +17173,11 @@ Welbeing also relates to people's goals and their attainment p 402},
   title            = {Shaping the Next One Hundred Years},
   isbn             = {978-0-8330-3275-1},
   subtitle         = {New Methods for Quantitative, Long-Term Policy Analysis},
-  comment          = {From RAND corporation. Defines Deep Uncertainty (based on the term originally used by Arrow in reference to policy making under climate change). Precurser of DMDU - decision making under deep uncertainty work.},
-  creationdate     = {2023-09-28T16:14:52},
-  modificationdate = {2023-09-28T16:18:30},
-  owner            = {ISargent},
-}
+  comment          = {Public policy under deep uncertainty. From RAND corporation. Defines Deep Uncertainty (based on the term originally used by Arrow in reference to policy making under climate change). Precurser of DMDU - decision making under deep uncertainty work.
 
-@Article{,
-  creationdate     = {2023-09-28T16:15:04},
-  modificationdate = {2023-09-28T16:15:04},
+Not yet read this.},
+  creationdate     = {2023-09-28T16:14:52},
+  modificationdate = {2023-09-28T16:37:45},
   owner            = {ISargent},
 }
 
