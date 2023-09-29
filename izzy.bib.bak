@@ -16734,12 +16734,12 @@ Decision-makers will often try to avoid leadership, because questioning implies 
 3. the `answer' to the problem is going to take a long time to construct and that it will only ever be `more appropriate' rather than `the best'
 4. it will require constant effort to maintain
 
-Discusses Aristotle's phronesis - the Wisdom to acknowledge that the situation is not like any other. This arises from `apperception' - the ability to relate new experiences to previous experiences. [relates to analogy in Klein1999] which requires reflective learning to understand patterns
+Discusses Aristotle's phronesis - the Wisdom to acknowledge that the situation is not like any other. This arises from `apperception' - the ability to relate new experiences to previous experiences. [relates to analogy in Klein2017] which requires reflective learning to understand patterns
 
 Rather ironically, this is a very elegant proposal},
   creationdate     = {2023-08-23T09:11:38},
   keywords         = {decisions, bureaucracy, transformation},
-  modificationdate = {2023-09-14T11:09:08},
+  modificationdate = {2023-09-29T10:28:27},
   owner            = {ISargent},
 }
 
@@ -16856,7 +16856,7 @@ Offers some advice for recruiters},
   journaltitle     = {American Psychologist},
   title            = {Conditions for intuitive expertise: A failure to disagree},
   doi              = {10.1037/a0016755},
-  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biases'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings tother one of the key authors Klein, see also Klein1999 and Kahneman, see also Kahenman2012) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
+  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biases'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings together one of the key authors Klein, see also Klein2017 and Kahneman2011) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
 
 Neat histories of both approaches are given.
 
@@ -16911,7 +16911,7 @@ Endorse Klein's premortem method for reducing overconfidence and improving decis
 ``Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions [or the validity of AI algorithm outputs]},
   creationdate     = {2023-09-11T16:48:47},
   keywords         = {decisions, AI},
-  modificationdate = {2023-09-14T11:15:23},
+  modificationdate = {2023-09-29T10:28:58},
   owner            = {izzy_olivine},
 }
 
@@ -17126,6 +17126,8 @@ Discussion of collaboration with Klein (KahnmemanK2009) and when to trust intuit
 
 Because of WYSIATI, optimism bias, planning fallacy means that we tend to underestimate of the expected duration of a project. This can be countered by the outside view - collecting examples of similar activities from which a more measured estimate of averages and ranges can be determined. One can then compare the case under consideration against this set of examples, for example ``is the current team above or below average experience''? and adjust from the average accordingly. p 225-54 [I think this relates to other work on codification, case-base reasoning]
 
+Optimism is valued and rewarded. Premortem is an option to reduce the effect of overconfidence p255-65
+
 The Investors Assistance Program uses 37 criteria to test the likelihood of success of an idea p 257 Useful to overcome optimism bias - and to research optimism bias
 
 Psychophysics is the study of how physical changes result in psychological changes - the latter tend to be logarhythmic p272
@@ -17163,7 +17165,7 @@ The experiences of welbeing are different to those of satisfaction p 397
 Welbeing also relates to people's goals and their attainment p 402},
   creationdate     = {2023-09-27T09:52:35},
   keywords         = {economics, psychology, decisions, trust},
-  modificationdate = {2023-09-28T11:35:21},
+  modificationdate = {2023-09-28T18:45:31},
   owner            = {ISargent},
 }
 
