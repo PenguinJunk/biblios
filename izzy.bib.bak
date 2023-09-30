@@ -7936,7 +7936,7 @@ Scope creep: changes that the business stakeholders request when they realize th
 
 Jean-Paul Sartre, an early Agilist - consciousness chooses at any given instant what it is p83
 
-Plan-drived IT ``espouses all the wrong values'' as it is made at beginning when uncertainty highest etc p86 decisions should be deferred until the last possible moment p96
+Plan-driven IT ``espouses all the wrong values'' as it is made at beginning when uncertainty highest etc p86 decisions should be deferred until the last possible moment p96
 
 There us a Beyond Budgeting movement - the annual budgeting cycle is not agile p27
 
@@ -7983,7 +7983,7 @@ IT leaders steward IT people/skills assets, EA assets and data assets p275-6 (al
 DevOps: When something is difficult it frightening we do it more often p292-3},
   creationdate     = {2023-01-21T14:58:51},
   keywords         = {transformation, technology, decisions},
-  modificationdate = {2023-08-21T13:48:45},
+  modificationdate = {2023-09-30T12:14:36},
   owner            = {izzy_olivine},
 }
 
@@ -15693,10 +15693,10 @@ But decisions, which are usually taken at the top, are often disconnected from s
 
 Also, as action taking tends to occur in body of organisation, sensemakers are exposed doubly to nonsensical decisions - this paper goes into detail about how sensemakers and action makers within organisation respond to decisions that don't make sense
 
-Used not to be such a problem because processes were slower, action takers could repair, remake, and rework the decisions locally, take effective action, generate results, and cover up their ``non compliance'' [a bit like ``shadow IT'', or street-level bureaucrat]. This is unlikely to work in increasinly fast paced, unpredictable world},
+Used not to be such a problem because processes were slower, action takers could repair, remake, and rework the decisions locally, take effective action, generate results, and cover up their ``non compliance'' [a bit like ``shadow IT'' Schwartz2017, or street-level bureaucrat Peters2022]. This is unlikely to work in increasinly fast paced, unpredictable world},
   creationdate     = {2023-07-06T08:58:34},
   keywords         = {decisions, organisations, bureaucracy, agile, leadership, transformation},
-  modificationdate = {2023-08-22T14:21:36},
+  modificationdate = {2023-09-30T12:10:37},
   owner            = {ISargent},
 }
 
@@ -16459,7 +16459,7 @@ Provides a table of advice for providing more or less choice under different con
 
 Categorize these under a theoretically sound model in order to better understand the nature of decision-making tasks
 
-Field in human error in  safety critical situations (such as nuclear power plants). However, I believe that because the review draws from a wider range of studies it may be more widely applicable
+Field is human error in  safety critical situations (such as nuclear power plants). However, I believe that because the review draws from a wider range of studies it may be more widely applicable
 
 Identify five categories of 14 factors that they find evidence for affecting the performance of team decision making tasks. These are the factors without brackets below, the others make up the 34 factors but for which they did not find enough relevance:
 
@@ -16508,7 +16508,7 @@ Lots of refs for work on teamwork and effective teams - looks like Eduardo Salas
   creationdate     = {2023-08-16T13:49:44},
   journal          = {Reliability Engineering \& System Safety},
   keywords         = {decisions, teams, bureaucracy},
-  modificationdate = {2023-08-16T16:36:35},
+  modificationdate = {2023-09-30T12:30:15},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -16856,7 +16856,7 @@ Offers some advice for recruiters},
   journaltitle     = {American Psychologist},
   title            = {Conditions for intuitive expertise: A failure to disagree},
   doi              = {10.1037/a0016755},
-  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biases'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings together one of the key authors Klein, see also Klein2017 and Kahneman2011) from each of those schools (of thought. They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
+  comment          = {I love this paper. Decisions literature often separates different perspectives, particularly the ``heuristics and biases'' (HB) approach to (mainly) laboratory-based experiments from the ``naturalistic decision-making'' (NDM) approach, which attempts to study decisions in the wild by observing and performing post-event analysis on real-world decisions, often in high-stakes scenarios such as firefighting and nuclear power plants. This paper brings together the key authors Klein, see also Klein2017 and Kahneman2011) from each of those schools (of thought). They find that their theories are not in conflict, but instead illustrate different aspects of decision-making.
 
 Neat histories of both approaches are given.
 
@@ -16911,7 +16911,7 @@ Endorse Klein's premortem method for reducing overconfidence and improving decis
 ``Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions [or the validity of AI algorithm outputs]},
   creationdate     = {2023-09-11T16:48:47},
   keywords         = {decisions, AI},
-  modificationdate = {2023-09-29T10:28:58},
+  modificationdate = {2023-09-29T10:29:19},
   owner            = {izzy_olivine},
 }
 
@@ -16988,7 +16988,7 @@ An approach to finding a solution is comparability analysis. The example is from
 
 Instructions can fail because the intent is not as clear as is thought. Teams work well together when they've learned to detect and predict each other's intent and perspectives. Buy communicating intent we are promoting independence and improvisation within the team p222
 
-Essential information when communicating intent [such as explaining the purpose of a piece of work could w use this in research?]: p225
+Essential information when communicating intent [such as explaining the purpose of a piece of work could we use this in research?]: p225
 1. Purpose of the task
 2. Objective of the task
 3. Sequence of steps in the plan
@@ -17046,7 +17046,7 @@ It's difficult to learn from domains that (Shanteau 1992): p282
 * are dynamic
 * require the prediction of human behaviour
 * have less chance of feedback
-* have you repetitions to learn typicalities
+* have few repetitions to learn typicalities
 * have fewer trials
 
 Better decisions:
@@ -17055,7 +17055,7 @@ Better decisions:
 • accept error as inevitable - safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
   creationdate     = {2023-09-12T08:19:53},
   keywords         = {decisions, recognition, bureaucracy, transformation},
-  modificationdate = {2023-09-18T12:29:06},
+  modificationdate = {2023-09-30T13:59:17},
   owner            = {izzy_olivine},
 }
 
