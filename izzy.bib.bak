@@ -17199,6 +17199,7 @@ Not yet read this.},
 @InProceedings{HongchaiW2023,
   author           = {Hongchai, Dahm Mongkol and Weber, Charles M.},
   booktitle        = {2023 Portland International Conference on Management of Engineering and Technology (PICMET)},
+  date             = {2023},
   title            = {Leadership for Technology Management in a Volatile, Uncertain, Complex, and Ambiguous (VUCA) World: A Review of the Literature and a Research Agenda},
   doi              = {10.23919/PICMET59654.2023.10216793},
   pages            = {1-23},
@@ -17216,12 +17217,58 @@ Review what different authors have said abotu leadership looks in a VUCA world. 
 * resilience and flexibility
 * healthy work environments
 * collaboration
-* mindfulness},
+* mindfulness
+
+Bringing together the 3 leadership architypes:
+* authentic leaders: being true to oneself, being open for ambiguity, a penchant for accuracy, and the ability to recognize their own capabilities, demonstrate gentleness, modesty, and respect
+* servant leaders: serving others first, being ethical, empathetic, action driven and demonstrating accountability, empowerment, and stewardship
+* adaptive leaders: systematic thinking, especially when facing uncertainty, unpredictable information, and unknown circumstances 
+* authentic and servant leadership: courageous to admit to their faults and mistakes, accept others’ inaccuracy
+* authentic and adaptive leadership: encourage debate and dialog conversation, for team feedback, for team retrospective, for conflict management
+* servant and adaptive leadership: persuasive and influential among their coworkers, share their insights and are open to new ideas and foster new opinions
+* authentic, servant, and adaptive leadership: problem solving skills, ability to maintain and be sensitive to relationships, empathy and motivation, or what can be called the PREM Model
+
+The PREM model:
+* Problem solving: Leaders ensure that they facilitate problem solving for their organizations
+* Relationship: Leaders need to construct relationships with all stakeholders
+* Empathy: Leaders need to treat their mental and physical well-being
+* Motivation: Leaders need to sustain motivation via mentor and peer support programs and strengthen development-minded learning for continuous growth},
   creationdate     = {2023-10-02T10:35:01},
   keywords         = {decisions, leadership, organisations, agile, stability},
-  modificationdate = {2023-10-02T10:44:28},
+  modificationdate = {2023-10-02T11:23:22},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Article{,
+  eprint           = {https://journals.sagepub.com/doi/pdf/10.1177/00081256231180878},
+  comment          = {Only skimmed. Argues that radical or step changes are often rejected by an organisation due to its ``organsational immune system'' [Weber's bureaucracy?]. Find that NASA has used incremental  approaches to adapt and evolve. [I'm drawn to think about an organisational version of Schwartz2017's strangler pattern].},
+  creationdate     = {2023-10-02T10:56:06},
+  keywords         = {decisions, organisations, agile, leadership, transformation},
+  modificationdate = {2023-10-02T11:01:03},
+  owner            = {ISargent},
+}
+
+@Article{,
+  date             = {2019},
+  title            = {The Dark Side of Organizational Paradoxes: The Dynamics of Disempowerment},
+  eprint           = {https://bura.brunel.ac.uk/bitstream/2438/19254/3/FullText.pdf},
+  comment          = {Considers organizational paradox theory and the role of power in this
+
+Gives examples of paradoxes from the literature, e.g.: * Flexible work arrangements that blur the boundaries between work and home life, leading employees to work well above their number of paid hours (Putnam, Myers, and Gailliard, 2014)
+
+Identifies dimensions of power and how this relates to paradox:
+* coercion: double bind (an actor receiving a contradictory request is not able to escape the message by either commenting about it or by withdrawing physically from the scene)
+* manipulation: paradoxical prediction (legitimate courses of action are strictly limited and any form of appeal is condemned
+* domination: Kafkaesque organisation (Catch 22) (conflicting rules, structures, routines, processes, etc that create contradictory behavioral
+expectations)
+* subjectification: Orwellian Doublethink (``Extant membership categories and organizational roles significantly limit alternative sense-making operating as sense-giving devices that curtail reframing possibilities''
+
+``Contemporary bureaucracies indeed appear to be more Kafkaesque than Weberian''},
+  creationdate     = {2023-10-02T11:23:11},
+  keywords         = {power, paradox, organisation},
+  modificationdate = {2023-10-02T11:49:36},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
