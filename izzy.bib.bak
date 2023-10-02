@@ -17321,4 +17321,14 @@ Quoted by KahnemanK2009 ``The situation has provided a cue: This cue has given t
   owner            = {ISargent},
 }
 
+@Book{DavenportM2012,
+  author           = {Thomas H. Davenport and Brook Manville},
+  date             = {2012},
+  title            = {Judgment Calls},
+  subtitle         = {Twelve Stories of Big Decisions and the Teams That Got Them Right},
+  creationdate     = {2023-10-02T18:58:25},
+  modificationdate = {2023-10-02T18:59:09},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
