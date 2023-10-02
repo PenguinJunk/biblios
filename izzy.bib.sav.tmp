@@ -16871,7 +16871,7 @@ Models for strategies in field settings (NDM) include:
 
 ``The members of the HB community are mostly based in academic departments, and they tend to favor well-controlled experiments in the laboratory. The members of the NDM community are typically practitioners who operate in ``real-world'' organizations''
 
-Simon (1992, p155)  a concise definition of skilled intuition that they both endorse: ``The situation has provided a cue: This cue has given the expert access to information stored in memory, and the information provides the answer. Intuition is nothing more and nothing less than recognition''
+See quote from Simon 1992 (p155)  for a concise definition of skilled intuition that they both endorse
 
 Some environments allow experts to make successful predictions, others, like the financial industry, do not. 
 
@@ -16911,7 +16911,7 @@ Endorse Klein's premortem method for reducing overconfidence and improving decis
 ``Subjective confidence is therefore an unreliable indication of the validity of intuitive judgments and decisions [or the validity of AI algorithm outputs]},
   creationdate     = {2023-09-11T16:48:47},
   keywords         = {decisions, AI},
-  modificationdate = {2023-09-29T10:29:19},
+  modificationdate = {2023-10-02T18:06:52},
   owner            = {izzy_olivine},
 }
 
@@ -17206,4 +17206,9 @@ Not yet read this.},
   url              = {https://ieeexplore.ieee.org/document/10216793},
   comment          = {I've only skimmed this but it looks useful, hopefully not too simplistic. The literature review is rather scattergun but I think the synthesis brings this together well (although I'm not sure how they did that!)
 
-There's a general model of leadership in the 21st century, academic research in the field of le
+There's a general model of leadership in the 21st century, academic research in the field of leadership emphasizes:
+* authentic leadership
+* servant leadership
+* adaptive leadership
+
+Review what different authors have said abotu leadership looks in a VUCA world. Key aspects include
