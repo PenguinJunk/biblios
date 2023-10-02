@@ -17184,4 +17184,44 @@ Not yet read this.},
   owner            = {ISargent},
 }
 
+@Online{Boyd2012,
+  author           = {John R. Boyd},
+  date             = {2012},
+  editor           = {Chet Richards and Chuck Spinney},
+  title            = {The Essence of Winning and Losing},
+  url              = {https://fasttransients.files.wordpress.com/2010/03/essence_of_winning_losing.pdf},
+  comment          = {Slides for the OODA Loop model},
+  creationdate     = {2023-09-30T14:47:55},
+  modificationdate = {2023-09-30T14:52:24},
+  owner            = {ISargent},
+}
+
+@InProceedings{HongchaiW2023,
+  author           = {Hongchai, Dahm Mongkol and Weber, Charles M.},
+  booktitle        = {2023 Portland International Conference on Management of Engineering and Technology (PICMET)},
+  title            = {Leadership for Technology Management in a Volatile, Uncertain, Complex, and Ambiguous (VUCA) World: A Review of the Literature and a Research Agenda},
+  doi              = {10.23919/PICMET59654.2023.10216793},
+  pages            = {1-23},
+  url              = {https://ieeexplore.ieee.org/document/10216793},
+  comment          = {I've only skimmed this but it looks useful, hopefully not too simplistic. The literature review is rather scattergun but I think the synthesis brings this together well (although I'm not sure how they did that!)
+
+There's a general model of leadership in the 21st century, academic research in the field of leadership emphasizes:
+* authentic leadership
+* servant leadership
+* adaptive leadership
+
+Review what different authors have said abotu leadership looks in a VUCA world. Key aspects include (not limited to):
+* VUCA focussed
+* continuous imrprovement (including of leadership)
+* resilience and flexibility
+* healthy work environments
+* collaboration
+* mindfulness},
+  creationdate     = {2023-10-02T10:35:01},
+  keywords         = {decisions, leadership, organisations, agile, stability},
+  modificationdate = {2023-10-02T10:44:28},
+  owner            = {ISargent},
+  year             = {2023},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
