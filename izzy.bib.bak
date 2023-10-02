@@ -17332,4 +17332,15 @@ Quoted by KahnemanK2009 ``The situation has provided a cue: This cue has given t
   owner            = {ISargent},
 }
 
+@Book{Talib2007,
+  author           = {Nassim Nicholas Taleb},
+  date             = {2007},
+  title            = {The Black Swan: The Impact of the Highly Improbable},
+  url              = {https://www.penguin.co.uk/books/56380/the-black-swan-by-nassim-nicholas-taleb/9780141034591},
+  creationdate     = {2023-10-02T21:42:37},
+  keywords         = {decisions,},
+  modificationdate = {2023-10-02T21:43:58},
+  owner            = {ISargent},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
