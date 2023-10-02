@@ -17240,19 +17240,28 @@ The PREM model:
   year             = {2023},
 }
 
-@Article{,
+@Article{HeracleousWPP2023,
+  author           = {Loizos Heracleous and Christina Wawarta and Angeliki Papachroni and Sotirios Paroutis},
+  date             = {2023},
+  journaltitle     = {California Management Review},
+  title            = {Logical Incrementalismas a Path to Strategic Agility: The Case of NASA},
   eprint           = {https://journals.sagepub.com/doi/pdf/10.1177/00081256231180878},
   comment          = {Only skimmed. Argues that radical or step changes are often rejected by an organisation due to its ``organsational immune system'' [Weber's bureaucracy?]. Find that NASA has used incremental  approaches to adapt and evolve. [I'm drawn to think about an organisational version of Schwartz2017's strangler pattern].},
   creationdate     = {2023-10-02T10:56:06},
   keywords         = {decisions, organisations, agile, leadership, transformation},
-  modificationdate = {2023-10-02T11:01:03},
+  modificationdate = {2023-10-02T11:54:27},
   owner            = {ISargent},
 }
 
-@Article{,
-  date             = {2019},
+@Article{BertiS2021,
+  author           = {Marco Berti and Ace V. Simpson},
+  date             = {2021},
+  journaltitle     = {Academy of Management Review},
   title            = {The Dark Side of Organizational Paradoxes: The Dynamics of Disempowerment},
   eprint           = {https://bura.brunel.ac.uk/bitstream/2438/19254/3/FullText.pdf},
+  number           = {2},
+  url              = {https://journals.aom.org/doi/10.5465/amr.2017.0208},
+  volume           = {46},
   comment          = {Considers organizational paradox theory and the role of power in this
 
 Gives examples of paradoxes from the literature, e.g.: * Flexible work arrangements that blur the boundaries between work and home life, leading employees to work well above their number of paid hours (Putnam, Myers, and Gailliard, 2014)
@@ -17267,7 +17276,7 @@ expectations)
 ``Contemporary bureaucracies indeed appear to be more Kafkaesque than Weberian''},
   creationdate     = {2023-10-02T11:23:11},
   keywords         = {power, paradox, organisation},
-  modificationdate = {2023-10-02T11:49:36},
+  modificationdate = {2023-10-02T11:52:14},
   owner            = {ISargent},
 }
 
