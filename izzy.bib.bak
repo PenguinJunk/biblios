@@ -17293,11 +17293,11 @@ expectations)
   volume           = {23},
   comment          = {The System 1 System 2 paper
 
-``One possible interpretation of this pattern is in terms of two-process theories of reasoning (Epstein 1994; Evans 1984; 1996; Evans \& Over 1996; Sloman 1996). A summary of the generic properties distinguished by several twoprocess views is presented in Table 3. Although the details and technical properties of these dual-process theories do not always match exactly, nevertheless there are clear family resemblances (for discussions, see Evans & Over 1996; Gigerenzer \& Regier 1996; Sloman 1996). In order to emphasize the prototypical view that is adopted here, the two systems have simply been generically labeled System 1 and System 2.''},
+``One possible interpretation of this pattern is in terms of two-process theories of reasoning (Epstein 1994; Evans 1984; 1996; Evans \& Over 1996; Sloman 1996). A summary of the generic properties distinguished by several twoprocess views is presented in Table 3. Although the details and technical properties of these dual-process theories do not always match exactly, nevertheless there are clear family resemblances (for discussions, see Evans \& Over 1996; Gigerenzer \& Regier 1996; Sloman 1996). In order to emphasize the prototypical view that is adopted here, the two systems have simply been generically labeled System 1 and System 2.''},
   creationdate     = {2023-10-02T16:59:09},
   journal          = {Behavioral and Brain Sciences},
   keywords         = {decisions, psychology},
-  modificationdate = {2023-10-02T21:47:54},
+  modificationdate = {2023-10-02T21:49:28},
   owner            = {ISargent},
   publisher        = {Cambridge University Press},
   year             = {2000},
