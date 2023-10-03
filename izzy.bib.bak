@@ -15145,12 +15145,10 @@ Overturning parliament - Its 2030, looking back: the house of commons was too fo
   institution      = {University of Nottingham},
   title            = {Negotiating the Truth: Exploring the Influence of Metadata in Place-Related Group Decision Making},
   type             = {phdthesis},
-  comment          = {Look at the value of geospatial data in organisational decision-making, in particular considering the use of data quality flags. Two scenarios - without and with time limitations. Valuable for references on decision theory. Makes specific contributions to this field.
-
-Local \url{https://ordnancesurvey-my.sharepoint.com/:b:/g/personal/isabel_sargent_os_uk/ETvLAlOPKX5GivOvGCM8TWEBa2FoCIYHlIlBsIkb0Exsiw?e=rTLpyw}},
+  comment          = {Look at the value of geospatial data in organisational decision-making, in particular considering the use of data quality flags. Two scenarios - without and with time limitations. Valuable for references on decision theory. Makes specific contributions to this field.},
   creationdate     = {2023-06-27T17:29:40},
   keywords         = {decisions},
-  modificationdate = {2023-07-15T16:08:04},
+  modificationdate = {2023-10-02T21:50:24},
   owner            = {ISargent},
 }
 
@@ -15681,7 +15679,7 @@ Thematic coding of interview transcripts - look back over this},
   year             = {2023},
 }
 
-@Online{Marlow2023,
+@Online{Marlow2023Sensemaking,
   author           = {Geoff Marlow},
   date             = {2023-01-15},
   title            = {Making sense of sense making},
@@ -15696,7 +15694,7 @@ Also, as action taking tends to occur in body of organisation, sensemakers are e
 Used not to be such a problem because processes were slower, action takers could repair, remake, and rework the decisions locally, take effective action, generate results, and cover up their ``non compliance'' [a bit like ``shadow IT'' Schwartz2017, or street-level bureaucrat Peters2022]. This is unlikely to work in increasinly fast paced, unpredictable world},
   creationdate     = {2023-07-06T08:58:34},
   keywords         = {decisions, organisations, bureaucracy, agile, leadership, transformation},
-  modificationdate = {2023-09-30T12:10:37},
+  modificationdate = {2023-10-03T09:24:04},
   owner            = {ISargent},
 }
 
@@ -17338,8 +17336,16 @@ Quoted by KahnemanK2009 ``The situation has provided a cue: This cue has given t
   title            = {The Black Swan: The Impact of the Highly Improbable},
   url              = {https://www.penguin.co.uk/books/56380/the-black-swan-by-nassim-nicholas-taleb/9780141034591},
   creationdate     = {2023-10-02T21:42:37},
-  keywords         = {decisions,},
+  keywords         = {decisions},
   modificationdate = {2023-10-02T21:43:58},
+  owner            = {ISargent},
+}
+
+@Online{Marlow2023DoubleDisconnect,
+  author           = {Geoff Marlow},
+  url              = {https://geoffmarlow.substack.com/p/the-double-disconnect},
+  creationdate     = {2023-10-03T09:28:41},
+  modificationdate = {2023-10-03T09:32:00},
   owner            = {ISargent},
 }
 
