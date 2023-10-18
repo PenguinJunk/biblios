@@ -17237,20 +17237,6 @@ The PREM model:
   year             = {2023},
 }
 
-@Article{HeracleousWPP2023,
-  author           = {Loizos Heracleous and Christina Wawarta and Angeliki Papachroni and Sotirios Paroutis},
-  date             = {2023},
-  journaltitle     = {California Management Review},
-  title            = {Logical Incrementalismas a Path to Strategic Agility: The Case of NASA},
-  doi              = {10.1177/00081256231180878},
-  eprint           = {https://journals.sagepub.com/doi/pdf/10.1177/00081256231180878},
-  comment          = {Only skimmed. Argues that radical or step changes are often rejected by an organisation due to its ``organsational immune system'' [Weber's bureaucracy?]. Find that NASA has used incremental  approaches to adapt and evolve. [I'm drawn to think about an organisational version of Schwartz2017's strangler pattern].},
-  creationdate     = {2023-10-02T10:56:06},
-  keywords         = {decisions, organisations, agile, leadership, transformation},
-  modificationdate = {2023-10-02T11:55:23},
-  owner            = {ISargent},
-}
-
 @Article{BertiS2021,
   author           = {Marco Berti and Ace V. Simpson},
   date             = {2021},
@@ -17352,6 +17338,861 @@ Quoted by KahnemanK2009 ``The situation has provided a cue: This cue has given t
   keywords         = {decisions, organisations, bureaucracy, agile, leadership, transformation},
   modificationdate = {2023-10-03T10:39:42},
   owner            = {ISargent},
+}
+
+@Article{JacobidesBC2021,
+  author           = {Michael G. Jacobides and Stefano Brusoni and Francois Candelon},
+  date             = {2021-10-11},
+  journaltitle     = {Strategy Science},
+  title            = {The Evolutionary Dynamics of the Artificial Intelligence Ecosystem},
+  doi              = {10.1287/stsc.2021.0148},
+  issue            = {4},
+  pages            = {265--445},
+  url              = {https://pubsonline.informs.org/doi/10.1287/stsc.2021.0148},
+  volume           = {6},
+  comment          = {Apply an evolutionary economics lens to the emergence and ecosystem of AI. This involves considering the actors (firms, industries and national settings) involved in AI, their roles, wider influences and path dependencies. Consider the work proposing that AI is a General Purpose Technology GPT and thus claiming that it should be supported by state funding. Main focus is machine learning.
+
+Main findings:
+- AI firms are heterogeneous, with evidence of a few firms that expand and grow in scope- AI is produced for the needs of tech firms but has been opened up partly to drive develop but also because those firms may benefit - state involvement is required less to drive develop but more to address power shift from state to firms
+- particular sectoral and national patterns of innovation drive AI adoption and implementation
+- ecosystems that connect developers and firms allow coordination, using modularisation, libraries and communities
+- only a few firms are incentivised to use and produce AI and digital sophistication is a precondition for AI use
+- expansion into other verticals is not as evident as the GPT discourse would indicate, except that where it is happening it is more about having access to data/information or creating ecosystems that lock-in customers
+- domain expertise is an important complement to AI capabilities and like all technologies requires absorptive capacity
+- AI is the result of a complex web of choices, mediated by regulatory (in)action
+- there are many interdependencies across AI enablement, production and consumption which allow for continuous development of algorithms and reinforcement of power
+
+``the seamless, digital connectedness enabled by AI-as-technology is, in our view, a unique feature that we have yet to fully grasp in terms of its economic, managerial, and even psychological implications''
+
+Semi-structured interviews with 37 senior executives [I wonder how much they know about their firms' use of AI]
+
+Define the technical architecture of ML in 5 parts (in 3 groups):
+- acquire
+  - source data
+  - data integration
+- organise and analyse
+  - data science and ML tool
+- deliver and operate
+  -  model management system
+  - application deployment
+
+Use Boston Consulting Group's research which divide's development of AI in 3 stages:
+- enablement - mostly hardware and data processing = 2 layers/bricks
+- production - algorithms, visualisation, frameworks
+- consumption - use and diffusion
+
+Considering the evolving dynamics of AI producers and enablers, they find that production and enablement stacks are mostly controlled by Big Tech: Google, Amazon, Microsoft, Alibaba, Tencent. 
+
+Find different operating modes:
+- AI giants - as well as being enablers and producers, they are consumers in different parts of their businesses. They maintain their market position in every brick by develop, partnering with and acquiring leading companies
+- AI-powered operators/applications - use AI in their day-to-day (e.g. Facebook, Uber) based both on services from AI giants and their own in-house capacity
+- AI creators - produce primarily for specific 3rd-party use cases and largely rely on tech giants platforms and services
+- AI traders/integrators - by and sell AI solutions or use cases, adding value
+- AI takers - require AI solutions to enable critical business functions
+
+Evolutionary dynamics are driven by both economies of scale and scope:
+- scale - enablement and production stacks have massive capital intensity and training models is costly 
+- scope - actors with bigger datasets benefit and control large portion of the industry
+
+Discuss the growth at the Edge and how this is allowing entry from new and diversifying players. 
+
+Notes that possibly in response to concentration, the AI community is engaging more in platforms that share develop costs such as huggingface.com and rasa.com
+
+The hyperscalers benefit from massive uptake of their upstream services, such as cloud, and they are incentivised to invest in these. Big Tech also publish more than academia. They ensure that their ecosystems are sturctured in a way that allows them to benefit from both their own data and that of their competitors.
+
+Those firms making a success of AI have different operating model:
+- driven by data
+- their processes put AI at the core
+- experiment and make decisions in real time
+- learn proactively from the reaction of their customers
+Thus they suggest that it is these areas that need investment (hyperscalers with all these bare not marginal cost in scaling AI)
+This is consistent with evolutionary economics, ``Investments in technology per se do not drive performance; they must be complemented by investments in managerial and organizational capabilities that support the continuous transformation of ideas in products and services''
+
+Compares China, US and EU and finds that the different commercial, academic, regulatory, political and cultural background have heavily influenced outcomes.
+
+Considers the AI sector in terms of technological regimes and finds that success and innovation are a result of collaboration between small entrepreneurial firms causing disruption and large firms innovating.
+
+The evolutionary economics approach is beneficial along 3 dimensions:
+- phenomenological - map the nature of the system to guide policy and strategy
+- epistemological - understand the dynamics of who produces AI to determine whether it will advance
+- pragmatic - rethinking the role of AI as a GPT},
+  creationdate     = {2023-10-08T16:28:56},
+  keywords         = {AI, economics, bigtech, policy},
+  modificationdate = {2023-10-08T16:51:29},
+  owner            = {izzy_olivine},
+}
+
+@Article{LevinCBA2012,
+  author           = {Kelly Levin and Benjamin Cashore and Steven Bernstein and Graeme Auld},
+  date             = {2012},
+  journaltitle     = {Policy Science},
+  title            = {Overcoming the tragedy of super wicked problems: constraining our future selves to ameliorate global climate change},
+  comment          = {Identify climate change as a super wicked problem. Discuss this in relation to RittellW1973 and add 4 more defining factors:
+1. Time is running out
+2. There is no central authority, or only a weak central authority, to manage the
+problem
+3. The same actors causing the problem seem to solve it
+4. The future is discounted radically so that contemporary solutions become less
+valuable
+
+Suggest 3 questions for when deliberating over super wicked problems
+
+Talk about applied forward reasoning
+Distinct from scenario building
+
+Durrant and Diehl conceptualised 4 types of policy development. Two keep the current equilibrium:
+- faux paradigmatic - a significant change which only ends up being reversed e.g. by new government
+- classic incremental - small oscillating changes which create limited impact or behavioural change
+Two head towards a new equilibrium:
+- classic paradigmatic - single-shot big change which is not reversed
+- progressive incrementalism - stepped policy development which accumulates change over time towards significant results
+Possible to misdiagnose these different types
+
+Recognition that there are different ``levels'' or ``orders'' within a policy regime (e.g. broad goals to specific instruments)
+
+There are 4 path-dependant processes that are useful for answering the diagnostic questions:
+- lock-in
+- self-reinforcing: costs over time
+- increasing returns: benefits increase over time
+- positive feedback: expanding populations and reinforcing original support
+
+Applying these processes forward requires:
+- consideration of non-linear and unfolding causal, yet unpredictable, policy trajectories
+- attention to different policy levels or orders, the layering effects, not just pros and cons
+
+Discuss the diagnostic questions further and provide guidance, considering:
+- stickiness 
+- coalitions
+- values and norms},
+  creationdate     = {2023-10-08T16:31:40},
+  keywords         = {policy, decisions, systems},
+  modificationdate = {2023-10-08T16:43:03},
+  owner            = {izzy_olivine},
+}
+
+@Article{FerraroEG2015,
+  author           = {Fabrizio Ferraro and Dror Etzion and Joel Gehman},
+  date             = {2015},
+  journaltitle     = {Organization Studies},
+  title            = {Tackling Grand Challenges Pragmatically: Robust Action Revisited},
+  doi              = {10.1177/0170840614563742},
+  number           = {3},
+  pages            = {363--390},
+  volume           = {36},
+  comment          = {Define grand challenges, identify climate change as a grand challenge, suggest pragmatic school as way to solve grand challenges, specific identify robust solutions
+
+Grand challenges:
+- Complex - entailing many interactions and associations, emergent understandings and nonlinear dynamics
+- Uncertain- confront organisations with radical uncertainty
+- Evaluative (rubbish term) - no correct label, cutting across jurisdictional boundaries, implicating multiple criteria of worth and revealing new concerns even when they are being tackled
+
+Suggest the American Philosophical school of pragmatism to solve grand challenges. 
+Rooted in symbolic interactionism. Definition of problem is essential part of solution. This can be a distributed process [I think interactionist reasoning MercierS]. Also evolutionary learning process. 
+
+Robust action emerges out of this. This preserves flexibility, until the time is right to consolidate. [maybe also no regrets]
+
+Delve deeper into participatory architecture, a "multivocality" of artifacts that can be interacted with by multiple actors, distributed experimentation and innovation, novelty emerges 
+
+Multiple actors are organisational, institutional and individual
+
+Progress and success tracked and measured with multiple accounts of worth
+
+With climate change, review how this meets criteria of grand challenges, including evaluative, which cites paper (Verweij et al 2006) with 3 plausible but conducting stories of climate change},
+  creationdate     = {2023-10-08T16:35:08},
+  keywords         = {policy, systems},
+  modificationdate = {2023-10-08T16:49:49},
+  owner            = {izzy_olivine},
+}
+
+@Article{Peters2017,
+  author           = {B. Guy Peters},
+  date             = {2017},
+  journaltitle     = {Policy and Society},
+  title            = {What is so wicked about wicked problems? A conceptual analysis and a research program},
+  doi              = {10.1080/14494035.2017.1361633},
+  number           = {3},
+  pages            = {385--396},
+  url              = {https://doi.org/10.1080/14494035.2017.1361633},
+  volume           = {36},
+  comment          = {Previously argued that policy analysis would make more progress by examining underlying dimensions such as scale, divisibility, monetisation. This paper examines the concept of wicked problems
+
+Has 3 contentions with the high level use of the term wicked problems:
+1. Most don't meet all criteria - conceptual stretching
+2. Many rather ordinary policy problems have some attributes of wicked problems
+3. The concept has taken a normative element that the problem must and can be solved through developing the appropriate policies 
+
+Policymaking is actually more a continuous process of amelioration and adjustment. Promising to solve problems can weaken already diminished faith in government
+
+In addition to the 10 criteria from RittellW1973, they add the general sense that wicked problems involve multiple actors and are socially and politically complex.
+
+Also consider LevinCA2012's Super Wicked Problems and identify that time is a vital element of these, and increasingly so.
+
+There is an absence of clear coding rules for the criteria
+
+Profusion of wicked problems may be more down to the solutions (network policymaking)
+
+Increased use of participation may be making finding solutions more difficult
+
+Ostrom's polycentricity suggests there is capacity to find solutions using less centralised means
+
+Suggest that considering complexity may be better for finding solutions than would wickedness
+
+Propose research into policymakers understanding and approaches, after preliminary work indicates that problems being treated as work aren't particularly so},
+  creationdate     = {2023-10-08T16:38:16},
+  keywords         = {decisions, policy, systems},
+  modificationdate = {2023-10-08T16:41:56},
+  owner            = {izzy_olivine},
+}
+
+@Article{FrancoGFR2022,
+  author           = {Sebasti\'{a}n Fern\'{a}ndez Franco and Juan M Gra\~{n}a and David Flacher and Cecilia Rikap},
+  date             = {2023},
+  journaltitle     = {Competition \& Change},
+  title            = {Producing and using artificial intelligence: What can Europe learn from Siemens’s experience?},
+  doi              = {10.1177/10245294221097066},
+  number           = {2},
+  pages            = {302--331},
+  volume           = {27},
+  comment          = {Siemens is frontrunner in AI, especially in medical
+
+Use a range of tools to look at the innovation strategy of Siemens. Used CorText. Co-occurrence/network maps to show which terms (multiterms) in Siemens' publications and patents occur together most frequently, and clusters of terms. Also Tube layouts of terms to show the evolution these clusters over time. Also in-depth interviews with top managers at Siemens.
+
+Find that Siemens
+- has abandoned ICT general technologies
+- has focused on specific and narrow fields 
+- is dependent on tech giants digital technologies
+
+Risks of dependence:
+- limited technical autonomy 
+- tech giants could be using data from Siemens' devices - in competition with them 
+
+Siemens attempting to mitigate by:
+- contracting different cloud providers
+- strictly enforcing GDPR (doesn't prevent big tech learning from their device data 
+- limit data stored on tech giants' data centres
+- potential agreement with Apple (a non-cloud provider) for collaboration on consumer data
+- developing federated learning
+- promoting collaborative ecosystem with governments for e.g. digital healthcare
+
+General comments about digital technologies being sold as black box technologies, which curtails reverse engineering and limits users' learning
+
+Companies in EU are lagging in digital technologies.
+
+Laggards should be able to leap-frog because they are not locked-in to older tech. However, global value chains means that adoption costs are outsourced and so leaders avoid the encumbant trap. Also the pace of innovation, mobilisation of IP, and acquisition of start-ups makes it difficult to catch-up.},
+  creationdate     = {2023-10-08T16:45:02},
+  keywords         = {AI, economics, policy, BigTech},
+  modificationdate = {2023-10-14T15:13:30},
+  owner            = {izzy_olivine},
+}
+
+@Article{Abdalla2021,
+  author           = {Abdalla, Mohamed and Abdalla, Moustafa},
+  date             = {2021-04-27},
+  journaltitle     = {arXiv:2009.13676},
+  title            = {The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat on academic integrity},
+  url              = {https://arxiv.org/abs/2009.13676},
+  comment          = {''The name of our paper is an homage to Project Whitecoat: Project Grey Hoodie is referencing the buying out of technical academics''
+The Whitecoat Project: ``funding was reserved for researchers who would be used to testify at legislative hearings in favor of Big Tobacco. In fact, there was a concentrated covert effort on behalf of Philip Morris International to identify European scientists with no previous connections to tobacco companies who could be potentially persuaded to testify on behalf of Big Tobacco against proposed regulation on second hand smoking ... resulted in infiltrations in governing officials, heads of academia, and editorial boards''
+''Microsoft has claimed to be developing an ethical checklist [10], a claim that has recently been called into question [59]''
+''Big Tech has funded various similar institutions. Founded in 2016 by Google, Microsoft, Facebook, IBM, and Amazon among others, the “Partnership on AI to Benefit People and Society” was “established to study and formulate best practices on AI technologies, [... and study] AI and its influences on people and society” [49]''  “ACLU nor MIT nor any other nonprofit has any power in this partnership”
+''NeurIPS has had at least two Big Tech sponsors at the highest tier of funding since 2015''
+''workshops relating to ethics or fairness, all but one have at least one organizer who is affiliated or was recently affiliated with Big Tech. For example, there was a workshop about “Responsible and Reproducible AI” sponsored solely by Facebook''
+''research in other fields clearly demonstrating that industry funding negatively impacts work and subconsciously biases researchers [29, 39, 45, 48]''
+''distracting scientists and the public by sowing seeds of confusion and discord in the public and scientific community''
+''97\% (32/33) of faculty with known funding sources (65\% total) have received financial compensation by Big Tech''
+'' As a result, it makes sense that much of the fairness work that exists holds the entrenched Big Tech view that “social problems can be addressed through innovative technical solutions” [42]''
+Big Tobacco: ``skeptics were solicited ... amplified into the public discourse [11, 12, 52]. The result of such amplification resulted in new skeptics and the emboldening of existing ones''
+''there was a concentrated covert effort on behalf of Philip Morris International to identify European scientists with no previous connections to tobacco companies who could be potentially persuaded to testify on behalf of Big Tobacco against proposed regulation on second hand smoking [11]. This was part of the larger Whitecoat Project''
+'' Tim Kendall's congressional testimony states that in the pursuit of profit, Facebook “took a page from Big Tobacco's playbook” [35]''
+
+''influence can occur without an explicit intent to manipulate, but simply through repeated interactions where one party takes substantial sums of money or spends a large amount of time in an environment with different goals/views''
+
+''steps that can be done right now'':
+- Every researcher should be required to post their complete funding information online
+- Universities need to publish documents highlighting their position regarding the appropriateness of direct researcher funding from Big Tech
+- discussion regarding the future of the ethics and fairness of the AI field
+- Computer science as a field should explore how to actively court antagonistic thinkers},
+  creationdate     = {2023-10-08T16:53:56},
+  keywords         = {ethics, trust, artificial intelligence, EthicsWS, AI, BigTech},
+  modificationdate = {2023-10-14T14:13:30},
+  owner            = {ISargent},
+  priority         = {prio1},
+  year             = {2021},
+}
+
+@InBook{Pahlka2023Ch2,
+  author           = {Pahlka, Jennifer},
+  booktitle        = {Recoding America : Why Government is Failing in the Digital Age and How We Can Do Better},
+  date             = {2023},
+  title            = {Seventeen Years},
+  chapter          = {2},
+  edition          = {First edition.},
+  isbn             = {9781250266774},
+  language         = {eng},
+  location         = {New York, New York},
+  publisher        = {Metropolitan Books},
+  abstract         = {"A bold call to reexamine how our government operates-and sometimes fails to-from President Obama's former deputy chief technology officer and the founder of Code for America. Just when we most need our government to work-to decarbonize our infrastructure and economy, to help the vulnerable through a pandemic, to defend ourselves against global threats-it is faltering. Government at all levels has limped into the digital age, offering online services that can feel even more cumbersome than the paperwork that preceded them and widening the gap between the policy outcomes we intend and what we get. But it's not more money or more tech we need. Government is hamstrung by a rigid, industrial-era culture, in which elites dictate policy from on high, disconnected from and too often disdainful of the details of implementation. Lofty goals morph unrecognizably as they cascade through a complex hierarchy. But there is an approach taking hold that keeps pace with today's world and reclaims government for the people it is supposed to serve. Jennifer Pahlka shows why we must stop trying to move the government we have today onto new technology and instead consider what it would mean to truly recode American government"-- Provided by publisher.},
+  comment          = {The US EDD is slow and has slowed considerably since Covid pandemic. Admin systems are cumbersome but foundational reason is because of layers of policy applied successively in response to events and political whims.
+
+``it's not just a matter of building new technology. It's a matter of clearing out
+the clutter it rests upon. The systems that run our government need to be built on a
+foundation of bedrock, not landfill''},
+  creationdate     = {2023-10-14T14:04:36},
+  keywords         = {policy, transformation, bureacracy, digital},
+  lccn             = {2023016980},
+  modificationdate = {2023-10-14T14:15:07},
+  owner            = {izzy_olivine},
+  year             = {2023},
+}
+
+@Article{McGuinnessS2019,
+  author           = {McGuinness, Tara and Slaughter, Anne-Marie},
+  date             = {2019},
+  journaltitle     = {Stanford Social Innovation Review},
+  title            = {The New Practice of Public Problem Solving},
+  doi              = {10.48558/X6SG-AC60},
+  issue            = {2},
+  pages            = {26--33},
+  url              = {https://ssir.org/articles/entry/the_new_practice_of_public_problem_solving},
+  volume           = {17},
+  abstract         = {A new class of innovators is advancing the public good by figuring out what people actually need and then testing, improving, and scaling solutions that may already be out there. Here are the four elements of their method},
+  comment          = {Argues that solving problems by traditional policy processes is no longer fit for purpose
+
+A new practice needs to be:
+- people-centred
+- experimental
+- data-enabled
+- designed to scale
+
+Hallmarks are:
+- humility
+- utility
+- adaptability
+- equality
+
+People centred - tendency to see people as problem, it over simplify causes. Need to embed with user, experiment, obtain feedback. In government and community. Codify methodology to share with other areas. References Cottage and Bracken.
+
+Scout and experiment - look for solutions rather than invent them. Scouts, such as social entrepreneurs, work alongside their subjects [my phrase since I can't find the statement]. Practitioners and researchers in a loop, share results across network of experimenters [anti-competitive], the new practise reports on solutions as they arise, broadcast, receive, refine and adapt continuously.
+
+Data-enabled - measure, learn what works, make improvements when necessary. Data tighten the feedback loop between people receiving services and those steering them. Warns of risks of data - Eubanks.
+
+Designed to scale - small is adaptable, responsive, etc but scale is needed to solve complex problems. Pilots need to become policy. Mulgan - pathways to scale:
+- advocacy
+- networks
+- programmes
+- franchising
+- direct control
+
+Not all public problems are suited to this new practise. Some are fights among contending political and economic interests in society.},
+  creationdate     = {2023-10-14T14:13:30},
+  keywords         = {policy, transformation},
+  modificationdate = {2023-10-14T14:16:02},
+  owner            = {izzy_olivine},
+  year             = {2019},
+}
+
+@Report{AnnalaMMST2021,
+  author           = {Mikko Annala and Hel\'{e}n Marton and Johannes Mikkonen and Micaela Stierncreutz and Aino Tuovinen},
+  date             = {2021-04-21},
+  institution      = {Demos Helsinki},
+  title            = {Experimentation Guidelines for the Latvian Public Sector},
+  eprint           = {https://demoshelsinki.fi/wp-content/uploads/2021/04/Experimentation-Guidelines-for-the-Latvian-Public-Sector-.pdf},
+  url              = {https://demoshelsinki.fi/julkaisut/experimentation-guidelines-for-the-latvian-public-sector/},
+  comment          = {Some governments are building experimentation into public policymaking (Finland, Canada, UK)
+
+Key elements of methodological approach:
+- goals
+- systematic learning (even when experiment ``fails''
+- measurability
+- scalability
+- limited time-frame
+
+Experiments are built on normative ideas
+
+Benefits of experimentation:
+- enables engagement and co-creation
+- mitigates risk
+- reaches beyond the obvious
+- reveals what works
+- steers operations in the desired direction
+
+Ethical considerations - asks a series of questions for this
+
+Experiments fail on continuum between
+- exploratory (e.g. prototyping and raid cycle experiments)
+- verification (e.g. RCTs, QEDs, nimble RCTs and A/B testing)
+
+Experiments also fall in a continuum of ambition from incremental to transformative change
+
+Therefore, 4 [I would argue: ideal-] types of experiment:
+- transformative-exploratory - exploring new policy ideas
+- transformative-verificatory - verifying effect of groundbreaking and strategically significant policies
+- incremental-exploratory - exploring improvements
+- incremental-verificatory - verifying the effects of small changes},
+  creationdate     = {2023-10-14T14:22:38},
+  keywords         = {policy, innovation,},
+  modificationdate = {2023-10-14T14:40:54},
+  owner            = {izzy_olivine},
+}
+
+@Report{Meadows1999,
+  author           = {Donella Meadows},
+  date             = {1999},
+  institution      = {Sustainability Institute},
+  title            = {Leverage Points: Places to Intervene in a System},
+  eprint           = {https://donellameadows.org/wp-content/userfiles/Leverage_Points.pdf},
+  comment          = {Lists in reverse order the places to intervene in a system and goes into detail on each 
+
+12, 11, 10 and 9 are mainly physical
+8 upwards are largely informational
+8 and 7 are feedback loops 
+3 system goals
+2 and 1 are paradigms
+
+12. Constants, parameters, numbers - parameters are the point of least leverage, they rarely change behaviour, but most of the attention goes here
+
+11. The sizes of buffers and other stabilizing stocks, relative to their flows - bigger buggers reduce instability but many buffers are physical are so difficult to increase
+
+10. The structure of material stocks and flows and nodes of intersection - can make a huge difference such as new transport infrastructure but again often difficult to intervene because these are physical structures
+
+9. The lengths of delays relative to the rate of system charges - when feedback, or the response to feedback, is delayed it's difficult to adjust the system appropriately, although it's usually easier to slow the change rate to match the feedback than the feedback rate
+
+8. The strength of negative feedback loops, relative to the impacts they are trying to correct against - there may be many negative feedback loops, some inactive or invisible, beware of removing these emergency response mechanisms, e.g. in response to lobbying (which works due to a weakening of the democracy feedback loop)
+
+7. The gain around driving positive feedback loops - reduce the tendency of the system to self-reinforce such as ``success to the successful''
+
+6. The structure of information flows - making information more available and making consequences more direct for any action can encourage people and businesses to act on it
+
+5. The rules of the system - challenge these!
+
+4. The power to add, change, evolve, or self-organise system structure - grant this!
+
+3. The goals of the system - more deduced from what the system does, e.g. growth, dominance, but also for instance articulated by a leader
+
+2. The mindset or paradigm out of which the system arises - e.g. the values, beliefs, aspirations of society
+
+1. The power to transcend paradigms - no paradigm is ``true'', choose the one that suits},
+  creationdate     = {2023-10-14T14:43:15},
+  keywords         = {systems, policy, transformation},
+  modificationdate = {2023-10-14T14:45:26},
+  owner            = {izzy_olivine},
+}
+
+@Article{SeelosM2018,
+  author           = {Christian Seelos and Johanna Mair},
+  date             = {2018},
+  journaltitle     = {Stanford Social Innovation Review},
+  title            = {Mastering System Change},
+  eprint           = {http://www.christianseelos.com/Fall_2018_Mastering_System_Change.pdf},
+  comment          = {``aim for transformation not system change''
+
+Intervening in complex systems requires attention to both:
+- avoid making systems worse with unintended negative consequences
+- protect the mental sanity, motivation and emotional strength of those who aspire to change systems
+
+Casual architecture:
+- shaped by characteristics of people - beliefs, ambitions, skills, access to resources, norms, rules, etc
+- generates characteristics and dynamics of social problems
+
+Identify two archetypes for system change:
+- changing the system by building the system - example of Sekem, community built from desert in Egypt to explore and demonstrate alternative agriculture, culture, education, lifestyle, etc
+- changing the system by isolating a subsystem - example of Gram Vikas, subsystem in this case it's spatial, a village in India in which inequality was tackled first by building engagement (water and sanitation infrastructure) then addressing casual subsystem by insisting that all households were represented in decision-making, leading increased desirability of villages using this system, women would not be married into non transformed villages, result is positive feedback/reinforcement of transforms
+
+Maintaining motivation in stakeholders requires organisations:
+- do things right before doing the right thing (e.g. Gram Vikas found trying to directly tackle inequality wasn't effective, but installing sanitation guest was)
+- climb system peaks to get a better view (e.g. Gram Vikas's early engagements provided a privileged position to understand the system more clearly)
+- hire and nurture people with a commitment to learn (although discussion of this seems to not about organically building a team that is willing to learn, i.e. they stay the course)},
+  creationdate     = {2023-10-14T14:46:44},
+  keywords         = {systems, policy, transformation, innovation},
+  modificationdate = {2023-10-14T14:48:36},
+  owner            = {izzy_olivine},
+}
+
+@Report{MulganL2013,
+  author           = {Geoff Mulgan and Charlie Leadbeater},
+  date             = {2013},
+  institution      = {Nesta},
+  title            = {Systems Innovation},
+  eprint           = {https://media.nesta.org.uk/documents/systems_innovation_discussion_paper.pdf},
+  comment          = {Actually Systemic Innovation
+and 
+Actually two essays
+
+Mulgan: ``Joined–Up innovation:   What iS SySteMiC innovation and hoW Can it be done effeCtiveLy?''
+
+Uses the definition of system ``interconnected and interdependent patterns of action involving many institutions''
+and systemic innovation ``an interconnected set of innovations, where each influences the other, with innovation both in the parts of the system and in the ways in which they interconnect''
+
+Gives a potted history of systems design
+
+Systemic change happens all the time, shaped by different actors but rarely quite to plan
+Therefore can be very difficult, no one actor can control systemic innovation since there are usually many complementary innovations needed (roads, road markings, driving schools etc for cars)
+
+System map to show what elements influence each other, causation plus state of knowledge. Some elements can be quantified
+
+Knowing what kind of system you want to influence:
+- number of factors that define it
+- closed or open
+- living or mechanical
+- mature or immature technology
+- capable of learning
+- are there encumbants that are similar to innovation or is it an entirely new system?
+
+Knowing the tools and capacities for change:
+- richer in power than knowledge - emergent strategies
+- richer in power and in knowledge - control strategies
+- no created command of power or knowledge - distributed strategy
+- richer in knowledge than power - collaborative strategies
+
+Combine top-down and bottom-up (fuzzy or clumsy dynamics)
+
+The rhythms if systems change may involve long periods with only a few pioneers than tipping point comes with a swarm of competing alternatives
+
+Discussion of whether big organisations, who have ability to orchestrate change, are needed to innovate. Some relatively small organisations can be catalysts - although need mature existing stems to grow from.
+
+Innovations need scrutiny, experimentation, to reduce risk of unforeseen, undesirable consequences - test on small scale before scaling
+
+For achieving systems change:
+- situate individual actions within the context of a broader movement of change and with a sense of a bigger picture
+- articulate the direction of strategic change and link big ideas to individual innovations
+
+Actions:
+- move into existing poeer structures
+- research, advocacy, argument, policy promotion
+- create new organisations that exemplify new system
+- develop coalitions, networks
+- develop new markets
+
+Leadbeater: ``the SySteMS innovator:   Why SUCCeSSfUL innovation GoeS beyond prodUCtS ''
+
+Apple, not first but launched as entry points into systems
+
+Education started a private affairs but now a very stable, probably outdated (Victorian) system
+
+The innovation of containerisation in detail
+
+Twitter became a system when tweets became threads, videos could be included, APIs etc
+
+Systems:
+- create experiences that are repeatable, reliable, often standardised
+- are codified, explicit and measurable (blind to context)
+
+Systems often need infrastructure, which needs investment
+
+Alliances are essential, often involving economics, governance and design
+
+Systems can be tightly integrated or modular
+
+Heathrow Terminal 5 was built on time and within budget as system is interconnecting systems - modular. Although once people started to use it, behaviour created chaos.
+
+True systemic innovation involves behaviour change
+
+System dimensions:
+- heavy/light (e.g. traditional banks/internet banking)
+- adapting/creating (e.g. switching energy sources in the developed/developing world)
+- dominated/negotiated (oligopolies/many players)
+- stable/fluid
+- tight/loose (tightly coupled can be highly productive but can fail catastrophically)
+- public/private (very few wholly private systems, gov at least provides standards, regularisation and standards)
+- complicated/complex
+
+Leading systems change strategies:
+- drive
+- repurpose 
+- reconfigure
+- leapfrog},
+  creationdate     = {2023-10-14T14:49:21},
+  keywords         = {systems, policy, transformation, innovation},
+  modificationdate = {2023-10-14T14:52:13},
+  owner            = {izzy_olivine},
+}
+
+@Article{Heracleous2023,
+  author           = {Loizos Heracleous and Christina Wawarta and Angeliki Papachroni and Sotirios Paroutis},
+  date             = {2023},
+  journaltitle     = {California Management Review},
+  title            = {Logical Incrementalismas a Path to Strategic Agility: The Case of NASA},
+  doi              = {10.1177/00081256231180878},
+  eprint           = {https://journals.sagepub.com/doi/pdf/10.1177/00081256231180878},
+  number           = {4},
+  pages            = {63-92},
+  url              = {https://doi.org/10.1177/00081256231180878},
+  volume           = {65},
+  abstract         = {This article explores the National Aeronautics and Space Administration’s (NASA’s) journey to strategic agility through successively shifting to three different strategic alignments over the last six decades and suggests that logical incrementalism may be an unappreciated driver of this process. Three successive alignment models exhibit important shifts in technology strategy, competencies, and values of the organization. The three phases of incremental changes in shifting from one alignment model to the next are the emergence of new approaches, the embeddedness of these approaches in particular contexts, and their expansion to other organizational contexts.},
+  comment          = {Argues that radical or step changes are often rejected by an organisation due to its ``organsational immune system'' [Weber's bureaucracy?]. Find that NASA has used incremental  approaches to adapt and evolve. [I'm drawn to think about an organisational version of Schwartz2017's strangler pattern].
+
+Over 6 decades, NASA has had the strategic alignments:
+- traditional hierarchical
+- intergovernmental
+- commercial network
+
+caused by political, technological and financial influences. This paper studies what these looked like and how they were achieved. Argues that punctuated equilibrium models, by which change occurs through short period disruption, don't fit this case. Instead, transformational change occurs by incremental evolution - Quinn's Logical Incrementalism. Also argue that incrementalism may be an unappreciated driver of strategic agility.
+
+Change emerges within strategically planned boundaries
+
+In early forms, there was a long term "multigenerational" goals. Intervals between direction changes led directors to define strategy that would survive frequent changes.
+
+Strategic alignment perspective requires alignment between:
+- external environment
+- strategy
+- competencies
+- organisation
+
+Incremental steps involve processes of:
+- emerging
+- embedding
+- expanding
+
+Lindblom's muddling through is a precursor to incrementalism. 
+
+Loads of detail on different phases and the transitions.
+
+I like the story of the JSC Pirates, who overhaul the compute infrastructure, initially as a fringe, under the radar exercise, but through demonstration of more effective methods (including pre-agile-manefesto version of agile), effectively their ideas become the mainstream.},
+  creationdate     = {2023-10-14T15:07:53},
+  keywords         = {decisions, organisations, agile, leadership, transformation},
+  modificationdate = {2023-10-14T15:08:51},
+  owner            = {ISargent},
+}
+
+@Article{MadanA2022,
+  author           = {Madan, Rohit and Ashok, Mona},
+  date             = {2022},
+  journaltitle     = {Government Information Quarterly},
+  title            = {AI adoption and diffusion in public administration: A systematic literature review and future research agenda},
+  doi              = {10.1016/j.giq.2022.101774},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0740624X22001101},
+  volume           = {40},
+  comment          = {Systematically review literature on government use of AI, specifically ML and NLP to identify themes. 
+
+Lists themes found - really useful for finding papers on these subjects
+
+Takes a public value perspective, public values management PVM, and a resource-based view of the firm, and critical realist perspective 
+
+Dynamic capabilities are required due to constantly changing external conditions as a result of policy changes and within cycles
+
+Technology Organisation Environment TOE variables are factors influencing adoption
+
+RQ1: What are key factors discussed in literature that influence AI adoption in public administration?
+RQ2: What are the key tensions discussed in the literature that might be associated with AI implementation and diffusion in public administration?
+
+Factors influencing AI Adoption:
+
+- Technology context
+  - IT assets
+    - Cloud computing capabilities
+    - Current digital infrastructure: high connectivity and bandwidth, processing power and server hardware, networks, system
+integration
+    - Compatibility of existing assets
+    - Data quality, availability, accessibility
+    - Database management infrastructure
+    - Data ownership and sharing
+    - Storage – cloud or on-premises
+    - Data governance maturity
+    - Enterprise architecture
+  - IT capabilities
+    - Current capabilities in managing IT assets
+    - Staff’s knowledge of AI and big data
+    - Data-oriented culture
+    - Big data and analytics specialists and experts
+    - Ecosystem of commercial partners and experts
+  - Perceived benefits
+    - Expected benefits
+    - Simple intuitive design
+    - Users' needs
+    - Direct benefits of costs and novel solutions
+    - Indirect benefits of increased collaboration with peers and industry
+- Organisational context
+  - Organisational culture
+    - Innovativeness, risk-taking, experimentation
+    - Institutional arrangements such as NPM orientation, egovernment
+    - Technology and strategy alignment, cross-agency collaborations
+  - Leadership
+    - Transformational leadership, institutionalising learning, and experimentation
+    - CIO's leadership and technical expertise
+  - Inertia
+    - Bureaucracy and centralised decision-making
+    - Status-quo bias
+    - Lack of employee empowerment
+    - Resistance to data sharing
+    - Resource scarcity
+    - Cost versus benefits for experimental projects
+    - Resistance from unions
+- Environmental context
+  - Vertical pressures
+    - Political environment, election cycles
+    - Policy signals, directives, mandates
+    - Regulations, laws, procurement practices
+    - National AI guidelines
+  - Horizontal pressures
+    - Inter-governmental competitive pressures
+    - Media scrutiny and oversight
+    - Citizen demands
+    - Industrypressure
+
+Find 5 primary AI tensions:
+- Automation versus augmentation
+  - Automation of repetitive and low discretionary tasks
+  - Augmentation for higher discretionary tasks
+  - Tensions between cost and efficiency motives versus novel inputs to decision making and protecting citizens from algorithmic harm
+  - Impact on the labour markets
+- Nudging versus autonomy
+  - Collective rights versus individual freedoms
+  - State surveillance and behaviour control for achieving policy goals using AI
+  - Citizen's right to object to being governed by AI
+  - Personalised services and creation of filter bubbles
+- Data accessibility versus security and privacy
+  - Accessibility and use of existing citizen data collected for other purposes
+  - Consent and providing data as a precondition for receiving public services
+  - Constant threats to the security of sensitive data
+- Predictive accuracy versus discrimination, biases, citizen rights
+  - Use of sensitive variables for higher predictive power versus embedding biases and discrimination
+  - Acceptable error rates against the risk of marginalisation of vulnerable communities
+  - Digital divide
+  - Negative learnings from the environment
+  - Correlational knowledge versus contextual human knowledge
+- Predictive accuracy versus transparency and accountability versus gaming the system
+  - Higher predictive accuracy versus transparency and interpretation of results
+  - Lacks casual intuition
+  - Accountability and responsibility of AI decisions
+  - Justification of AI based public decisions
+  - Ability to game the system with higher transparency
+
+Also data governance:
+- Big,Open, and Linked Data (BOLD is dependent on multiple organisations or systems with different data management practices
+- AI lacking contextual domain knowledge can exacerbate the data quality and validity issues
+- Analogous management practices towards higher data quality and trustworthiness
+- Increasing the data literacy of public administrators
+
+There are other lists of themes around:
+- AI diffusion outcomes (considers public values and public administration transformation)
+- AI implementation strategies (considers experimentation, innovative procurement, collaboration and co-creation, project management)
+-},
+  creationdate     = {2023-10-14T15:14:55},
+  keywords         = {BigTech, AI, transformation, bureaucracy},
+  modificationdate = {2023-10-14T15:47:38},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{MikalefFT2019,
+  author           = {Mikalef, Patrick and Fj{\o}rtoft, Siw Olsen and Torvatn, Hans Yngvar},
+  booktitle        = {Digital Transformation for a Sustainable Society in the 21st Century},
+  date             = {2019},
+  title            = {Artificial Intelligence in the Public Sector: A Study of Challenges and Opportunities for Norwegian Municipalities},
+  editor           = {Pappas, Ilias O. and Mikalef, Patrick and Dwivedi, Yogesh K. and Jaccheri, Letizia and Krogstie, John and M{\"a}ntym{\"a}ki, Matti},
+  isbn             = {978-3-030-29374-1},
+  pages            = {267--277},
+  publisher        = {Springer International Publishing},
+  url              = {https://link.springer.com/chapter/10.1007/978-3-030-29374-1_22},
+  address          = {Cham},
+  comment          = {Short paper, main focuses is on actual and intended use of AI in public sector. Also a short section (mainly chart) on responses to survey on challenges to implement and adopt AI. Greatest first:
+- System/data quality and integration
+- Specialisation and expertise (finding people with the necessary know-how)
+- Financial feasibility (having enough financial capital to invest)
+- Intertia (unwillingness to change work practices)
+- Organisational implementation challenges (not knowing where to start)
+- No governance scheme to guide the process
+- Lack of top management support
+- AI Safety (learning negative behaviour, manipulation by humans, minimising potential risks)
+- No real need for AI in public administration},
+  creationdate     = {2023-10-14T19:32:45},
+  keywords         = {AI, transformation, bureaucracy, policy},
+  modificationdate = {2023-10-14T19:41:41},
+  owner            = {izzy_olivine},
+  year             = {2019},
+}
+
+@Article{SchedlerGF2019,
+  author           = {Schedler, Kuno and Guenduez, Ali Asker and Frischknecht, Ruth},
+  date             = {2019},
+  journaltitle     = {Information Polity},
+  title            = {How smart can government be? Exploring barriers to the adoption of smart government},
+  doi              = {10.3233/IP-180095},
+  pages            = {3--20},
+  url              = {https://content.iospress.com/articles/information-polity/ip180095},
+  volume           = {24},
+  comment          = {What are the specific barriers to the adoption of smart government and how can these barriers be classified?
+
+Conducted 32 semi-structured interviews with public managers, politicians, and private providers of smart government solutions to explore the perceived barriers to the adoption of smart government. Identified 6 clusters of barriers. Swiss government.
+
+Clusters > Barriers > Operationalization of the barriers:
+- Legal foundations
+  - Legal foundations
+    - Lack of legal foundations
+	- Strict laws
+	- Constraints in dealing with data
+	- Constraining effects of laws
+- Technical infrastructure
+  - Technical infrastructure
+    - Insufficient technical infrastructure
+	- Insufficient IT infrastructure
+- Cost-benefit relationships
+  - Political resources
+    - Lack of political will, interest, or motivation
+  - Contested benefits
+    - Contested potentials
+	- Contested needs
+	- Contested benefits
+	- Contested relevance
+  - Efficiency
+    - Constraints about effectiveness and/or efficiency
+	- Cost-benefit relationships
+  - Scarce financial resources
+    - High costs
+	- A shortage of financial resources
+	- A focus on costs rather than benefits
+- Policy coherence
+  - Plurality
+    - Plurality of actors
+	- Democratic system		
+  - Silo thinking
+    - A lack of willingness to cooperate
+	- Silo thinking
+	- A lack of connectedness between the actors
+  - the Swiss political system
+    - Federal system
+	- Inertia in the political-administrative system
+	- Autonomy of authorities or political communities
+  - IT standards
+    - A lack of compatibility of IT structures
+	- A lack of standardization of ICT
+  - Long-term thinking
+    - A lack of long-term orientation
+	- A lack of general strategy
+	- A lack of vision
+- Legitimacy
+  - Discomfort
+    - Emphasis on risks
+	- Fears and concerns
+	- Insufficient or a lack of security
+  - Citizens' responses
+    - Citizens' resonance
+	- Citizens' acceptance
+	- Citizens' participation
+- Innovativeness
+  - Skills and know-how
+    - A lack of expertise
+	- A lack of interdisciplinariness
+	- A lack of understanding
+	- A lack of specialists
+  - Readiness for innovation
+    - A resistance to change
+	- An unwillingness to innovate
+  - Risk-aversion
+    - Insufficient or a lack of tolerance of mistakes
+	- Risk-avoidance
+  - Management support
+    - A lack of initiative in political-administrative management
+	- A lack of support in political-administrative management
+
+1. The 17 barriers us clues about what actors involved in smart government have in mind when planning and implementing such initiatives
+2. the barriers we have found seem to be more or less the same as in the era of e-government (a previous wave of digitalisation)
+3. there are both organizational and institutional barriers to the adoption of smart government},
+  creationdate     = {2023-10-14T20:56:18},
+  keywords         = {AI, transformation, bureaucracy, policy},
+  modificationdate = {2023-10-14T21:27:19},
+  owner            = {izzy_olivine},
+  publisher        = {IOS Press},
+  year             = {2019},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
