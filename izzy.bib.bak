@@ -1090,11 +1090,11 @@ This is relevant to our should we be using pretraining more to create backbones 
   date             = {2022},
   title            = {Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm},
   url              = {https://openreview.net/forum?id=zq1iJkNk3uN},
-  comment          = {Based on CLIP, a vision-language model, ``DeCLIP''pretrains a image-text model using self-supervised SimSiam (see Section~\ref{ss:unsupervised}) with the image data and Masked Language Modelling (MLM) (see Section~\ref{ss:vit}) for text data, to reduce the requirement for labels.},
+  comment          = {Based on CLIP, a vision-language model, ``DeCLIP'' pretrains a image-text model using self-supervised SimSiam (see Section~\ref{ss:unsupervised}) with the image data and Masked Language Modelling (MLM) (see Section~\ref{ss:vit}) for text data, to reduce the requirement for labels.},
   comments         = {Poster From <https://iclr.cc/virtual/2022/poster/6406> Training CLIP with fewer labels. CLIP is a vision-language model that is trained using supervision and by maximising the similarities between paired images and text. Apply SimSiam for image data and Masked Language Modelling for text data to reduce the requirement for labels. Further methods applied. Call resulting method ``DeCLIP''.},
   creationdate     = {2022-05-08T15:25:20},
   keywords         = {contrastive learning, pretraining, self-supervised, multimodal model, siamese, transfer learning},
-  modificationdate = {2022-06-28T21:03:38},
+  modificationdate = {2023-10-18T09:59:39},
   owner            = {ISargent},
 }
 
@@ -1666,8 +1666,8 @@ Liken Ghost Work to piecework of the 19th Century
 
 ``As the Industrial Revolution got under way and machinery began to automate the production of certain goods, such as textiles, the availability of piecework exploded. Piecework (also called “industrial homework,” “putting-out work,” “cottage industry systems,” or “commission systems”) was the part of manufacturing or processing a product done by a person when a machine hit its limits. Piecework jobs were broken down into small, distributable tasks that could be carried out off-site, without stopping production or diverting resources away from the factory floor.7 Assembly lines depended on old divisions of labor. Women and children living at the margins of cities dominated the expendable piecework labor pools.8 In effect, industrial piecework was the first iteration of paid, on-demand ghost work.''},
   creationdate     = {2022-05-10T14:36:21},
-  keywords         = {Ethics, Labour, AI, labelling, economics, innovation, transformation},
-  modificationdate = {2022-12-12T19:34:53},
+  keywords         = {Ethics, Labour, AI, labelling, economics, innovation, transformation, BigTech},
+  modificationdate = {2023-10-21T21:32:46},
   owner            = {ISargent},
   year             = {2019},
 }
@@ -1728,8 +1728,8 @@ Liken Ghost Work to piecework of the 19th Century
 * an interdisciplinary approach. 
 The components are discussed in the context of business code adoption theory''},
   creationdate     = {2022-05-26T13:58:30},
-  keywords         = {AI, Ethics, corporate culture, EthicsWS},
-  modificationdate = {2022-12-10T09:59:35},
+  keywords         = {AI, Ethics, corporate culture, EthicsWS, technology, BigTech},
+  modificationdate = {2023-10-21T21:33:32},
   owner            = {ISargent},
 }
 
@@ -1882,8 +1882,8 @@ Principles are often non-binding and vague and abstract
 Developers do not have power to refuse},
   creationdate     = {2022-06-28T17:05:28},
   journal          = {AI Ethics},
-  keywords         = {AI, ethics, corporate culture, EthicsWS},
-  modificationdate = {2022-12-12T19:46:16},
+  keywords         = {AI, ethics, corporate culture, EthicsWS, BigTech},
+  modificationdate = {2023-10-21T21:35:09},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -2479,8 +2479,8 @@ self-policing in other areas (parliament, journalism, ...) has been shown to be 
 See also https://www.youtube.com/watch?v=w926VBnsO3w},
   creationdate     = {2022-10-04T14:42:51},
   journal          = {Science and Public Policy},
-  keywords         = {economics, innovation},
-  modificationdate = {2023-07-20T14:16:40},
+  keywords         = {economics, innovation, technology},
+  modificationdate = {2023-10-21T18:23:48},
   month            = {04},
   owner            = {ISargent},
   year             = {2016},
@@ -2781,10 +2781,10 @@ Comparing Japan with the USSR whilst both invested a similar amount in in R\&D i
 
 With globalisation there has been debate over whether increasing standardisation of products and processes has occurred, indeed whether we should be talking about an interlinked economy or ILE transnational and multinational corporations. However the evidence remains that not only is R\&D in multinational organisations still very much focused in the original country but also that due to uncertainty, localised learning and bounded rationality, there may be increasing diversity of products. ``Neoclassical assumptions [about] perfect information are at the border lines of credibility and usefulness''. In terms of diffusion of innovations whilst incremental Innovations may easily diffuse over borders radical Innovations would require changes in production capability and social and institutional frameworks and so national systems of innovation become an extremely important concept.
 
-See also Lundvall2007 and Brown2022},
+See also Lundvall2007 and Brown2021},
   creationdate     = {2022-10-09T16:03:39},
-  keywords         = {economics, innovation, international},
-  modificationdate = {2023-03-04T19:15:12},
+  keywords         = {economics, innovation, international, technology},
+  modificationdate = {2023-10-21T18:30:19},
   owner            = {ISargent},
   year             = {1995},
 }
@@ -3179,8 +3179,8 @@ Goes on to looks at specifics of each country and identify the consequences of d
 
 Proposes that further work is required to understand what happens within firms in terms of innovation and competence building, as well as between firms and considering international differences. Therefore, need to look at what work follows on from this paper.},
   creationdate     = {2022-10-14T18:02:37},
-  keywords         = {economics, innovation, international},
-  modificationdate = {2022-10-14T18:08:58},
+  keywords         = {economics, innovation, international, technology},
+  modificationdate = {2023-10-21T18:23:26},
   owner            = {ISargent},
   publisher        = {Routledge},
 }
@@ -4643,11 +4643,12 @@ conclude:
 
 @InCollection{JovanovicR2005,
   author           = {Boyan Jovanovic and Peter L. Rousseau},
+  booktitle        = {Handbook of Economic Growth},
   date             = {2005},
   title            = {Chapter 18 - General Purpose Technologies},
   doi              = {https://doi.org/10.1016/S1574-0684(05)01018-X},
   editor           = {Philippe Aghion and Steven N. Durlauf},
-  pages            = {1181-1224},
+  pages            = {1181--1224},
   publisher        = {Elsevier},
   series           = {Handbook of Economic Growth},
   url              = {https://www.sciencedirect.com/science/article/pii/S157406840501018X},
@@ -4665,8 +4666,8 @@ May be worth returning to to consider how plausable a general model of technolog
 [IZ - c.f. surges in Perez2002]},
   creationdate     = {2022-11-11T16:52:07},
   issn             = {1574-0684},
-  keywords         = {technology, innovation, economics, growth},
-  modificationdate = {2022-12-11T13:25:55},
+  keywords         = {technology, innovation, economics, growth, BigTech},
+  modificationdate = {2023-10-21T18:09:29},
   owner            = {ISargent},
 }
 
@@ -6219,7 +6220,7 @@ Needs to happen faster than theory current suggests (i.e. >20 years)
 
 Theory of how to tip a system includes concepts include forcing, enabling conditions, system features and control variables
 
-``the key challenge in indentifying tipping points is thus to indentify the cirtical control variable(s) and features of a particular system''
+``the key challenge in indentifying tipping points is thus to indentify the critical control variable(s) and features of a particular system''
 
 Aspect of current conceptualisation of this system is that change is being triggered by agents external to the system, and does not capture endogenous evolution of the system
 
@@ -6258,7 +6259,7 @@ Social, technological, ecological innovations, policy interventions and public i
 Alternative to strengthening positive feedback is to weaken negative feedbacks},
   creationdate     = {2022-12-08T19:27:30},
   keywords         = {environment, sociology},
-  modificationdate = {2023-03-18T12:52:46},
+  modificationdate = {2023-10-21T20:08:17},
   owner            = {ISargent},
 }
 
@@ -6379,12 +6380,12 @@ Most, but not all, models follow economic assumption of utility maximisation
 
 The same phenomenon of a technological transition can be explained by very different underlying logics e.g. prices, recommendations, expectations and mimicking
 
-Mentions Geels's work as being evolutionary which is at odd with the typical revolutionary framing of two competing technologies
+Mentions Geels's work as being evolutionary which is at odds with the typical revolutionary framing of two competing technologies
 
 These models should be considered canonical and as building blocks. Contextual factors would be needed to specify the framework for evaluation in any given context},
   creationdate     = {2022-12-09T08:46:22},
-  keywords         = {transformation, Technological lock-in, Tipping point, Critical mass, Coordination, Sustainability, revolution},
-  modificationdate = {2023-05-25T14:03:19},
+  keywords         = {transformation, technology, lock-in, Tipping point, Critical mass, Coordination, Sustainability, revolution},
+  modificationdate = {2023-10-21T19:52:21},
   owner            = {ISargent},
 }
 
@@ -6713,8 +6714,8 @@ The diffusion oriented approach they suggest is is similar to a strategy underta
 
 Also See Freeman1995 for discussion of ST(I) - linear - approach  compared to (DUI) diffusion - approach which emerged in the 50s and 60s. Also Lundvall2007, Martin2016.},
   creationdate     = {2022-12-11T11:27:40},
-  keywords         = {economics, missions, innovation, policy},
-  modificationdate = {2023-02-02T10:55:17},
+  keywords         = {economics, missions, innovation, policy, technology},
+  modificationdate = {2023-10-21T18:30:11},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -14065,7 +14066,7 @@ If I understand correctly, one of the main conclusions is that, in my own words,
 @Report{DSIT2023,
   author           = {{DSIT}},
   date             = {2023-03-06},
-  institution      = {Department for Science, Innovaiton \& Technology},
+  institution      = {Department for Science, Innovation \& Technology},
   title            = {The UK Science and Technology Framework: Taking a systems approach to UK Science and Technology},
   eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1140217/uk-science-technology-framework.pdf},
   url              = {https://www.gov.uk/government/publications/uk-science-and-technology-framework},
@@ -14102,7 +14103,7 @@ Also sets out outcomes for:
 No mention of climate, which I find astonishing given the date. This week be increasingly irrelevant as we approach 2030},
   creationdate     = {2023-05-18T13:59:57},
   keywords         = {technology, science, policy},
-  modificationdate = {2023-05-18T14:07:51},
+  modificationdate = {2023-10-21T19:26:28},
   owner            = {ISargent},
 }
 
@@ -14188,19 +14189,19 @@ Takes the models of
 - Christensen 1997, how technology can be sustaining or disruptive
 - Mazzucato 2015, role of government in evolution of technology
 - Mokyr 2016, accidental discovery and ad hoc innovation have a role to play
-- Arthur 1994, how path dependence can emerge our of apparently random distrubution of advantages and disadvantages
-- Langley and Leyshon 2017, how plaforms drive technolog adoption
+- Arthur 1994, how path dependence can emerge out of apparently random distribution of advantages and disadvantages
+- Langley and Leyshon 2017, how plaforms drive technology adoption
 - NASA's technology readiness levels, TLRs
 - Linden and Fenn, 2003 the Gartner Hyper Cycle
 
-Form these into a frameworkd which considers technology developments and effects, and develop an overall model of technology composition from Arthur's work.
+Form these into a framework which considers technology developments and effects, and develop an overall model of technology composition from Arthur's work.
 
 Propose that big data analytics can be used to forecasting technology disruption and perform a proof of concept by considering the progression of the smartphone and Uber. Found ``that there is a significant and to some degree predictable lag between technology availability [measured e.g. by Apple store opening] and applications exploiting it was shown to be valid''
 
 See also ZeppiniFK2014},
   creationdate     = {2023-05-25T13:59:16},
   keywords         = {revolution, technology, innovation, transformation},
-  modificationdate = {2023-05-25T14:25:10},
+  modificationdate = {2023-10-21T19:49:43},
   owner            = {ISargent},
 }
 
@@ -14309,8 +14310,8 @@ AI researchers consider the issue in 4 categories:
 3. Doubt forces you to be prudent
 4. There are many other problems in the world, but it's not necessary to be dismissive of the potential threat of AI},
   creationdate     = {2023-06-06T13:17:51},
-  keywords         = {AI, trust},
-  modificationdate = {2023-06-06T13:38:00},
+  keywords         = {AI, trust, BigTech},
+  modificationdate = {2023-10-21T21:39:51},
   owner            = {ISargent},
 }
 
@@ -14333,8 +14334,8 @@ Members of the ethics and society team said they generally tried to be supportiv
 
 The elimination of the ethics and society team came just as the group's remaining employees had trained their focus on arguably their biggest challenge yet: anticipating what would happen when Microsoft released tools powered by OpenAI to a global audience.},
   creationdate     = {2023-06-06T13:47:30},
-  keywords         = {AI, trust, ethics, economics},
-  modificationdate = {2023-06-06T15:59:48},
+  keywords         = {AI, trust, ethics, economics, BigTech},
+  modificationdate = {2023-10-21T21:40:43},
   owner            = {ISargent},
 }
 
@@ -14610,7 +14611,7 @@ Consider also Simon1991},
   date             = {2023-03-28},
   title            = {AI risk $\neq$ AGI risk},
   url              = {https://garymarcus.substack.com/p/ai-risk-agi-risk},
-  comment          = {Comment on why he agrees with HInton
+  comment          = {Comment on why he agrees with Hinton
 
 Also that risks are serious and near-term
 
@@ -14619,7 +14620,7 @@ e.g. bad actors and self-improving machines [my reading: e.g. machines that opti
 ``The real issue is control''},
   creationdate     = {2023-06-15T08:20:38},
   keywords         = {AI, trust},
-  modificationdate = {2023-06-15T16:21:03},
+  modificationdate = {2023-10-21T21:40:58},
   owner            = {ISargent},
 }
 
@@ -14641,8 +14642,8 @@ Pause should be immediate or governments should step up links to FoLPolicy2023
 Hogarth2023 says that some of the signatories turned out to be fake},
   creationdate     = {2023-06-15T08:28:18},
   eprint           = {https://futureoflife.org/fli_pause-giant-ai-experiments_an-open-letter/},
-  keywords         = {AI, trust, future},
-  modificationdate = {2023-06-15T09:14:00},
+  keywords         = {AI, trust, future, BigTech},
+  modificationdate = {2023-10-21T21:41:45},
   owner            = {ISargent},
 }
 
@@ -14661,8 +14662,8 @@ Hogarth2023 says that some of the signatories turned out to be fake},
   abstract         = {The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models.},
   address          = {New York, NY, USA},
   creationdate     = {2023-06-15T08:32:09},
-  keywords         = {AI, trust, NLP},
-  modificationdate = {2023-06-15T08:33:55},
+  keywords         = {AI, trust, NLP, BigTech},
+  modificationdate = {2023-10-21T21:42:25},
   numpages         = {14},
   owner            = {ISargent},
   year             = {2021},
@@ -14683,8 +14684,8 @@ Hogarth2023 says that some of the signatories turned out to be fake},
 6. Expand technical AI safety research funding
 7. Develop standards for identifying and managing AI-generated content and recommendations},
   creationdate     = {2023-06-15T08:41:02},
-  keywords         = {AI, trust, policy},
-  modificationdate = {2023-06-15T08:44:55},
+  keywords         = {AI, trust, policy, BigTech},
+  modificationdate = {2023-10-21T21:42:54},
   owner            = {ISargent},
 }
 
@@ -14724,8 +14725,8 @@ Suggests using engineering biology as an analogy for how to treat AI - ``God-lik
 
 Hogarth is one of the authors of State of AI report},
   creationdate     = {2023-06-15T08:53:20},
-  keywords         = {AI, trust},
-  modificationdate = {2023-06-15T09:22:37},
+  keywords         = {AI, trust, BigTech},
+  modificationdate = {2023-10-21T21:43:28},
   owner            = {ISargent},
 }
 
@@ -14741,11 +14742,13 @@ Mission 1: Embrace enabling technologies to accelerate geospatial innovation:
 - Market intelligence and other enabling technologies 
 - Remote sensing 
 - Population movement data
+
 Mission 2: Drive greater use of geospatial applications and insights across the economy:
 - Underground infrastructure
 - Land use
 - Targeted sectors
 - Public sector
+
 Mission 3: Build confidence in the future geospatial ecosystem
 - International
 - A strategic approach to data access
@@ -14753,8 +14756,8 @@ Mission 3: Build confidence in the future geospatial ecosystem
 
 Nothing on 3D - but mainly strategic with quite a few objectives to be delivered in 2023 and 2024},
   creationdate     = {2023-06-15T15:57:19},
-  keywords         = {strategy, geospatial},
-  modificationdate = {2023-06-15T16:08:01},
+  keywords         = {strategy, geospatial, technology, BigTech},
+  modificationdate = {2023-10-21T20:16:31},
   owner            = {ISargent},
 }
 
@@ -14787,8 +14790,8 @@ Challenges:
 -Skills
 -Incetives},
   creationdate     = {2023-06-15T16:09:32},
-  keywords         = {ai, trust, digital},
-  modificationdate = {2023-06-15T16:19:07},
+  keywords         = {ai, trust, digital, BigTech},
+  modificationdate = {2023-10-21T21:45:19},
   owner            = {ISargent},
 }
 
@@ -15616,8 +15619,8 @@ These are then further broken down into 33 implementation models and 106 schemes
 
 Great review of literature on AI ethics, and history of ethics},
   creationdate     = {2023-07-04T16:32:00},
-  keywords         = {AI, trust, decisions},
-  modificationdate = {2023-07-04T16:51:42},
+  keywords         = {AI, trust, decisions, technology},
+  modificationdate = {2023-10-21T21:31:00},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -16766,8 +16769,8 @@ Lots of detail on OpenAI
 
 See also Rikap2022},
   creationdate     = {2023-09-06T13:07:57},
-  keywords         = {AI, digital, transformation},
-  modificationdate = {2023-09-13T15:23:21},
+  keywords         = {AI, digital, transformation, technology, BigTech},
+  modificationdate = {2023-10-21T20:23:20},
   owner            = {ISargent},
 }
 
@@ -16779,8 +16782,8 @@ See also Rikap2022},
 
 I've not read the book yet but wanted to link with WidderWW2023},
   creationdate     = {2023-09-06T13:40:11},
-  keywords         = {economics, AI, technology},
-  modificationdate = {2023-09-13T14:17:55},
+  keywords         = {economics, AI, technology, BigTech},
+  modificationdate = {2023-10-21T20:16:25},
   owner            = {ISargent},
 }
 
@@ -17376,7 +17379,7 @@ Define the technical architecture of ML in 5 parts (in 3 groups):
   -  model management system
   - application deployment
 
-Use Boston Consulting Group's research which divide's development of AI in 3 stages:
+Use Boston Consulting Group's research which divides development of AI in 3 stages:
 - enablement - mostly hardware and data processing = 2 layers/bricks
 - production - algorithms, visualisation, frameworks
 - consumption - use and diffusion
@@ -17387,7 +17390,7 @@ Find different operating modes:
 - AI giants - as well as being enablers and producers, they are consumers in different parts of their businesses. They maintain their market position in every brick by develop, partnering with and acquiring leading companies
 - AI-powered operators/applications - use AI in their day-to-day (e.g. Facebook, Uber) based both on services from AI giants and their own in-house capacity
 - AI creators - produce primarily for specific 3rd-party use cases and largely rely on tech giants platforms and services
-- AI traders/integrators - by and sell AI solutions or use cases, adding value
+- AI traders/integrators - buy and sell AI solutions or use cases, adding value
 - AI takers - require AI solutions to enable critical business functions
 
 Evolutionary dynamics are driven by both economies of scale and scope:
@@ -17418,7 +17421,7 @@ The evolutionary economics approach is beneficial along 3 dimensions:
 - pragmatic - rethinking the role of AI as a GPT},
   creationdate     = {2023-10-08T16:28:56},
   keywords         = {AI, economics, bigtech, policy},
-  modificationdate = {2023-10-08T16:51:29},
+  modificationdate = {2023-10-21T21:17:13},
   owner            = {izzy_olivine},
 }
 
@@ -17580,17 +17583,18 @@ Companies in EU are lagging in digital technologies.
 
 Laggards should be able to leap-frog because they are not locked-in to older tech. However, global value chains means that adoption costs are outsourced and so leaders avoid the encumbant trap. Also the pace of innovation, mobilisation of IP, and acquisition of start-ups makes it difficult to catch-up.},
   creationdate     = {2023-10-08T16:45:02},
-  keywords         = {AI, economics, policy, BigTech},
-  modificationdate = {2023-10-14T15:13:30},
+  keywords         = {AI, economics, policy, BigTech, technology},
+  modificationdate = {2023-10-21T20:26:50},
   owner            = {izzy_olivine},
 }
 
-@Article{Abdalla2021,
+@InProceedings{Abdalla2021,
   author           = {Abdalla, Mohamed and Abdalla, Moustafa},
-  date             = {2021-04-27},
-  journaltitle     = {arXiv:2009.13676},
+  booktitle        = {AIES '21: Proceedings of the 2021 AAAI/ACM Conference on AI, Ethics, and Society},
+  date             = {2021},
   title            = {The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat on academic integrity},
-  url              = {https://arxiv.org/abs/2009.13676},
+  doi              = {10.1145/3461702.3462563},
+  url              = {https://dl.acm.org/doi/10.1145/3461702.3462563},
   comment          = {''The name of our paper is an homage to Project Whitecoat: Project Grey Hoodie is referencing the buying out of technical academics''
 The Whitecoat Project: ``funding was reserved for researchers who would be used to testify at legislative hearings in favor of Big Tobacco. In fact, there was a concentrated covert effort on behalf of Philip Morris International to identify European scientists with no previous connections to tobacco companies who could be potentially persuaded to testify on behalf of Big Tobacco against proposed regulation on second hand smoking ... resulted in infiltrations in governing officials, heads of academia, and editorial boards''
 ''Microsoft has claimed to be developing an ethical checklist [10], a claim that has recently been called into question [59]''
@@ -17613,8 +17617,9 @@ Big Tobacco: ``skeptics were solicited ... amplified into the public discourse [
 - discussion regarding the future of the ethics and fairness of the AI field
 - Computer science as a field should explore how to actively court antagonistic thinkers},
   creationdate     = {2023-10-08T16:53:56},
+  journaltitle     = {arXiv:2009.13676},
   keywords         = {ethics, trust, artificial intelligence, EthicsWS, AI, BigTech},
-  modificationdate = {2023-10-14T14:13:30},
+  modificationdate = {2023-10-21T13:40:51},
   owner            = {ISargent},
   priority         = {prio1},
   year             = {2021},
@@ -17730,7 +17735,7 @@ Therefore, 4 [I would argue: ideal-] types of experiment:
 - incremental-exploratory - exploring improvements
 - incremental-verificatory - verifying the effects of small changes},
   creationdate     = {2023-10-14T14:22:38},
-  keywords         = {policy, innovation,},
+  keywords         = {policy, innovation},
   modificationdate = {2023-10-14T14:40:54},
   owner            = {izzy_olivine},
 }
@@ -17818,7 +17823,7 @@ Maintaining motivation in stakeholders requires organisations:
 and 
 Actually two essays
 
-Mulgan: ``Joined–Up innovation:   What iS SySteMiC innovation and hoW Can it be done effeCtiveLy?''
+Mulgan: ``Joined-Up innovation:   What iS SySteMiC innovation and hoW Can it be done effeCtiveLy?''
 
 Uses the definition of system ``interconnected and interdependent patterns of action involving many institutions''
 and systemic innovation ``an interconnected set of innovations, where each influences the other, with innovation both in the parts of the system and in the ways in which they interconnect''
@@ -17907,7 +17912,7 @@ Leading systems change strategies:
   owner            = {izzy_olivine},
 }
 
-@Article{Heracleous2023,
+@Article{HeracleousWPP2023,
   author           = {Loizos Heracleous and Christina Wawarta and Angeliki Papachroni and Sotirios Paroutis},
   date             = {2023},
   journaltitle     = {California Management Review},
@@ -17915,10 +17920,10 @@ Leading systems change strategies:
   doi              = {10.1177/00081256231180878},
   eprint           = {https://journals.sagepub.com/doi/pdf/10.1177/00081256231180878},
   number           = {4},
-  pages            = {63-92},
+  pages            = {63--92},
   url              = {https://doi.org/10.1177/00081256231180878},
   volume           = {65},
-  abstract         = {This article explores the National Aeronautics and Space Administration’s (NASA’s) journey to strategic agility through successively shifting to three different strategic alignments over the last six decades and suggests that logical incrementalism may be an unappreciated driver of this process. Three successive alignment models exhibit important shifts in technology strategy, competencies, and values of the organization. The three phases of incremental changes in shifting from one alignment model to the next are the emergence of new approaches, the embeddedness of these approaches in particular contexts, and their expansion to other organizational contexts.},
+  abstract         = {This article explores the National Aeronautics and Space Administration's (NASA's) journey to strategic agility through successively shifting to three different strategic alignments over the last six decades and suggests that logical incrementalism may be an unappreciated driver of this process. Three successive alignment models exhibit important shifts in technology strategy, competencies, and values of the organization. The three phases of incremental changes in shifting from one alignment model to the next are the emergence of new approaches, the embeddedness of these approaches in particular contexts, and their expansion to other organizational contexts.},
   comment          = {Argues that radical or step changes are often rejected by an organisation due to its ``organsational immune system'' [Weber's bureaucracy?]. Find that NASA has used incremental  approaches to adapt and evolve. [I'm drawn to think about an organisational version of Schwartz2017's strangler pattern].
 
 Over 6 decades, NASA has had the strategic alignments:
@@ -17950,7 +17955,7 @@ Loads of detail on different phases and the transitions.
 I like the story of the JSC Pirates, who overhaul the compute infrastructure, initially as a fringe, under the radar exercise, but through demonstration of more effective methods (including pre-agile-manefesto version of agile), effectively their ideas become the mainstream.},
   creationdate     = {2023-10-14T15:07:53},
   keywords         = {decisions, organisations, agile, leadership, transformation},
-  modificationdate = {2023-10-14T15:08:51},
+  modificationdate = {2023-10-21T14:51:03},
   owner            = {ISargent},
 }
 
@@ -17986,12 +17991,12 @@ integration
     - Data quality, availability, accessibility
     - Database management infrastructure
     - Data ownership and sharing
-    - Storage – cloud or on-premises
+    - Storage - cloud or on-premises
     - Data governance maturity
     - Enterprise architecture
   - IT capabilities
     - Current capabilities in managing IT assets
-    - Staff’s knowledge of AI and big data
+    - Staff's knowledge of AI and big data
     - Data-oriented culture
     - Big data and analytics specialists and experts
     - Ecosystem of commercial partners and experts
@@ -18084,7 +18089,7 @@ There are other lists of themes around:
   publisher        = {Springer International Publishing},
   url              = {https://link.springer.com/chapter/10.1007/978-3-030-29374-1_22},
   address          = {Cham},
-  comment          = {Short paper, main focuses is on actual and intended use of AI in public sector. Also a short section (mainly chart) on responses to survey on challenges to implement and adopt AI. Greatest first:
+  comment          = {Short paper, main focuses is on actual and intended use of AI in public sector. Also a short section (mainly chart) on responses to survey (of heads of the IT division, IT managers, and senior data scientists) on challenges to implement and adopt AI. Greatest first:
 - System/data quality and integration
 - Specialisation and expertise (finding people with the necessary know-how)
 - Financial feasibility (having enough financial capital to invest)
@@ -18095,8 +18100,8 @@ There are other lists of themes around:
 - AI Safety (learning negative behaviour, manipulation by humans, minimising potential risks)
 - No real need for AI in public administration},
   creationdate     = {2023-10-14T19:32:45},
-  keywords         = {AI, transformation, bureaucracy, policy},
-  modificationdate = {2023-10-14T19:41:41},
+  keywords         = {AI, transformation, bureaucracy, policy, technology, BigTech},
+  modificationdate = {2023-10-21T21:29:18},
   owner            = {izzy_olivine},
   year             = {2019},
 }
@@ -18188,11 +18193,795 @@ Clusters > Barriers > Operationalization of the barriers:
 2. the barriers we have found seem to be more or less the same as in the era of e-government (a previous wave of digitalisation)
 3. there are both organizational and institutional barriers to the adoption of smart government},
   creationdate     = {2023-10-14T20:56:18},
-  keywords         = {AI, transformation, bureaucracy, policy},
-  modificationdate = {2023-10-14T21:27:19},
+  keywords         = {AI, transformation, bureaucracy, policy, technology, smart, BigTech},
+  modificationdate = {2023-10-21T22:02:04},
   owner            = {izzy_olivine},
   publisher        = {IOS Press},
   year             = {2019},
+}
+
+@Article{Kim1995,
+  author           = {Daniel H Kim},
+  date             = {1995},
+  journaltitle     = {The Systems Thinker},
+  title            = {Systems archetypes as dynamic theories},
+  eprint           = {https://thesystemsthinker.com/wpcontent/uploads/pdfs/240111pk.pdf},
+  number           = {5},
+  volume           = {6},
+  comment          = {``without a working theory, we have no means to integrate it differing experiences into a common picture''
+
+Sets out 8 systems architypes, which each embody a particular theory about dynamic behaviour. This then guides data gathering and offers prescriptions for effective action. Each archetype is described by dynamic theory and gives descriptive actions
+
+- Drifting Goals - gap between condition and goal which can be addressed by cheer action or changing goal
+- Escalation - one party's actions are perceived as threat by another, such then responds in similar manner
+- Fixes that Fail - quick fix solution has unintended consequences that exacerbates the problem
+- Growth and Underinvestment - growth is limited by investment, if system is stretched, performance is lowered reducing perceived need for investment, lower performance and further underinvestment
+- Limits to Success - a balancing process will limit growth of a system and could head to diminishing returns over time
+- Shifting the Burden / Addiction - problem can be resolved using a symptomatic solution which reduces the need for a bit fundamental solution
+- Success to the Successful - those with advantage will tend to gain more advantage
+- Tragedy of the Commons - depletion of system as a result of over use},
+  creationdate     = {2023-10-21T11:41:04},
+  keywords         = {systems, transformation, policy},
+  modificationdate = {2023-10-21T12:17:24},
+  owner            = {izzy_olivine},
+}
+
+@Report{KaniaKS2018,
+  author           = {Kania, John and Kramer, Mark and Senge, Peter},
+  date             = {2018},
+  institution      = {FSG},
+  title            = {The Water of Systems Change},
+  url              = {https://www.fsg.org/resource/water_of_systems_change/},
+  comment          = {There's a webinar for this on the linked url
+
+The water is the water in which fish swim - from their perspective it probably isn't even there
+
+Systems change is shifting the conditions that are holding a social or environmental problem in place
+
+There are 6 conditions of systems change - and inverted pyramid, in three levels:
+- Structural change (explicit)
+  - policies
+  - practices
+  - resource does
+- (semi-explicit)
+  - relationships and connections
+  - power dynamics
+- Transformative change (implicit)
+  - mental models (this poses the greatest challenge and also applies to those trying to create change)
+
+E.g. Affordable Care Act (ObamaCare) created huge impact on the first level but hasn't had much influence in the second level and hasn't changed mental models therefore not influenced the third level.
+
+Tools help. A tool for mapping power that led to me nutritious meals in schools
+
+Narratives are shaped by, and shape, mental models
+
+Examples of swapping leaders for leaders from affected community, putting youth into deciding making board.
+Community centred 
+
+Two types of power dynamics veneer l between foundations and grantees:
+- power-over - stress importance of proven track record, high organisational capacity, clear theory of change, ability to produce outcomes
+- power-with - stress importance of participative approach, connection to the grassroots and innovative approaches, out off by a theory of change},
+  creationdate     = {2023-10-21T12:17:39},
+  keywords         = {systems, transformation, policy},
+  modificationdate = {2023-10-21T12:29:44},
+  owner            = {izzy_olivine},
+}
+
+@Article{vanNoordtM2020,
+  author           = {Colin van Noordt and Gianluca Misuraca},
+  date             = {2020},
+  journaltitle     = {Social Science Computer Review},
+  title            = {Exploratory Insights on Artificial Intelligence for Government in Europe},
+  pages            = {426--444},
+  url              = {https://api.semanticscholar.org/CorpusID:230554083},
+  volume           = {40},
+  comment          = {Propose a framework to provide a comprehensive overview of the key factors contributing to the successful addition of AI systems in public sector
+
+Could be useful to further studies of innovation or AI adoption
+
+Mainstream literature has only nature focus on data, processing power and algorithm development
+
+De Vries et al 2016 developed a framework based on work of Borins 2000 and Rogers 2010.
+
+Schedler et al 2019 identified that barriers to adoption of innovation across government remain the same, and this paper therefore considered these antecedent conditions with respect to AI:
+- environmental antecedents - other organisations, institutions, network, public opinion, media, political,
+- organizational antecedents - structure, culture, finance, knowledge, support, days interoperability 
+- invitation-related antecedents - perception of value, ease of use
+- individual-related antecedents - leadership (but necessarily senior)
+
+Consider 3 case studies:
+- SATIKAS - Estonia, grassland mowing using satellite data and CNN
+- Predictuve day-care services inspection - Belgium, logistic regression and XGBoost on data from internal ``warehouse'' using insights from inspectors to make them more  accurate [smacks of stories in Eubanks]
+- AmberScript - Netherlands, automatic transcription for video council meetings in partnership with WebCast fine tuned with council transcripts
+
+Also semi structured interviews
+
+For each, identifies nature of antecedent conditions that are drivers or barriers to adoption, broken down to sub-conditions:
+- Environmental
+  - local pressure
+  - networks
+  - private vendors
+  - isomorphism
+  - regulation
+- Organisational
+  - organisational resources
+  - IT resources
+  - end-user participation
+  - training
+  - management support
+  - organisational culture
+  - incentives
+- Innovation
+  - perceived value
+  - compatibility with organisational values
+  - ease of use
+  - security and privacy concerns
+- Individual
+  - high-quality data
+  - maintenance of data
+  - data sharing
+  - data-driven services ecosystem
+
+Also AI antecedents:
+- data governance
+- data sharing
+- datafication of societal processes including metadata codification, semantic interoperability efforts
+- technical infrastructure
+- social, economic, political and ethical challenges after adoption
+- black box versus accountability
+
+Interviews have ``risk of bias that the managers see the innovation as a great success...might not be shared by other actors'' 
+
+No loss of jobs (in day-care insurrection case) because of the need for staff to run systems
+
+Calls for a long term lens because evidence that AI applications are dropped due to political, legal or other reasons},
+  creationdate     = {2023-10-21T12:28:56},
+  modificationdate = {2023-10-21T12:33:48},
+  owner            = {izzy_olivine},
+  year             = {2020},
+}
+
+@Article{deVriesBT2015,
+  author           = {Hanna de Vries and Victor Bekkers and Lars G Tummers},
+  date             = {2015},
+  journaltitle     = {Public Administration},
+  title            = {Innovation in the Public Sector: A Systematic Review and Future Research Agenda},
+  doi              = {10.1111/padm.12209},
+  url              = {https://api.semanticscholar.org/CorpusID:33218424},
+  comment          = {Systematic review of literature on public sector innovation
+
+Useful to identifying drivers and outcomes of innovation and for hints on better structuring of studies of public sector innovation (they are quite critical of existing studies)
+
+Studies are analysed based on themes:
+1. the definitions of innovation
+2. innovation types
+3. goals of innovation
+4. antecedents of innovation
+5. outcomes of innovation
+
+Develop a framework of potentially important antecedents and effects of public sector innovation
+
+Propose 3 future research suggestions:
+1. more variety in methods: moving from a qualitative dominance to using other methods, such as surveys, experiments and multi-method approaches
+2. emphasize theory development and testing as studies are often theory-poor
+3. conduct more cross-national and cross-sectoral studies, linking for instance different governance and state traditions to the development and effects of public sector innovation
+
+Types of innovation:
+- Process innovation (vast majority)
+  - Administrative process innovation
+  - Technological process innovation
+- Product or service innovation
+- Governance innovation
+- Conceptual innovation
+- Other
+
+Innovation goals:
+- Increasing effectiveness (majority of goal mentioned)
+- Increasing efficiency
+- Tackling societal problems (e.g. addressing unemployment, overweight) 
+- Increasing customer satisfaction
+- Involving citizens
+- Involving private partners
+- Other
+- No goals mentioned (vast majority)
+
+Environmental antecedents:
+- Environmental pressures (media attention, political demands, public demands) (majority)
+- Participation in networks and inter-organizational relationships
+- Regulatory aspects
+- Compatible agencies/organizations/states adopting the same innovation
+- Competition with other organizations
+-  Other
+
+Organizational antecedents:
+- Slack resources (time, money, ICT facilities) (majority)
+- Leadership styles
+- Degree of risk aversion/room for learning
+- Incentives/rewards
+- Conflicts
+- Organizational structures
+- Other
+
+ Innovation characteristics:
+- Ease in use of innovation 
+- Relative advantage
+- Compatibility
+- Trialability
+- Other (e.g. cost, trustworthiness, mouldability) (majority)
+
+Individual antecedents:
+- Employee autonomy (empowerment) (majority)
+- Organizational position (tenure, mobility)
+- Job-related knowledge and skills (professionalism)
+- Creativity (risk-taking, solving of problems) Demographic aspects (age, gender)
+- Commitment/satisfaction with job
+- Shared perspective and norms
+- Innovation acceptance
+- Other
+
+Outcomes of public sector innovation:
+- Effectiveness
+  - Increased effectiveness (majority of outcomes given)
+  - Decreased effectiveness
+- Increased efficiency
+- Private partners involved
+- Citizens involved
+- Increased customer satisfaction
+- Other (safety, fairness etc.)
+- No outcomes mentioned (vast majority)
+
+Observe:
+1. organizational antecedents play the largest role in enabling all innovation types
+2. governance innovations are frequently connected to environmental antecedents, including the resources of private partners
+
+In the reviews, they find:
+1. a lack of a clear theoretical underpinning in the studies reviewed:
+  1a. only a few studies referred to existing theories such as those of Rogers (2003) on the diffusion of innovations and of Damanpour (1991) on innovations within organizations
+  1b. the empirical research to date has been largely unsuccessful in identifying and explaining what occurs after innovations are initiated
+2. The `publicness' of public innovations was not clear (suggest referring to (Bozeman and Bretschneider 1994)
+3.  antecedents were often addressed independently, ignoring possible connections between them},
+  creationdate     = {2023-10-21T12:39:38},
+  keywords         = {innovation, public sector, transformation, BigTech},
+  modificationdate = {2023-10-21T14:50:12},
+  owner            = {izzy_olivine},
+  year             = {2015},
+}
+
+@Report{HuberLW2021,
+  author           = {Kilian Huber and Volker Lindenthal and Fabian Waldinger},
+  date             = {2021},
+  institution      = {National Bureau of Economic Research},
+  title            = {Discrimination, Managers, and Firm Performance: Evidence from ``Aryanizations'' in Nazi Germany},
+  comment          = {Demonstration of the use of frequentist statistics on determining the effect of loss and removal of Jewish managers from firms in early 1930s Germany
+
+Nice statistics on benefits to firms/teams of hiring different discriminated against groups
+
+Educated and connected managers more important than experienced managers [relates to ZolloW2002 and BlettnerKL2023]
+
+Findings:
+1. Firms were unable to adequately replace the characteristics of dismissed managers (important connectors to other
+firms, managerial experience, university-educated)
+2. The market valuation, profitability, and efficiency of affected firms fell. ``A back-of-the-envelope calculation implies that removing the Jewish managers caused large reductions in the aggregate market valuation of German listed firms'' [define large]
+3 . The effects persisted until at least ten years after managers started leaving their firms
+4. Highlight particular managerial characteristics that are hard to replace (managers with connections and university
+education, especially with graduate degrees in social sciences, had large effects on firm performance, losing experienced managers was less harmful)
+
+Analogues in Idi Amin/Uganda's ejection of Asians, ethnic Chinese in Indonesia and Huguenots
+
+As well as lots due to dismissal, evidence that less drastic discrimination can lead to lots of talent, now a number of recent analogues such as US ban on citizens from 7 Muslim- majority countries, Persecution of Turkish businessmen, Brexit},
+  creationdate     = {2023-10-21T13:15:58},
+  keywords         = {policy, organisation},
+  modificationdate = {2023-10-21T13:22:15},
+  owner            = {izzy_olivine},
+}
+
+@Article{RobertZ2011,
+  author           = {Christopher Robert and Richard Zeckhauser},
+  date             = {2011},
+  journaltitle     = {Journal of Policy Analysis and Management},
+  title            = {The Methodology of Normative Policy Analysis},
+  issn             = {02768739, 15206688},
+  number           = {3},
+  pages            = {613--643},
+  url              = {http://www.jstor.org/stable/23018967},
+  urldate          = {2023-10-21},
+  volume           = {30},
+  comment          = {Build on Friedman's ``The methodology of positive economics'', which stresses importance of distinguishing positive from normative sources of disagreement, extend to policy in general
+
+Propose policy framework to lay bare disagreements:
+- introduction
+- analytic framework
+  - scope
+  - model
+  - estimation
+  - standing
+  - criteria
+  - weights
+- results
+- sensitivity analysis
+- conclusions and recommendations
+
+Archetype analysts:
+- dispassionate analyst, driven by facts and models
+- advocate-analyst, predominantly driven by values
+
+Makes loads of statements about these archetypes without any recourse to evidence
+
+Domains of disagreement:
+- positive, relates to how world is understood to work, includes:
+  - scope (portion of world trying to understand)
+  - model (explanatory mechanisms and behaviours)
+  - estimate (of model parameters that are thought to obtain particular context)
+- values, e.g. ideology, public opinion, party loyalty, includes:
+  - standing (who counts)
+  - criteria (what counts)
+  - weights (how much they count)
+
+Also separate values into:
+- operational - can be challenged in positive grounds, e.g. behavioural economics
+- provisional - friend in falls in positive understanding
+
+Stealth issue advocacy - when analyst's values are secreted into purportedly positive analysis
+
+Aggravation by invoking historical analogies
+
+Leave aside:
+- entrenched disagreement
+- strategic disagreement
+
+Considers these areas of disagreement with respect to climate policy. [Difficult to read in 2023 when many arguments are/should be dead and buried]
+
+On models: ``although we withhold or views as to whether realistic assumptions are essential ... conclude that accurate prediction is most important''
+
+When models can lead to one result and it's opposite, suggest ``turn to empirical analysis'' [as if this is otherwise optimal] Refers to this as the scientific method
+
+Recognises that it becomes in the interests of some actors to underinvest in evidence 
+
+Economic models for climate outcomes must account for behavioural responses and yet not become unwieldy
+
+``as evidenced by the 2008 financial meltdown, economics is much better at explaining the last than predicting the future''
+
+``our premise is that it is helpful to uncover the true sources of disagreement, but this does not mean that every values disagreement should be driven, on the one side, into the positive domain, or on the other, ever deeper into the values domain. Not every disagreement must be resolved by science and statistics on the one hand, or by the likes of Aristotle and Immanuel Kant on the other. The policy world would grind to a halt if we demanded such rigorous classification and clarification of every disagreement''},
+  creationdate     = {2023-10-21T13:23:16},
+  journal          = {Journal of Policy Analysis and Management},
+  keywords         = {policy, economics},
+  modificationdate = {2023-10-21T13:30:01},
+  owner            = {izzy_olivine},
+  publisher        = {Wiley},
+  year             = {2011},
+}
+
+@Article{JensenJLL2007,
+  author           = {Morten Berg Jensen and Bj\"{o}rn Johnson and Edward Lorenz and Bengt Åke Lundvall},
+  date             = {2007},
+  journaltitle     = {Research Policy},
+  title            = {Forms of knowledge and modes of innovation},
+  doi              = {https://doi.org/10.1016/j.respol.2007.01.006},
+  issn             = {0048-7333},
+  number           = {5},
+  pages            = {680-693},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0048733307000340},
+  volume           = {36},
+  abstract         = {This paper contrasts two modes of innovation. One, the Science, Technology and Innovation (STI) mode, is based on the production and use of codified scientific and technical knowledge. The other, the Doing, Using and Interacting (DUI) mode, relies on informal processes of learning and experience-based know-how. Drawing on the results of the 2001 Danish DISKO Survey, latent class analysis is used to identify groups of firms that practice the two modes with different intensities. Logit regression analysis is used to show that firms combining the two modes are more likely to innovate new products or services than those relying primarily on one mode or the other. The paper concludes by considering the implications for benchmarking innovation systems and for innovation policy.},
+  comment          = {Contrasts two ideal-type modes of learning and innovation:
+- Science, Technology and Innovation (STI) mode, based on the production and use of codified scientific and technical knowledge
+- Doing, Using and Interacting (DUI-mode) mode, experienced-based mode of learning
+
+Empirical results not only show that the two modes of learning are practised with different intensities in different firms but also that firms combining them are more innovative.
+
+Indicators used to characterise the respective modes of learning (these were used to cluster firms in an empirical dataset):
+- DUI-mode learning:
+  - Interdisciplinary workgroups
+  - Quality circles
+  - Systems for collecting proposals
+  - Autonomous groups
+  - Integration of functions
+  - Softened demarcations
+  - Cooperation with customers
+- STI-model earning:   - Expenditures on R\&D as share of total revenue
+  - Cooperation with researchers
+  - Indicator for workforce composition
+
+Masses of stats for comparing the different firms},
+  creationdate     = {2023-10-21T18:49:07},
+  keywords         = {innovation, technology, BigTech},
+  modificationdate = {2023-10-21T19:20:48},
+  owner            = {izzy_olivine},
+}
+
+@Article{GaliaL2004,
+  author           = {Fabrice Galia and Di\`{e}go Legros},
+  date             = {2004},
+  journaltitle     = {Research Policy},
+  title            = {Complementarities between obstacles to innovation: evidence from France},
+  doi              = {10.1016/j.respol.2004.06.004},
+  issn             = {0048-7333},
+  number           = {8},
+  pages            = {1185-1199},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0048733304000952},
+  volume           = {33},
+  abstract         = {This paper investigates obstacles to innovation faced by French manufacturing firms. Using CIS2 data, we distinguish between obstacles in postponed projects and obstacles in abandoned projects. First, we highlight the most important barriers to innovation faced by firms, and find that lack of skilled personnel is one of these. Second, based on descriptive analysis, correspondence analysis and multivariate probit models, we explore factors explaining the perception of obstacles, and study complementarities between those obstacles. We show that while adopting a package of policies increases the pace of innovation, a more targeted choice among policies is needed to encourage firms to persevere in their innovative efforts.},
+  comment          = {Obstacles that caused projects to be postposed or abandoned are:
+- Excessive perceived economic risk
+- Innovation costs too high
+- Lack of appropriate source of finance
+- Resistance of change in the firm
+- Lack of skilled personnel
+- Lack of information on technologies
+- Lack of information on markets
+- Legislation, regulations, norms, standards
+- Lack of customer responsiveness to new products and processes
+
+firms postponing projects are more prone to face obstacles linked to economic risk, lack of skilled personnel, innovation costs, lack of customer responsiveness, lack of information on technologies and organizational rigidities.
+
+On the other hand, firms that abandoned projects tend to be more subject to economic barriers (costs, risks and customer responsiveness) than to technological or organizational ones
+
+Masses of stats for comparing the different obstacles},
+  creationdate     = {2023-10-21T19:11:20},
+  keywords         = {innovation, technology, BigTech},
+  modificationdate = {2023-10-21T19:21:07},
+  owner            = {izzy_olivine},
+}
+
+@Article{FosterFishmanB2007,
+  author           = {Pennie G. Foster-Fishman and Teresa R. Behrens},
+  date             = {2007},
+  journaltitle     = {American Journal of Community Psychology},
+  title            = {Systems change reborn: rethinking our theories, methods, and efforts in human services reform and community-based change},
+  doi              = {10.1007/s10464-007-9104-5},
+  number           = {3--4},
+  pages            = {191--6},
+  url              = {https://pubmed.ncbi.nlm.nih.gov/17510793/},
+  volume           = {39},
+  comment          = {A community psychology lens on systems change - introduction to a special issue
+
+Emphasise need to holistic approach, focus on any single subsystem (neighbourhood, school, organisation,...) It's valuable but can create null results owing to their dynamic and interconnected nature
+
+Their definition of systems change emphasises the efforts (rather than the outcomes)
+
+Insights from their review is of systems and transformation literature:
+- Theory insights:
+  - attention to a system's boundary and the processes used to define it can improve the efficacy of systems change endeavours
+  - a change in a system level outcome is not the same as, nor does it guarantee, system change
+- methods insights:
+  - systems change agents and researchers need methods that are equipped to capture system complexity. Two methods highlighted:
+    - systems dynamic modelling - systems have reinforcing and balancing feedback loops
+    - soft systems methodology - more about the social construction of reality, multiple valid perspectives
+- systems change efforts insights:
+  - levers targeted for change need to have cross level influences within the targeted system
+  - systems change requires a shift in sudden members' skill sets and mindsets
+  - discourse processes that engage system members in ongoing opportunities to discover and alter their worldviews are effective mechanisms for shifting mindsets and fostering systems change},
+  creationdate     = {2023-10-22T19:31:09},
+  keywords         = {systems, participatory, deliberative},
+  modificationdate = {2023-10-22T19:43:20},
+  owner            = {izzy_olivine},
+}
+
+@Article{BachledaO2017,
+  author           = {Catherine Bachleda and Sanaa Ait Ouaaziz},
+  date             = {2017},
+  journaltitle     = {Services Marketing Quarterly},
+  title            = {Consumer Acceptance of Cloud Computing},
+  doi              = {10.1080/15332969.2017.1271204},
+  issue            = {1},
+  pages            = {31--45},
+  volume           = {38},
+  comment          = {Study of students' (in Morocco) attitudes to cloud computing based on TAM3 technology acceptance model that combines both perceived usefulness PU and perceived ease of use PEOU. Also asked questions about structural trust ST.
+
+ST is important for voluntary acceptance but PEOU had stronger affect than PU on intention to use cloud computing.
+
+Survey questions (in appendix) are all based on future use but could be a useful structure for a similar study of e.g. current experience},
+  creationdate     = {2023-10-22T19:48:51},
+  keywords         = {cloud, technology},
+  modificationdate = {2023-10-22T21:32:16},
+  owner            = {izzy_olivine},
+}
+
+@Article{Theby2021,
+  author           = {Mark Theby},
+  date             = {2021},
+  journaltitle     = {International Journal of Managing Public Sector Information and Communication Technologies},
+  title            = {Cloud Computing in the Public Sector: Mapping the Knowledge Domain},
+  number           = {4},
+  url              = {https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3997785},
+  volume           = {12},
+  comment          = {visualized the cloud computing in the public sector and generated knowledge maps addressing publication activities, author co-citations, publication co-citations, the domain’s intellectual base, and reference and keyword cluster analyses that evidence the breadth of cloud computing research
+
+Figures look fancy but I'm not sure this tells us much},
+  creationdate     = {2023-10-22T21:05:56},
+  keywords         = {cloud, technology, organisations},
+  modificationdate = {2023-10-22T21:29:49},
+  owner            = {izzy_olivine},
+}
+
+@Article{AlHadwerTGR2021,
+  author           = {Ali {Al Hadwer} and Madjid Tavana and Dan Gillis and Davar Rezania},
+  date             = {2021},
+  journaltitle     = {Internet of Things},
+  title            = {A Systematic Review of Organizational Factors Impacting Cloud-based Technology Adoption Using Technology-Organization-Environment Framework},
+  doi              = {https://doi.org/10.1016/j.iot.2021.100407},
+  issn             = {2542-6605},
+  pages            = {100407},
+  url              = {https://www.sciencedirect.com/science/article/pii/S2542660521000512},
+  volume           = {15},
+  abstract         = {Cloud computing services such as file storage and big data analytics offer cost-effective, secure, flexible, and sustainable services to their users. Despite their benefits, the adoption of many cloud services is still limited, and many organizations are hesitant to adopt cloud technologies for several reasons. Researchers have used innovation adoption theories to explore the factors influencing users’ decisions toward accepting and using a new information system. This study presents a systematic review of the factors influencing organizational decisions concerning the acceptance of cloud-based technologies using the technology-organization-environment (TOE) framework. We analyze, integrate, and classify these factors and show that much of the literature has emphasized the technical aspects of technology adoption, such as cloud security. We further show factors like top management support, relative advantage, cloud complexity, and competitive pressure are the most critical factors affecting organizational attitude toward cloud technology adoption.},
+  comment          = {A systematic literature review to:
+- identify the factors that may influence the adoption of cloud computing services in organizations
+- define cloud service and models
+- determine the theoretical models or frameworks for investigating cloud service adoption by organizations
+
+Three service models of cloud computing exist today: IaaS, PaaS, and SaaS
+
+cloud computing technology is deployed using any of the four known deployment models: private, community, public, and hybrid
+
+Use TOE adoption theoretical framework, also reference DOI (diffusion of innovation)
+
+Factors in order of frequency (top is most frequent; T=Technology, O=Organisation, E=Environment):
+- Top management support: O
+- Security Concerns: T
+- Compatibility: T
+- Complexity: T
+- Relative advantage: T
+- Regulatory Support: E
+- Organization Size: Organization
+- Cost Savings: O
+- Human Competency: T
+- Competitive Pressure: E
+- Cloud Locality: E
+
+Critical concerns:
+1. selecting the appropriate technology adoption theory remains a critical task for researchers in information systems adoption
+2. the majority of the literature neglected the investigation of the impact of culture on cloud adoption (e.g. this may explain why studies in different cultures (KSA v Spain) report contrasting findings about the importance of different factors
+3.  cloud computing adoption in the educational sector has received little attention
+4. the literature lacks studies that focus on how different factors may have different impacts on cloud adoption over time
+5. there is evidence that non-technical factors in cloud computing adoption are crucial and have started to gain more attention},
+  creationdate     = {2023-10-22T21:15:45},
+  keywords         = {cloud, technology, organisations},
+  modificationdate = {2023-10-22T21:30:23},
+  owner            = {izzy_olivine},
+}
+
+@Article{RohwerFHM2022,
+  author           = {Rohwer, Elisabeth and Fl\"{o}ther, Joelle-Cathrin and Harth, Volker and Mache, Stefanie},
+  date             = {2022},
+  journaltitle     = {International Journal of Environmental Research and Public Health},
+  title            = {Overcoming the ``Dark Side'' of Technology -- A Scoping Review on Preventing and Coping with Work-Related Technostress},
+  doi              = {10.3390/ijerph19063625},
+  issn             = {1660-4601},
+  number           = {6},
+  url              = {https://www.mdpi.com/1660-4601/19/6/3625},
+  volume           = {19},
+  abstract         = {In the course of the digitalisation of work, the phenomenon of technostress is increasingly being examined. While there is a plethora of research on its causes and consequences, a growing body of research on mitigating work-related technostress is emerging. In order to identify opportunities to overcome this &ldquo;dark side&rdquo; of technology, this scoping review aims to provide a comprehensive overview of the current state of research on how to prevent and cope with work-related technostress. The databases PubMed, MEDLINE, PsycInfo, PSYNDEX, and Web of Science were searched in the time period between 2008 and 2021. The studies were screened independently by two authors and selected based on predefined inclusion and exclusion criteria. Sixty-two studies were included and their methodological quality was assessed using standardised checklists. Resources were identified at the technical, organisational, social and personal level, including, e.g., leadership, organisational and technical support as well as self-efficacy and IT mindfulness. Problem- and emotion-focused coping strategies were, e.g., seeking support or distancing from IT. None of the included studies investigated prevention measures, emphasising a dearth of research that needs to be addressed in the future. Nevertheless, the identified resources and coping strategies provide starting points to address adverse work- and health-related consequences and reduce work-related technostress.},
+  article-number   = {3625},
+  comment          = {Incredibly detailed literature overview that reviews papers pertaining to technostress - impossible to summarise here - see paper for all the detail!
+
+Technostress is widely understood as the ``inability to adapt or cope with new computer technologies in a healthy manner''. It has creators:
+- techno-overload - the technology-related demand to work longer and faster
+- techno-invasion - constant connectivity and, consequently, a diffusion of work into private life
+- techno-complexity - an individual's difficulty to understand certain tasks or conditions
+- techno-insecurity - can be triggered, e.g., when employees feel threatened with losing their jobs due to their perceived insufficient understanding of technologies or as a consequence of automation
+- techno-uncertainty - stressful situations with ambiguous expectations or outcomes
+
+
+growing research on work-related technostress outside Covid pandemic context has already elaborated the causes and effects of technostress on an extensive scale
+
+far less research has investigated how to address these causes or deal with adverse effects resulting from technostress
+
+none addressed prevention measures
+
+Results section breaks down in detail these topic areas:
+- job demands and person-related risk factors
+  - organisational level
+  - technical level
+  - person-related risk factors
+- environmental and person resources
+  - environmental resources social level
+  - environmental resources organisational level
+  - environmental resources technical level
+  - personal resources
+- appraisal - the process that decides whether potential stressors are actually perceived as threatening or not
+- coping strategies
+  - problem-focused
+  - emotion-focused
+- preventing work-related technostress},
+  creationdate     = {2023-10-22T21:33:57},
+  keywords         = {technology, organisations, health},
+  modificationdate = {2023-10-22T21:50:15},
+  owner            = {izzy_olivine},
+  pubmedid         = {35329312},
+}
+
+@Article{SallehudinARIBFB2020,
+  author           = {Hasimi Sallehudin and Azana Hafizah Mohd Aman and Razli Che Razak and Mohammad Ismail and Nur Azaliah Abu Bakar and Ahmad Firdause Md Fadzil and Rogis Baker},
+  date             = {2020},
+  journaltitle     = {International Journal of Business and Society},
+  title            = {Performance and Key Factors of Cloud Computing Implementation in the Public Sector},
+  doi              = {10.33736/ijbs.3231.2020},
+  url              = {https://publisher.unimas.my/ojs/index.php/IJBS/article/view/3231},
+  comment          = {Defines the Malaysian Public Sector cloud computing implementation with success measure being operational efficiency
+
+Apply the Technology-Organisation-Environment (TOE) framework.
+Technological context is:
+1. relative advantage
+2. compatibility
+3. perceived risks
+Organisational context is:
+4. top management support
+5. organisational readiness
+Environmental context is:
+6. government regulatory
+7. vendor support 
+Model is that these will affect cloud 
+9. computing implementation
+Which then affects 
+  - operational effectiveness
+
+Questionnaires used for survey for the above 9 factors (I can't find evidence of what the questions were) so that they can be related to each other using SEM-PLS
+
+Diffusion of Innovation (DOI) theory
+
+Find that technological and organisational factors influence implementation of cloud computing but but environmental factors
+
+TOE framework could be useful for a similar study},
+  creationdate     = {2023-10-22T21:51:47},
+  keywords         = {cloud, technology, transformation, organisation},
+  modificationdate = {2023-10-22T21:56:08},
+  owner            = {izzy_olivine},
+}
+
+@Article{VenkateshB2008,
+  author           = {Viswanath Venkatesh and Hillol Bala},
+  date             = {2008},
+  journaltitle     = {Decision Sciences},
+  title            = {Technology Acceptance Model 3 and a Research Agenda on Interventions},
+  doi              = {10.1111/j.1540-5915.2008.00192.x},
+  issue            = {2},
+  pages            = {273--315},
+  url              = {https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5915.2008.00192.x},
+  volume           = {39},
+  comment          = {This is about TAM3, which is used in Devarakonda2021
+
+Theoretical framework is that:
+- individual differences
+- system characteristics
+- social influence
+- facilitating conditions
+All influence:
+- perceived usefulness PU
+- perceived ease of use PEOU (which influences PU)
+Which affect:
+- behavioural intention
+Which influences:
+- use behaviour
+
+PU is determined by:
+- PEOU
+- subjective norm
+- image
+- job relevance
+- output quality
+- result demonstrability
+
+PEOU is determined by:
+- computer self-efficacy
+- perception of external control
+- computer anxiety
+- computer playfulness
+- perceived enjoyment
+- objective usability
+
+Performs a longitudinal study and presents detailed statistics from this
+
+Discusses interventions for improving acceptance:
+- preimplementation interventions:
+  - design characteristics
+  - use participation
+  - management support
+  - incentive alignment
+- postimplementation interventions:
+  - training
+  - organisational support
+  - peer support
+
+Survey questions in the appendix may be useful as they can be used to measure sentiment towards technology},
+  creationdate     = {2023-10-22T21:57:29},
+  keywords         = {technology},
+  modificationdate = {2023-10-22T21:59:12},
+  owner            = {izzy_olivine},
+}
+
+@Article{Phuthong2022,
+  author           = {Thadathibesra Phuthong},
+  date             = {2022},
+  journaltitle     = {Cogent Business \& Management},
+  title            = {Factors that influence cloud adoption in the public sector: The case of an emerging economy -- Thailand},
+  doi              = {10.1080/23311975.2021.2020202},
+  issue            = {1},
+  url              = {https://www.tandfonline.com/doi/full/10.1080/23311975.2021.2020202},
+  volume           = {9},
+  comment          = {Assess the service quality of G-Cloud. Archive quality has 10 factors, which they group into:
+1. Reliability
+2. Responsiveness
+3. Empathy
+4. Assurance and tangible devices
+5. Staff to provide services
+
+Short literature review of each of these
+
+Survey questions roughly align to these, based on previous works by others. Questions all about system and system administrators and their:
+a. reliability and responsiveness
+b. assurance
+c. security and perceived usefulness
+d. flexibility
+e. empathy
+
+Cause effect diagrams showing how these relate to each other
+
+Use decision-making trial and evaluation laboratory method to understand cause-effect relationships
+
+Find factors related to assurance were most important to acceptance, but other aspects played a role},
+  creationdate     = {2023-10-22T22:04:08},
+  keywords         = {cloud, technology, organisation},
+  modificationdate = {2023-10-22T22:18:03},
+  owner            = {izzy_olivine},
+}
+
+@Thesis{Devarakonda2021,
+  author           = {Eswar Kumar Devarakonda},
+  date             = {2021},
+  institution      = {Walden University},
+  title            = {An Acceptable Cloud Computing Model for Public Sectors},
+  eprint           = {https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12057&context=dissertations},
+  comment          = {Uses TAM3 model of technology acceptance (VankatesgB2008), which amounts for:
+- perceived usefulness
+- perceived ease of use
+- facilitating conditions:
+  - interval factors - subjective norms
+  - external factors - social processes / anchors
+- adjustments - objective usability, branding
+- security aspects
+- moderators - experience, voluntariness, output quality
+
+Also draw on theories:
+- diffusion of innovation
+- unified theory of acceptance and use of technology
+- theory of reasoned action - beliefs, actions and behavioural intentions
+- social cognitive theory - relationship of individual to current and future environment
+- lazy user theory - choose solution that requires least effort
+
+Discovered 5 themes of strategies used in public sector organisations to utilize cloud computing (see thesis for details):
+- user-centric and data-driven cloud - top-down approach to requirements, bottom-up is data driven [I think]
+- multi-cloud - using a range of selection methods
+- visibility - data, analysis, logging, particularly for security
+- integrations - user testing, continuous integration
+- innovation and agility - move to agile approaches, continuous innovation
+
+The interview protocol in the appendix may be useful - qualitative survey},
+  creationdate     = {2023-10-22T22:07:28},
+  keywords         = {cloud, technology, organisation},
+  modificationdate = {2023-10-22T22:10:00},
+  owner            = {izzy_olivine},
+}
+
+@Article{Naughton2023,
+  author           = {John Naughton},
+  date             = {2023-10-21},
+  journaltitle     = {The Guardian},
+  title            = {The advanced silicon chips on which the future depends are all made in Taiwan – here’s why that matters},
+  url              = {https://www.theguardian.com/commentisfree/2023/oct/21/silicon-chips-taiwan-semiconductor-manufacturing-company-tsmc},
+  comment          = {Apparently its proving much harder for companies outside of Taiwan to construct silicon chips, and certainly not to the same quality
+
+This seems to be down to the tacit knowledge of workers in Taiwan
+
+Likens this to discovery by philosopher of science Harry Collins that only people who had worked in a lab with a particular type of laser (a TEA laser) could make one work - no instructions were enough
+
+Makes me think of Metis according to Scott2020
+
+More of the silicon chip study is found in Hille2023},
+  creationdate     = {2023-10-23T15:17:59},
+  keywords         = {technology, decisions,},
+  modificationdate = {2023-10-23T15:22:14},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
