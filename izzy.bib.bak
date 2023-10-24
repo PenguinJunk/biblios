@@ -19000,9 +19000,11 @@ Its set up fabs in Arizona but is on a steep learning curve, particularly the di
 
 ``This contrasts with some other chipmakers' practices. Intel, for example, has for many years followed an approach called Copy EXACTLY!, under which each new fab must operate under the exact parameters transferred from the company’s technology development centre in Oregon''
 
-``TSMC's approach relies to a large extent on having the R\&D team, which develops new process technology, only an hour-long high-speed rail ride away. With 20 hours of flight time between Arizona and headquarters, new procedures are needed''},
+``TSMC's approach relies to a large extent on having the R\&D team, which develops new process technology, only an hour-long high-speed rail ride away. With 20 hours of flight time between Arizona and headquarters, new procedures are needed''
+
+They would normally subdivide the work over many packages and contracts, this may be difficult to duplicate},
   creationdate     = {2023-10-23T15:23:10},
-  modificationdate = {2023-10-23T15:36:32},
+  modificationdate = {2023-10-23T15:38:34},
   owner            = {ISargent},
 }
 
