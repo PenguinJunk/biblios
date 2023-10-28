@@ -19139,30 +19139,75 @@ Commission’s framework1; and
 }
 
 @Article{Richardson1986,
-  author               = {Richardson, George P.},
-  date                 = {1986},
-  journaltitle         = {System dynamics review},
-  title                = {Problems with causal-loop diagrams},
-  number               = {2},
-  pages                = {158--170},
-  volume               = {2},
-  comment-izzy_olivine = {tl;dr: Demonstrates how simple arrows with a plus or a minus sign can cause misrepresentation of dynamic behaviour in causal loop diagrams. Suggests alternative definitions and notation. ``The crux of the problem with causal-loop diagrams ... is that they make no distinction between information links and rate-to-level links (sometimes called ``conserved flows'')''. This is not a problem with equations or stock-and-flow diagrams. This paper discusses how to overcome the ambiguity of these types of link. ``In recognition of these difficulties, there has been a revival of stock-and-flow diagrams as a means of communicating structure (Morecroft 1982)'' Causal loops have traditionally been represented with a plus sign to indicate that a change in the variable at the start of the arrow will result in the change in the same direction of the variable at the end of the arrow. A minus sign means the second variable will change in the opposite direction. However, rate variables such as birth or migration can decrease but the outcome is still an increase (e.g. in population), albeit it slower. These are ``rate-to-level'' (``conserved flow'', ``additive'') connections (links), not information (``proportional'') connections (links). Suggest alternative definitions, the preferred being: ``A has a positive (negative) influence on B if A adds to (subtracts from) B, or if a change in A results in a change in B in the same (opposite) direction''. Also suggest using solid lines for rate-to-level connections and dotted lines for information connections. Others have used straight and curved lines, or valves and tubs to distinguish. Go on to demonstrate how it can be difficult to determine whether some such links are positive or negative (their polarity): - if the rate reduces, the outcome could still increase or it could decrease, and this may change over time - there may be hidden minor loops which affect behaviour over time - the causal loop may be a net rate which aggregates rates in both directions Advises resisting giving causal loops polarities. Gives an example of a feuding family in which an increase in one family results in a decrease in the other family, which increases the first family further. Conversely a decrease in the first family, would result in few deaths in the second, which results in more killed, and thus a further decrease, in the first.},
-  creationdate         = {2023-10-28T17:06:24},
-  modificationdate     = {2023-10-28T17:33:09},
-  owner                = {izzy_olivine},
-  year                 = {1986},
+  author           = {Richardson, George P.},
+  date             = {1986},
+  journaltitle     = {System dynamics review},
+  title            = {Problems with causal-loop diagrams},
+  number           = {2},
+  pages            = {158--170},
+  volume           = {2},
+  comment          = {tl;dr: Demonstrates how simple arrows with a plus or a minus sign can cause misrepresentation of dynamic behaviour in causal loop diagrams. Suggests alternative definitions and notation. ``The crux of the problem with causal-loop diagrams ... is that they make no distinction between information links and rate-to-level links (sometimes called ``conserved flows'')''. This is not a problem with equations or stock-and-flow diagrams. This paper discusses how to overcome the ambiguity of these types of link. ``In recognition of these difficulties, there has been a revival of stock-and-flow diagrams as a means of communicating structure (Morecroft 1982)'' Causal loops have traditionally been represented with a plus sign to indicate that a change in the variable at the start of the arrow will result in the change in the same direction of the variable at the end of the arrow. A minus sign means the second variable will change in the opposite direction. However, rate variables such as birth or migration can decrease but the outcome is still an increase (e.g. in population), albeit it slower. These are ``rate-to-level'' (``conserved flow'', ``additive'') connections (links), not information (``proportional'') connections (links). Suggest alternative definitions, the preferred being: ``A has a positive (negative) influence on B if A adds to (subtracts from) B, or if a change in A results in a change in B in the same (opposite) direction''. Also suggest using solid lines for rate-to-level connections and dotted lines for information connections. Others have used straight and curved lines, or valves and tubs to distinguish. Go on to demonstrate how it can be difficult to determine whether some such links are positive or negative (their polarity): - if the rate reduces, the outcome could still increase or it could decrease, and this may change over time - there may be hidden minor loops which affect behaviour over time - the causal loop may be a net rate which aggregates rates in both directions Advises resisting giving causal loops polarities. Gives an example of a feuding family in which an increase in one family results in a decrease in the other family, which increases the first family further. Conversely a decrease in the first family, would result in few deaths in the second, which results in more killed, and thus a further decrease, in the first.},
+  creationdate     = {2023-10-28T17:06:24},
+  modificationdate = {2023-10-28T18:12:47},
+  owner            = {izzy_olivine},
+  year             = {1986},
 }
 
-@Article{test2023,
-  author               = {AAAtest},
-  date                 = {2023},
-  journaltitle         = {test},
-  title                = {test},
-  comment              = {just an ordinary comment},
-  comment_izzy_olivine = {comment izzy olivine},
-  creationdate         = {2023-10-28T17:33:25},
-  modificationdate     = {2023-10-28T17:58:50},
-  owner                = {izzy_olivine},
+@Article{GhaffarzadeganLR2010,
+  author           = {Navid Ghaffarzadegan and John Lyneis and George P. Richardson},
+  date             = {2010},
+  journaltitle     = {System Dynamics Review},
+  title            = {How small system dynamics models can help the public policy process},
+  number           = {1},
+  pages            = {22--44},
+  volume           = {27},
+  comment          = {tl;dr: Argues that small systems dynamics models can aid policymaking and help policymakers learn about the environment and dynamics of a system. 
+Identifies 5 characteristics of public policy problems. Discusses two examples of small systems models to demonstrate how 4 core aspects of these small models address the 5 characteristics of public policy problems. Lists some limitations of small models.
+
+Use literature review to demonstrate how there was very little application of systems dynamics in government policymaking
+
+State 5 characteristics of public policy problems:
+1. Policy resistance from the environment - may be balancing feedback from the system or resistance from actors, can undermine policy even exacerbate original problem (compensating feedback)
+2. The need for and cost of experimentation - policies are high stakes and aren't reversible, experiential learning and adjustments are vital but policy resistance and delay create even more complexity
+3. The need to achieve consensus between diverse stakeholders - failing this can lead to short-term focus which ignores or even damages longer-term outcomes
+4. Overconfidence in policymakers - evidence from observation and psychology experiments, delays in feedback make learning more difficult
+5. The need to have an endogenous perspective -  undesirable outcomes tend to be blamed on external factors rather than factors within the system, endogenous perspective improve individual and organisational learning
+
+Review two small models to demonstrate how they can be used to successfully make critical public policy insights:
+1. Urban dynamics - URBAN1 is the small model for investigating the causes of urban decay. The stocks are population, housing, and business structures. Original model had at least 9 major stock variables. All these stocks grow until land scarcity starts to slow growth, particularly of businesses, leading (ultimately - more detail in paper) to a higher population than can be supported by the available jobs. Not only does this model provide insights into causes of urban decay but it also supports the design of policy by demonstrating the feedback structure of the system. Shows results of different interventions such as increasing the number of jobs, which can have unintuitive outcomes.
+2. Swamping insight model - a small system dynamics model was created that examines the effect of investment in the different parts of a new system of Temporary Assistance to Needy Families (TANF) in particular the probability of recidivism. Stocks are Families on TANF and Post TANF employed. Found that increasing the capacity of support after TANF has a positive effect, while increasing the capacity of TANF support increases the number of families at risk (because this leads to overcapacity - swamping of -  post TANF support).
+
+[The models as illustrated in this paper distinguish stocks and flows, reinforcing and balancing loops and information links very clearly (it seems the problems stated in Richardson1986 are overcome here)]
+
+For each of the five characteristics of public policy problems, this paper tabulates how small systems dynamics models can benefit, with respect to:
+- feedback loop approach to modelling - feedbacks modelled in the small systems models, and turning these off can demonstrate some of the false assumptions of decision makers. Their inclusion therefore emphasises endogenous sources of behaviour
+- aggregate approach to modelling, which groups individuals and even groups, and uses stocks and flows in the model structure
+- simulation approach - running mathematical simulations to conduct experiments given different conditions
+- small model size - only a few stocks and are most 7 or 8 feedback loops:
+  1. a small model size allows for exhaustive experimentation through parameter changes
+  2. short exposition facilitates the presentation of lessons to others, and helps bring the dynamic lessons to the meetings of stakeholders
+
+Limitations of small models:
+1.  customers in general and policymakers in particular often demand an exclusive model that considers all possible causal links either observed or contemplated
+2. stakeholders may want to see their own organisations, departments, or communities separately represented, increasing the level of disaggregation
+3. modellers may underestimate the role of some feedback loops which may actually be important in reality
+4. the process of building small models may in fact be more difficult than building larger models that include multiple feedback loops
+5. care is needed to ensure that causal links in are operational at high level
+
+Also:
+Mention near start about building consensus around small models
+
+Key insights of Urban Dynamics:
+1. the total attractiveness of an urban region must be considered relative to the attractiveness of all surrounding regions (Forrester, 1971b) - this preserved in the small version
+2. the decay phase comes from natural asymmetries in the structure and dynamics of business structures and housing - reasonably easy to see in URBAN1 and almost impossible to draw out of the full Urban Dynamics model
+
+Create consensus
+- Better view of whole system - narrative and feedback
+- Better understanding of endogenous behaviour
+- Allows exhaustive experimentation},
+  creationdate     = {2023-10-28T18:23:42},
+  modificationdate = {2023-10-28T18:25:34},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
