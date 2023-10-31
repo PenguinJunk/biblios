@@ -6346,14 +6346,16 @@ Points to clarify:
 }
 
 @Article{VeitWB2016,
-  author       = {Andreas Veit and Michael Wilber and Serge Belongie},
-  title        = {Residual Networks Behave Like Ensembles of Relatively Shallow Networks},
-  comment      = {Great short paper investigating aspects of information flow through residual networks. Residual netwoks introduce identity skip-connections that bypass residual layers. These have enabled networks that are two orders of magniture deeper than previous models. However, ``biological systems can capture complex concepts within half a dozen layers''. This paper observes that removing single layers from residual networks does not noticeably affect their performance, in contrast to traditional architectures. This paper finds that residual networks can be seen as collections of many paths and the effective paths are relatively shallow. ``Residual networks can be seen as a special case of highways networks'' in which data flows equally through both paths. Contains a nice short overview of hierarchical approaches. Also figures of unravelled view of residual block. Paths in residual network have varying lengths, the distribution centres around a mean of n/2 where n is the numer of modules. By showing how much gradient is induced on the first layer through paths of different lengths they show that paths longer than about 20 modules are generally too long to contribute noticeable gradient during training. Similar to SrivastavaGS2015 they find that short paths are more important. Lesion study demonstrated that removing layers didn't affect performance much, although removing downsampling layers had slightly more negative impact. Also found that the structure of a resifual network can be changed at test time without affecting the performance. Error increases smoothly with the removal of layers, indicating that they behave like ensembles. I think this paper challenges the assumption of hierarchical representations.},
-  creationdate = {2018.07.11},
-  journal      = {arXiv:1605.06431v2},
-  keywords     = {ImageLearn, deep learning, architecture, MLStrat Milestones},
-  owner        = {ISargent},
-  year         = {2016},
+  author           = {Andreas Veit and Michael Wilber and Serge Belongie},
+  title            = {Residual Networks Behave Like Ensembles of Relatively Shallow Networks},
+  url              = {https://dl.acm.org/doi/10.5555/3157096.3157158},
+  comment          = {Great short paper investigating aspects of information flow through residual networks. Residual netwoks introduce identity skip-connections that bypass residual layers. These have enabled networks that are two orders of magniture deeper than previous models. However, ``biological systems can capture complex concepts within half a dozen layers''. This paper observes that removing single layers from residual networks does not noticeably affect their performance, in contrast to traditional architectures. This paper finds that residual networks can be seen as collections of many paths and the effective paths are relatively shallow. ``Residual networks can be seen as a special case of highways networks'' in which data flows equally through both paths. Contains a nice short overview of hierarchical approaches. Also figures of unravelled view of residual block. Paths in residual network have varying lengths, the distribution centres around a mean of n/2 where n is the numer of modules. By showing how much gradient is induced on the first layer through paths of different lengths they show that paths longer than about 20 modules are generally too long to contribute noticeable gradient during training. Similar to SrivastavaGS2015 they find that short paths are more important. Lesion study demonstrated that removing layers didn't affect performance much, although removing downsampling layers had slightly more negative impact. Also found that the structure of a resifual network can be changed at test time without affecting the performance. Error increases smoothly with the removal of layers, indicating that they behave like ensembles. I think this paper challenges the assumption of hierarchical representations.},
+  creationdate     = {2018.07.11},
+  journal          = {arXiv:1605.06431v2},
+  keywords         = {ImageLearn, deep learning, architecture, MLStrat Milestones},
+  modificationdate = {2023-10-31T10:40:18},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Article{HintonSKSS2012,

@@ -6346,14 +6346,16 @@ Points to clarify:
 }
 
 @Article{VeitWB2016,
-  author       = {Andreas Veit and Michael Wilber and Serge Belongie},
-  title        = {Residual Networks Behave Like Ensembles of Relatively Shallow Networks},
-  comment      = {Great short paper investigating aspects of information flow through residual networks. Residual netwoks introduce identity skip-connections that bypass residual layers. These have enabled networks that are two orders of magniture deeper than previous models. However, ``biological systems can capture complex concepts within half a dozen layers''. This paper observes that removing single layers from residual networks does not noticeably affect their performance, in contrast to traditional architectures. This paper finds that residual networks can be seen as collections of many paths and the effective paths are relatively shallow. ``Residual networks can be seen as a special case of highways networks'' in which data flows equally through both paths. Contains a nice short overview of hierarchical approaches. Also figures of unravelled view of residual block. Paths in residual network have varying lengths, the distribution centres around a mean of n/2 where n is the numer of modules. By showing how much gradient is induced on the first layer through paths of different lengths they show that paths longer than about 20 modules are generally too long to contribute noticeable gradient during training. Similar to SrivastavaGS2015 they find that short paths are more important. Lesion study demonstrated that removing layers didn't affect performance much, although removing downsampling layers had slightly more negative impact. Also found that the structure of a resifual network can be changed at test time without affecting the performance. Error increases smoothly with the removal of layers, indicating that they behave like ensembles. I think this paper challenges the assumption of hierarchical representations.},
-  creationdate = {2018.07.11},
-  journal      = {arXiv:1605.06431v2},
-  keywords     = {ImageLearn, deep learning, architecture, MLStrat Milestones},
-  owner        = {ISargent},
-  year         = {2016},
+  author           = {Andreas Veit and Michael Wilber and Serge Belongie},
+  title            = {Residual Networks Behave Like Ensembles of Relatively Shallow Networks},
+  url              = {https://dl.acm.org/doi/10.5555/3157096.3157158},
+  comment          = {Great short paper investigating aspects of information flow through residual networks. Residual netwoks introduce identity skip-connections that bypass residual layers. These have enabled networks that are two orders of magniture deeper than previous models. However, ``biological systems can capture complex concepts within half a dozen layers''. This paper observes that removing single layers from residual networks does not noticeably affect their performance, in contrast to traditional architectures. This paper finds that residual networks can be seen as collections of many paths and the effective paths are relatively shallow. ``Residual networks can be seen as a special case of highways networks'' in which data flows equally through both paths. Contains a nice short overview of hierarchical approaches. Also figures of unravelled view of residual block. Paths in residual network have varying lengths, the distribution centres around a mean of n/2 where n is the numer of modules. By showing how much gradient is induced on the first layer through paths of different lengths they show that paths longer than about 20 modules are generally too long to contribute noticeable gradient during training. Similar to SrivastavaGS2015 they find that short paths are more important. Lesion study demonstrated that removing layers didn't affect performance much, although removing downsampling layers had slightly more negative impact. Also found that the structure of a resifual network can be changed at test time without affecting the performance. Error increases smoothly with the removal of layers, indicating that they behave like ensembles. I think this paper challenges the assumption of hierarchical representations.},
+  creationdate     = {2018.07.11},
+  journal          = {arXiv:1605.06431v2},
+  keywords         = {ImageLearn, deep learning, architecture, MLStrat Milestones},
+  modificationdate = {2023-10-31T10:40:18},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Article{HintonSKSS2012,
@@ -8463,23 +8465,6 @@ See also https://www.huffingtonpost.co.uk/entry/uk-carbon-emissions-lockdown-cor
   owner        = {ISargent},
   priority     = {prio1},
   year         = {2020},
-}
-
-@InProceedings{PirolliC2005,
-  author       = {Pirolli, Peter and Card, Stuart},
-  booktitle    = {Proceedings of International Conference on Intelligence Analysis},
-  title        = {The sensemaking process and leverage points for analyst technology as identified through cognitive task analysis},
-  comment      = {Discuss how intelligence and expertise is developed through experience of a [field] in such a way that the expert learns to put new data into schemas that they have developed. Identifies a notional model of how the process from discovering new information to creating a product (e.g. a presentation) is undertaken. This has two large loops - foraging and reality/policy, which includes sensemaking. These each comprise smaller loops which, in the foraging loop pull into external data, identifies that which is likely to be relevant (it goes into the shoebox) and then pulls out the relevant evidence. The reality/policy/sensemaking loop puts the evidence into the schema before creating a hypothesis. This route is the bottom up process. There is a top-down process that may arise from feedback on the product, or counter evidence that may then result in a reexamination of different loops. 
-
-Talk about leverage points (pain points) that emerge. In the foraging loop these are the costs that are incurred in searching, understanding, etc (there's more detail on this). In the sensemaking loop these are:
-- Span of attention for evidence and hypotheses
-- Generation of alternative hypotheses
-- Confirmation bias
-It is these leverage points that technologies may be developed for improving the production of novel intelligence from massive data.},
-  creationdate = {2020-06-01},
-  month        = {01},
-  owner        = {ISargent},
-  year         = {2005},
 }
 
 @Article{SinghJ2018,
@@ -12247,41 +12232,6 @@ As it may not be clear if our use of AI is high-risk or lower-risk (I presume no
   keywords         = {ethics, trust, artificial intelligence, EthicsWS},
   modificationdate = {2022-12-10T20:57:44},
   owner            = {ISargent},
-  year             = {2021},
-}
-
-@Article{AbdallaA2021,
-  author           = {Abdalla, Mohamed and Abdalla, Moustafa},
-  date             = {2021-04-27},
-  journaltitle     = {arXiv:2009.13676},
-  title            = {The Grey Hoodie Project: Big Tobacco, Big Tech, and the threat on academic integrity},
-  url              = {https://arxiv.org/abs/2009.13676},
-  comment          = {''The name of our paper is an homage to Project Whitecoat: Project Grey Hoodie is referencing the buying out of technical academics''
-The Whitecoat Project: ``funding was reserved for researchers who would be used to testify at legislative hearings in favor of Big Tobacco. In fact, there was a concentrated covert effort on behalf of Philip Morris International to identify European scientists with no previous connections to tobacco companies who could be potentially persuaded to testify on behalf of Big Tobacco against proposed regulation on second hand smoking ... resulted in infiltrations in governing officials, heads of academia, and editorial boards''
-''Microsoft has claimed to be developing an ethical checklist [10], a claim that has recently been called into question [59]''
-''Big Tech has funded various similar institutions. Founded in 2016 by Google, Microsoft, Facebook, IBM, and Amazon among others, the “Partnership on AI to Benefit People and Society” was “established to study and formulate best practices on AI technologies, [... and study] AI and its influences on people and society” [49]''  “ACLU nor MIT nor any other nonprofit has any power in this partnership”
-''NeurIPS has had at least two Big Tech sponsors at the highest tier of funding since 2015''
-''workshops relating to ethics or fairness, all but one have at least one organizer who is affiliated or was recently affiliated with Big Tech. For example, there was a workshop about “Responsible and Reproducible AI” sponsored solely by Facebook''
-''research in other fields clearly demonstrating that industry funding negatively impacts work and subconsciously biases researchers [29, 39, 45, 48]''
-''distracting scientists and the public by sowing seeds of confusion and discord in the public and scientific community''
-''97\% (32/33) of faculty with known funding sources (65\% total) have received financial compensation by Big Tech''
-'' As a result, it makes sense that much of the fairness work that exists holds the entrenched Big Tech view that “social problems can be addressed through innovative technical solutions” [42]''
-Big Tobacco: ``skeptics were solicited ... amplified into the public discourse [11, 12, 52]. The result of such amplification resulted in new skeptics and the emboldening of existing ones''
-''there was a concentrated covert effort on behalf of Philip Morris International to identify European scientists with no previous connections to tobacco companies who could be potentially persuaded to testify on behalf of Big Tobacco against proposed regulation on second hand smoking [11]. This was part of the larger Whitecoat Project''
-'' Tim Kendall's congressional testimony states that in the pursuit of profit, Facebook “took a page from Big Tobacco's playbook” [35]''
-
-''influence can occur without an explicit intent to manipulate, but simply through repeated interactions where one party takes substantial sums of money or spends a large amount of time in an environment with different goals/views''
-
-''steps that can be done right now'':
-- Every researcher should be required to post their complete funding information online
-- Universities need to publish documents highlighting their position regarding the appropriateness of direct researcher funding from Big Tech
-- discussion regarding the future of the ethics and fairness of the AI field
-- Computer science as a field should explore how to actively court antagonistic thinkers},
-  creationdate     = {2021-06-24},
-  keywords         = {ethics, trust, artificial intelligence, EthicsWS},
-  modificationdate = {2022-12-10T20:57:18},
-  owner            = {ISargent},
-  priority         = {prio1},
   year             = {2021},
 }
 
