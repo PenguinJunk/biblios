@@ -4291,8 +4291,8 @@ Market shaping needs to:
 - Direct finance
 - Improve public sector capabilities},
   creationdate     = {2022-10-30T14:44:45},
-  keywords         = {economics, policy AI, machine learning, missions},
-  modificationdate = {2022-12-10T15:21:08},
+  keywords         = {economics, policy AI, machine learning, missions, technlogy},
+  modificationdate = {2023-10-29T15:52:27},
   owner            = {ISargent},
 }
 
@@ -7699,14 +7699,25 @@ Uses these variable to define 4 traditions in Westerrn administration:
 @Misc{WinigE2016,
   author           = {Laura Winig and David Eaves},
   date             = {2016},
-  title            = {Hacking Bureaucracy:Reimagining California's Food Stamp Program in the Digital Age},
+  title            = {Hacking Bureaucracy: Reimagining California's Food Stamp Program in the Digital Age},
   howpublished     = {John F. Kennedy School of Government, Harvard Kennedy School (HKS), Harvard University.},
   note             = {Case Number 2085.0},
-  comment          = {Case study demonstrating how attention to user experience can complete change a government service.
+  comment          = {Case study demonstrating how attention to user experience can completely change a government service.
 
-US food stamp service, SNAP, and particularly California's version, CalFresh},
+Code for America formed by Pahlka in 2009, which placed small teams in public sector to use technology to quickly and creatively solve problems
+
+US food stamp service, SNAP, and particularly California's version, CalFresh
+
+CalFresh had a high churn rate - people dropping off and having to reapply, or who did not come back despite not being food secure. Reapplication also wasteful of resources. Churn due to bad experiences, difficult forms, forms not being received, or in wrong language, confusing notices about changes to benefits and action required, etc. 
+
+Set up an account to experience what CalFresh applicants / recipients experience. Also experience of one member of team who gained real experience of process through drop in salary.
+
+As a result, set up their own website with user-friendly interface that sent data to CalFresh system and discovered that this worked [luckily - ethical red flags here!]. This was later scaled.
+
+Some conflict between serving needs of funders (government or business) and needs of users - maintained user-centred design.},
   creationdate     = {2023-01-17T12:56:49},
-  modificationdate = {2023-01-17T13:00:29},
+  keywords         = {policy, digital, transformation},
+  modificationdate = {2023-10-31T07:44:57},
   owner            = {izzyolivine},
 }
 
@@ -11300,7 +11311,7 @@ Interesting to compare and contrast with HerdM2018 - adminstrative burden},
   author           = {Iacopo Gronchi and Angeliki Vourdaki},
   date             = {2023-02-02},
   institution      = {Demos Helsinki},
-  title            = {Draft: What is a 21stcentury civilservice for? The case for a transformative civil service:Four values and a new ethos},
+  title            = {Draft: What is a 21st century civil service for? The case for a transformative civil service:Four values and a new ethos},
   comment          = {Four values can propel their role as indispensable agents of governance:
 humility, wisdom, imagination, and collaboration.
 
@@ -11320,7 +11331,7 @@ new ethos can emerge and spread around the organisation:
 3. Consolidate, institutionalise, and codify best practices},
   creationdate     = {2023-03-21T14:27:14},
   keywords         = {transformation, bureaucracy, policy},
-  modificationdate = {2023-03-21T14:51:36},
+  modificationdate = {2023-10-29T15:50:28},
   owner            = {izzy_olivine},
 }
 
@@ -17959,7 +17970,7 @@ I like the story of the JSC Pirates, who overhaul the compute infrastructure, in
   owner            = {ISargent},
 }
 
-@Article{MadanA2022,
+@Article{MadanA2022literature,
   author           = {Madan, Rohit and Ashok, Mona},
   date             = {2022},
   journaltitle     = {Government Information Quarterly},
@@ -18074,7 +18085,7 @@ There are other lists of themes around:
 -},
   creationdate     = {2023-10-14T15:14:55},
   keywords         = {BigTech, AI, transformation, bureaucracy},
-  modificationdate = {2023-10-14T15:47:38},
+  modificationdate = {2023-10-30T22:29:01},
   owner            = {izzy_olivine},
 }
 
@@ -18273,7 +18284,7 @@ Two types of power dynamics veneer l between foundations and grantees:
   journaltitle     = {Social Science Computer Review},
   title            = {Exploratory Insights on Artificial Intelligence for Government in Europe},
   pages            = {426--444},
-  url              = {https://api.semanticscholar.org/CorpusID:230554083},
+  url              = {https://journals.sagepub.com/doi/abs/10.1177/0894439320980449},
   volume           = {40},
   comment          = {Propose a framework to provide a comprehensive overview of the key factors contributing to the successful addition of AI systems in public sector
 
@@ -18283,7 +18294,7 @@ Mainstream literature has only nature focus on data, processing power and algori
 
 De Vries et al 2016 developed a framework based on work of Borins 2000 and Rogers 2010.
 
-Schedler et al 2019 identified that barriers to adoption of innovation across government remain the same, and this paper therefore considered these antecedent conditions with respect to AI:
+SchedlerGF2019 identified that barriers to adoption of innovation across government remain the same, and this paper therefore considered these antecedent conditions with respect to AI:
 - environmental antecedents - other organisations, institutions, network, public opinion, media, political,
 - organizational antecedents - structure, culture, finance, knowledge, support, days interoperability 
 - invitation-related antecedents - perception of value, ease of use
@@ -18316,13 +18327,15 @@ For each, identifies nature of antecedent conditions that are drivers or barrier
   - compatibility with organisational values
   - ease of use
   - security and privacy concerns
-- Individual
+- AI antecedents:
   - high-quality data
   - maintenance of data
   - data sharing
   - data-driven services ecosystem
+- Individual
+  - an individual who drive the innovation 
 
-Also AI antecedents:
+Also 
 - data governance
 - data sharing
 - datafication of societal processes including metadata codification, semantic interoperability efforts
@@ -18336,7 +18349,8 @@ No loss of jobs (in day-care insurrection case) because of the need for staff to
 
 Calls for a long term lens because evidence that AI applications are dropped due to political, legal or other reasons},
   creationdate     = {2023-10-21T12:28:56},
-  modificationdate = {2023-10-21T12:33:48},
+  keywords         = {AI, technology, policy, transformation, digital},
+  modificationdate = {2023-10-24T16:38:40},
   owner            = {izzy_olivine},
   year             = {2020},
 }
@@ -18801,18 +18815,23 @@ Results section breaks down in detail these topic areas:
   comment          = {Defines the Malaysian Public Sector cloud computing implementation with success measure being operational efficiency
 
 Apply the Technology-Organisation-Environment (TOE) framework.
+
 Technological context is:
 1. relative advantage
 2. compatibility
 3. perceived risks
+
 Organisational context is:
 4. top management support
 5. organisational readiness
+
 Environmental context is:
 6. government regulatory
 7. vendor support 
+
 Model is that these will affect cloud 
 9. computing implementation
+
 Which then affects 
   - operational effectiveness
 
@@ -18825,7 +18844,7 @@ Find that technological and organisational factors influence implementation of c
 TOE framework could be useful for a similar study},
   creationdate     = {2023-10-22T21:51:47},
   keywords         = {cloud, technology, transformation, organisation},
-  modificationdate = {2023-10-22T21:56:08},
+  modificationdate = {2023-10-24T09:08:53},
   owner            = {izzy_olivine},
 }
 
@@ -18849,8 +18868,10 @@ Theoretical framework is that:
 All influence:
 - perceived usefulness PU
 - perceived ease of use PEOU (which influences PU)
+
 Which affect:
 - behavioural intention
+
 Which influences:
 - use behaviour
 
@@ -18886,7 +18907,7 @@ Discusses interventions for improving acceptance:
 Survey questions in the appendix may be useful as they can be used to measure sentiment towards technology},
   creationdate     = {2023-10-22T21:57:29},
   keywords         = {technology},
-  modificationdate = {2023-10-22T21:59:12},
+  modificationdate = {2023-10-24T09:08:35},
   owner            = {izzy_olivine},
 }
 
@@ -18932,7 +18953,7 @@ Find factors related to assurance were most important to acceptance, but other a
   institution      = {Walden University},
   title            = {An Acceptable Cloud Computing Model for Public Sectors},
   eprint           = {https://scholarworks.waldenu.edu/cgi/viewcontent.cgi?article=12057&context=dissertations},
-  comment          = {Uses TAM3 model of technology acceptance (VankatesgB2008), which amounts for:
+  comment          = {Uses TAM3 model of technology acceptance (VenkateshB2008), which amounts for:
 - perceived usefulness
 - perceived ease of use
 - facilitating conditions:
@@ -18959,7 +18980,7 @@ Discovered 5 themes of strategies used in public sector organisations to utilize
 The interview protocol in the appendix may be useful - qualitative survey},
   creationdate     = {2023-10-22T22:07:28},
   keywords         = {cloud, technology, organisation},
-  modificationdate = {2023-10-22T22:10:00},
+  modificationdate = {2023-10-24T19:51:14},
   owner            = {izzy_olivine},
 }
 
@@ -18980,7 +19001,7 @@ Makes me think of Metis according to Scott2020
 
 More of the silicon chip study is found in Hille2023},
   creationdate     = {2023-10-23T15:17:59},
-  keywords         = {technology, decisions,},
+  keywords         = {technology, decisions},
   modificationdate = {2023-10-23T15:23:34},
   owner            = {ISargent},
 }
@@ -19005,6 +19026,689 @@ Its set up fabs in Arizona but is on a steep learning curve, particularly the di
 They would normally subdivide the work over many packages and contracts, this may be difficult to duplicate},
   creationdate     = {2023-10-23T15:23:10},
   modificationdate = {2023-10-23T15:38:34},
+  owner            = {ISargent},
+}
+
+@Online{UKGov2020OSShareholder,
+  author           = {{UK Government}},
+  date             = {2020-12-17},
+  title            = {Ordnance Survey Shareholder Framework Document},
+  url              = {https://web.archive.org/web/20230404001806/https://www.ordnancesurvey.co.uk/documents/legal/os-shareholder-framework-document.pdf},
+  urldate          = {2023-10-24},
+  comment          = {The Company’s Strategic Objectives are:
+* to provide world-leading geospatial services and data in the UK and internationally. This involves:
+  - delivering the Public Task and such other public sector obligations as required under the Public Sector Geospatial Agreement (PSGA) currently in force between OS and the
+Geospatial Commission. In doing so, the Company will fund continuous improvement in database content, data structure, data delivery, currency, fitness for purpose and accuracy;
+  - delivering the multi-year Strategic Plan approved by the Shareholder, as amended from time to time;
+* to operate as a sustainably profitable commercial organisation, on a self-financing basis, with the aim of decreasing the net cost to the public sector of the Company over time;
+* to support the Geospatial Commission in its role to provide strategic oversight of the geospatial ecosystem in the UK, acting as one of the six core `Partner Bodies' as set out in the
+Commission’s framework1; and
+* to carry out the activities as anticipated by Ordnance Survey’s powers and duties as set out in statute including, but not limited to:
+  - meeting its statutory responsibility under the Ordnance Survey Act 1841 to identify and depict the official electoral and administrative boundaries of Great Britain;
+  -  for the Director General of Ordnance Survey to act as an assessor to the Boundary Commissions for England, Scotland and Wales under the Parliamentary Constituencies Act 1986;
+  -  meeting its obligations as set out in its agreement with the Keeper},
+  creationdate     = {2023-10-24T15:54:16},
+  modificationdate = {2023-10-24T16:08:03},
+  owner            = {izzy_olivine},
+}
+
+@Online{OSAnnualReport2022,
+  author           = {{Ordnance Survey}},
+  date             = {2022},
+  title            = {Show the world how to get to a better place: Ordnance Survey Limited Annual Report and Financial Statements for the year ended 31 March 2022},
+  url              = {https://www.ordnancesurvey.co.uk/documents/legal/os-annual-report-2021-22-20pt.pdf},
+  organization     = {Ordnance Survey Ltd},
+  urldate          = {2023-10-24},
+  comment          = {references Ordnance Survey Shareholder Framework on p90},
+  creationdate     = {2023-10-24T15:59:46},
+  modificationdate = {2023-10-24T16:07:39},
+  owner            = {izzy_olivine},
+}
+
+@Online{MS2021MOU,
+  author           = {Microsoft},
+  date             = {2021-04-21},
+  title            = {UK government signs new three-year Memorandum of Understanding with Microsoft},
+  url              = {https://news.microsoft.com/en-gb/2021/04/21/uk-government-signs-new-three-year-memorandum-of-understanding-with-microsoft/},
+  urldate          = {2023-10-24},
+  creationdate     = {2023-10-24T18:14:41},
+  modificationdate = {2023-10-24T18:15:56},
+  owner            = {izzy_olivine},
+}
+
+@Online{UKGov2021MSMOU,
+  author           = {{Crown Commercial Services}},
+  date             = {2021-04-21},
+  title            = {Crown Commercial Service announces a 3 year Memorandum of Understanding (MoU) with Microsoft UK},
+  url              = {https://www.crowncommercial.gov.uk/news/crown-commercial-service-announces-a-3-year-memorandum-of-understanding-mou-with-microsoft-uk},
+  urldate          = {2023-10-24},
+  creationdate     = {2023-10-24T18:16:22},
+  modificationdate = {2023-10-24T18:18:12},
+  owner            = {izzy_olivine},
+}
+
+@Online{MS2020Azure,
+  author           = {Microsoft},
+  date             = {2020-04-30},
+  title            = {Microsoft and UK Government agree new Azure Pricing Arrangement},
+  url              = {https://news.microsoft.com/en-gb/2020/04/30/microsoft-and-uk-government-agree-new-azure-pricing-arrangement/},
+  creationdate     = {2023-10-24T18:18:31},
+  modificationdate = {2023-10-24T18:19:09},
+  owner            = {izzy_olivine},
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Article{RikapL2022,
+  author           = {Cecilia Rikap and Bengt-Åke Lundvall},
+  date             = {2022},
+  journaltitle     = {Innovation and Development},
+  title            = {Big tech, knowledge predation and the implications for development},
+  doi              = {10.1080/2157930X.2020.1855825},
+  number           = {3},
+  pages            = {389-416},
+  url              = {https://doi.org/10.1080/2157930X.2020.1855825},
+  volume           = {12},
+  creationdate     = {2023-10-24T21:21:44},
+  keywords         = {technology, BigTech, trust},
+  modificationdate = {2023-10-28T18:50:13},
+  owner            = {izzy_olivine},
+  publisher        = {Routledge},
+}
+
+@Online{Ofcom2023,
+  author           = {Ofcom},
+  date             = {2023-10-05},
+  title            = {Ofcom refers UK cloud market to CMA for investigation},
+  url              = {https://www.ofcom.org.uk/news-centre/2023/ofcom-refers-uk-cloud-market-to-cma-for-investigation},
+  urldate          = {2023-10-24},
+  comment          = {New article about the referral of Amazon AWS and Microsoft to the Competition and Markets Authority. This links to the bigger report, which I need to add to this data base.},
+  creationdate     = {2023-10-24T21:23:27},
+  keywords         = {BigTech, technology, cloud, trust},
+  modificationdate = {2023-10-24T21:26:03},
+  owner            = {izzy_olivine},
+}
+
+@Article{Richardson1986,
+  author           = {Richardson, George P.},
+  date             = {1986},
+  journaltitle     = {System dynamics review},
+  title            = {Problems with causal-loop diagrams},
+  doi              = {10.1002/sdr.4260020207},
+  number           = {2},
+  pages            = {158--170},
+  url              = {https://onlinelibrary.wiley.com/doi/abs/10.1002/sdr.4260020207},
+  volume           = {2},
+  comment          = {tl;dr: Demonstrates how simple arrows with a plus or a minus sign can cause misrepresentation of dynamic behaviour in causal loop diagrams. Suggests alternative definitions and notation. ``The crux of the problem with causal-loop diagrams ... is that they make no distinction between information links and rate-to-level links (sometimes called ``conserved flows'')''. This is not a problem with equations or stock-and-flow diagrams. This paper discusses how to overcome the ambiguity of these types of link. ``In recognition of these difficulties, there has been a revival of stock-and-flow diagrams as a means of communicating structure (Morecroft 1982)'' Causal loops have traditionally been represented with a plus sign to indicate that a change in the variable at the start of the arrow will result in the change in the same direction of the variable at the end of the arrow. A minus sign means the second variable will change in the opposite direction. However, rate variables such as birth or migration can decrease but the outcome is still an increase (e.g. in population), albeit it slower. These are ``rate-to-level'' (``conserved flow'', ``additive'') connections (links), not information (``proportional'') connections (links). Suggest alternative definitions, the preferred being: ``A has a positive (negative) influence on B if A adds to (subtracts from) B, or if a change in A results in a change in B in the same (opposite) direction''. Also suggest using solid lines for rate-to-level connections and dotted lines for information connections. Others have used straight and curved lines, or valves and tubs to distinguish. Go on to demonstrate how it can be difficult to determine whether some such links are positive or negative (their polarity): - if the rate reduces, the outcome could still increase or it could decrease, and this may change over time - there may be hidden minor loops which affect behaviour over time - the causal loop may be a net rate which aggregates rates in both directions Advises resisting giving causal loops polarities. Gives an example of a feuding family in which an increase in one family results in a decrease in the other family, which increases the first family further. Conversely a decrease in the first family, would result in few deaths in the second, which results in more killed, and thus a further decrease, in the first.},
+  creationdate     = {2023-10-28T17:06:24},
+  keywords         = {systems},
+  modificationdate = {2023-10-28T18:40:48},
+  owner            = {izzy_olivine},
+  year             = {1986},
+}
+
+@Article{GhaffarzadeganLR2010,
+  author           = {Navid Ghaffarzadegan and John Lyneis and George P. Richardson},
+  date             = {2010},
+  journaltitle     = {System Dynamics Review},
+  title            = {How small system dynamics models can help the public policy process},
+  doi              = {10.1002/sdr.442},
+  number           = {1},
+  pages            = {22--44},
+  url              = {https://onlinelibrary.wiley.com/doi/10.1002/sdr.442},
+  volume           = {27},
+  comment          = {tl;dr: Argues that small systems dynamics models can aid policymaking and help policymakers learn about the environment and dynamics of a system. 
+Identifies 5 characteristics of public policy problems. Discusses two examples of small systems models to demonstrate how 4 core aspects of these small models address the 5 characteristics of public policy problems. Lists some limitations of small models.
+
+Use literature review to demonstrate how there was very little application of systems dynamics in government policymaking
+
+State 5 characteristics of public policy problems:
+1. Policy resistance from the environment - may be balancing feedback from the system or resistance from actors, can undermine policy even exacerbate original problem (compensating feedback)
+2. The need for and cost of experimentation - policies are high stakes and aren't reversible, experiential learning and adjustments are vital but policy resistance and delay create even more complexity
+3. The need to achieve consensus between diverse stakeholders - failing this can lead to short-term focus which ignores or even damages longer-term outcomes
+4. Overconfidence in policymakers - evidence from observation and psychology experiments, delays in feedback make learning more difficult
+5. The need to have an endogenous perspective -  undesirable outcomes tend to be blamed on external factors rather than factors within the system, endogenous perspective improve individual and organisational learning
+
+Review two small models to demonstrate how they can be used to successfully make critical public policy insights:
+1. Urban dynamics - URBAN1 is the small model for investigating the causes of urban decay. The stocks are population, housing, and business structures. Original model had at least 9 major stock variables. All these stocks grow until land scarcity starts to slow growth, particularly of businesses, leading (ultimately - more detail in paper) to a higher population than can be supported by the available jobs. Not only does this model provide insights into causes of urban decay but it also supports the design of policy by demonstrating the feedback structure of the system. Shows results of different interventions such as increasing the number of jobs, which can have unintuitive outcomes.
+2. Swamping insight model - a small system dynamics model was created that examines the effect of investment in the different parts of a new system of Temporary Assistance to Needy Families (TANF) in particular the probability of recidivism. Stocks are Families on TANF and Post TANF employed. Found that increasing the capacity of support after TANF has a positive effect, while increasing the capacity of TANF support increases the number of families at risk (because this leads to overcapacity - swamping of -  post TANF support).
+
+[The models as illustrated in this paper distinguish stocks and flows, reinforcing and balancing loops and information links very clearly (it seems the problems stated in Richardson1986 are overcome here)]
+
+For each of the five characteristics of public policy problems, this paper tabulates how small systems dynamics models can benefit, with respect to:
+- feedback loop approach to modelling - feedbacks modelled in the small systems models, and turning these off can demonstrate some of the false assumptions of decision makers. Their inclusion therefore emphasises endogenous sources of behaviour
+- aggregate approach to modelling, which groups individuals and even groups, and uses stocks and flows in the model structure
+- simulation approach - running mathematical simulations to conduct experiments given different conditions
+- small model size - only a few stocks and are most 7 or 8 feedback loops:
+  1. a small model size allows for exhaustive experimentation through parameter changes
+  2. short exposition facilitates the presentation of lessons to others, and helps bring the dynamic lessons to the meetings of stakeholders
+
+Limitations of small models:
+1.  customers in general and policymakers in particular often demand an exclusive model that considers all possible causal links either observed or contemplated
+2. stakeholders may want to see their own organisations, departments, or communities separately represented, increasing the level of disaggregation
+3. modellers may underestimate the role of some feedback loops which may actually be important in reality
+4. the process of building small models may in fact be more difficult than building larger models that include multiple feedback loops
+5. care is needed to ensure that causal links in are operational at high level
+
+Also:
+Mention near start about building consensus around small models
+
+Key insights of Urban Dynamics:
+1. the total attractiveness of an urban region must be considered relative to the attractiveness of all surrounding regions (Forrester, 1971b) - this preserved in the small version
+2. the decay phase comes from natural asymmetries in the structure and dynamics of business structures and housing - reasonably easy to see in URBAN1 and almost impossible to draw out of the full Urban Dynamics model
+
+Create consensus
+- Better view of whole system - narrative and feedback
+- Better understanding of endogenous behaviour
+- Allows exhaustive experimentation},
+  creationdate     = {2023-10-28T18:23:42},
+  keywords         = {systems, change, social science},
+  modificationdate = {2023-10-28T18:41:54},
+  owner            = {izzy_olivine},
+}
+
+@Book{Sterman2000,
+  author           = {John D. Sterman},
+  date             = {2000},
+  title            = {Business Dynamics},
+  subtitle         = {Systems Thinking and Modeling for a Complex World},
+  url              = {https://web.mit.edu/jsterman/www/BusDyn2.html},
+  comment          = {Not yet read much - looks like a useful detailed text for systems, complexit, wicked, practice - must look at more
+
+Lots of examples of policy resistance p9
+
+Dynamics of the system is determined by p12:
+- feedback processes
+- stock and flow structures
+- time delays
+- nonlinearities
+
+All dynamics arise from the interaction of positive (self-reinforcing) and negative (self-correcting) loops},
+  creationdate     = {2023-10-28T18:31:44},
+  keywords         = {systems, organisation, practice, transformation},
+  modificationdate = {2023-10-28T18:44:17},
+  owner            = {izzy_olivine},
+}
+
+@Article{JonesISL2019,
+  author           = {Steve Jones and Zahir Irani and Uthayasankar Sivarajah and Peter E. D. Love},
+  date             = {2019},
+  journaltitle     = {Information Systems Frontiers},
+  title            = {Risks and rewards of cloud computing in the UK public sector: A reflection on three Organisational case studies},
+  doi              = {10.1007/s10796-017-9756-0},
+  pages            = {359--382},
+  volume           = {21},
+  comment          = {UK government announced private Government Cloud Computing Infrastructure G-Cloud 2010. 6 initiatives that sparked this:
+1. Standardise and simplify the desktop
+2. Standardise networks and rationalise data centre estate
+3. Deliver in open source
+4. Open standards and reuse strategy
+5. Green IT
+6. Information security and assurance
+Also improve:
+a. Shared services
+b. Reliable project delivery
+c. Supplier management
+d. Professionalising IT enabled business change
+[What happened to this???]
+
+Lists lots of benefits of cloud for gov
+
+Potential risks / obstacles impeding adoption (Burton 2015; ENISA2015):
+- standards
+- certification
+- data protection
+- interoperability
+- lock-in
+- legal certainty
+
+Increasing pressure to measure IT value but little with actually doing this
+
+Use Anthony 1965 for progressive hierarchical lens for napping rewards and risks of cloud.
+
+Rewards:
+- strategic
+  - centralisation of infrastructure
+  - increased resilience
+  - device and location independence
+  - release internal IT resources
+  - better citizen services
+  - green technology
+- tactical
+  - improved business continuity and disaster recovery
+  - improved agility and empowerment
+  - faster implementation
+  - improved security
+  - scalability
+  - easier application migration
+- operational
+  - reduced costs
+  - reduced maintenance and support
+  - flexibility of work practices
+  - utilisation and efficiency improvements
+  - shared services
+  - increased peak load capacity
+
+Risks:
+- strategic
+  - unproven financial business case
+  - loss of governance
+  - lack of trust in providers
+  - security and privacy issues
+- tactical
+  - portability restrictions
+  - lack of data ownership
+  - integration restrictions
+- operational
+  - poor performance
+  - limited storage capacity
+  - financial pressures
+  - loss of control
+  - lack of detailed information about data locations
+  - disaster recovery restrictions
+  - lack of service availability
+  - difficult to customise
+
+Look at 3 case studies of local authorities. They had Gartner IT maturity factors of 5, 3 and 4 out of 5. Used various materials (meeting minutes, interviews, informal discussion, diaries, emails). Interviews were all with managers and heads. Considered:
+1. IT strategy
+2. Motivation for implementing cloud technology
+3. Strategy used for evaluating the user of cloud
+4. Cost benefits realised by exploiting cloud
+
+Nice details on research methods. 
+
+Tables show how each case study experienced each reward and risk. E.g. they all found ``difficult to customise'' a significant risk. Also discuss each factor individually. With returning to this for specific factors of interest.
+
+String project management across all cases but not appropriate training
+Current position is organisations is optimistic because there is further opportunity to develop
+
+``although there were mixed outcomes with the implementation of cloud computing across all the cases, the deployment of this technology has been well received by employees and users''
+
+Lesson 1 - Public sector organisations need to critically question the underlying assumptions of their existing IT infrastructures and
+assess strategically whether a cloud solution fits the risks
+and rewards considered to be acceptable by the organisation and its stakeholder community
+
+Lesson 2 - Cloud implementation should have an explicit concern for the organisational context and flexible working methods that need to be adopted if the full benefits of cloud computing are to be leveraged in the public sector
+
+Lesson 3 - The views and assumptions of cloud should be exposed and considered within the public authorities' evaluation process and not be ephemeral to it
+
+Lesson 4 - The hierarchical and political nature of public sector organisations creates a barrier to change and this must be overcome to ensure cloud solutions are successful in practice
+
+Lesson 5 - Public sector organisations must ensure the cloud solution is secure to ensure data is not accessed by unauthorised parties
+
+Lesson 6 - Public sector organisations should undertake a cloud benefits review to ensure the solution is a clear business case
+that is delivering cost savings, business efficiency savings and value for money
+
+Lesson 7 - Public authorities should ensure that the strong leadership of the national government is followed to enable dynamic cloud solutions to be deployed to shape public sector outcomes
+
+Lesson 8 Public sector organisations should promote cloud internally and ensure adequate training is undertaken
+
+Lesson 9 - Public authorities should implement adequate, legal, regulatory and governance frameworks to ensure cloud systems functions successfully
+
+Lesson 10 - Public sector organisations should create a cloud aware culture to capitalise on the impact and benefits
+of cloud},
+  creationdate     = {2023-10-28T18:35:44},
+  keywords         = {digital, cloud, transformation, public sector, organisation},
+  modificationdate = {2023-10-28T18:45:33},
+  owner            = {izzy_olivine},
+}
+
+@InBook{MadanA2022publicvalues,
+  author           = {Rohit Madan and Mona Ashok},
+  booktitle        = {Handbook of research on Artificial Intelligence in government practices and processes},
+  date             = {2022},
+  title            = {A public values perspective on the application of Artificial Intelligencein government practices: a synthesis of case studies},
+  chapter          = {10},
+  doi              = {10.4018/978-1-7998-9609-8.ch010},
+  editor           = {Jose Ramon Saura and Felipe Debasa},
+  publisher        = {IGI Global},
+  url              = {https://pure.qub.ac.uk/en/publications/a-public-values-perspective-on-the-application-of-artificial-inte},
+  comment          = {Consider Ai use in government with objective to understand citizen adoption of AI in government. 
+
+Discuss waves of innovation in public services. The first, in neoliberal 80s was  New Public Management (NPM) and a second wave is technologically centred approach that Dunleavy referred to as digital-era governance (DEG). Argues for a Public Values Management (PVM) perspective in exploring AI adoption in government.
+
+Nice overviews of NPM, DEG and PVM
+
+4 main critiques of NPM from (Hood 1991):
+1. strong institutional character was resistant change from NPM
+2. NPM was less based on evidence and more on political motivations and hasn't delivered its promises
+3. NPM assumes superiority of market control and performance management goals cause focus on short-term institutional goals rather than broader vision of public service
+4.  NPM claimed universality but different administrative values resulted in varied resulting cultures
+
+Whilst first wave of IT reform was driven by NPM but it treated it entirely as a tool and thus failed to account for the transformation this would have on government
+
+DEG locates human-machine interactions at the core of government service delivery, with 3 themes (from Dunleavy 2006):
+1. reintegration - consolidating agencies that were disaggregated by NPM, e.g. with shared services
+2. needs-based holism - re-engineering services, citizen engagement, agile government etc.
+3. digitalisation change - global trend towards open government and transparency
+
+``Chris and Susan'' (Muellerleile and Robertson 2018)  find that DEG represents an institutional framework, representing Weber's techno-scientific logic through rule-based rationality:
+- humans
+- algorithms
+- data collection devices
+- surveillance
+
+Three core values of public administration are (from Hood 1991), which constitute the strategic triangle (popularised by Moore 1995) and widened by Bannister and Connolly 2014 (after /):
+- sigma - relates to economy and parsimony / duty (also non-financial)
+- theta - relates to honest and fairness / service (responsibility to provide a good service to customers)
+- lambda - relates to security and resilience / social (also quasi-political view of social values)
+NPM is only sigma (cost cutting, efficiency and performance management)
+
+``With strategy derived from public values, the operational capacity building turns towards long-term outcomes, public managers shift from results orientation to stakeholder interactions and co-production with citizens (Bryhinets et al., 2020; Karkin et al., 2018; Panagiotopoulos et al., 2019)''
+
+``PVM provides an appropriate democratic process for resolving ethical dilemmas with the implementation of AI in the public sector (Andrews, 2018; Panagiotopoulos et al., 2019)''
+
+Review of technology adoption models. Focuses on models arising from UTAUT from Venkatesh et al 2003, UTAUT2 and meta-UTAUT (Dwivedi et al 2020) which overlaps VenkateshB2008's TAM3. In discussion it briefly mentions Sohn and Kwon's 2020 finding that  consumer acceptance of AI base products fitted the Value-based Adoption Model (VAM; KimCG2007) better than UTAUT. Worth looking into these.
+
+Also looks at reviews of AI in government, citing work (Misuraca et al 2020, Reis et al 2019) that find that public sector AI is not very orientated towards public values.
+
+``there is a concern that lack of public administration scholarship and consideration of public values will once again create conditions whereby the government adopts private sector models with disappointing results similar to NPM-era IT projects''
+
+Performed review of case studies to:
+- develop a typology
+- enumerate the factors that impact citizen adoption
+
+
+Four themes are identified:
+- compliance
+- organisational management
+- public service delivery (highest percentage)
+- regulatory functions (e.g. research and policy development) 
+Also labelled each use case with the public values orientation (duty, etc.) and AI Principles (Floridi and Cowls 2019)
+
+Discusses different aspects of value, their prominence and whether they are internal or external in orientation. Makes a series of propositions, which are largely reflective of the citizen adoption goal [therefore less of interest to me right now].},
+  creationdate     = {2023-10-29T12:05:19},
+  keywords         = {AI, public values, digital, transformation, trust, organisation, technology},
+  modificationdate = {2023-10-30T22:29:12},
+  owner            = {izzy_olivine},
+}
+
+@Article{KimCG2007,
+  author           = {Hee-Woong Kim and Hock Chuan Chan and Sumeet Gupta},
+  date             = {2007},
+  journaltitle     = {Decision Support Systems},
+  title            = {Value-based Adoption of Mobile Internet: An empirical investigation},
+  pages            = {111--126},
+  volume           = {43},
+  comment          = {This is the Value-based Adoption model paper
+
+``VAM is particularly useful for understanding the adoption of M-Internet in comparison with TAM as it examines the adoption of M-Internet as a new ICT by individuals playing the double roles of service consumer and technology user''
+
+``found that value perception is a major determinant of M-Internet adoption by testing the mediating effect of perceived value on the relationship between a customer’s benefit and sacrifice related beliefs and the customer’s adoption intention''
+
+Hypothesise that Benefits (usefulness and enjoyment) and Sacrifices (technicality and perceived fee) both influence perceived value which then influences adoption intention and used questionnaires to test this.},
+  creationdate     = {2023-10-29T15:30:36},
+  modificationdate = {2023-10-29T15:38:12},
+  owner            = {izzy_olivine},
+}
+
+@Article{LamJGSNMPO2022,
+  author           = {David P. M. Lam and Amanda Jim\'{e}nez‑Aceituno and Guerrero Lara, Leonie and My M. Sellberg and Albert V. Norstr\"{o}m and Michele-Lee Moore and Garry D. Peterson and Per Olsson},
+  date             = {2022},
+  journaltitle     = {Sustainability Science},
+  title            = {Amplifying actions for food system transformation: insights from the Stockholm region},
+  pages            = {2379--2395},
+  volume           = {17},
+  comment          = {Not yet read this but it has the excellent diagram/graphic summarising the typology of amplification processes:
+- amplifying within the an initiative
+  - stabilising
+  - speeding up
+- amplifying an initiative
+  - growing
+  - replicating
+  - transferring
+  - spreading
+- amplifying beyond an initiative
+  - scaling up
+  - scaling deep},
+  creationdate     = {2023-10-30T17:33:41},
+  modificationdate = {2023-10-30T17:34:45},
+  owner            = {izzy_olivine},
+}
+
+@Article{Bachtold2021,
+  author           = {Stefan B\"{a}chtold},
+  date             = {2021},
+  journaltitle     = {International Political Sociology},
+  title            = {Donor Love Will Tear Us Apart: How Complexity and Learning Marginalize Accountability in Peacebuilding Interventions},
+  doi              = {10.1093/ips/olab022},
+  pages            = {504--521},
+  volume           = {15},
+  comment          = {Peacebuilding has seen a rise in the use of complexity theory and systems thinking
+
+Interventions are considered non-linear and aim to catalyse emergent change
+
+This paper argues the the increased uptake of concepts of compleity and systems thinking in peacebuilding is not addressing inequalities between intervenors and those ``targetted'' by interventions
+
+Accountability to ``taxpayer'' is directing attention from accountability to those targetted and (re)produces a clear hierarchy
+
+There is an exceptionalism in peacebuilding that it is too non-linear to use normal interventions or measures, therefore applying complexity theory and systems thinking. This exceptionalism disqualifies the collection of evidence of what works.
+
+Also emphasis on creating learning culture, which this paper argues is show in the literature to be in opposition to a accoundability culture.
+
+Demonstrates how this is particularly so in peacebuilding compare to other interventions such as humanitarian aid},
+  creationdate     = {2023-10-30T18:07:12},
+  keywords         = {systems, complexity, transformation, organisation},
+  modificationdate = {2023-10-30T22:17:01},
+  owner            = {izzy_olivine},
+}
+
+@Article{MidgleyMB1998,
+  author           = {G. Midgley and I. Munlo and M. Brown},
+  date             = {1998},
+  journaltitle     = {Journal of the Operational Research Society},
+  title            = {The Theory and Practice of Boundary Critique: Developing Housing Services for Older People},
+  doi              = {10.2307/3009885},
+  number           = {5},
+  pages            = {467--478},
+  url              = {https://www.jstor.org/stable/3009885},
+  volume           = {49},
+  comment          = {Discusses boundary critique - critical awareness of different possible boundaries to a problem - and provides an example of a problem when this was applied over multiple phases to avoid the marginalisation of perspectives in the problem solution.
+
+Critical systems thinking has 3 themes:
+- critical awareness - assumptions and conditions that give rise to them
+- improvement - defined temporaily and locally, with awareness of power
+- methodological pluralism - awareness of strengths and weakness of approaches
+
+Discusses development of ideas on the process of making critical boundary judgements:
+- Churchman - introduced idea that boundaries determine how improvement will be defined and that sweeping in new stakeholders extends boundaries and makes solutions more inclusive
+- Ulrich - rationality needed in justifying boundaries, requires dialogue
+- Midgley - idea that consensus on boundaries needs challenging by bringing in new stakeholders and recognition that marginalisation arises from judgements of what is sacred (valued) and profane (devalued)
+
+Ulrich also 12 questions that could be used by a party to challenge an implementation that they disagree with [I should look these up]
+
+The description of how this was applied in a real example includes the researchers recognition that sacred-profane judgements could occur as a result of one set of stakeholders needing to hold a meeting without others in the room (team handled this by assigning roles that advocated for non-present stakeholders), or their own expertise (knowledge and language), which they addressed by presenting critiques of their knowledge and carefully using plain english to describe their work.
+
+Supported participants to design their solution by setting a scenario that existing situation has been swept away and that they could design their ideal solutions, with the limitations that this is@
+- technologically feasible
+- viable
+- adaptable
+
+[I feel like a lot of what was done within this work is extremely practical and sits slightly strangely with the philosophical underpinning, and yet this underpinning maintains a consistent acknowledgement of the causes and risks of marginalisation]},
+  creationdate     = {2023-10-30T19:54:47},
+  keywords         = {systems, complexity, transformation, organisation},
+  modificationdate = {2023-10-30T22:02:34},
+  owner            = {izzy_olivine},
+}
+
+@Article{Lindblom1959,
+  author           = {Charles E. Lindblom},
+  date             = {1959},
+  journaltitle     = {Public Administration Review},
+  title            = {The Science of ``Muddling Through''},
+  number           = {2},
+  pages            = {79--88},
+  url              = {http://www.jstor.org/stable/973677},
+  volume           = {19},
+  comment          = {Deciding on policy has two approaches [at the time of this paper, maybe still now?]:
+* Rational-comprehensive (root) - firstly agree objectives, values and constraints and identify the policy from all possible policies that best achieves this [think: utility maximisation] - this is a approach that was described in literatures on decision-making despite not being used in practice
+* Successive limited comparisons (branch) - selection of value goals and analysis of needed action are not distinct and test of good policy is agreement on that policy
+
+Characterises and formalises the second
+
+Theory is the resort of the root approach - a  ``scientific'' method. ``Comparative analysis, as in the branch method, is sometimes a systematic alternative to theory''
+
+The root method looks inferior in practice between it excludes some policy alternatives, when the theory says it should not, whereas the branch method deliberately, systemmatically and definsibly excludes alternatives
+
+People can agree on policy if not criteria for deciding on propositions
+
+The root approach breaks down in its handling of values:
+- complex social problems are beset with disagreements about values
+- even if there is agreement on values, they may be partially conflicting and even individuals may not be able to decide on their relative importance
+- values are relative to circumstance
+
+However, the only values that matter in the decision-making are those whose outcome differs between policies, and then it is the different marginal combinations of values that need considering
+
+``the only practicable way to disclose one's relevant marginal values even to oneself is to describe the policy one chooses to achieve them''
+
+Argues that different agencies oversight achieves a degree of comprehensiveness: ``Almost every interest has its watchdog'' - mutual adjustment [does not fully recognise the extreme differences in power that these watchdogs may have]
+
+``Policy is not made once and for all; it is made and re-made endlessly. Policy-making is a process of successive approximation to some desired objectives in which what is desired itself continues to change under reconsideration'' - succession of comparisons
+
+The chain of successive policy choices influences thinking},
+  creationdate     = {2023-10-30T20:05:03},
+  keywords         = {systems, policy, decisions},
+  modificationdate = {2023-10-31T07:43:58},
+  owner            = {izzy_olivine},
+}
+
+@Report{Donahue2017,
+  author           = {John D. Donahue},
+  date             = {2017},
+  institution      = {Harvard Kennedy School},
+  title            = {Strategic Alignment for Policy Analysis and Design},
+  type             = {Case Study},
+  number           = {2090.0},
+  url              = {https://drive.google.com/file/d/1h5gbLSrL4EWsxIU0Nleovc1V5Rv9gVCh/view},
+  comment          = {Successful policy has 3 characteristics, it has ``strategic alignment'', from Moore 1995 in Creating Public Value:
+- Value
+- Capacity (operational feasibility - financial, legal, technical, etc resources)
+- Supprt (political feasibility - endoressed by stakeholders)
+
+Caveats:
+1. aspects of strategically aligned policy may still be disputed
+2. alignment is usually constructed not discovered
+3. alignment is unstable (iteration is valueable here)
+
+Misalignment typically occurs when two characteristics are aligned but one is not. It can be difficult to diagnose and policy designers and analysts have motive to persuade themselves that alignment exists.},
+  creationdate     = {2023-10-31T06:57:26},
+  keywords         = {policy, strategy},
+  modificationdate = {2023-10-31T07:44:24},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  author           = {Le-Khanh-Ngan Nguyen and Cecilia Kumar and Bowen Jiang and Nici Zimmermann},
+  date             = {2023},
+  journaltitle     = {Systems Systems},
+  title            = {Implementation of Systems Thinking in Public Policy: A Systematic Review},
+  doi              = {10.3390/systems11020064},
+  number           = {64},
+  volume           = {11},
+  comment          = {Systematic review of systems thinking in public policy. Pulls out claimed benefits, challenges and recommendations
+
+Claimed Benefits and Values of ST in Policy:
+- Understand the Complexity of Systems and Wicked Problems
+- Capture Multiple Perspectives and Provide a Holistic View
+- Facilitate Stakeholder Participation and Collaboration
+- Shift Thinking and Mental Models
+- Act as a Learning and Decision-Making Support Tool
+- Achieve a Shared, Collective Understanding and Enhance Problem-Ownership, Consensus, and Commitment
+-  Impact Policy and Practice
+- Useful in Dealing with a Lack of Data
+
+Challenges of Implementing ST in Practice:},
+  creationdate     = {2023-10-31T07:55:13},
+  modificationdate = {2023-10-31T07:59:36},
+  owner            = {izzy_olivine},
+}
+
+@Online{Bender2023,
+  author           = {Emily M. Bender},
+  date             = {2023-07-29},
+  editor           = {DAIR},
+  title            = {``Ensuring Safe, Secure, and Trustworthy AI'': What those seven companies avoided committing to},
+  url              = {https://medium.com/@emilymenonbender/ensuring-safe-secure-and-trustworthy-ai-what-those-seven-companies-avoided-committing-to-8c297f9d71a},
+  urldate          = {2023-11-01},
+  comment          = {Critique of the voluntary commitments from Big Tech
+
+Nice list of key papers on data/model documentation
+
+Commitments only address audio and visual content, not text, etc - ``synthetic oil spills''
+
+The voluntary commitments don’t apply to current models
+
+Discussed in Mystery AI Hype Theatre 3000 episode \url{https://peertube.dair-institute.org/w/hFiGUgkUe27cvoEeW79xgE} which also has links to paper about impacts on consumers and workers},
+  creationdate     = {2023-11-01T15:08:35},
+  keywords         = {trust, AI},
+  modificationdate = {2023-11-01T15:21:51},
+  owner            = {izzy_olivine},
+}
+
+@Book{WeimerV2013,
+  author           = {Weimer, David and Vining, Aidan R},
+  date             = {2013},
+  title            = {Policy Analysis: Concepts and Practice},
+  edition          = {5},
+  isbn             = {1292039825},
+  language         = {eng},
+  publisher        = {Pearson Education UK},
+  series           = {Pearson custom library},
+  abstract         = {Laying a strong conceptual foundation to understanding the rationales of and limitations to public policy, Weimer and Vining give practical advice about how to do policy analysis while demonstrating the application of advanced analytical techniques through case study examples. Policy Analysis: Concepts and Practices is a comprehensive, accessible, and rich introduction to policy analysis for students in public policy, public administration, and business programs.},
+  booktitle        = {Policy Analysis},
+  comment          = {Generic policies (Chapter 8) fall into 5 categories:
+1. Freeing, facilitating and simulating markets
+2. Using taxes and subsidies to alter incentives
+3. establishing rules
+4. supplying goods through nonmarket mechanisms
+5. providing insurance and cushions (economic protection)
+These break down further [but are largely predictable and not very inspiring, largely based on theories of failure: market failure, government failure, distributional issue, limitation of competitive framework},
+  creationdate     = {2023-11-01T19:01:15},
+  keywords         = {policy},
+  modificationdate = {2023-11-01T19:27:37},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{GregoryPST2014,
+  author           = {Peggy Gregory and Laura Plonka and Helen Sharp and Katie Taylor},
+  date             = {2014},
+  title            = {Bridging the Gap Between Research and Practice: The Agile Research Network},
+  eprint           = {https://clok.uclan.ac.uk/11208/1/11208_gregory.pdf},
+  url              = {https://api.semanticscholar.org/CorpusID:56214006},
+  comment          = {An agile approach to research into agile research 
+
+Used an action research-based approach to doing collaborative research into agile methods with industrial partners
+
+An incremental approach of ``plan, act, observe, reflect'' is used
+
+Overview of their first 2 cases
+
+found several advantages:
+- increments helped produce regular outputs
+- able to adapt to changes in our collaborators circumstances
+- able to run two projects in a time period that would not have been possible with a more traditional research approach},
+  creationdate     = {2023-11-02T20:21:28},
+  keywords         = {agile, transformation, research, organisation},
+  modificationdate = {2023-11-02T20:28:07},
   owner            = {ISargent},
 }
 
