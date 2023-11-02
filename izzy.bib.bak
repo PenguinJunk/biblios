@@ -19616,7 +19616,7 @@ Misalignment typically occurs when two characteristics are aligned but one is no
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Article{NguyenKJZ2023,
   author           = {Le-Khanh-Ngan Nguyen and Cecilia Kumar and Bowen Jiang and Nici Zimmermann},
   date             = {2023},
   journaltitle     = {Systems Systems},
@@ -19638,7 +19638,7 @@ Claimed Benefits and Values of ST in Policy:
 
 Challenges of Implementing ST in Practice:},
   creationdate     = {2023-10-31T07:55:13},
-  modificationdate = {2023-10-31T07:59:36},
+  modificationdate = {2023-11-02T21:12:17},
   owner            = {izzy_olivine},
 }
 
@@ -19705,10 +19705,80 @@ Overview of their first 2 cases
 found several advantages:
 - increments helped produce regular outputs
 - able to adapt to changes in our collaborators circumstances
-- able to run two projects in a time period that would not have been possible with a more traditional research approach},
+- able to run two projects in a time period that would not have been possible with a more traditional research approach
+
+practical lessons:
+- need committed stakeholders as the work involves observing challenging situations, which is not always comfortable for stakeholders
+- need to set up a secondary contact for when primary contact is unavailable e.g. on holiday
+- time-boxes should be measured in elapsed time rather than calendar time due to different working patterns of team members
+- iterative data analysis approach is effective for the investigation stage but needs to be different during evaluation (not yet completed an evaluation stage)
+- need more time to prepare outputs maybe adding an extra stage for this purpose},
   creationdate     = {2023-11-02T20:21:28},
-  keywords         = {agile, transformation, research, organisation},
-  modificationdate = {2023-11-02T20:28:07},
+  keywords         = {agile, transformation, research, organisation, technology},
+  modificationdate = {2023-11-02T20:59:27},
+  owner            = {ISargent},
+}
+
+@InProceedings{MarquesDBRS2022,
+  author           = {Marques, Denis de Gois and Dallegrave, Tamara Larissa D. de A. and Barbosa, Luis E. Lima and Rodrigues, Cleyton M. de Oliveira and Santos, Wylliams Barbosa},
+  booktitle        = {17th Iberian Conference on Information Systems and Technologies (CISTI)},
+  date             = {2022},
+  title            = {Industry-Academy Collaboration in Agile Methodology: a Systematic Literature Review},
+  doi              = {10.23919/CISTI54924.2022.9820166},
+  pages            = {1-6},
+  comment          = {A meta-analysis of Industry-Academy Collaborative Research (IAC) considering Agile Software Development (ASD)
+
+Identified 10 categories of challenges (and a total of 37 subcategories [which I have summarised]):
+1. Incompatibility between industry and academia
+- different interests and objectives, perceptions of challenges, of solutions and of different results
+- differences between the industry and academia schedule and difficulty in synchronizing schedules
+2. Research method
+3. Lack of training, experience and skills
+- in Software Engineering and Agile
+- difficulties in collaborating with the researchers' solutions
+4. Lack of interest or low commitment
+5. Problems related to communication (one of main challenges)
+-  insertion and availability of the researcher at the collaboration site
+- communication gaps between communities
+- concealment or difficulty in obtaining information from the team
+6. Human and organisational factors
+7. Issues related to agile practices
+- difficulty of following the iterations
+- interruption of the iterations
+- short sprints of the project
+- some projects are resistant to changes from traditional approaches to agile
+8. Issues related to management
+9. Resource-related issues
+10. Contractual and privacy concerns
+
+14 categories of (76 subcategories of) good practices identified:
+1. Knowledge management (communication, training and skills)
+2. Ensureing engagement and project management
+3. Considers industry needs, challenges, goals and problems
+4. Ensuring benefits for the industry and solving problems
+5. Maintaining relationships and understanding
+6. Software agility
+7. Teamwork
+8. Manage risks and limitations
+9. Researcher available and accessible
+10. Mange financing / recruitment / partnership and hiring
+11. Measurement and evaluation
+12. Support tools search
+13. Test / pilot solutions
+14. Provide tool support for solutions},
+  creationdate     = {2023-11-02T20:58:17},
+  keywords         = {agile, research, technology},
+  modificationdate = {2023-11-02T21:14:57},
+  owner            = {ISargent},
+  year             = {2022},
+}
+
+@Book{MazzucatoC2023,
+  author           = {Mariana Mazzucato and Rosie Collington},
+  title            = {The Big Con},
+  comment          = {Private is short term and public is risk averse},
+  creationdate     = {2023-11-02T21:00:39},
+  modificationdate = {2023-11-02T21:01:45},
   owner            = {ISargent},
 }
 
