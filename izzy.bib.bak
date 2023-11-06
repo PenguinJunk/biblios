@@ -18663,11 +18663,11 @@ Insights from their review is of systems and transformation literature:
     - soft systems methodology - more about the social construction of reality, multiple valid perspectives
 - systems change efforts insights:
   - levers targeted for change need to have cross level influences within the targeted system
-  - systems change requires a shift in sudden members' skill sets and mindsets
+  - systems change requires a shift in system members' skill sets and mindsets
   - discourse processes that engage system members in ongoing opportunities to discover and alter their worldviews are effective mechanisms for shifting mindsets and fostering systems change},
   creationdate     = {2023-10-22T19:31:09},
   keywords         = {systems, participatory, deliberative},
-  modificationdate = {2023-10-22T19:43:20},
+  modificationdate = {2023-11-05T21:58:40},
   owner            = {izzy_olivine},
 }
 
@@ -19751,7 +19751,7 @@ Identified 10 categories of challenges (and a total of 37 subcategories [which I
 9. Resource-related issues
 10. Contractual and privacy concerns
 
-14 categories of (76 subcategories of) good practices identified:
+14 categories of (76 subcategories of) good practices identified [not enough detail on these]:
 1. Knowledge management (communication, training and skills)
 2. Ensureing engagement and project management
 3. Considers industry needs, challenges, goals and problems
@@ -19768,17 +19768,180 @@ Identified 10 categories of challenges (and a total of 37 subcategories [which I
 14. Provide tool support for solutions},
   creationdate     = {2023-11-02T20:58:17},
   keywords         = {agile, research, technology},
-  modificationdate = {2023-11-02T21:14:57},
+  modificationdate = {2023-11-02T21:15:32},
   owner            = {ISargent},
   year             = {2022},
 }
 
 @Book{MazzucatoC2023,
   author           = {Mariana Mazzucato and Rosie Collington},
+  date             = {2023},
   title            = {The Big Con},
   comment          = {Private is short term and public is risk averse},
   creationdate     = {2023-11-02T21:00:39},
-  modificationdate = {2023-11-02T21:01:45},
+  modificationdate = {2023-11-03T06:34:40},
+  owner            = {ISargent},
+}
+
+@Report{Hallsworth2011,
+  author           = {Michael Hallsworth and Jill Rutter},
+  date             = {2011},
+  institution      = {Institute for Government},
+  title            = {Making Policy Better: Improving Whitehall's core business},
+  eprint           = {https%3A%2F%2Fwww.instituteforgovernment.org.uk%2Fsites%2Fdefault%2Ffiles%2Fpublications%2FMaking%2520Policy%2520Better.pdf},
+  comment          = {Output of study looking at making policy better in UK Government
+
+2 main conclusions:
+*  Successful reforms need to recognise the `real world' of policy making; Four traps:
+- idealised process is distant from reality
+- not specifying how policy making ambitions will be achieved
+- reorganising structures without embedding them in a wider view
+- neglecting role of politics
+* Policy making needs to adapt to new challenges
+- ``system stewardship'' would involve policy makers overseeing a knowingly adaptive process of formulation and delivery of policy outcomes, this has roles:
+  - goals
+  - rules
+  - feedback
+  - response
+
+Policy fundamentals (fundamentals of good policy making which need to be observed at some point in the policy process):
+* Clarity on goals
+* Open and evidence-based idea generation
+* Rigorous policy design
+* Responsive external engagement
+* Thorough appraisal
+* Clarity on the role of central government and accountabilities
+* Establishment of effective mechanisms for feedback and evaluation
+
+These are put into reality by addressing:
+* Structures
+* Controls
+* Politics
+* Skills
+* Culture
+
+Recommendations
+* The appointment within each department of a `Policy Director'
+* An extension of existing Accounting Officer responsibilities to cover due policy process, based on the policy fundamentals
+* Streamlined ‘policy assessments’ to replace existing impact assessments and business cases
+* A greater role for the centre in overseeing the quality of policy making (rather than just skills
+and capabilities) through the creation of a senior Head of Policy Effectiveness
+To address address concerns (from both parties) about the relationships between civil servants and ministers:
+* Greater clarity from ministers on their high-level policy goals; and greater clarity from
+ministers and civil service leaders on the value both parties can bring to the policy process
+* Engaging ministers early in the policy process
+To address needs when operating in decentralised world, new skills and behaviours:
+* Better development of the skills of policy teams within departments, including more emphasis on policy design, innovation and influencing
+* Changes to incentives to retain internal expertise and to make more use of external expertise in policy making.
+Culture of the civil service needs to change (to ``system stewardship''):
+* Whitehall policy makers need to reconceive their role increasingly as one of creating the conditions for others to deal with policy problems using innovative and adaptive approaches
+* Incentives need to reward those who energetically search out experience and ideas, network, facilitate and understand the systems within which they operate
+
+``policy makers argue that the specific impact tests simply rationalise decisions already taken'' (See National Audit Office, Assessing the Impact of Proposed New Policies, 2010, p.5; and Regulatory Policy Committee, Challenging Regulation, 2011)},
+  creationdate     = {2023-11-03T06:34:01},
+  modificationdate = {2023-11-03T07:07:51},
+  owner            = {izzy_olivine},
+}
+
+@Report{Hill2022,
+  author           = {Dan Hill},
+  date             = {2022},
+  institution      = {Vinnova},
+  title            = {Designing missions: Mission-oriented innovation in Sweden --- A practice guide by Vinnova},
+  eprint           = {https://www.vinnova.se/contentassets/1c94a5c2f72c41cb9e651827f29edc14/designing-missions.pdf},
+  url              = {https://www.vinnova.se/en/publikationer/mission-oriented-innovation---a-handbook-from-vinnova/},
+  comment          = {Look at a system and identify the angles, areas for intervention, from this design the missions, then create prototypes and from the learning from these, create demonstrators. Concepts, actors, processes (which are highly iterative) all covered these in detail, with examples from School Food and Mobile Streets missions. Examples peter out after prototypes, as demonstrators are not yet in place, I guess.
+
+Alongside missions are key enablers or infrastructures which don't have such clear societal outcomes but can combine to help achieve goals. They are the bedrock with which we can build, but they are not the point.
+
+
+`` Whilst AI is no doubt important to UK industry, it is an enabling ‘General Purpose Technology’. AI could be highly negative or positive tool, depending on how it is deployed. It is a means to an end, but not the end in itself. We do not build society in order to build AI. It is the other way around.''
+
+portfolio of innovation activities balanced across both the `push' of traditional technology-led innovation processes with the `pull' of societal, behavioural, cultural, political, and social movement-led dynamics
+
+n a reversal of some consider the mission-oriented innovation process to be, the Vinnova method has explored how to build consensus about what missions should be through collaboration, via co-design processes for networks of stakeholders, users, and citizens. The learning from these activities forms missions with purpose, legitimacy, and momentum, and builds a sense of what can be achieved within systems
+
+Process puts participation first- progresssively build a sharper framing of the possibility, a realistic sense of
+capabilities, a broader set of engagement, diverse forms of knowledge, tangible outcomes earlier
+
+Deliberately contrasts with EU missions process to maximise learning
+
+``A thoroughly systemic approach, led by the integrative practice of design, could force science, innovation and politics together'' p54
+
+Overview of Vission Zero - initiative to reduce road deaths in Sweden started in late 1990s. Was largely focussed on engineering, it reduced deaths but it was argued this was mainly for drivers not vulnerable road users. It ignored the wider system, mental models or the moral issues around transport. Compared to Dutch case where Stop de Kindermoord led to a reduction in motor vehicles which is a much stronger way of reducing death and injury. p58-61
+
+Also nice challenge of innovation as science mindset of the state society etc which considers that experts can ``think hard'' and draw up a roadmap to solving society's problems. References Donella Meadows' ``Humility of not knowing'' that the only way to find out how to act is to start to act. Argues that the critique of the committee-led model does not undercut expertise but that the most producting framing is needed for deep expertise - including the expertise of citizens p62-66
+
+This leads into a discussion of design p66 onwards. 
+
+Design principles:
+1. grounded
+2. tangible
+3. upstream (e.g. prevention rather than cure)
+4. integrated (vertical, horizontal, nested)
+5. iterative
+6. participative
+7. adaptive
+8. scalable
+
+Systems have layers which need representation. For example there are shared cultures and capabilities; standards and guidelines; data, code and services; financing; policy; law
+
+Doorst framework:
+If...
+- the context was approached
+AS IF...
+- the opportunity can be seen as
+THEN
+- the frame is
+
+Prototyping principles:
+1. outcomes - how are cored shared outcomes delivered or refined?
+2. scale - initiate and nurture scaling (organisational, spatial)
+3. level - indicate system elements 
+4. data - create new strategic data
+5. conditions - uncover, articulate and initiate necessary changes
+6. capability - develop sckills, perspectives, culture
+7. engagement - citizen-facing format
+8. agility - adaptive strategy for delivery
+
+Half-step - install some and leave space for subsequent iterations - gives an awesome example of half-house in Chile},
+  creationdate     = {2023-11-05T12:53:51},
+  keywords         = {missions, systems, policy, AI, food},
+  modificationdate = {2023-11-05T18:12:32},
+  owner            = {izzy_olivine},
+}
+
+@Article{Lam2011,
+  author           = {Alice Lam},
+  date             = {2011},
+  journaltitle     = {Research Policy},
+  title            = {What motivates academic scientists to engage in research commercialization: `Gold', `ribbon' or `puzzle'?},
+  doi              = {https://doi.org/10.1016/j.respol.2011.09.002},
+  issn             = {0048-7333},
+  number           = {10},
+  pages            = {1354-1368},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0048733311001703},
+  volume           = {40},
+  comment          = {After Stephan and Levin, 1992, adopts a psychologically rich notion of motivation to incorporate its extrinsic as well as intrinsic aspects. It employs the three concepts of `gold' (financial rewards), `ribbon' (reputation and career rewards) and `puzzle' (intrinsic satisfaction)
+
+Builds a conceptual framework linking value orientations (from the most normative `traditional' - which is split to pure and pragmitic tranditional - through `hybrid' to `entrepreneurial) to motivation (from amotiviation, through extrinsive - ribbon and gold - to intrinsic - puzzle).
+
+Merton suggested that scientists are motivated by ribbon, economists that they are motivated by gold.
+
+36 individual interviews and an on-line questionnaire survey of 735 scientists from five major UK research universities. sample is oriented towards the elite academic researchers operating in an environment in which they have the options to make a meaningful choice between traditional Mertonian goals and those of commercial engagement
+
+The main variables used in the quantitative analysis are derived from the questions concerning: (a) the nature of their involvement in different types of industrial links; (b) their value orientations towards academia-industry interface; and (c) the factors motivating them to engage with industry
+
+Unfortunately, the full survey and interview questions don't seem to have been included, but there are elements.
+
+Majority of the scientists are motivated by the traditional rewards of the `ribbon', using commercial activities as a means to generate resources for their research. Personal pecuniary gain, the `gold', although not irrelevant, is seen as important by a much smaller proportion of the scientists. More crucially, the intrinsic satisfaction derived from commercial engagement itself, as in puzzle-solving, emerges as a central motivation shared by many of the scientists
+
+- The traditional scientists as `reluctant' commercializers: the `ribbon'
+- The hybrid scientists as `strategic' commercializers: the `ribbon' and `puzzle'
+- The entrepreneurial scientists as `committed' commercializers: the `gold' and `puzzle'},
+  creationdate     = {2023-11-06T10:20:58},
+  keywords         = {Academic entrepreneurialism, Motivation, Scientific norms and values, Self-determination theory, Research commercialization, Knowledge transfer},
+  modificationdate = {2023-11-06T10:59:20},
   owner            = {ISargent},
 }
 
