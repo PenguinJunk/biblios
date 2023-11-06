@@ -19624,7 +19624,14 @@ Misalignment typically occurs when two characteristics are aligned but one is no
   doi              = {10.3390/systems11020064},
   number           = {64},
   volume           = {11},
-  comment          = {Systematic review of systems thinking in public policy. Pulls out claimed benefits, challenges and recommendations
+  comment          = {Systematic review of systems thinking in public policy. Pulls out claimed benefits, challenges and recommendations (see lists below)
+
+Overall ``public policy has yet to exploit the full potential of ST and its full range of methods''
+
+Also find:
+- there is a lack of rigorous investigation of the perspectives of civil servants and policy-makers on the usefulness of ST concepts and tools for policy analysis and stakeholder engagement
+- there is no assessment of their learning and development related to adopting ST and their commitment to findings
+- unsuccessful cases of adopting ST in policy are likely to be underreported, and people who do not buy into the approach are likely not to participate in relevant ST activities and interviews
 
 Claimed Benefits and Values of ST in Policy:
 - Understand the Complexity of Systems and Wicked Problems
@@ -19636,9 +19643,49 @@ Claimed Benefits and Values of ST in Policy:
 -  Impact Policy and Practice
 - Useful in Dealing with a Lack of Data
 
-Challenges of Implementing ST in Practice:},
+Challenges of Implementing ST in Practice (see paper for details and specific recommendations):
+- Conceptualisation, language, and communication
+  - Intrinsic reluctance to new ways of thinking
+  - Unfamiliarity with and misconception about ST concepts, tools, and values
+  - Confusing concepts and terminology
+  - Cross-discipline miscommunication
+  - Lack of recognition of the relevance of ST and policy-making
+- Competence, methodology, and practice
+  - Lack of competence in applying ST
+  - Lack of technical and practical support and guidance
+  - Uncertainty about the suitability and effectiveness of certain ST tools
+  - Difficulty in generalising lessons from case studies
+  - Lack of confidence in the intrinsic validity of ST
+- Stakeholder engagement
+  - Varied quality in participation among diverse stakeholders and over time
+  - Fear of disruption to work routines
+  - Difficulty in managing stakeholder equality in participation and power dynamics
+  - Under-representation of specific stakeholder groups
+  - Lack of trust between stakeholders
+- Time and resources
+  - Lack of time and resources for engaging stakeholders and applying ST
+  - Lack of time and budget for evaluating the effectiveness of ST
+- Political, structural, and operational aspects
+  - Challenging political contexts
+  - Organisational inertia and rigidity
+  - Departmentalism
+  - Lack of organisational incentive to implement ST
+- Evaluation and evidence of impact
+  - Lack of guidance and expertise for evaluation
+  - Lack of funding for evaluation
+  - Lack of concrete evidence for policy impact
+  - Reluctance to scrutinise the work
+  - Subjectivity in evaluation
+
+Recommendations:
+- Clarify ST Concepts and Values in Policy Contexts and Invest in Communication
+- Build Capacity
+- Engage Stakeholders and Maintain their Engagement
+- Expand Funding
+- Consider Political Endorsement and Governmental Reform and Enhance Policy Leaders' Buy-In and Support
+- Develop Evaluation Strategies},
   creationdate     = {2023-10-31T07:55:13},
-  modificationdate = {2023-11-02T21:12:17},
+  modificationdate = {2023-11-06T12:06:32},
   owner            = {izzy_olivine},
 }
 
@@ -19975,8 +20022,8 @@ Findings also suggest that the role of grand societal challenges is emerging as 
 
 Making the world a better place that is not fully included in the gold, ribbon and puzzle model of motivation. They reiterate the call from several others that moral and pro-social motivations need to be included.},
   creationdate     = {2023-11-06T11:01:25},
-  keywords         = {Research and Technology Organizations, Research motivation, Self-determination theory, Knowledge transfer},
-  modificationdate = {2023-11-06T11:28:52},
+  keywords         = {science, research, decisions, policy, technology, organisation},
+  modificationdate = {2023-11-06T11:29:08},
   owner            = {ISargent},
 }
 
