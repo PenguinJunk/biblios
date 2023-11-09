@@ -2347,7 +2347,7 @@ SPIS is possibly a discipline in its own right (p1237) to the point that it is n
 
 Go into detail on the pros and cons of their method (p1222)
 
-Using these quatitative measures of impact, this paper says that despite being a ``relatively new and still quite small field'' it has make a ``significant number of adances comparable in impact [to] economics'' p1222
+Using these quatitative measures of impact, this paper says that despite being a ``relatively new and still quite small field'' it has make a ``significant number of advances comparable in impact [to] economics'' p1222
 
 Should return to for very short summaries of key papers, developments and authors in the field. 
 
@@ -2388,7 +2388,7 @@ Some of this has come out of particular institutions, e.g. SPRU (and Project SAP
 In many ways, this history is summarised in Martin2016},
   creationdate     = {2022-10-04T11:45:12},
   keywords         = {economics, innovation},
-  modificationdate = {2023-03-04T16:16:15},
+  modificationdate = {2023-11-08T20:32:25},
   owner            = {ISargent},
 }
 
@@ -2581,7 +2581,7 @@ Nice description of market-fixing reasoning and goes on to explain how this ``do
 
 Growth has a direction as well as a rate (see also Entrepreneurial state or Mission Economy?)
 
-Regarding innovation 'top-down' can stifle innovation while 'bottom up' ``can make it dispersieve with little impact''.
+Regarding innovation `top-down' can stifle innovation while `bottom up' ``can make it dispersieve with little impact''.
 
 How can public value be understood - small discussion of participatory evaluation, opinion polls. stakeholder workshops, citizen's juries. Others have tried to determine a monetary value e.g. contingent valuation.
 
@@ -2613,7 +2613,7 @@ Deleidi studies demonstrated a larger multiplier affect with mission-oriented in
 to achieve changes over time and so is concerned with innovation, investment, improvement and growth - including, perhaps most importantly, the creation of new resources (technologies) and shifting technology frontiers (Huerta de Soto 2009).''},
   creationdate     = {2022-10-05T19:06:09},
   keywords         = {economics, policy, missions},
-  modificationdate = {2023-01-15T14:59:01},
+  modificationdate = {2023-11-08T20:45:59},
   owner            = {ISargent},
 }
 
@@ -3521,7 +3521,7 @@ Has a sectoral S-curve showing position of different sectors (cars, buildings, p
   author           = {In\^{e}s Cosme and Rui Santos and Daniel W. O'Neill},
   date             = {2017-02-03},
   journaltitle     = {Journal of Cleaner Production},
-  title            = {Assessing the degrowth discourse: A review and analysis of academicdegrowth policy proposals},
+  title            = {Assessing the degrowth discourse: A review and analysis of academic degrowth policy proposals},
   pages            = {321--334},
   volume           = {149},
   comment          = {Analyse the degrowth literature to draw conclusions about the position of these ideas and proposals in academic discourse.
@@ -3546,7 +3546,7 @@ Find that objectives behind proposals are sometimes unclear and say there is a n
 Neglected issues are population growth and implications of degrowth for developing countries},
   creationdate     = {2022-10-21T12:41:26},
   keywords         = {economics, policy, degrowth, environment},
-  modificationdate = {2022-10-21T14:15:39},
+  modificationdate = {2023-11-08T20:53:59},
   owner            = {ISargent},
 }
 
@@ -3771,8 +3771,8 @@ Eighth, we acknowledge the work being done to align the UK's business and financ
 
 Ninth, but not least, we note how incremental changes to the UK's legal frameworks can help unlock faster progress (section 3.9).},
   creationdate     = {2022-10-22T19:35:41},
-  keywords         = {policy, climate},
-  modificationdate = {2022-10-23T14:08:37},
+  keywords         = {policy, climate, systems},
+  modificationdate = {2023-11-08T20:54:38},
   owner            = {ISargent},
 }
 
@@ -4256,7 +4256,7 @@ Strong export focus incentivised investment in technology and enabled informal a
 @Report{MazzucatoSKE2022,
   author           = {Mariana Mazzucato and Marietje Schaake and Seb Krier and Josh Entsminger},
   date             = {2022-07-28},
-  institution      = {UCL Institute forInnovation andPublic Purpose / Stanford Cyber Policy Center},
+  institution      = {UCL Institute for Innovation and Public Purpose / Stanford Cyber Policy Center},
   title            = {Governing artificial intelligence in the public interest},
   chapter          = {Working Paper Series (IIPPWP 2022-12).},
   url              = {https://www.ucl.ac.uk/bartlett/public-purpose/wp2022-12},
@@ -4292,7 +4292,7 @@ Market shaping needs to:
 - Improve public sector capabilities},
   creationdate     = {2022-10-30T14:44:45},
   keywords         = {economics, policy AI, machine learning, missions, technlogy},
-  modificationdate = {2023-10-29T15:52:27},
+  modificationdate = {2023-11-08T20:55:39},
   owner            = {ISargent},
 }
 
@@ -6269,7 +6269,7 @@ Alternative to strengthening positive feedback is to weaken negative feedbacks},
   institution      = {UK Research and Innovation},
   title            = {UK Research and Innovation: A Place-Based Shift?},
   eprint           = {https://www.ifm.eng.cam.ac.uk/uploads/Research/CSTI/UKRI_Place/McCann_-_UK_Research_and_Innovation_-_A_Place-Based_Shift_vFinal.pdf},
-  comment          = {UK productivity has bee flat since 2008 whereas in other countries it has risen some with more unemployment but not all
+  comment          = {UK productivity has been flat since 2008 whereas in other countries it has risen some with more unemployment but not all
 
 Reasons why advanced economies have face falling productivity growth relative to the post-war era may include:
 * marginal costs for new knowledge generation
@@ -6284,7 +6284,7 @@ London has very high productivity compared to other parts of UK, the interrgeion
 
 Idea that growth would spread out from London [like a geographical trickle-down!]
 
-Centralised government is inapproprirate under these conditions and makes improving productivity in places other than London difficult
+Centralised government is inappropriate under these conditions and makes improving productivity in places other than London difficult
 
 Talks about Local Enterprise Partnerships LRPs
 
@@ -6314,7 +6314,7 @@ efficiency is inputs to outputs
 effectiveness/impact is outputs to outcomes},
   creationdate     = {2022-12-08T21:13:23},
   keywords         = {economics, policy, innovation},
-  modificationdate = {2022-12-08T21:38:50},
+  modificationdate = {2023-11-08T21:06:57},
   owner            = {ISargent},
 }
 
@@ -8316,8 +8316,8 @@ See also Planning Fallacy
 
 Although Sunstein funds that the planning fallancy is more likely to be malevalent than benevalent.},
   creationdate     = {2023-02-02T13:20:56},
-  keywords         = {economics, policy, institution, transformation},
-  modificationdate = {2023-02-02T13:32:11},
+  keywords         = {economics, policy, institution, transformation, decisions},
+  modificationdate = {2023-11-08T21:11:19},
   owner            = {izzy_olivine},
 }
 
@@ -8909,8 +8909,8 @@ Also pushes for digital ID
 - seek associate membership of EU research and international coalitions
 - governance and export controls on AI},
   creationdate     = {2023-02-23T15:03:00},
-  keywords         = {policy, governement, transformation, economics},
-  modificationdate = {2023-02-23T16:01:12},
+  keywords         = {policy, governement, transformation, economics, decisions},
+  modificationdate = {2023-11-08T21:14:35},
   owner            = {ISargent},
 }
 
@@ -10643,7 +10643,7 @@ Warns that pb is difficult, can fail, it have missing outcomes and suggests bein
   author           = {Matthew Flinders and Graham Smith and Will Jennings and Gerry Stoker and Paolo Spada and Brenton Prosser and Alan Renwick and Katie Ghose and Edward Molloy},
   date             = {2016},
   institution      = {Democracy Matters / Assembly South},
-  title            = {Revitalising Democracy in Hampshire and the Isle of WightThe Report of Assembly South},
+  title            = {Revitalising Democracy in Hampshire and the Isle of Wight: The Report of Assembly South},
   eprint           = {https://citizensassembly.co.uk/wp-content/uploads/2016/01/Assembly-South-Overview-Report.pdf},
   url              = {https://citizensassembly.co.uk/assembly-south-overview-report/},
   comment          = {UoS page \url{https://www.southampton.ac.uk/publicpolicy/support-for-policymakers/policy-projects/devolution.page}
@@ -10675,7 +10675,7 @@ Notes that participants need to be treated well, requires a lot of volunteers, c
 Summary can be heard here: \url{https://www.youtube.com/watch?v=iMK_ifcb2Dk}},
   creationdate     = {2023-03-19T09:10:14},
   keywords         = {policy, participatory, democracy, devolution, bureaucracy},
-  modificationdate = {2023-03-21T18:32:18},
+  modificationdate = {2023-11-08T21:25:12},
   owner            = {izzy_olivine},
 }
 
@@ -11311,7 +11311,7 @@ Interesting to compare and contrast with HerdM2018 - adminstrative burden},
   author           = {Iacopo Gronchi and Angeliki Vourdaki},
   date             = {2023-02-02},
   institution      = {Demos Helsinki},
-  title            = {Draft: What is a 21st century civil service for? The case for a transformative civil service:Four values and a new ethos},
+  title            = {Draft: What is a 21st century civil service for? The case for a transformative civil service: Four values and a new ethos},
   comment          = {Four values can propel their role as indispensable agents of governance:
 humility, wisdom, imagination, and collaboration.
 
@@ -11331,7 +11331,7 @@ new ethos can emerge and spread around the organisation:
 3. Consolidate, institutionalise, and codify best practices},
   creationdate     = {2023-03-21T14:27:14},
   keywords         = {transformation, bureaucracy, policy},
-  modificationdate = {2023-10-29T15:50:28},
+  modificationdate = {2023-11-08T21:26:06},
   owner            = {izzy_olivine},
 }
 
@@ -13349,7 +13349,7 @@ BUILDING A MORE EFFECTIVE ARCHITECTURE FOR DIGITAL COOPERATION},
   author           = {Ligang Song and Ch\'{e}rie Simpson},
   date             = {2018},
   journaltitle     = {Asia Pacific Policy Studies},
-  title            = {Linking “adaptive efficiency” with the basic market functions: A new analytical perspective for institution and policy analysis},
+  title            = {Linking ``adaptive efficiency'' with the basic market functions: A new analytical perspective for institution and policy analysis},
   doi              = {10.1002/app5.249},
   pages            = {544--557},
   url              = {https://onlinelibrary.wiley.com/doi/10.1002/app5.249},
@@ -13389,7 +13389,7 @@ discussion of morality - ideally entrepreneurs will have propriety but if not, p
 Public policy should be driven by adaptive efficiency, not allocative efficiency. Washington Consensus failed because of different societies: institutional structures, cultures, histories},
   creationdate     = {2023-04-06T16:05:35},
   keywords         = {institution, bureaucracy, economics, policy},
-  modificationdate = {2023-04-07T09:06:31},
+  modificationdate = {2023-11-08T21:31:36},
   owner            = {izzy_olivine},
 }
 
@@ -14111,10 +14111,12 @@ Also sets out outcomes for:
 - regulation and standards
 - innovative public sector
 
-No mention of climate, which I find astonishing given the date. This week be increasingly irrelevant as we approach 2030},
+No mention of climate, which I find astonishing given the date. This week be increasingly irrelevant as we approach 2030
+
+No idea what the systems approach is},
   creationdate     = {2023-05-18T13:59:57},
   keywords         = {technology, science, policy},
-  modificationdate = {2023-10-21T19:26:28},
+  modificationdate = {2023-11-08T21:32:48},
   owner            = {ISargent},
 }
 
@@ -19505,10 +19507,12 @@ There is an exceptionalism in peacebuilding that it is too non-linear to use nor
 
 Also emphasis on creating learning culture, which this paper argues is show in the literature to be in opposition to a accoundability culture.
 
-Demonstrates how this is particularly so in peacebuilding compare to other interventions such as humanitarian aid},
+Demonstrates how this is particularly so in peacebuilding compare to other interventions such as humanitarian aid
+
+``Discourses are formed and shaped in the friction with other fields, in the definitional struggles for legitimacy among different actors - and they are necessarily subjugating, marginalizing, and excluding alternative accounts from what can be said (Foucault 1969)''},
   creationdate     = {2023-10-30T18:07:12},
   keywords         = {systems, complexity, transformation, organisation},
-  modificationdate = {2023-10-30T22:17:01},
+  modificationdate = {2023-11-08T19:34:29},
   owner            = {izzy_olivine},
 }
 
@@ -19533,6 +19537,7 @@ Discusses development of ideas on the process of making critical boundary judgem
 - Churchman - introduced idea that boundaries determine how improvement will be defined and that sweeping in new stakeholders extends boundaries and makes solutions more inclusive
 - Ulrich - rationality needed in justifying boundaries, requires dialogue
 - Midgley - idea that consensus on boundaries needs challenging by bringing in new stakeholders and recognition that marginalisation arises from judgements of what is sacred (valued) and profane (devalued)
+- Midgley and Milne devised `rolling out' the boundaries by asking interviewees who should also be interviewed [is this like snowballing?]
 
 Ulrich also 12 questions that could be used by a party to challenge an implementation that they disagree with [I should look these up]
 
@@ -19543,10 +19548,12 @@ Supported participants to design their solution by setting a scenario that exist
 - viable
 - adaptable
 
+Mentions Habermas's theory that a rational view is gained by dialog [which also aligns with Ostrom and MercierS2017]
+
 [I feel like a lot of what was done within this work is extremely practical and sits slightly strangely with the philosophical underpinning, and yet this underpinning maintains a consistent acknowledgement of the causes and risks of marginalisation]},
   creationdate     = {2023-10-30T19:54:47},
   keywords         = {systems, complexity, transformation, organisation},
-  modificationdate = {2023-10-30T22:02:34},
+  modificationdate = {2023-11-08T19:42:11},
   owner            = {izzy_olivine},
 }
 
@@ -19584,10 +19591,12 @@ Argues that different agencies oversight achieves a degree of comprehensiveness:
 
 ``Policy is not made once and for all; it is made and re-made endlessly. Policy-making is a process of successive approximation to some desired objectives in which what is desired itself continues to change under reconsideration'' - succession of comparisons
 
+The idea of ``muddling through'' is not very muddled. It is looking back at what has been done and what we know works. Its not very innovative.
+
 The chain of successive policy choices influences thinking},
   creationdate     = {2023-10-30T20:05:03},
   keywords         = {systems, policy, decisions},
-  modificationdate = {2023-10-31T07:43:58},
+  modificationdate = {2023-11-08T19:37:16},
   owner            = {izzy_olivine},
 }
 
@@ -19602,7 +19611,7 @@ The chain of successive policy choices influences thinking},
   comment          = {Successful policy has 3 characteristics, it has ``strategic alignment'', from Moore 1995 in Creating Public Value:
 - Value
 - Capacity (operational feasibility - financial, legal, technical, etc resources)
-- Supprt (political feasibility - endoressed by stakeholders)
+- Support (political feasibility - endoressed by stakeholders)
 
 Caveats:
 1. aspects of strategically aligned policy may still be disputed
@@ -19612,7 +19621,7 @@ Caveats:
 Misalignment typically occurs when two characteristics are aligned but one is not. It can be difficult to diagnose and policy designers and analysts have motive to persuade themselves that alignment exists.},
   creationdate     = {2023-10-31T06:57:26},
   keywords         = {policy, strategy},
-  modificationdate = {2023-10-31T07:44:24},
+  modificationdate = {2023-11-08T19:43:21},
   owner            = {izzy_olivine},
 }
 
@@ -19837,14 +19846,22 @@ Identified 10 categories of challenges (and a total of 37 subcategories [which I
   institution      = {Institute for Government},
   title            = {Making Policy Better: Improving Whitehall's core business},
   eprint           = {https%3A%2F%2Fwww.instituteforgovernment.org.uk%2Fsites%2Fdefault%2Ffiles%2Fpublications%2FMaking%2520Policy%2520Better.pdf},
-  comment          = {Output of study looking at making policy better in UK Government
+  comment          = {About the reform of policy making - outcome of Better Policy Making project looking at making policy better in UK Government, which conducted interviews, studies evaluations and performed soft systems mapping, held Policy Reunions such brought together key players from successful policies to identify what went well.
+
+Past reforms failed to acknowledge the pressures, constraints and motivating associated with policy making, thus fall into traps:
+- setting out an idealised process that is too distant from reality
+- offering realistic ambitions but not specifying how they will be achieved
+- reorganising structures to improve policy making without embedding them in a wider view of what good policy making looks like
+- neglecting the role of politics
+
+``Policy makers must reflect the flexible, perhaps chaotic, nature of public decision making, rather than cling to a false ideal of rationality''
+
+Yet, they should strive for more resilient policy process because:
+- complaints about current policy making focus on its ad hoc and rushed nature
+- democracy, based on expectation that policies will have the effect promised, is undermined if the process is illusory
 
 2 main conclusions:
-*  Successful reforms need to recognise the `real world' of policy making; Four traps:
-- idealised process is distant from reality
-- not specifying how policy making ambitions will be achieved
-- reorganising structures without embedding them in a wider view
-- neglecting role of politics
+*  Successful reforms need to recognise the `real world' of policy making
 * Policy making needs to adapt to new challenges
 - ``system stewardship'' would involve policy makers overseeing a knowingly adaptive process of formulation and delivery of policy outcomes, this has roles:
   - goals
@@ -19871,10 +19888,10 @@ These are put into reality by addressing:
 Recommendations
 * The appointment within each department of a `Policy Director'
 * An extension of existing Accounting Officer responsibilities to cover due policy process, based on the policy fundamentals
-* Streamlined ‘policy assessments’ to replace existing impact assessments and business cases
+* Streamlined `policy assessments’ to replace existing impact assessments and business cases
 * A greater role for the centre in overseeing the quality of policy making (rather than just skills
 and capabilities) through the creation of a senior Head of Policy Effectiveness
-To address address concerns (from both parties) about the relationships between civil servants and ministers:
+To address concerns (from both parties) about the relationships between civil servants and ministers:
 * Greater clarity from ministers on their high-level policy goals; and greater clarity from
 ministers and civil service leaders on the value both parties can bring to the policy process
 * Engaging ministers early in the policy process
@@ -19887,7 +19904,7 @@ Culture of the civil service needs to change (to ``system stewardship''):
 
 ``policy makers argue that the specific impact tests simply rationalise decisions already taken'' (See National Audit Office, Assessing the Impact of Proposed New Policies, 2010, p.5; and Regulatory Policy Committee, Challenging Regulation, 2011)},
   creationdate     = {2023-11-03T06:34:01},
-  modificationdate = {2023-11-03T07:07:51},
+  modificationdate = {2023-11-08T20:29:37},
   owner            = {izzy_olivine},
 }
 
@@ -19972,20 +19989,4 @@ Half-step - install some and leave space for subsequent iterations - gives an aw
   volume           = {40},
   comment          = {After Stephan and Levin, 1992, adopts a psychologically rich notion of motivation to incorporate its extrinsic as well as intrinsic aspects. It employs the three concepts of `gold' (financial rewards), `ribbon' (reputation and career rewards) and `puzzle' (intrinsic satisfaction)
 
-Builds a conceptual framework linking value orientations (from the most normative `traditional' - which is split to pure and pragmitic tranditional - through `hybrid' to `entrepreneurial) to motivation (from amotiviation, through extrinsive - ribbon and gold - to intrinsic - puzzle).
-
-Merton suggested that scientists are motivated by ribbon, economists that they are motivated by gold.
-
-36 individual interviews and an on-line questionnaire survey of 735 scientists from five major UK research universities. sample is oriented towards the elite academic researchers operating in an environment in which they have the options to make a meaningful choice between traditional Mertonian goals and those of commercial engagement
-
-The main variables used in the quantitative analysis are derived from the questions concerning: (a) the nature of their involvement in different types of industrial links; (b) their value orientations towards academia-industry interface; and (c) the factors motivating them to engage with industry
-
-Unfortunately, the full survey and interview questions don't seem to have been included, but there are elements.
-
-Majority of the scientists are motivated by the traditional rewards of the `ribbon', using commercial activities as a means to generate resources for their research. Personal pecuniary gain, the `gold', although not irrelevant, is seen as important by a much smaller proportion of the scientists. More crucially, the intrinsic satisfaction derived from commercial engagement itself, as in puzzle-solving, emerges as a central motivation shared by many of the scientists
-
-- The traditional scientists as `reluctant' commercializers: the `ribbon'
-- The hybrid scientists as `strategic' commercializers: the `ribbon' and `puzzle'
-- The entrepreneurial scientists as `committed' commercializers: the `gold' and `puzzle'
-
-See al
+Builds a conceptual framework linking value orientations (from the most normative `traditional' - which is split to pure and pragmitic tranditional - through `hybrid' to `entrepreneurial) to motivation (from amotiviation, through extrin
