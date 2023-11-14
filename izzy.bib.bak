@@ -3153,8 +3153,8 @@ Other countries have policies that are more diffusion-oriented (Germany, Switzer
 Goes on to looks at specifics of each country and identify the consequences of different approaches. For example, the UK had ``difficulties'' that arise from lack of incentives in the system and other characteristics which seem to limit the the drive to efficiencies (not his word).},
   creationdate     = {2022-10-14T17:08:04},
   institution      = {National Academies of Sciences, Engineering, and Medicine},
-  keywords         = {economics, missions},
-  modificationdate = {2022-11-25T21:15:55},
+  keywords         = {economics, missions, policy, technology},
+  modificationdate = {2023-11-10T05:09:09},
   owner            = {ISargent},
   year             = {1987},
 }
@@ -10550,10 +10550,10 @@ GDPR is about individual data control
   pages            = {169-190},
   url              = {https://doi.org/10.1080/00344893.2020.1751258},
   volume           = {58},
-  comment          = {Paper that uses interviews with residents in ares considered more or less economically- or socially marginalised in south-east of UK. Find that deprivation isn't a matter of UK North-South or city-town divide but more nuanced. This means that the more deprived are more aware of the affluence on their doorstep. Found some xenophobia but less than expected and that resentment seemed to be more towards the affluent that immigrants.},
+  comment          = {Paper that uses interviews with residents in areas considered more or less economically- or socially marginalised in south-east of UK. Find that deprivation isn't a matter of UK North-South or city-town divide but more nuanced. This means that the more deprived are more aware of the affluence on their doorstep. Found some xenophobia but less than expected and that resentment seemed to be more towards the affluent that immigrants.},
   creationdate     = {2023-03-17T14:48:29},
   keywords         = {policy, place, economics},
-  modificationdate = {2023-03-19T09:01:20},
+  modificationdate = {2023-11-10T07:09:31},
   owner            = {izzy_olivine},
   publisher        = {Routledge},
 }
@@ -17701,10 +17701,14 @@ Designed to scale - small is adaptable, responsive, etc but scale is needed to s
 - franchising
 - direct control
 
-Not all public problems are suited to this new practise. Some are fights among contending political and economic interests in society.},
+Not all public problems are suited to this new practise. Some are fights among contending political and economic interests in society.
+
+[the potential for multi-objectivity appeals to Lambda-type values in Hood1991]
+
+Compare to adaptive approach proposed by Hallsworth2011},
   creationdate     = {2023-10-14T14:13:30},
   keywords         = {policy, transformation},
-  modificationdate = {2023-10-14T14:16:02},
+  modificationdate = {2023-11-12T15:37:00},
   owner            = {izzy_olivine},
   year             = {2019},
 }
@@ -17875,7 +17879,7 @@ For achieving systems change:
 - articulate the direction of strategic change and link big ideas to individual innovations
 
 Actions:
-- move into existing poeer structures
+- move into existing peer structures
 - research, advocacy, argument, policy promotion
 - create new organisations that exemplify new system
 - develop coalitions, networks
@@ -17921,7 +17925,7 @@ Leading systems change strategies:
 - leapfrog},
   creationdate     = {2023-10-14T14:49:21},
   keywords         = {systems, policy, transformation, innovation},
-  modificationdate = {2023-10-14T14:52:13},
+  modificationdate = {2023-11-13T17:39:22},
   owner            = {izzy_olivine},
 }
 
@@ -18281,7 +18285,7 @@ Two types of power dynamics veneer l between foundations and grantees:
 }
 
 @Article{vanNoordtM2020,
-  author           = {Colin van Noordt and Gianluca Misuraca},
+  author           = {{van Noordt}, Colin and Gianluca Misuraca},
   date             = {2020},
   journaltitle     = {Social Science Computer Review},
   title            = {Exploratory Insights on Artificial Intelligence for Government in Europe},
@@ -18352,7 +18356,7 @@ No loss of jobs (in day-care insurrection case) because of the need for staff to
 Calls for a long term lens because evidence that AI applications are dropped due to political, legal or other reasons},
   creationdate     = {2023-10-21T12:28:56},
   keywords         = {AI, technology, policy, transformation, digital},
-  modificationdate = {2023-10-24T16:38:40},
+  modificationdate = {2023-11-14T08:32:55},
   owner            = {izzy_olivine},
   year             = {2020},
 }
@@ -18517,6 +18521,8 @@ Propose policy framework to lay bare disagreements:
 - sensitivity analysis
 - conclusions and recommendations
 
+For each topic in the analytic framework, identify what are the sources of disagreement [not unlike Lindblom1959 suggesting that only the different marginal combinations of values need considering]
+
 Archetype analysts:
 - dispassionate analyst, driven by facts and models
 - advocate-analyst, predominantly driven by values
@@ -18561,7 +18567,7 @@ Economic models for climate outcomes must account for behavioural responses and 
   creationdate     = {2023-10-21T13:23:16},
   journal          = {Journal of Policy Analysis and Management},
   keywords         = {policy, economics},
-  modificationdate = {2023-10-21T13:30:01},
+  modificationdate = {2023-11-12T14:32:37},
   owner            = {izzy_olivine},
   publisher        = {Wiley},
   year             = {2011},
@@ -19378,7 +19384,7 @@ of cloud},
   author           = {Rohit Madan and Mona Ashok},
   booktitle        = {Handbook of research on Artificial Intelligence in government practices and processes},
   date             = {2022},
-  title            = {A public values perspective on the application of Artificial Intelligencein government practices: a synthesis of case studies},
+  title            = {A public values perspective on the application of Artificial Intelligence in government practices: a synthesis of case studies},
   chapter          = {10},
   doi              = {10.4018/978-1-7998-9609-8.ch010},
   editor           = {Jose Ramon Saura and Felipe Debasa},
@@ -19409,7 +19415,7 @@ DEG locates human-machine interactions at the core of government service deliver
 - data collection devices
 - surveillance
 
-Three core values of public administration are (from Hood 1991), which constitute the strategic triangle (popularised by Moore 1995) and widened by Bannister and Connolly 2014 (after /):
+Three core values of public administration are (from Hood1991), which constitute the strategic triangle (popularised by Moore 1995) and widened by Bannister and Connolly 2014 (after /):
 - sigma - relates to economy and parsimony / duty (also non-financial)
 - theta - relates to honest and fairness / service (responsibility to provide a good service to customers)
 - lambda - relates to security and resilience / social (also quasi-political view of social values)
@@ -19440,7 +19446,7 @@ Also labelled each use case with the public values orientation (duty, etc.) and 
 Discusses different aspects of value, their prominence and whether they are internal or external in orientation. Makes a series of propositions, which are largely reflective of the citizen adoption goal [therefore less of interest to me right now].},
   creationdate     = {2023-10-29T12:05:19},
   keywords         = {AI, public values, digital, transformation, trust, organisation, technology},
-  modificationdate = {2023-10-30T22:29:12},
+  modificationdate = {2023-11-12T15:07:17},
   owner            = {izzy_olivine},
 }
 
@@ -19583,7 +19589,7 @@ The root approach breaks down in its handling of values:
 - even if there is agreement on values, they may be partially conflicting and even individuals may not be able to decide on their relative importance
 - values are relative to circumstance
 
-However, the only values that matter in the decision-making are those whose outcome differs between policies, and then it is the different marginal combinations of values that need considering
+However, the only values that matter in the decision-making are those whose outcome differs between policies, and then it is the different marginal combinations of values that need considering [not dissimilar to RobertZ2011's argument for focussing on the disagreements between different architypal policymakers]
 
 ``the only practicable way to disclose one's relevant marginal values even to oneself is to describe the policy one chooses to achieve them''
 
@@ -19596,7 +19602,7 @@ The idea of ``muddling through'' is not very muddled. It is looking back at what
 The chain of successive policy choices influences thinking},
   creationdate     = {2023-10-30T20:05:03},
   keywords         = {systems, policy, decisions},
-  modificationdate = {2023-11-08T19:37:16},
+  modificationdate = {2023-11-12T14:31:55},
   owner            = {izzy_olivine},
 }
 
@@ -19607,7 +19613,7 @@ The chain of successive policy choices influences thinking},
   title            = {Strategic Alignment for Policy Analysis and Design},
   type             = {Case Study},
   number           = {2090.0},
-  url              = {https://drive.google.com/file/d/1h5gbLSrL4EWsxIU0Nleovc1V5Rv9gVCh/view},
+  url              = {https://case.hks.harvard.edu/strategic-alignment-for-policy-analysis-and-design/},
   comment          = {Successful policy has 3 characteristics, it has ``strategic alignment'', from Moore 1995 in Creating Public Value:
 - Value
 - Capacity (operational feasibility - financial, legal, technical, etc resources)
@@ -19618,10 +19624,12 @@ Caveats:
 2. alignment is usually constructed not discovered
 3. alignment is unstable (iteration is valueable here)
 
-Misalignment typically occurs when two characteristics are aligned but one is not. It can be difficult to diagnose and policy designers and analysts have motive to persuade themselves that alignment exists.},
+Misalignment typically occurs when two characteristics are aligned but one is not. It can be difficult to diagnose and policy designers and analysts have motive to persuade themselves that alignment exists.
+
+Can be found here \url{https://drive.google.com/file/d/1h5gbLSrL4EWsxIU0Nleovc1V5Rv9gVCh/view}},
   creationdate     = {2023-10-31T06:57:26},
   keywords         = {policy, strategy},
-  modificationdate = {2023-11-08T19:43:21},
+  modificationdate = {2023-11-13T21:44:00},
   owner            = {izzy_olivine},
 }
 
@@ -19889,22 +19897,23 @@ Recommendations
 * The appointment within each department of a `Policy Director'
 * An extension of existing Accounting Officer responsibilities to cover due policy process, based on the policy fundamentals
 * Streamlined `policy assessments’ to replace existing impact assessments and business cases
-* A greater role for the centre in overseeing the quality of policy making (rather than just skills
-and capabilities) through the creation of a senior Head of Policy Effectiveness
+* A greater role for the centre in overseeing the quality of policy making (rather than just skills and capabilities) through the creation of a senior Head of Policy Effectiveness 
+
 To address concerns (from both parties) about the relationships between civil servants and ministers:
-* Greater clarity from ministers on their high-level policy goals; and greater clarity from
-ministers and civil service leaders on the value both parties can bring to the policy process
+* Greater clarity from ministers on their high-level policy goals; and greater clarity from ministers and civil service leaders on the value both parties can bring to the policy process
 * Engaging ministers early in the policy process
+
 To address needs when operating in decentralised world, new skills and behaviours:
 * Better development of the skills of policy teams within departments, including more emphasis on policy design, innovation and influencing
 * Changes to incentives to retain internal expertise and to make more use of external expertise in policy making.
+
 Culture of the civil service needs to change (to ``system stewardship''):
 * Whitehall policy makers need to reconceive their role increasingly as one of creating the conditions for others to deal with policy problems using innovative and adaptive approaches
 * Incentives need to reward those who energetically search out experience and ideas, network, facilitate and understand the systems within which they operate
 
 ``policy makers argue that the specific impact tests simply rationalise decisions already taken'' (See National Audit Office, Assessing the Impact of Proposed New Policies, 2010, p.5; and Regulatory Policy Committee, Challenging Regulation, 2011)},
   creationdate     = {2023-11-03T06:34:01},
-  modificationdate = {2023-11-08T20:29:37},
+  modificationdate = {2023-11-13T20:25:28},
   owner            = {izzy_olivine},
 }
 
@@ -19951,13 +19960,7 @@ Design principles:
 
 Systems have layers which need representation. For example there are shared cultures and capabilities; standards and guidelines; data, code and services; financing; policy; law
 
-Doorst framework:
-If...
-- the context was approached
-AS IF...
-- the opportunity can be seen as
-THEN
-- the frame is
+Doorst framework - Dorst2015
 
 Prototyping principles:
 1. outcomes - how are cored shared outcomes delivered or refined?
@@ -19972,7 +19975,7 @@ Prototyping principles:
 Half-step - install some and leave space for subsequent iterations - gives an awesome example of half-house in Chile},
   creationdate     = {2023-11-05T12:53:51},
   keywords         = {missions, systems, policy, AI, food},
-  modificationdate = {2023-11-05T18:12:32},
+  modificationdate = {2023-11-10T17:02:45},
   owner            = {izzy_olivine},
 }
 
@@ -20091,7 +20094,126 @@ Some of all the interesting points in this thesis:
 - lighting bias for non aerial images is to left p123
 - discussion of perceptual learning for improving stereopsis p127},
   creationdate     = {2023-11-09T09:24:48},
-  modificationdate = {2023-11-09T10:32:42},
+  keywords         = {psychology, vision, remote sensing, photogrammetry, expertise},
+  modificationdate = {2023-11-09T10:33:11},
+  owner            = {ISargent},
+}
+
+@Online{OSvalues,
+  author           = {{Ordnance Survey}},
+  date             = {2023},
+  title            = {Values},
+  url              = {https://www.ordnancesurvey.co.uk/about/values},
+  urldate          = {2023-11-10},
+  comment          = {Four key values help shape us and the work we do:
+
+Think customer
+We put the customer at the heart of everything we do.
+
+Thrive together
+We work as one team to deliver for our customers; learning from each other, communicating openly and connecting powerfully.
+
+Stay ahead
+We set the standard and lead the way – delivering certainty today and innovating to stay ahead tomorrow.
+
+Seize the moment
+We seize every opportunity to turn ambition into action; making things happen with passion and purpose.},
+  creationdate     = {2023-11-10T14:00:02},
+  modificationdate = {2023-11-10T14:02:16},
+  owner            = {izzy_olivine},
+}
+
+@Book{Dorst2015,
+  author           = {Kees Dorst},
+  date             = {2015},
+  title            = {Frame Innovation: Create New Thinking by Design},
+  doi              = {10.7551/mitpress/10096.001.0001},
+  isbn             = {9780262328845},
+  publisher        = {The MIT Press},
+  comment          = {referenced in Hill2022 as contained Doorst Framework:
+
+If...
+- the context was approached
+AS IF...
+- the opportunity can be seen as
+THEN
+- the frame is
+
+From \url{https://youtu.be/dPsmww461pI} what is drunken district was treated like a music festival then...},
+  creationdate     = {2023-11-10T16:58:43},
+  keywords         = {policy},
+  modificationdate = {2023-11-10T17:06:20},
+  owner            = {izzy_olivine},
+}
+
+@Book{BardachP2016,
+  author           = {Eugene Bardach and Eric M. Patashnik},
+  date             = {2016},
+  title            = {A practical guide for policy analysis},
+  edition          = {Fifth},
+  subtitle         = {The eightfold path to more effective problem solving},
+  creationdate     = {2023-11-10T17:55:29},
+  keywords         = {policy},
+  modificationdate = {2023-11-10T17:57:44},
+  owner            = {izzy_olivine},
+}
+
+@Article{Hood1991,
+  author           = {Hood, Christopher},
+  date             = {1991},
+  journaltitle     = {Public Administration},
+  title            = {A public management for all seasons?},
+  issue            = {1},
+  pages            = {3--19},
+  volume           = {69},
+  comment          = {Review of the ``doctrine'' and impact of NPM in the style of the emporor's new clothes
+
+I've not read the whole it but it identifies ``at least three different `families' of values'', which are drawn from earlier work and drawn on in other works such as MadanA2022publicvalues:
+
+Sigma: keep it lean and purposeful - success is frugality - failure is waste - currency is money and time - emphasis of control is output - low slack - fixed/single goals - costed, segmented information
+
+Theta: keep it honest and fair - success is rectitude - failure is malversation - currency is trust and entitlements - emphasis of control is process - medium slack - incompatible `double bind' goals - structured information
+
+Lambda: keep it robust and resilient - success is resilience - failure is catastrophe - currency is security and survival - emphasis of control is input/process - high slack - emergent/multiple goals - rich exchange, collective asset information
+
+NPM is primarily Sigma-type values. It assumes a culture of public service honest as given. Further, NPM's focus on products and services within parameters and de-emphasis of externalities indicate that it is incompatible with safety.
+
+This paper is well worth digging deeper into},
+  creationdate     = {2023-11-12T10:10:50},
+  modificationdate = {2023-11-12T10:27:04},
+  owner            = {izzy_olivine},
+}
+
+@Report{GOScience2019,
+  author           = {{GO-Science}},
+  date             = {2019},
+  institution      = {{Government Office for Science}},
+  title            = {A review of Government Science Capability},
+  eprint           = {https://assets.publishing.service.gov.uk/media/5dc14375e5274a4aa8117965/a_review_of_government_science_capability_2019.pdf},
+  url              = {https://www.gov.uk/government/publications/government-science-capability-review},
+  creationdate     = {2023-11-14T06:26:30},
+  keywords         = {science, technology, policy, organisations, transformation, bureaucracy},
+  modificationdate = {2023-11-14T06:30:48},
+  owner            = {izzy_olivine},
+}
+
+@Report{BissetBCHKLNNR2022,
+  author           = {David Bisset and Rob Buckingham and Paul Clarke and Sabine Hauert and James Kell and David Lane and Samia Nefti-Meziani and Paul Newman and Rob Richardson},
+  date             = {2022},
+  institution      = {The Robotics Growth Partnership},
+  title            = {The Cyber-Physical Infrastructure},
+  comment          = {My response:
+
+It strikes me that this is based more of the desires and dreams of people working in robotics fields or government, rather than a paper on addressing the real needs of society(ies). That may be fine, but it expresses itself in the early pages (and in various summary paragraphs) as being about addressing what are known elsewhere as Grand Challenges. 
+
+I like evidence, and so I wonder what is the hard evidence that robotics is essential to solving these challenges (in some cases, it could be detrimental, e.g. a switch to EVs could worsen environmental damage)?
+
+I’m not implying that robotics, AI, cyber and smart can’t be used in the solutions to Grand Challenges. However, I find myself increasingly worrying about the jostling for the limited of attention of policy- and decision-makers when we are at a global moment when we need to fully focus on solving problems that threaten the foundations of our societies. How do decision-makers, who are often not trained in science or tech, differentiate between the dreams of those invested an a technology, and real-world evidence?
+
+Does not reference a single vaguely scientific article, let alone something that has been peer-reviewed},
+  creationdate     = {2023-11-14T18:18:17},
+  keywords         = {technology, fiction},
+  modificationdate = {2023-11-14T18:26:02},
   owner            = {ISargent},
 }
 
