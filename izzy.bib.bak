@@ -2612,8 +2612,8 @@ Deleidi studies demonstrated a larger multiplier affect with mission-oriented in
 ''Dynamic efficiency involves making the best use of resources
 to achieve changes over time and so is concerned with innovation, investment, improvement and growth - including, perhaps most importantly, the creation of new resources (technologies) and shifting technology frontiers (Huerta de Soto 2009).''},
   creationdate     = {2022-10-05T19:06:09},
-  keywords         = {economics, policy, missions},
-  modificationdate = {2023-11-08T20:45:59},
+  keywords         = {economics, policy, missions, decisions},
+  modificationdate = {2023-11-19T13:58:42},
   owner            = {ISargent},
 }
 
@@ -3523,6 +3523,7 @@ Has a sectoral S-curve showing position of different sectors (cars, buildings, p
   journaltitle     = {Journal of Cleaner Production},
   title            = {Assessing the degrowth discourse: A review and analysis of academic degrowth policy proposals},
   pages            = {321--334},
+  url              = {https://www.sciencedirect.com/science/article/abs/pii/S0959652617302202},
   volume           = {149},
   comment          = {Analyse the degrowth literature to draw conclusions about the position of these ideas and proposals in academic discourse.
 
@@ -3546,7 +3547,7 @@ Find that objectives behind proposals are sometimes unclear and say there is a n
 Neglected issues are population growth and implications of degrowth for developing countries},
   creationdate     = {2022-10-21T12:41:26},
   keywords         = {economics, policy, degrowth, environment},
-  modificationdate = {2023-11-08T20:53:59},
+  modificationdate = {2023-11-19T14:37:49},
   owner            = {ISargent},
 }
 
@@ -4120,6 +4121,7 @@ Keynes's impetus to write general theory … guess on to discuss with analysing 
   journaltitle     = {Journal of Cleaner Production},
   title            = {Degrowth business framework: Implications for sustainabledevelopment},
   doi              = {https://doi.org/10.1016/j.jclepro.2020.121382},
+  url              = {https://www.sciencedirect.com/science/article/abs/pii/S0959652620314293},
   volume           = {262},
   comment          = {Spash (2017, p. 27) argues that “humanity would do better to create an economic system that is smaller by design, not disaster”.
 
@@ -4153,7 +4155,7 @@ Ends with question of how to measure success under this regime?
 Interesting quote from As Schumacher (1993c, p. 179) ``Nonrenewable goods must be used only if they are indispensable, and then only with the greatest care and the most meticulous concern for conservation. To use them heedlessly or extravagantly is an act of violence''.},
   creationdate     = {2022-10-28T19:33:25},
   keywords         = {economics, degrowth, sufficiency, production, management},
-  modificationdate = {2022-11-07T10:54:13},
+  modificationdate = {2023-11-19T14:38:31},
   owner            = {ISargent},
 }
 
@@ -4578,7 +4580,7 @@ Appendix A covers references to history and context of degrowth, conceptual aspe
   pages            = {175--184},
   url              = {https://www.sciencedirect.com/science/article/pii/S0921800918307626},
   volume           = {157},
-  comment          = {Identifies areas of discord between degrowth movement and environmental justice move in the Global South (EJ):
+  comment          = {Identifies areas of discord between degrowth movement and environmental justice movement in the Global South (EJ):
 
 - Degrowth is not an appealing term in the South	
   - Different history/experience of poverty and scarcity
@@ -4605,7 +4607,7 @@ Its not all back and this paper also identifies analogies between degrowth and e
   creationdate     = {2022-11-11T12:01:26},
   journal          = {Ecological Economics},
   keywords         = {Degrowth, Environmental justice, Global South, economics},
-  modificationdate = {2022-11-11T12:10:18},
+  modificationdate = {2023-11-19T14:41:51},
   owner            = {ISargent},
   year             = {2019},
 }
@@ -7497,8 +7499,8 @@ The Weberian model seemed partial, almost from the start, because it could not e
 
 In many systems, those who enter the civil service are trained (to an elite level) in a range of (often general) skills but not IT - and so machine bureaucracies (unlike welfare state agencies - Mintzberg's Professional bureaucracies) tended to be led by IT illiterate managers.  [Does this reflect Mintzberg1996 - if they've managed something, they can manage anything?]. In US, in contrast, departments were run by relevant specialists - although this also seems to be the case.},
   creationdate     = {2023-01-16T10:39:36},
-  keywords         = {economics, bureaucracy, transformation, performance, management},
-  modificationdate = {2023-03-09T12:34:12},
+  keywords         = {economics, bureaucracy, transformation, performance, management, systems},
+  modificationdate = {2023-11-19T13:45:07},
   owner            = {izzyolivine},
   year             = {2006},
 }
@@ -7536,7 +7538,7 @@ Despite discourse of people as `customers' of government, looking at the functio
 
 Discusses management - or rather Management
 
-Three assumptions underlie the Management view of management, which collapse when considering what governent agencies have to do:
+Three assumptions underlie the Management view of management, which collapse when considering what government agencies have to do:
 * activities can be isolated and autonomous - Many government activities are interconnected and cannot be isolated
 * performance can be evaluated by objective measures - Many activities are in the public sector precisely because of measurement problems / requires soft judgment
 * activities can be managed by professional managers - managers are too often ignorant of the subject of their management.
@@ -7571,8 +7573,8 @@ DunleavyMBT2006 has a useful perspective on Mintzberg's earlier work on which th
 
 Simon1991 also talks about the difficulty of defining rewards as motivators},
   creationdate     = {2023-01-16T11:04:54},
-  keywords         = {economics, bureaucracy},
-  modificationdate = {2023-03-03T13:54:17},
+  keywords         = {economics, bureaucracy, systems},
+  modificationdate = {2023-11-19T13:46:54},
   owner            = {izzyolivine},
 }
 
@@ -7994,10 +7996,10 @@ IT leaders steward IT people/skills assets, EA assets and data assets p275-6 (al
 
 DevOps: When something is difficult it frightening we do it more often p292-3
 
-Love their critique of Hunter and Westerman’s traditional view of the governance process, The Apprentice, [Dragons Den], ``Star Chamber''p175-7},
+Love his critique of Hunter and Westerman’s traditional view of the governance process, The Apprentice, [Dragons Den], he dubs it ``Star Chamber''p175-7},
   creationdate     = {2023-01-21T14:58:51},
   keywords         = {transformation, technology, decisions},
-  modificationdate = {2023-11-15T10:44:18},
+  modificationdate = {2023-11-15T10:46:57},
   owner            = {izzy_olivine},
 }
 
@@ -9903,8 +9905,8 @@ Capacity Maturity Model had five levels},
   url              = {https://arxiv.org/abs/2301.10226},
   comment          = {A proposed method to watermark large language models such as gpt (chatgpt) so that their output is detectable but not easily to the human eye.},
   creationdate     = {2023-03-09T13:03:42},
-  keywords         = {trust, ai, nlp, machine learning},
-  modificationdate = {2023-03-09T13:05:26},
+  keywords         = {trust, ai, nlp, machine learning, technology, AISummit},
+  modificationdate = {2023-11-26T17:38:04},
   owner            = {ISargent},
 }
 
@@ -11333,7 +11335,7 @@ new ethos can emerge and spread around the organisation:
 3. Consolidate, institutionalise, and codify best practices},
   creationdate     = {2023-03-21T14:27:14},
   keywords         = {transformation, bureaucracy, policy},
-  modificationdate = {2023-11-08T21:26:06},
+  modificationdate = {2023-11-22T16:40:00},
   owner            = {izzy_olivine},
 }
 
@@ -14055,8 +14057,8 @@ Details how the data were curated, the model architecture, how the model was tra
 - HELM 5-shot benchmark - which has some nice comparisons for accuracy, calibration, robustness, fairness, bias and toxicity
 - multilingual probing},
   creationdate     = {2023-05-17T14:22:57},
-  keywords         = {NLP, machine learning, open source},
-  modificationdate = {2023-05-17T16:30:07},
+  keywords         = {NLP, machine learning, open source, technology, AISummit},
+  modificationdate = {2023-11-28T14:43:29},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -14657,8 +14659,8 @@ Pause should be immediate or governments should step up links to FoLPolicy2023
 Hogarth2023 says that some of the signatories turned out to be fake},
   creationdate     = {2023-06-15T08:28:18},
   eprint           = {https://futureoflife.org/fli_pause-giant-ai-experiments_an-open-letter/},
-  keywords         = {AI, trust, future, BigTech},
-  modificationdate = {2023-10-21T21:41:45},
+  keywords         = {AI, trust, future, BigTech, AISummit, technology},
+  modificationdate = {2023-11-26T17:38:21},
   owner            = {ISargent},
 }
 
@@ -14717,10 +14719,9 @@ Hogarth2023 says that some of the signatories turned out to be fake},
 - capabilities of ...s
 ... largest AI model
 
-Organisations are racing to create "Good-like AI" because:
+Organisations are racing to create "God-like AI" because:
 -  They genuinely believe success would be hugely positive for humanity
-- They have persuaded themselves that if their organisation is the one in control of God-like AI, the result will be better for all
-- posterity
+- They have persuaded themselves that if their organisation is the one in control of God-like AI, the result will be better for all posterity
 
 ``The individuals who are at the frontier of AI today are gifted. I know many of them personally. But part of the problem is that such talented people are competing rather than collaborating. Privately, many admit they have not yet established a way to slow down and co-ordinate. I believe they would sincerely welcome governments stepping in.''
 
@@ -14740,8 +14741,8 @@ Suggests using engineering biology as an analogy for how to treat AI - ``God-lik
 
 Hogarth is one of the authors of State of AI report},
   creationdate     = {2023-06-15T08:53:20},
-  keywords         = {AI, trust, BigTech},
-  modificationdate = {2023-10-21T21:43:28},
+  keywords         = {AI, trust, BigTech, technology, AISummit},
+  modificationdate = {2023-11-26T17:38:13},
   owner            = {ISargent},
 }
 
@@ -15294,8 +15295,8 @@ Recommendations include:
 - risk of physiognomy - facial characteristics that "indicate" criminality
 - these datasets are used for many ML backbones - legal and policy implications},
   creationdate     = {2023-07-03T10:15:06},
-  keywords         = {AI, trust, bias, data, NLP, imagery},
-  modificationdate = {2023-07-03T13:19:10},
+  keywords         = {AI, trust, bias, data, NLP, imagery, technology, AISummit},
+  modificationdate = {2023-11-28T14:43:16},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -19731,15 +19732,17 @@ Discussed in Mystery AI Hype Theatre 3000 episode \url{https://peertube.dair-ins
   owner            = {izzy_olivine},
 }
 
-@Book{WeimerV2013,
-  author           = {Weimer, David and Vining, Aidan R},
-  date             = {2013},
+@Book{WeimerV2015,
+  author           = {David Leo Weimer and Aidan R. Vining},
+  date             = {2015},
   title            = {Policy Analysis: Concepts and Practice},
-  edition          = {5},
+  doi              = {10.4324/9781315663289},
+  edition          = {Fifth},
   isbn             = {1292039825},
   language         = {eng},
-  publisher        = {Pearson Education UK},
+  publisher        = {Routledge},
   series           = {Pearson custom library},
+  url              = {https://www.taylorfrancis.com/books/mono/10.4324/9781315663289/policy-analysis-david-weimer-aidan-vining},
   abstract         = {Laying a strong conceptual foundation to understanding the rationales of and limitations to public policy, Weimer and Vining give practical advice about how to do policy analysis while demonstrating the application of advanced analytical techniques through case study examples. Policy Analysis: Concepts and Practices is a comprehensive, accessible, and rich introduction to policy analysis for students in public policy, public administration, and business programs.},
   booktitle        = {Policy Analysis},
   comment          = {Generic policies (Chapter 8) fall into 5 categories:
@@ -19748,10 +19751,46 @@ Discussed in Mystery AI Hype Theatre 3000 episode \url{https://peertube.dair-ins
 3. establishing rules
 4. supplying goods through nonmarket mechanisms
 5. providing insurance and cushions (economic protection)
-These break down further [but are largely predictable and not very inspiring, largely based on theories of failure: market failure, government failure, distributional issue, limitation of competitive framework},
+These break down further [but are largely predictable and not very inspiring, largely based on theories of failure: market failure, government failure, distributional issue, limitation of competitive framework
+
+From pages 274-279
+
+Offers a political analysis worksheet to determine:
+- Actors
+- Motivations
+- Beliefs
+- Resources
+
+and considering:
+- Interest groups
+- Unelected
+- Elected
+
+Punctuated equilibrium - stability interrupted by large changes
+
+Stability is achieved through seapre legislative and executive functions, the need for supermajorities, veto points
+
+Policy entrepreneurs create policy images (frames) to ``appeal to the normally apathetic electorate'' p274
+
+Arnold Meltsner in ``political feasiblity and policy analysis'' provides a checklist - relevant actors, their motivations, beliefs and political resources. Also the polical arenas of the decision making
+
+Actors have either or both of
+- substantive interest
+- official standing
+
+Political arenas have rules: p278
+- legislatures have rules of order
+- agencies have administrative procedures
+- also unwritten traditions and standard practices
+
+Policy analysts can use four general strategies:
+- co-optation - getting others to believe that your proposal is (partly) their idea / useful when proposal infringes on someone else's turf
+- compromise
+- heresthetics
+- rhetoric},
   creationdate     = {2023-11-01T19:01:15},
   keywords         = {policy},
-  modificationdate = {2023-11-01T19:27:37},
+  modificationdate = {2023-11-19T12:36:05},
   owner            = {izzy_olivine},
 }
 
@@ -19915,7 +19954,8 @@ Culture of the civil service needs to change (to ``system stewardship''):
 
 ``policy makers argue that the specific impact tests simply rationalise decisions already taken'' (See National Audit Office, Assessing the Impact of Proposed New Policies, 2010, p.5; and Regulatory Policy Committee, Challenging Regulation, 2011)},
   creationdate     = {2023-11-03T06:34:01},
-  modificationdate = {2023-11-13T20:25:28},
+  keywords         = {government, policy, system},
+  modificationdate = {2023-11-19T14:03:05},
   owner            = {izzy_olivine},
 }
 
@@ -20039,14 +20079,20 @@ Contains details of the survey
 
 Unlike the researchers in the universities studies in Lam2011, none of the respondents categorised as traditional
 
-Using a version of PCA (explained 57.44\% of the variance) a new four-factor description of motivation: `gold', `challenge', `engineer', `basic researcher' [roughtly `income', `solving societal challenges', `solving industrial challenges', `new knowledge']. Less experienced researchers are more likely to be in the challenge category.
+Using a version of PCA (explained 57.44\% of the variance) a new four-factor description of motivation: 
+- gold
+- challenge
+- engineering
+- basic research
+
+[roughtly `income', `solving societal challenges', `solving industrial challenges', `new knowledge']. Less experienced researchers are more likely to be in the challenge category.
 
 Findings also suggest that the role of grand societal challenges is emerging as a distinct motivator, aside from a basic research-oriented advancement of science
 
 Making the world a better place that is not fully included in the gold, ribbon and puzzle model of motivation. They reiterate the call from several others that moral and pro-social motivations need to be included.},
   creationdate     = {2023-11-06T11:01:25},
   keywords         = {science, research, decisions, policy, technology, organisation},
-  modificationdate = {2023-11-06T11:29:08},
+  modificationdate = {2023-11-19T16:47:04},
   owner            = {ISargent},
 }
 
@@ -20261,6 +20307,690 @@ adopting the system perspective outlined may be the reduction and elimination of
   keywords         = {systems, transformation},
   modificationdate = {2023-11-14T21:02:42},
   owner            = {izzy_olivine},
+}
+
+@Article{ChenZZ2023,
+  author           = {Lingjiao Chen and Matei Zaharia and James Zou},
+  date             = {2023},
+  journaltitle     = {arXiv preprint},
+  title            = {How is {ChatGPT}'s behavior changing over time?},
+  eprint           = {https://arxiv.org/pdf/2307.09009.pdf},
+  url              = {https://arxiv.org/abs/2307.09009},
+  archiveprefix    = {arXiv},
+  comment          = {Run a series of experiments on tasks:
+1. math problems
+2. sensitive/dangerous questions
+3. opinion surveys
+4. multi-hop knowledge-intensive questions
+5. generating code
+6. US Medical License tests
+7. visual reasoning
+
+``the behavior of the `same' LLM service can change substantially in a relatively short amount of time, highlighting the need for continuous monitoring of LLMs''},
+  creationdate     = {2023-11-18T18:48:03},
+  keywords         = {AI, NLP, technology},
+  modificationdate = {2023-11-18T18:53:05},
+  owner            = {izzy_olivine},
+  primaryclass     = {cs.CL},
+  year             = {2023},
+}
+
+@Article{WilliamsonRT2023,
+  author           = {Katherine Williamson and Michele Reilly and Santi Thompson},
+  date             = {2023},
+  journaltitle     = {{CODEX}: The Journal of the Louisiana Chapter of the {ACRL}},
+  title            = {Creating a Structured Narrative Literature Review Template: A Case Study},
+  eprint           = {https://journal.acrlla.org/index.php/codex/article/view/210/427},
+  number           = {4},
+  url              = {https://journal.acrlla.org/index.php/codex/index},
+  volume           = {6},
+  comment          = {A literature review of literature review techniques
+
+Results in a template for reviewing literature that they claim will improve the identification of relevant evidence from documents as well as facilitating collaborative note taking
+
+Identify that there are at least 4 types of literature review:
+- narrative - focus on selected topics through creative and critical analysis of arguments found in secondary sources rather than purely quantitative content
+- systematic - documents the data-collecting process, including identifying, selecting, and analyzing source material, and requires reviewers to communicate these steps to ensure transparency
+- realist
+- scoping
+
+Possibly useful literature review as their data collection. Data analysis results in structured narrative literature review template affords a process and structure for collecting narrative literature review data, plus elements that are found in systematic reviews. Outline of template (more details in the paper):
+1. Bibliographic information - source's citation information:
+  - title
+  - author
+  - date of publication
+  - citation
+  - abstract
+2. Study information - details about the study and its results:
+  - purpose
+  - type
+  - parameter
+  - methodology
+  - findings
+  - recommendations
+  - conclusions
+  - limitation
+3. Study contribution - source's impact on scholaraly debates and conversations:
+  - impact
+  - originality
+4. Reviewer methodology - the role that the reviewer performs when conducting the literature review, specification their interpretation and analysis:
+  - commentary
+  - process
+  - research notes},
+  creationdate     = {2023-11-18T18:58:26},
+  keywords         = {research, literature},
+  modificationdate = {2023-11-18T19:11:28},
+  owner            = {izzy_olivine},
+}
+
+@Online{Rainkainen2020,
+  author           = {Rainkainen, Esko},
+  date             = {2020},
+  title            = {Understanding Government as a Complex System through Network Mapping},
+  url              = {https://medium.com/@reinikainen/understanding-government-as-a-complex-system-through-network-mapping-fffec95038cc},
+  comment          = {Mainly a video, Systems Change Finland
+
+How understanding the system, in particular in organisations, is essential to solving problems
+
+Describes the ``old way'' of understanding / coordinating systems, including:
+- hierarchy
+- reductionism
+
+And the ``new way'', including:
+- network
+- whole system
+
+Within an organisation, they mapped:
+- communications
+- decisions
+- technical support
+- social support
+- innovators
+- cross silo connectors
+- job critical information
+
+Mentions Valdis Krebs, who does this mapping in organisations
+
+Options for restructuring:
+x. industrial era / scientific management
+x. power dynamics / internal politics
+o. analyse the network and understand how people are engaging to realise goals},
+  creationdate     = {2023-11-19T12:49:07},
+  keywords         = {systems, policy},
+  modificationdate = {2023-11-19T12:58:03},
+  owner            = {izzy_olivine},
+}
+
+@Book{FisherUP1991,
+  author           = {Roger Fisher and William Ury},
+  date             = {1991},
+  title            = {Getting to Yes},
+  edition          = {Second},
+  editor           = {Bruce Patton},
+  publisher        = {Random House},
+  url              = {https://penguinrandomhousehighereducation.com/book/?isbn=9780143118756},
+  comment          = {[This is like The Incredible Years for businessmen (sic)]
+
+All about ``principled negotiation'', which is neither hard nor soft and ultimate about being clear about all parties' interests
+
+Negotiation should consider p10-1:
+- people - separate people from the problem
+- interests - focus on interests, not positions
+- options - generate a variety of possiblities before deciding what to do
+- criteria - insist that the result be based on some objecitve standard
+
+Be specific about interests p28
+
+Expand the pie of options before dividing it p31
+
+Separate inventing options from judging them (gives practical suggestions for how this can be achieved such as ``daring brainstorming'') p33
+
+Invent agreements of different strengths such as: p37-8
+* substantive -- procedural
+* permanent -- provisional
+* comprehensive -- partial
+* final -- in principle
+* unconditional -- contingent
+* binding -- nonbinding
+* first-order -- second-order
+
+Different interests can dovetail, leading to a solution p39
+
+I've not read part III which covers:
+- what if they are more powerful?
+- what if they won't play?
+- what  if they use dirty tricks?},
+  creationdate     = {2023-11-19T12:58:35},
+  keywords         = {policy, management, leadership, transformation, negotiation},
+  modificationdate = {2023-11-19T13:43:31},
+  owner            = {izzy_olivine},
+}
+
+@Report{MandellPSC2022,
+  author           = {Brian S. Mandell and Stephen Petraeus and Guhan Subramanian and Lisa Cox},
+  date             = {2022},
+  institution      = {Bloomberg Harvard City Leadership Initiative},
+  title            = {Eight Types of Power City Leaders Can Use When Negotiating},
+  eprint           = {https://www.cityleadership.harvard.edu/wp-content/uploads/migrate/BHCLI_EightTypes_0000PG.pdf},
+  comment          = {Advises evaluating the power helpd by each party before negotiating
+
+Types of power:
+* formal power
+  - institutional
+  - convening
+  - veto
+  - shift
+* informal power
+  - moral suasion
+  - nuisance
+* mixed power
+  - momentim
+  - coalitional},
+  creationdate     = {2023-11-19T13:30:44},
+  keywords         = {policy, management, leadership, transformation, negotiation},
+  modificationdate = {2023-11-19T13:43:39},
+  owner            = {izzy_olivine},
+}
+
+@Report{RoyalSociety2020explainer,
+  author           = {{The Royal Society}},
+  date             = {2020},
+  institution      = {The Royal Society},
+  title            = {The role of public and non-profit research organisations in the UK research and innovation landscape},
+  eprint           = {https://royalsociety.org/-/media/policy/Publications/2020/2020-09-the-role-of-public-and-non-profit-research-organisations-explainer.pdf},
+  url              = {https://royalsociety.org/topics-policy/publications/2020/uk-research-organisations/},
+  comment          = {In light of the commitment by governement to increase public investment in research and development, this short explainer looks at current spending in public and non-profit research, identifies the different types of establishment, where they are
+
+Public and non-profit research organisations include:
+- Public Sector Research Establishments (PSREs)
+- Research Council Institutes (RCIs)
+- Medical Research Council (MRC) units
+- Catapult centres
+- Independent Research Organisations (IROs)
+- private non-profit organisations, such as charities
+
+``Pressures on applied R\&D budgets has meant that the available funding for research organisations has shifted away from longer-term core funding to shorter-term project-based funding''
+
+``The UK devotes a significantly smaller amount of public funds to non-university Ra&D compared to other countries''
+
+Research functions:
+- To perform research
+- To innovate
+- To gather and distribute scientific information
+- To develop high-level skills
+- Manage strategic risk
+- Support the development of policy
+- Underpin business and public sector operations
+- Develop standards, test and regulate
+- Provide and maintain infrastructure and specialist equipment
+- Training and teaching (PhD students or apprenticeship training, but generally on  a smaller scale compared to universities)
+- Stewardship of national collections (for example, core samples or artistic collections)},
+  creationdate     = {2023-11-19T14:05:49},
+  keywords         = {technology, research, innovation},
+  modificationdate = {2023-11-19T14:21:19},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Edgerton2019,
+  author           = {David Edgerton},
+  booktitle        = {Lessons from the History of UK Science Policy},
+  date             = {2019},
+  title            = {What has British science policy really been?},
+  bookauthor       = {Flanagan, Kieron and Clarke, S. and Agar, J. and Edgerton, David and Craig, C.},
+  eprint           = {https://www.thebritishacademy.ac.uk/documents/243/Lessons-History-UK-science-policy.pdf},
+  pages            = {31--39},
+  url              = {https://www.thebritishacademy.ac.uk/publications/policy-histories-lessons-history-uk-science-policy/},
+  comment          = {A scathing review of works on the history of science policy followed by a nre version of the history from 1900 onwards
+
+``The quality of the historical and policy discourse around science policy is notably lower than for say economic or defence policy''
+
+``what `science policy' refers to is not stable ... professionals mean policy for scientific research, not all science: it is not about policy for scientific knowledge as a whole (which would include education). They mean policy for research, but not all research''
+
+``science policy too often assumes that the UK is an island unto itself, that what applies to the whole world applies to the UK, that the UK is a little world in miniature''
+
+The history of science policy is lost in long-gone ministries - historic reviews neglect this
+
+The Haldane Principle was made up in the 1960s claiming to be from 1918 and part of the ``fanciful history of science policy'' - the claims of self-interested parties who have sought to promote science, and their science, by using stories of failure, indifference to science, and all the rest
+
+``complaints about lack of R\&D funding peaked at the moment in British history when R\&D funding was at its highest as a proportion of GDP (the early 1960s)''
+
+Claims of fourth industrial revolution, great transformations are ``not based on serious historical research, but rather propagandistic histories that are part of a claim for more public money'' [oof]
+
+Disillusion in 1960s led to more scrutiny of research plans, creating more of a sense of the government as customer for research -  Rothschild Report (1971) - the customer-contractor principle, to bring research programmes under more control
+
+`` The UK went from importing half its food to near self-sufficiency in the 1980s''
+
+``From the late 1980s, a shift away from near-market research ... Departmental research and development was slashed along with the rationale for major state-led programmes. The entrepreneurial state (which did exist) was killed off. The research councils were not cut anything like as much''
+
+White paper:  ``Realising our potential'' - talk of entrepreneurial universities, and spin-outs, and of course Silicon Valley. ``The paradox was that continuing government support was based on the idea that only research far from the market should be supported, and that this research would lead to new products and processes''
+
+``Since the 1990s, research policy has been a substitute for industrial policy''},
+  creationdate     = {2023-11-19T14:52:50},
+  keywords         = {research, science, policy, technology},
+  modificationdate = {2023-11-19T15:26:39},
+  owner            = {izzy_olivine},
+}
+
+@Report{RoyalSociety2020list,
+  author           = {{The Royal Society}},
+  date             = {2020},
+  institution      = {The Royal Society},
+  title            = {A list of public and non-profit research organisations in the UK},
+  url              = {https://royalsociety.org/topics-policy/publications/2020/uk-research-organisations/},
+  comment          = {A list of organisations under the headings defined in RoyalSociety2020explainer},
+  creationdate     = {2023-11-19T17:39:15},
+  keywords         = {technology, research, innovation},
+  modificationdate = {2023-11-19T17:42:10},
+  owner            = {izzy_olivine},
+}
+
+@Article{BachrachB1962,
+  author           = {Bachrach, Peter and Baratz, Morton S.},
+  date             = {1962},
+  journaltitle     = {The American Political Science Review},
+  title            = {Two faces of power},
+  doi              = {10.2307/1952796},
+  number           = {4},
+  pages            = {947--952},
+  volume           = {56},
+  comment          = {Contrasts the perspective of power according to sociology (``elitist'' - ``who rules?'') with that of political science (``pluralist'' - ``does anyone have power?''), and finds both lacking
+
+Influence is about more than intiating and vetoing proposal, it is also influencing the scope of initiation / agenda setting (e.g. the proposal that are not made)
+
+Researcher should:
+- investigate the institution's mobilisation of bias, analyse:
+  - dominant values
+  - myths
+  - established political procedures
+  - rules of the game
+- inquire which persons or groups
+  - gain from existing bias 
+  - are handicapped by existing bias
+- investigate the dynamics of nondecision-making
+  - the extent to which status quo - orientated persons and groups influence community values and institutions
+- analyse participation in decision-making of concrete issues with distinction between ``key'' and ``routine'' decisions},
+  creationdate     = {2023-11-21T19:09:50},
+  keywords         = {systems, power, decisions},
+  modificationdate = {2023-11-21T20:33:25},
+  owner            = {izzy_olivine},
+}
+
+@Article{Kingdon1993,
+  author           = {Kingdon, John W.},
+  date             = {1993},
+  journaltitle     = {Sociology and the Public Agenda},
+  title            = {How do issues get on public policy agendas?},
+  number           = {1},
+  pages            = {40--53},
+  volume           = {8},
+  comment          = {Identify three streams of activity in an organisation (based on a different model by Cohen-March-Olsen):
+- problems
+- proposals
+- politics
+
+Only when these come together can decisions be made
+
+Problem stream:
+``getting people to see a condition as a problem is a central political accomplishment'' - problems are conditions that:
+- conflict with prevailing values
+- have be categorised in a particular way (the same conditions can be framed as different problems)
+
+Proposal stream:
+Development of proposals must be done long before the opportunity fo action adoption
+proposal are selected resembles natural selection, they must be:
+- technically feasible
+- acceptable, in terms of budget
+- acceptable, to the mass (or attentive) public
+
+Political stream:
+Tremendously important and is down to changes in adminstration, shifts in partisan or ideological balance, interest group pressure
+
+Discusses how policy entrepreneurs tend to advocate particular proposals and become active when they can attach this to a currently active problem. Only if there is a predictable or unpredictable window of opportunity when the proposal matches an current problem and there is political will to consider the change.
+
+Critical to this is the argumentation, persuasion, marshalling evidence that sets the agenda
+
+``of all the attributes of successful policy entrepreneurs, sheer persistence is probably the most important''
+
+Also discusses the role that social scientsts could play in this
+1. they can support the recognition of problems by documenting the condition - but have less special expertise for judging how inappropriate or intolerable a condition is
+2. they can supply information about how the world works - but need to robust to not threaten the credibility of the field (and tentitiveness is exactly what the political system does not tolerate very well)
+3. they can be involved in generating policy proposals and even gradually reorientate the perspectives from which people think},
+  creationdate     = {2023-11-21T20:16:52},
+  keywords         = {systems, policy, power},
+  modificationdate = {2023-11-21T20:53:29},
+  owner            = {izzy_olivine},
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@Article{Peters2005,
+  author           = {Guy B. Peters},
+  date             = {2005},
+  journaltitle     = {Journal of Comparative Policy Analysis: Research and Practice},
+  title            = {The Problem of Policy Problems},
+  doi              = {10.1080/13876980500319204},
+  number           = {4},
+  pages            = {349-370},
+  url              = {https://www.tandfonline.com/doi/abs/10.1080/13876980500319204},
+  volume           = {7},
+  comment          = {Argues for a greater focus on the problem in policy, not just the instrument
+
+1. define the problem - policy framing - important problems are less clearly defined
+2. develop the dimensions that characterise the problem - labelling - will determine what part of government it sit with but its the policy subfield that determines the social regulatory label
+
+``even over-specifying their nature so that some future reduction of these attributes can simplify the problem for both the analyst and the practical policy maker''
+
+Characteristics (variables) of policy problems (first 3 relate to problems themselves, last 4 are about the connection between problem characteristics and instrument choice):
+1. Solubility - in reality programs and instruments are oversold to have opportunity for adoption - problems can be acute or chronic (lots of reasons given for being chronic - i.e. are never solved despite different instruments)
+2. Complexity
+  - Political complexity - number of political interests and actors involved in the problem
+  - Programmatic complexity (may be inversely related to political complexity): problems with different requirements for citizens' knowledge; competing models of causation
+3. The question of scale - can it be disaggregated? 
+4. Divisibility - can the solutions be divided up (e.g. public, private)
+5. Monetarization - can it be addressed by simply spending money?
+6. Scope of activity - the types of instruments and the capacity of governments to apply these
+7. Interdependencies - one or more policy domains (which takes us back round to problem framing)
+
+Mentions Cohen, March and Olsen's (1971) Garbage Can Model of policy design and decision making},
+  creationdate     = {2023-11-21T21:01:19},
+  keywords         = {systems, policy, power},
+  modificationdate = {2023-11-21T21:33:46},
+  owner            = {izzy_olivine},
+  publisher        = {Routledge},
+}
+
+@Report{SharpeMVIGPKN2021,
+  author           = {Sharpe, Simon and Mercure, Jean-Francois and Vinuales, Jorge and Ives, Matthew and Grubb, Michael and Pollitt, Hector and Knobloch, Florian and Nijsse, Femke J. M. M.},
+  date             = {2021},
+  institution      = {UCL Institute for Innovation and Public Purpose},
+  title            = {Deciding how to decide: Risk-opportunity analysis as a generalisation of cost-benefit analysis},
+  type             = {Working Paper Series (IIPP WP 2021/03)},
+  url              = {https://www.ucl.ac.uk/bartlett/public-purpose/wp2021-03},
+  comment          = {Argue for risk-opportunity analysis instead of cost-benefit analysis in situations where the assumptions of CBA don't hold
+
+Assumptions of CBA include:
+- Marginality - the change won't affect prices, the existence of goods, relationships between economic vaiables, the rules of economic behaviours, etc
+- Homogeneity - the actors, their interests and the dimensions of the policy outcomes are not particularly varied
+- Certainty - parameters and outcomes are sufficiently well-known
+
+Instead, ROA considers:
+- uncertainty - all significant risks and opportunities
+- diversity - all the different dimensions and metrics (not trying to aggregate to onw metric which requires subjective judgement)
+- disequilibrium - a dynamic assessment of the direction, rate and magnitude of change in the economy
+
+Sets out that:
+- market failure is a specific application of market shaping
+- CBA is a specific application of ROA
+- equilibrium is one of the many possible states of dynamic systems that can be explained by complexity
+
+Provide more details of the steps of ROA - which I would (probably naively) summarise as systems mapping and analysis
+
+Outlines the key differences between CBA and ROA, in terms of dimensions, input scope, focus, output scope, directionality and threshold of viability
+
+Considers problems of non-marginal change and discusses them in terms of disequilibrium, uncertainty and diversity:
+- climate change minigation and low-carbon innocation
+- policy for preparing for and responding to a pandemic
+- regional development and `levelling up''
+
+Illustrates how CBA and ROA arrive at different conclusions when considering policy options for replacing coal. Using CBA, Frank (2014) found that gas was the best alternative, followed by hydroelectric and nuclear, with wind and solar last. ROA would have considered much more around the energy system, including opportunties for structural change, the reductions in costs due to learning-by-doing, economies of scale and development of complementary technologies.
+
+``An ROA might be more qualified in its conclusions [than was Frank's (2014) CBA], as it would recognise the inherent subjectivity in the relative weighting given to each potential outcome in their different dimensions. However, it is not difficult to see how an ROA could come to a different conclusion to that of the CBA in this case. On the dimension of electricity costs alone, the ROA might conclude that support for solar power was the most cost-effective option; wind the second, and gas the least''},
+  creationdate     = {2023-11-22T13:57:47},
+  keywords         = {policy, systems, organisations, decisions},
+  modificationdate = {2023-11-22T17:11:27},
+  owner            = {izzy_olivine},
+}
+
+@Article{FlyvbjergB2021,
+  author           = {Flyvbjerg, Bent and Bester, Dirk W.},
+  date             = {September 6, 2021},
+  journaltitle     = {Journal of Benefit-Cost Analysis},
+  title            = {The Cost-Benefit Fallacy: Why Cost-Benefit Analysis Is Broken and How to Fix It},
+  doi              = {10.1017/bca.2021.9},
+  pages            = {1--25},
+  url              = {https://ssrn.com/abstract=3918328},
+  comment          = {Look at over 2000 public investment projects and measure the accuracy of the cost benefit analysis. Find that costs overrun and benefits are in shortfall - there is consistent bias not just error (which would cancel out)
+
+``Cost overruns are highly inaccurate and biased for public investments, ranging from an average cost overrun for roads of 24 percent to dams at 85 percent, in real terms''
+
+Benefit shortfall are not as great, and sometimes don't exist, but there is no symmetry (benefit gains do not balance benefit shortfalls)
+
+Lots of statistics and measures of significance and shape (kurtosis) of distribution
+
+``We define the cost-benefit fallacy as the situation where individuals behave as if cost-benefit estimates are largely accurate and unbiased, when in fact they are highly inaccurate and biased''
+
+``The root cause of cost overrun, according to behavioral science, is the well-documented fact that planners and managers keep underestimating the importance of schedules, geology, market prices, scope changes, and complexity in investment after investment''
+
+For cost-benefit analysis to become useful in public investment policy and planning, the following needs to happen:
+1. Systematic and effective de-biasing of cost-benefit forecasts - suggest using Kahneman ``outside view'' to create a method for debiasing public investments (and quotes from Kahneman2011)
+2. Introduction of skin-in-the-game for cost-benefit forecasters - institutional setups that reward forecasters who get their estimates right and punish those who do not
+3. Independent audits of cost-benefit forecasts - monitor effectiveness of the above two approaches and adjust if they are not working or for unintended consequences
+4. Adaption of cost-benefit forecasting to the messy, non-expert character of democratic decision making - ``Nobody in their right mind would argue that expert input, science, and cost-benefit analysis are undesirable in deciding which policies and investments to pursue in a society. But, similarly, no one in their right mind would depend on only experts in making such decisions, especially when we know that experts are subject to the cost-benefit fallacy and produce, over and over, the kind of biased cost-benefit analyses documented above''},
+  creationdate     = {2023-11-22T17:09:25},
+  keywords         = {policy, decisions, organisations},
+  modificationdate = {2023-11-22T18:58:54},
+  owner            = {izzy_olivine},
+}
+
+@Article{NabaviB2023,
+  author           = {Nabavi, Ehsan and Browne, Chris},
+  date             = {2023-03-04},
+  journaltitle     = {Humanities and Social Sciences Communications},
+  title            = {Leverage zones in Responsible AI: towards a systems thinking conceptualization},
+  doi              = {10.1057/s41599-023-01579-0},
+  issue            = {1},
+  url              = {https://www.nature.com/articles/s41599-023-01579-0},
+  volume           = {10},
+  comment          = {Uses notion of leverage zones and systems thinking to help practitioners construct and identify holistic interventions that may work towards Responsible AI
+
+Nice simple paper with a clear goal, useful to return to for using their framework in the consideration of AI work and also for refs in the field of responsible AI
+
+The United Nations Coalition for Digital Environmental Sustainability (CODES) highlights Systems Thinking as a tool in a required in the first of three phases in a shift towards a sustainable planet in the digital age
+
+Two key challenges:
+1. how to work across disciplinary-based paradigms to effect positive change - the discourse for addressing AI problems is predominantly anchored in a disciplinary perspective (e.g. computer science and engineering_ -  even Responsible AI researchers and practitioners tend to approach the topic from a narrowly disciplinary perspective and develop solutions based on their own epistemological strategies
+2. how to take a holistic view of the problem and solution space - current body of literature does not adequately provide practical guidance taking a whole of systems view - literature also lacks a conceptual framework, or theoretical foundation, that allows to conceptualize, identify and evaluate the `effectiveness' of interventions for Responsible AI in a structured way
+
+Present the ``Five Ps'' framework, which has Problem to response for all four leverage zones (increasing magnitudes of `leverage', from smallest to largest, each having 3 of Meadows' 12 leverage points):
+- Parameter - reaction - tweaking algorithms and modifying models' parameters (short term fix / tweak)
+- Process - conform (incremental change) - changing the societal and technical processes and feedback (adjust / adapt)
+- Pathway - reform (transitional change) - defining the system design and structure that govern processes and parameters (restructure / redesign)
+- Purpose - transformation (radical change) - changing intent, mental models and paradigms (repurpose / reframe / redefine)
+
+Gives examples in each zone (and considers each's potential to change the paradigm under which the platform operates, within a firm):
+- parameters - address bias, fixing design flaws, technological solutionism
+- process - promoting diversity and inclusion in development teams, training opportunities, questioning assumptions
+- pathway - governance structures, collective partnerships
+- purpose - fundamental change in purpose of the work and the goal of the system
+
+
+Questions that remain open:
+- Parameters - how to coordinate and measure parameters that have an impact on Responsible AI, such as fairness, bias and accountability, across system and disciplinary boundaries
+- Process - how to enable efforts that enhance Responsible AI principles and mitigate unintended consequences, encouraging coordination of the effectiveness and efficiency of initiatives
+- Pathway - the notion of accountability and ownership of responsibility, including ensuring that structures evolve collaboratively with respect to advances in technology and changing societal expectations
+- Purpose - how to align multiple stakeholders with multiple perspectives to common goals in relation to Responsible AI, and how these goals interact and evolve with other paradigms that emerge},
+  creationdate     = {2023-11-26T12:13:31},
+  keywords         = {AI, technology, systems, policy, trust},
+  modificationdate = {2023-11-26T12:44:20},
+  owner            = {izzy_olivine},
+  year             = {2023},
+}
+
+@Online{Colchester2023,
+  author           = {Joss Colchester},
+  date             = {2023-04-01},
+  title            = {Why We need Systems Thinking in an Age of Algorithms},
+  url              = {https://www.systemsinnovation.network/posts/why-we-need-systems-thinking-in-an-age-of-algorithms},
+  organization     = {Systems Innovation},
+  urldate          = {2023-11-26},
+  comment          = {Humans and machines working together
+
+Machines perform analytical reasoning - break down closed system into parts to solve sub-problems - let the machines become expert at this
+
+Humans perform synthetic reasoning - the combining of two or more things and combining them in a unique way - the essence of creative thinking and innovation - understanding context and redefining the system
+
+I'm not sure I entirely agree with the premise that machines can't be creative but I do agree that people will be better at these things
+
+``Just as with the current environmental crisis, where we did not really appreciate our natural environment until it was degraded and now have the opportunity to re-engage with it in new ways with a new level of appreciation, the same may be true of our humanity, the development of this technology will create many negative social and cultural externalities ... which will both degrade our culture but also offer us new ways to appreciate it and re-engage with who we are and what is of value''},
+  creationdate     = {2023-11-26T13:00:55},
+  keywords         = {systems, AI, technology},
+  modificationdate = {2023-11-26T13:20:09},
+  owner            = {izzy_olivine},
+}
+
+@Article{Basu2019,
+  author           = {Ipshita Basu},
+  date             = {2019},
+  journaltitle     = {Political Geography},
+  title            = {Elite discourse coalitions and the governance of ‘smart spaces’: Politics, power and privilege in India's Smart Cities Mission},
+  doi              = {10.1016/j.polgeo.2018.11.002},
+  pages            = {77--85},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0962629817302251},
+  volume           = {68},
+  comment          = {``The [Smart Cities Mission] SCM rests on these neoliberal elite power structures in urban India. However, it also departs in ``who makes up these elite coalitions'' and ``how they operate''. For one, the SCM's obsession with ``speed'' or ``fast urbanism'' (Datta, 2015) takes digital technology as the path to speeding up India's urban future. Elsewhere, Rob Kitchin (2014) describes this “data revolution” as a faith in the speed and efficiency of the data offered by the private sector to install checks against the practices of a corrupt state. In India, this has produced a whole gamut of ``data elites'' –IT firms like IBM, Infosys and Cisco, consulting firms like Arup, AECOM, Deloitte, Mckinsey, KPMG and Knight Frank who privately hold public data. When the Smart Cities challenge was launched, data elites held the reins for municipal governments to design urban proposals. Previously, the Government of India used the Department of Statistics to model scenarios for India's urban future. But now these functions have been transferred to the private sector. Even though data is privately held, most middle classes see IT sector as morally superior and more transparent than the government''
+
+uncover the constituent elements of the SC discourse coalition by analysing the text and talk of three sections of elites: the Indian Government under the leadership of Narendra Modi (2015 onwards), the group of private companies that I call as IT consulting firms for their role in promoting digital technology as an urban solution in India and finally, the resident welfare associations (RWAs) that represent urban middle classes
+
+Common themes between 3 discourses:
+- negative assessment of urban government
+- mis-recognition of the poor
+- urban informal settlements are dismissed
+
+There are also differences that suggest competing interests between elites, which will slow down or worse stall some Smart Cities projects as we have seen before in India's elite urban projects},
+  creationdate     = {2023-11-26T18:48:50},
+  keywords         = {systems, policy, smart, technology, power},
+  modificationdate = {2023-11-26T18:56:43},
+  owner            = {izzy_olivine},
+}
+
+@InBook{Dowding2018,
+  author           = {Keith Dowding},
+  booktitle        = {Handbook on Policy, Process and Governing},
+  date             = {2018-12-28},
+  title            = {The Advocacy Coalition Framework},
+  chapter          = {13},
+  doi              = {10.4337/9781784714871.00020},
+  pages            = {220--231},
+  url              = {https://www.elgaronline.com/edcollchap/edcoll/9781784714864/9781784714864.00020.xml},
+  comment          = {Framework originally by Paul Sabatier and Hank Jenkins-Smith and further developed thereafter
+
+The ACF grew up in an era when the analysis of policy change focused on the battle between interest groups, with government regarded as one interest among many (Richardson 1999)
+
+Eschews analysing policy through stages such as agenda setting, policy formation and implementation - through their interplay people can be persuaded to change their minds - battle of ideas
+
+Emprical evidence from multiple case studies, surveys and interviews
+
+Policy created within relatively closed policy communities ``policy sub-systems'' - public servants and politicians, organized pressure groups, firms, trade unions, journalists, academics and, at times, concerned citizens
+
+Beliefs are the fundamental elements driving policy - information is important, journalists key transmitters - material interests less important - coalitions form where beleifs converge or overlap
+
+Policy change needs to be examined over long periods of time at least 10 years’ data
+
+The heart of the framework is its model of beliefs that is based on, or inspired by, Lakatos’s (1978) account of scientific belief systems. Human belief systems have 3 elements:
+- core beliefs
+  - deep core beliefs - strongly held and stable (e.g. ideology)
+  - policy core beliefs - relatively stable (e.g. policy implementation assumptions, role of state)
+- secondary or peripheral beliefs - change over time (e.g. funding, delivery, implementation specifics)
+
+Problems:
+1. little attention to framing however environment by be interpretated by beliefs - manner in which people take in information and assess evidence is affected by their core beliefs - which makes compromise across groups with diverse core beliefs impossible because perception of empirical evidence differs
+2. concentration on concious beliefs when it is likely that core beliefs are not always known
+3. or are misperceived so surveys alone should be used with care, measure through behaviour
+
+Discusses the hypotheses that arise out of this framework and how there is not much empirical evidence for them [but they make some intuitive sense], although stark exceptions can be found
+
+nice antidote to approaches that concentrate upon material
+self-interest and bargaining driving all policy ... [but] belief-driven hypotheses of the ACF seem trivial when exposed to critical analysis},
+  creationdate     = {2023-11-26T19:42:30},
+  keywords         = {systems, power, policy},
+  modificationdate = {2023-11-26T20:29:54},
+  owner            = {izzy_olivine},
+}
+
+
+
+
+
+
+@Article{GrzymalaBusse2008,
+  author           = {Anna Grzymala-Busse},
+  date             = {2008},
+  journaltitle     = {Comparative Political Studies},
+  title            = {Beyond Clientelism: Incumbent State Capture and State Formation},
+  doi              = {10.1177/0010414007313118},
+  eprint           = {https://doi.org/10.1177/0010414007313118},
+  number           = {4-5},
+  pages            = {638-673},
+  url              = {https://journals.sagepub.com/doi/epdf/10.1177/0010414007313118},
+  volume           = {41},
+  abstract         = {In choosing strategies of state capture (the extraction of private benefits by incumbent officeholders from the state), rulers choose whether to share rents with popular constituencies and whether to tolerate competition. These choices are conditioned by existing organizational endowments, the costs of buying support, and the trade-off between the cost and probability of exit from office. In turn, both rent distribution and competition result in distinct configurations of state capture: clientelism, predation, fusion, exploitation, and the formation of specific state institutions and capacities.},
+  creationdate     = {2023-11-26T20:30:47},
+  keywords         = {systems, power},
+  modificationdate = {2023-11-26T20:31:33},
+  owner            = {izzy_olivine},
+}
+
+@Online{Dunlop2021,
+  author           = {Kirsten Dunlop},
+  date             = {2021-12-01},
+  title            = {Innovation as if the future mattered},
+  url              = {https://www.youtube.com/watch?v=9mWP7Haabk0},
+  organization     = {TEDxDanubia},
+  urldate          = {2023-11-26},
+  comment          = {CEO of Climate-KIC
+
+Solutions to climate change must be complex and adaptive - learning
+
+We can't measure using the current system
+
+Market forces wont' work - learning is what we do and must do
+
+Self-reflective and systemic change. Principles:
+1. work with intent - don't run straight to solutions, make space for exploration and experimentation - design for unintended consequences and unpredictable outcomes
+2. build up adaptive capability of a system - create options, budgets of flexibility and possiblity, asking ideas to compete against each other doesn't make sense, systems innovation portfolio, layering, innovations are imperfect but acting together and learning from each other
+3. realise rich actionable value of innovation - active learning, sensemaking, at level of actions and portfolio, understand and identify the attractors, building narratives
+4. make change happen - bridge the implementation gap, deliberately designed change, orchestration
+
+- Focus on capability
+- Radical co-operation
+- Use and protection of the global commons},
+  creationdate     = {2023-11-26T20:52:57},
+  modificationdate = {2023-11-26T21:13:46},
+  owner            = {izzy_olivine},
+}
+
+@Article{ShumailovSZGPA2023,
+  author           = {Ilia Shumailov and Zakhar Shumaylov and Yiren Zhao and Yarin Gal and Nicolas Papernot and Ross Anderson},
+  title            = {The Curse of Recursion: Training on Generated Data Makes Models Forget},
+  eprint           = {2305.17493},
+  archiveprefix    = {arXiv},
+  comment          = {[The no sh1t sherlock paper]
+Synthetic data distorts the data distribution and therefore skews model performance},
+  creationdate     = {2023-11-28T14:48:15},
+  keywords         = {AI, data, trust, bias},
+  modificationdate = {2023-11-28T14:50:38},
+  owner            = {ISargent},
+  primaryclass     = {cs.LG},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
