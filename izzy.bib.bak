@@ -21027,11 +21027,29 @@ Synthetic data distorts the data distribution and therefore skews model performa
   url              = {https://doi.org/10.1038/nature09659},
   volume           = {469},
   abstract         = {In a Perspective review, Andrew Haldane, executive director for financial stability at the Bank of England, and ecologist Robert May look at the nature of risk that led to the recent global crisis in the international banking system. Utilizing tools more often used to analyse ecological food webs and the spread of infectious diseases, they conclude that there are lessons to be learned from the exercise that could inform future public policy decisions.},
+  comment          = {Could be really interesting approach to assessing risk in systems},
   creationdate     = {2023-11-28T16:12:02},
   keywords         = {systems, finance, trust, policy, AISummit},
-  modificationdate = {2023-11-28T16:12:41},
+  modificationdate = {2023-11-28T16:13:19},
   owner            = {ISargent},
   year             = {2011},
+}
+
+@Article{,
+  date             = {2023-10-31},
+  journaltitle     = {Nature},
+  title            = {Why the UK-led global AI summit is missing the point},
+  doi              = {10.1038/d41586-023-03333-7},
+  issue            = {7},
+  subtitle         = {Robust regulation of AI technologies will be crucial to protecting against harms. Researchers’ voices must be heard.},
+  url              = {https://www.nature.com/articles/d41586-023-03333-7},
+  urldate          = {2023-11-28},
+  volume           = {623},
+  comment          = {Various players have suggested different analogies for regulation of AI ``Although useful, what these examples can offer the AI challenge is limited. For one thing, corporations and their research staff were not the dominant actors in climate science and DNA modification in the way they are in AI''},
+  creationdate     = {2023-11-28T16:15:08},
+  keywords         = {AI, trust, AISummit, systems, policy},
+  modificationdate = {2023-11-28T16:18:47},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
