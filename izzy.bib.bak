@@ -21007,12 +21007,31 @@ Synthetic data distorts the data distribution and therefore skews model performa
   url              = {https://doi.org/10.1038/s42254-023-00670-4},
   volume           = {5},
   abstract         = {Today's hopes and fears related to the use of AI systems echo familiar concerns about nuclear technology. Harry Law and Lewis Ho discuss what can be learned from the dual mission of the International Atomic Energy Agency (IAEA) to promote and control nuclear technologies},
-  comment          = {Suggest using international atomic agency model to regulate},
+  comment          = {Researchers at Google DeepMind in London have laid out some lessons that civil nuclear technology could have for AI, using the example of the International Atomic Energy Agency
+[except I don't believe nuclear was so overrun with commercial interests at this stage in its inception]},
   creationdate     = {2023-11-28T16:05:08},
   keywords         = {AI, trust, AISummit, technology, policy, systems},
-  modificationdate = {2023-11-28T16:06:29},
+  modificationdate = {2023-11-28T16:12:04},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Article{HaldaneM2011,
+  author           = {Haldane, Andrew G. and May, Robert M.},
+  date             = {2011-01-01},
+  journaltitle     = {Nature},
+  title            = {Systemic risk in banking ecosystems},
+  doi              = {10.1038/nature09659},
+  issue            = {7330},
+  pages            = {351--355},
+  url              = {https://doi.org/10.1038/nature09659},
+  volume           = {469},
+  abstract         = {In a Perspective review, Andrew Haldane, executive director for financial stability at the Bank of England, and ecologist Robert May look at the nature of risk that led to the recent global crisis in the international banking system. Utilizing tools more often used to analyse ecological food webs and the spread of infectious diseases, they conclude that there are lessons to be learned from the exercise that could inform future public policy decisions.},
+  creationdate     = {2023-11-28T16:12:02},
+  keywords         = {systems, finance, trust, policy, AISummit},
+  modificationdate = {2023-11-28T16:12:41},
+  owner            = {ISargent},
+  year             = {2011},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
