@@ -104,7 +104,7 @@ Given a threshold of confidence (decided by a expert committee) the most uncerta
   author           = {Jacqui Ayling and Adriane Chapman},
   date             = {2020-09-12},
   journaltitle     = {AI and Ethics},
-  title            = {Putting AI ethics to work: are the tools ft for purpose?},
+  title            = {Putting AI ethics to work: are the tools fit for purpose?},
   doi              = {https://doi.org/10.1007/s43681-021-00084-x},
   url              = {https://link.springer.com/content/pdf/10.1007/s43681-021-00084-x.pdf},
   comment          = {''Addressing ethical issues systematically requires resource and time, familiarity with assessment/audit regimes and the ability to use the outputs of these tools to make judgements''
@@ -147,7 +147,7 @@ References https://dl.acm.org/doi/10.1145/3306618.3314289 WhittlestoneNAC2019 fo
 ''there is no regulatory requirement for any utilization of impact assessments or audits within this feld at the moment, minimizing likely adoption and true application of them''},
   creationdate     = {2022-01-26T12:50:47},
   keywords         = {ethics, corporate culture, AI, EthicsWS},
-  modificationdate = {2022-07-05T14:16:20},
+  modificationdate = {2023-12-09T18:32:23},
   owner            = {ISargent},
 }
 
@@ -570,7 +570,7 @@ Evaluation criteria to determine if a set of concepts is sufficient to explain a
 Also design a concept discovery method that does not rely on human labelling (I'd like to try this!!)},
   creationdate     = {2022-04-29T12:32:54},
   keywords         = {machine learning, meaningfulness, visualisation},
-  modificationdate = {2023-01-25T11:10:40},
+  modificationdate = {2023-12-11T07:22:26},
   owner            = {ISargent},
 }
 
@@ -653,8 +653,8 @@ We're thinking: One limiting factor in the value of pretraining accuracy may be 
   comment          = {Focussing on Africa, John Amuasi argues for more work into representation learning in the Global South, where there are many AI applications to be addressed and a highly heterogeneous population, data on which would enrich many models. Poorly resourced governments mean that most AI is privately owned, which raises ethical concerns about who is accessing, using and sharing the data.},
   comments         = {Invited Talk From <https://iclr.cc/virtual/2022/invited-talk/7235> John Amuasi argues for more work into representation learning in Global South, with focus on Africa, where there are many AI applications. Highly heterogeneous population and thus data and so we should not leave Africa behind when it comes to representation learning Mainly privately owned startups because governments don't have resources to get involved, which raises ethical issues - who is accessing, using and sharing the data, bias and inequalities in data, etc. Identifies steps to balance scales: - Diverse data - Diverse teams - Targetted AI training - Stakeholder engagement},
   creationdate     = {2022-05-08T15:25:19},
-  keywords         = {representation learning, AI, inclusion, ethics},
-  modificationdate = {2022-12-12T19:56:08},
+  keywords         = {representation learning, AI, inclusion, ethics, trust},
+  modificationdate = {2023-12-09T20:20:49},
   owner            = {ISargent},
 }
 
@@ -2027,7 +2027,7 @@ Also looks at specific issues when digitalising health, education in schools, wo
 ''In today's society, home broadband is an essential utility in the same way as water or electricity''},
   creationdate     = {2022-06-29T12:03:48},
   keywords         = {policy, digital, health, work, education, society, economics},
-  modificationdate = {2023-03-04T15:19:39},
+  modificationdate = {2023-12-11T07:22:46},
   owner            = {ISargent},
   relevance        = {relevant},
 }
@@ -4293,8 +4293,8 @@ Market shaping needs to:
 - Direct finance
 - Improve public sector capabilities},
   creationdate     = {2022-10-30T14:44:45},
-  keywords         = {economics, policy AI, machine learning, missions, technlogy},
-  modificationdate = {2023-11-08T20:55:39},
+  keywords         = {economics, policy AI, machine learning, missions, technlogy, trust, ethics},
+  modificationdate = {2023-12-09T20:20:38},
   owner            = {ISargent},
 }
 
@@ -4434,8 +4434,8 @@ Little evidence that any one set of innovation policy tools is most effective
 1. Don't forget path dependency
 Policy shaped by past practice, constrained by future uncertainties},
   creationdate     = {2022-11-07T14:37:45},
-  keywords         = {economics, policy, innovation, evolutionary},
-  modificationdate = {2022-11-11T17:07:07},
+  keywords         = {economics, policy, innovation, evolutionary, systems},
+  modificationdate = {2023-12-07T11:04:24},
   owner            = {ISargent},
 }
 
@@ -5035,30 +5035,6 @@ Public programmes should
   keywords         = {economics, innovation, research, policy, instruments},
   modificationdate = {2023-12-02T16:32:46},
   owner            = {ISargent},
-}
-
-@Article{GraceSDZE2016,
-  author           = {Katja Grace and John Salvatier and Allan Dafoe and Baobao Zhang and Owain Evans},
-  title            = {When Will {AI} Exceed Human Performance? Evidence from {AI} Experts},
-  eprint           = {1705.08807},
-  eprinttype       = {arXiv},
-  url              = {http://arxiv.org/abs/1705.08807},
-  volume           = {abs/1705.08807},
-  bibsource        = {dblp computer science bibliography,  \url{https://dblp.org}},
-  biburl           = {https://dblp.org/rec/journals/corr/GraceSDZE17.bib},
-  comment          = {Survey of 352 `top' AI researchers. Lots of disagreement.
-
-When will machines achieve high level machine intelligence - wide range of views and depends on how the question was asked
-
-Also discusses AI safety and how experts seem to underestimate the need to address this (despite `5\% chance of human extinction')
-
-Summarised brilliantly here:  \url{https://www.youtube.com/watch?v=HOJ1NVtlnyQ}},
-  creationdate     = {2022-11-17T08:35:16},
-  journal          = {CoRR},
-  modificationdate = {2022-11-17T08:40:01},
-  owner            = {ISargent},
-  timestamp        = {Mon, 13 Aug 2018 16:46:02 +0200},
-  year             = {2017},
 }
 
 @Article{BertiL2014,
@@ -10147,7 +10123,8 @@ Would the tool be tolerated if it was targeted at non-poor people?
 
 Outlines an oath of non-harm for an age of digital data},
   creationdate     = {2023-03-09T20:40:24},
-  modificationdate = {2023-03-15T22:15:43},
+  keywords         = {tust, ethics, AI, technology, AISummit},
+  modificationdate = {2023-12-09T19:00:26},
   owner            = {ISargent},
 }
 
@@ -13429,8 +13406,8 @@ Many hands example is Therac-25 radiation treatment machine that massively overd
 
 Attitude that bugs are inevitable reduces accountability},
   creationdate     = {2023-04-07T17:15:54},
-  keywords         = {trust, transformation, digital},
-  modificationdate = {2023-04-07T17:18:30},
+  keywords         = {trust, transformation, digital, ethics, AISummit},
+  modificationdate = {2023-12-09T20:24:00},
   owner            = {izzy_olivine},
   year             = {1996},
 }
@@ -14398,6 +14375,7 @@ Power is also a factor - power over and power with},
 
 @Online{Cottam2022pt1,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Introducing The Work Project: Reimagining Work and Life},
   url              = {https://medium.com/iipp-blog/introducing-the-work-project-reimagining-work-and-life-989beefa9a2d},
   urldate          = {2023-06-06},
@@ -14410,12 +14388,13 @@ The technology revolution is closely entangled with our looming ecological crisi
 The development of artificial intelligence (AI) is generating exponential demands for energy},
   creationdate     = {2023-06-06T16:08:53},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:13:56},
+  modificationdate = {2023-12-09T17:33:29},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt2,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Reimagining Work and Time},
   url              = {https://medium.com/iipp-blog/the-work-project-reimagining-work-and-time-5dedf27c4508},
   urldate          = {2023-06-06},
@@ -14431,12 +14410,13 @@ Katie Kelly \url{https://www.newlocal.org.uk/video/community-power-and-me-katie-
 The Kellogg's experiment - productivity went up when hours were reduced to 6-hour day. Then Unions increased the hours. Then Taylorism.},
   creationdate     = {2023-06-06T16:10:45},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:02},
+  modificationdate = {2023-12-09T17:33:32},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt3,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Reimagining Work and Care},
   url              = {https://medium.com/iipp-blog/the-work-project-reimagining-work-and-care-b324056f4be7},
   urldate          = {2023-06-06},
@@ -14449,12 +14429,13 @@ women are all assigned the work of the heart (care and reproduction) (Hoilary Ro
 Growing numbers of us report that we want to put care for each other and the environment before money},
   creationdate     = {2023-06-06T16:11:00},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:05},
+  modificationdate = {2023-12-09T17:33:36},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt4,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Imagining Transition},
   url              = {https://medium.com/iipp-blog/the-work-project-imagining-transition-d3d56c4e7b4e},
   urldate          = {2023-06-06},
@@ -14479,12 +14460,13 @@ After Perez, four groups or actors that are required to bring about transition:
 	- the state - leaders who will dare to forge new alliances and design new frameworks},
   creationdate     = {2023-06-06T16:11:28},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:09},
+  modificationdate = {2023-12-09T17:33:26},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt5,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Organising in the Fifth Revolution},
   url              = {https://medium.com/iipp-blog/the-work-project-organising-in-the-fifth-revolution-bc83f6ecb7e7},
   urldate          = {2023-06-06},
@@ -14500,12 +14482,13 @@ Over many workshops, common themes of imagined workplaces emerged:
 The phrase ``great awakening'' instead of ``great resignation''},
   creationdate     = {2023-06-06T16:11:56},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:13},
+  modificationdate = {2023-12-09T17:33:23},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt6,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {The role of the `New Industrialists'},
   url              = {https://medium.com/iipp-blog/the-work-project-the-role-of-the-new-industrialists-3952a0f77443},
   urldate          = {2023-06-06},
@@ -14517,19 +14500,20 @@ There is a Taoist saying that `the bigger the front, the bigger the back'''
 There are also women new industrialists Margaret Askew, Sarah Fell, Anita Roddick},
   creationdate     = {2023-06-06T16:12:33},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:17},
+  modificationdate = {2023-12-09T17:33:20},
   owner            = {ISargent},
 }
 
 @Online{Cottam2022pt7,
   author           = {Hilary Cottam},
+  date             = {2022},
   title            = {Behind the Scenes},
   url              = {https://medium.com/iipp-blog/the-work-project-behind-the-scenes-652b2d880b1d},
   urldate          = {2023-06-06},
   comment          = {Describes her influences for her work, how the workshops were run and what next},
   creationdate     = {2023-06-06T16:13:13},
   keywords         = {economics, bureaucracy, transformation, trust},
-  modificationdate = {2023-06-06T16:14:20},
+  modificationdate = {2023-12-09T17:33:17},
   owner            = {ISargent},
 }
 
@@ -14650,17 +14634,26 @@ e.g. bad actors and self-improving machines [my reading: e.g. machines that opti
 
 Referencing 12 pieces of work including BenderGMM2021 (Stochastic Parrots) (useful set of keys refs on AI trust)
 
+Questions:
+- Should we let machines flood our information channels with propaganda and untruth?
+- Should we automate away all the jobs, including the fulfilling ones?
+- Should we develop nonhuman minds that might eventually outnumber, outsmart, obsolete and replace us?
+- Should we risk loss of control of our civilization?
+
 Risk of machines flooding information channels with propoganda and untruth, jobs lost ot automation, loss of control
 
 Unelected tech leaders are making these decisions
 
 Pause should be immediate or governments should step up links to FoLPolicy2023
 
-Hogarth2023 says that some of the signatories turned out to be fake},
+Hogarth2023 says that some of the signatories turned out to be fake
+
+Did not sign:
+Bender, Gebru, Mitchell, (BenderGMM2021 ), Dori-Hacohen (BucknallD2022), Ng, Hinton, LeCun (see Paul2023)},
   creationdate     = {2023-06-15T08:28:18},
   eprint           = {https://futureoflife.org/fli_pause-giant-ai-experiments_an-open-letter/},
   keywords         = {AI, trust, future, BigTech, AISummit, technology},
-  modificationdate = {2023-11-26T17:38:21},
+  modificationdate = {2023-12-10T08:42:24},
   owner            = {ISargent},
 }
 
@@ -14678,16 +14671,42 @@ Hogarth2023 says that some of the signatories turned out to be fake},
   url              = {https://doi.org/10.1145/3442188.3445922},
   abstract         = {The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific tasks, researchers have extended the state of the art on a wide array of tasks as measured by leaderboards on specific benchmarks for English. In this paper, we take a step back and ask: How big is too big? What are the possible risks associated with this technology and what paths are available for mitigating those risks? We provide recommendations including weighing the environmental and financial costs first, investing resources into curating and carefully documenting datasets rather than ingesting everything on the web, carrying out pre-development exercises evaluating how the planned approach fits into research and development goals and supports stakeholder values, and encouraging research directions beyond ever larger language models.},
   address          = {New York, NY, USA},
+  comment          = {ENVIRONMENTAL AND FINANCIAL COST
+Doubly punishes marginalised communities - least benefit from LLM most cost from environmental impact
+
+UNFATHOMABLE TRAINING DATA
+- Size Doesn’t Guarantee Diversity
+- Static Data/Changing Social Views
+- Encoding Bias
+- Curation, Documentation & Accountability - this is needed
+
+DOWN THE GARDEN PATH
+time spent on building models with ever larger data sets is ``time not spent applying meaning capturing approaches to meaning sensitive tasks, and on the other hand in terms of time not spent exploring more effective ways of building technology with datasets of a size that can be carefully curated and available for a broader set of language''
+
+STOCHASTIC PARROTS
+Coherence in the Eye of the Beholder - its humans who are doing the work of understanding
+
+Risks and Harms
+
+Data on which LLMs are trained are likely to more male, young, hegemonic. Simple approaches to removing pornography, toxic data, etc may also remove the words of people in marginalised groups.
+
+``LMs absorbing the hegemonic worldview from their training data. When humans produce language, our utterances reflect our worldviews, including our biases. As people in positions of privilege with respect to a society’s racism, misogyny, ableism, etc., tend to be overrepresented in training data for LMs, this training data thus includes encoded biases, many already recognized as harmful''
+
+Risk mitigation
+
+Urge researchers to shift to a mindset of careful planning, along many dimensions, before starting to buildeither datasets or systems trained on datasets.
+
+Start from identifying research time as valuable - what is the best way to use our time and support others to build on this work. Documentating procesess, data, motivation etc. Adopt approaches from value-senstive design.},
   creationdate     = {2023-06-15T08:32:09},
   keywords         = {AI, trust, NLP, BigTech},
-  modificationdate = {2023-10-21T21:42:25},
+  modificationdate = {2023-12-11T21:15:10},
   numpages         = {14},
   owner            = {ISargent},
   year             = {2021},
 }
 
 @Report{FoLPolicy2023,
-  author           = {{Future of Life Institute}},
+  author           = {FLI},
   date             = {2023-04-12},
   institution      = {Future of Life Institute},
   title            = {Policymaking in the Pause},
@@ -14702,7 +14721,7 @@ Hogarth2023 says that some of the signatories turned out to be fake},
 7. Develop standards for identifying and managing AI-generated content and recommendations},
   creationdate     = {2023-06-15T08:41:02},
   keywords         = {AI, trust, policy, BigTech},
-  modificationdate = {2023-10-21T21:42:54},
+  modificationdate = {2023-12-12T09:01:51},
   owner            = {ISargent},
 }
 
@@ -14779,20 +14798,22 @@ Nothing on 3D - but mainly strategic with quite a few objectives to be delivered
 
 @Report{Vallance2023,
   author           = {Patrick Vallance},
-  date             = {2023},
+  date             = {2023-03-15},
   institution      = {HM Government},
   title            = {Pro-innovation Regulation of Technologies Review: Digital Technologies},
   url              = {https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies},
   comment          = {There's a response to this here: \url{https://www.gov.uk/government/publications/pro-innovation-regulation-of-technologies-review-digital-technologies}
 
+identifies the short time frame for government intervention to provide a clear, pro-innovation regulatory environment in order to make the UK one of the top places in the world to build foundational AI companies.
+
 Very much about reducing red tape, I think less about increasing incentives to do the right thing...?
 
 Recommendations:
-Sandboxing - Recommendation 1: Government should work with regulators to develop a multiregulator sandbox for AI to be in operation within the next six months
-Generative AI - Recommendation 2: Government should announce a clear policy position on the relationship between intellectual property law and generative AI to provide confidence to innovators and investors.
-Data - Recommendation 3: Facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the
+- Sandboxing - Recommendation 1: Government should work with regulators to develop a multiregulator sandbox for AI to be in operation within the next six months
+- Generative AI - Recommendation 2: Government should announce a clear policy position on the relationship between intellectual property law and generative AI to provide confidence to innovators and investors.
+- Data - Recommendation 3: Facilitate greater industry access to public data, and prioritise wider data sharing and linkage across the public sector, to help deliver the
 government's public services transformation programme.
-Transport - Recommendation 4: The government should bring forward the Future of Transport Bill to unlock innovation across automated transport applications.
+- Transport - Recommendation 4: The government should bring forward the Future of Transport Bill to unlock innovation across automated transport applications.
 
 Drones - work with and empower CAA, amend regulation of raio communications
 Data - update guidance on who is controller etc with AI services
@@ -14804,10 +14825,10 @@ Challenges:
 -Fragmentation
 -Pacing
 -Skills
--Incetives},
+-Incentives},
   creationdate     = {2023-06-15T16:09:32},
   keywords         = {ai, trust, digital, BigTech},
-  modificationdate = {2023-10-21T21:45:19},
+  modificationdate = {2023-12-11T14:58:58},
   owner            = {ISargent},
 }
 
@@ -16283,7 +16304,7 @@ Significant > Crucial > Not the result of chance},
 
 @InBook{HollingG2002,
   author           = {C. S. Holling and Lance H. Gunderson},
-  booktitle        = {Panarchy: Understanding Transformations inHuman and Natural Systems},
+  booktitle        = {Panarchy: Understanding Transformations in Human and Natural Systems},
   date             = {2002},
   title            = {Resilience and Adaptive Cycles},
   chapter          = {2},
@@ -16332,7 +16353,7 @@ Apply the metaphor to ecological and economic/organisational systems. "Fail" to 
 Quite a philosophical piece, considering whether we should be trying to protect "pristine" nature in a changing world, and the maladaptation of the "resilient" soviet system},
   creationdate     = {2023-08-14T16:00:51},
   keywords         = {transformation, bureaucracy, agile, stability, decisions},
-  modificationdate = {2023-08-21T13:33:03},
+  modificationdate = {2023-12-06T06:17:45},
   owner            = {ISargent},
 }
 
@@ -16785,8 +16806,8 @@ Lots of detail on OpenAI
 
 See also Rikap2022},
   creationdate     = {2023-09-06T13:07:57},
-  keywords         = {AI, digital, transformation, technology, BigTech},
-  modificationdate = {2023-10-21T20:23:20},
+  keywords         = {AI, digital, transformation, technology, BigTech, AISummit},
+  modificationdate = {2023-12-06T06:16:57},
   owner            = {ISargent},
 }
 
@@ -19139,9 +19160,26 @@ Commission’s framework1; and
   pages            = {389-416},
   url              = {https://doi.org/10.1080/2157930X.2020.1855825},
   volume           = {12},
+  comment          = {Look at Google, Amazon and Microsoft and find they control the global corporate innovation system - data-driven intellectual monopolies
+
+They monopolise knowledge (have most of the patents) and outsource innovation, profit from open source
+
+They also garner rents from innovation and data
+
+This doesn't show up with existing concepts around production because assets are intangiable, power is more diffuse
+
+AI is core technology of cloud, this is what pays for cloud
+
+Biggest issue for developing economies 
+
+Data-driven intellectual monopolies in Global South, Jumia and MercadoLibre, neither created significant quality jobs or escaped rentier logic
+
+``The growing dominance of big tech companies points to the need for efforts to develop a coherent set of complementary and feasible policies in this new stage of globalization'' p408
+
+``Given the penetration of the digital economy in every respect of our lives, is it possible to regulate data-driven intellectual monopolies without rethinking global capitalism’s overall governance, laws and policy? At the core of a more radical agenda would be new forms of international cooperation, massive investments in knowledge and equal and common access to knowledge. The ultimate vision is a global knowledge commons with an equal and fair distribution of the tools to access and use knowledge both within and across national borders'' p408},
   creationdate     = {2023-10-24T21:21:44},
   keywords         = {technology, BigTech, trust},
-  modificationdate = {2023-10-28T18:50:13},
+  modificationdate = {2023-12-09T18:26:29},
   owner            = {izzy_olivine},
   publisher        = {Routledge},
 }
@@ -19561,8 +19599,8 @@ Mentions Habermas's theory that a rational view is gained by dialog [which also 
 
 [I feel like a lot of what was done within this work is extremely practical and sits slightly strangely with the philosophical underpinning, and yet this underpinning maintains a consistent acknowledgement of the causes and risks of marginalisation]},
   creationdate     = {2023-10-30T19:54:47},
-  keywords         = {systems, complexity, transformation, organisation},
-  modificationdate = {2023-11-08T19:42:11},
+  keywords         = {systems, complexity, transformation, organisation, AISummit},
+  modificationdate = {2023-12-08T07:12:19},
   owner            = {izzy_olivine},
 }
 
@@ -19604,8 +19642,8 @@ The idea of ``muddling through'' is not very muddled. It is looking back at what
 
 The chain of successive policy choices influences thinking},
   creationdate     = {2023-10-30T20:05:03},
-  keywords         = {systems, policy, decisions},
-  modificationdate = {2023-11-12T14:31:55},
+  keywords         = {systems, policy, decisions, AISummit},
+  modificationdate = {2023-12-08T07:09:12},
   owner            = {izzy_olivine},
 }
 
@@ -20615,11 +20653,13 @@ Researcher should:
   owner            = {izzy_olivine},
 }
 
-@Article{Kingdon1993,
+@InBook{Kingdon1993,
   author           = {Kingdon, John W.},
+  booktitle        = {Sociology and the Public Agenda},
   date             = {1993},
-  journaltitle     = {Sociology and the Public Agenda},
   title            = {How do issues get on public policy agendas?},
+  chapter          = {3},
+  doi              = {10.4135/9781483325484},
   number           = {1},
   pages            = {40--53},
   volume           = {8},
@@ -20631,21 +20671,27 @@ Researcher should:
 Only when these come together can decisions be made
 
 Problem stream:
-``getting people to see a condition as a problem is a central political accomplishment'' - problems are conditions that:
-- conflict with prevailing values
-- have be categorised in a particular way (the same conditions can be framed as different problems)
+- ``getting people to see a condition as a problem is a central political accomplishment'' - problems are conditions that:
+  - conflict with prevailing values
+  - have be categorised in a particular way (the same conditions can be framed as different problems)
 
 Proposal stream:
-Development of proposals must be done long before the opportunity fo action adoption
+- Development of proposals must be done long before the opportunity fo action adoption
 proposal are selected resembles natural selection, they must be:
-- technically feasible
-- acceptable, in terms of budget
-- acceptable, to the mass (or attentive) public
+  - technically feasible
+  - acceptable, in terms of budget
+  - acceptable, to the mass (or attentive) public
 
 Political stream:
-Tremendously important and is down to changes in adminstration, shifts in partisan or ideological balance, interest group pressure
+- Tremendously important and is down to changes in adminstration, shifts in partisan or ideological balance, interest group pressure, endogenous part of policymaking
 
-Discusses how policy entrepreneurs tend to advocate particular proposals and become active when they can attach this to a currently active problem. Only if there is a predictable or unpredictable window of opportunity when the proposal matches an current problem and there is political will to consider the change.
+Policy entrepreneurs:
+- try to keep issues alive in good times and bad.
+- advocate particular proposals and become active when they can attach this to a currently active problem
+- Only if there is a predictable or unpredictable window of opportunity when the proposal matches an current problem and there is political will to consider the change
+- self interest but also principle is required to arrive at position
+
+From KernR2018, referring more to Beland and Howlett 2016, the window of opportunity in the problem stream or politics stream become focussing events that allow conditions to be framed for their policy solution.
 
 Critical to this is the argumentation, persuasion, marshalling evidence that sets the agenda
 
@@ -20654,10 +20700,17 @@ Critical to this is the argumentation, persuasion, marshalling evidence that set
 Also discusses the role that social scientsts could play in this
 1. they can support the recognition of problems by documenting the condition - but have less special expertise for judging how inappropriate or intolerable a condition is
 2. they can supply information about how the world works - but need to robust to not threaten the credibility of the field (and tentitiveness is exactly what the political system does not tolerate very well)
-3. they can be involved in generating policy proposals and even gradually reorientate the perspectives from which people think},
+3. they can be involved in generating policy proposals and even gradually reorientate the perspectives from which people think
+
+Some favourite quotes:
+- tremendous flurry of activity p41
+- look for problems to which to hook their solutions p41
+- Getting people to see a condition as a problem is a central political accomplishment p42
+- ``policy primeval soup'' p43
+- Proposals will always be bent around to suit the purposes of various decision makers p47},
   creationdate     = {2023-11-21T20:16:52},
-  keywords         = {systems, policy, power},
-  modificationdate = {2023-11-21T20:53:29},
+  keywords         = {systems, policy, power, AISummit},
+  modificationdate = {2023-12-09T12:41:44},
   owner            = {izzy_olivine},
 }
 
@@ -20977,8 +21030,8 @@ Discusses the hypotheses that arise out of this framework and how there is not m
 nice antidote to approaches that concentrate upon material
 self-interest and bargaining driving all policy ... [but] belief-driven hypotheses of the ACF seem trivial when exposed to critical analysis},
   creationdate     = {2023-11-26T19:42:30},
-  keywords         = {systems, power, policy},
-  modificationdate = {2023-11-26T20:29:54},
+  keywords         = {systems, power, policy, AISummit},
+  modificationdate = {2023-12-08T07:02:31},
   owner            = {izzy_olivine},
 }
 
@@ -21087,8 +21140,8 @@ Questions that remain open:
 - Pathway - the notion of accountability and ownership of responsibility, including ensuring that structures evolve collaboratively with respect to advances in technology and changing societal expectations
 - Purpose - how to align multiple stakeholders with multiple perspectives to common goals in relation to Responsible AI, and how these goals interact and evolve with other paradigms that emerge},
   creationdate     = {2023-11-26T12:13:31},
-  keywords         = {AI, technology, systems, policy, trust},
-  modificationdate = {2023-12-02T15:58:35},
+  keywords         = {AI, technology, systems, policy, trust, AISummit},
+  modificationdate = {2023-12-08T07:06:30},
   owner            = {izzy_olivine},
   year             = {2023},
 }
@@ -21110,8 +21163,8 @@ I'm not sure I entirely agree with the premise that machines can't be creative b
 
 ``Just as with the current environmental crisis, where we did not really appreciate our natural environment until it was degraded and now have the opportunity to re-engage with it in new ways with a new level of appreciation, the same may be true of our humanity, the development of this technology will create many negative social and cultural externalities ... which will both degrade our culture but also offer us new ways to appreciate it and re-engage with who we are and what is of value''},
   creationdate     = {2023-11-26T13:00:55},
-  keywords         = {systems, AI, technology},
-  modificationdate = {2023-12-02T15:58:39},
+  keywords         = {systems, AI, technology, AISummit},
+  modificationdate = {2023-12-08T07:05:40},
   owner            = {izzy_olivine},
 }
 
@@ -21305,7 +21358,7 @@ This produces a less complicated model than ``DSGE'' [doesn't say what that is] 
 @Book{Selviaridis2017,
   author           = {Konstantinos Selviaridis},
   date             = {2017-09-10},
-  title            = {Public procurement of R&D and innovation in the UK: Is there alignment between policy and practice? A study of the Small Business Research Initiative (SBRI)},
+  title            = {Public procurement of R\&D and innovation in the UK: Is there alignment between policy and practice? A study of the Small Business Research Initiative (SBRI)},
   language         = {English},
   publisher        = {Lancaster University},
   url              = {https://www.researchgate.net/profile/Kostas-Selviaridis/publication/305386808_Public_procurement_and_innovation_a_review_of_evidence_on_the_alignment_between_policy_and_practice/links/578bbb3c08ae5c86c9a149cb/Public-procurement-and-innovation-a-review-of-evidence-on-the-alignment-between-policy-and-practice.pdf},
@@ -21320,7 +21373,7 @@ recommends:
   creationdate     = {2023-12-02T17:32:35},
   day              = {10},
   keywords         = {research, innovation, policy},
-  modificationdate = {2023-12-02T17:48:09},
+  modificationdate = {2023-12-05T13:02:54},
   month            = {9},
   owner            = {izzy_olivine},
   year             = {2017},
@@ -21521,10 +21574,1624 @@ Given knowledge that coutnries in middle and far east are seeking from OS},
   url              = {https://www.sciencedirect.com/science/article/pii/S1462901114001142},
   volume           = {42},
   abstract         = {Environmental research varies in its methodological quality, degree of bias, and relevance to policy questions. Using this heterogeneous, and sometimes polarised, research to inform environmental policies can be challenging. Policy-making in the healthcare field sometimes uses systematic reviews (SRs) to tackle these issues and present a comprehensive, policy-neutral, transparent and reproducible synthesis of the evidence. However, there is less familiarity with SRs in the environmental field. The aim of this article is to: (1) summarise the process of conducting SRs, using best practice methods from the healthcare field as an example, (2) explain the rationale behind each stage of conducting a SR, and (3) examine the prospects and challenges of using SRs to inform environmental policy. We conclude that existing SR protocols from healthcare can be, and have been, applied successfully to environmental research but some adaptations could improve the process. The literature search stage could be expedited by standardising the reporting and indexing of environmental studies, equivalent to that in the healthcare field. The consistency of the study appraisal stage of SRs could be augmented by refining the existing quality assessment tools used in the healthcare field, enhancing their ability to discriminate quality and risk of bias in non-randomised studies. Ultimately, the strength of evidence within SRs on environmental topics could be improved through more widespread use of randomised controlled trials as a research method, owing to their inherently lower risk of bias when conducted according to best practice.},
-  comment          = {Because research was deilvering in the most useful way, this process was developed},
+  comment          = {Because Defra research was not delivering in a way that policy makers could understand, this process was developed},
   creationdate     = {2023-12-04T22:49:59},
   keywords         = {policy, research, Systematic review, Literature review, Environment},
-  modificationdate = {2023-12-04T22:52:03},
+  modificationdate = {2023-12-06T06:53:56},
+  owner            = {izzy_olivine},
+}
+
+@Report{Varley2013,
+  author           = {Pamela Varley},
+  date             = {2013-04-04},
+  institution      = {Harvard Kennedy School},
+  title            = {Cracking Oyster: Shashi Verma \& Transport for London Confront a Tough Contract (A)},
+  number           = {Case 1984.0},
+  url              = {https://case.hks.harvard.edu/cracking-oyster-shashi-verma-transport-for-london-confront-a-tough-contract-a/},
+  comment          = {Surprisingly exciting tale of the negotiations around the TFL Oyster Card contract in 2007-8. TFL had contract with Cubit and EDS which was resstrictive, expensive and very difficult to get out of. It ends on a cliff hanger!},
+  creationdate     = {2023-12-07T14:22:53},
+  keywords         = {policy, bureaucracy, transformation},
+  modificationdate = {2023-12-07T14:26:13},
+  owner            = {izzy_olivine},
+}
+
+@Online{BommasaniL2021,
+  author           = {Rishi Bommasani and Percy Liang},
+  date             = {2021-10-18},
+  title            = {Reflections on Foundation Models},
+  url              = {https://hai.stanford.edu/news/reflections-foundation-models},
+  urldate          = {2023-12-07},
+  comment          = {Popularised the term foundation models:
+
+``define foundation models as models trained on broad data (generally using self-supervision at scale) that can be adapted to a wide range of downstream tasks. These models, which are based on standard ideas in transfer learning and recent advances in deep learning and computer systems applied at a very large scale, demonstrate surprising emergent capabilities and substantially improve performance on a wide range of downstream tasks''},
+  creationdate     = {2023-12-07T17:57:07},
+  keywords         = {AI},
+  modificationdate = {2023-12-07T18:00:33},
+  owner            = {izzy_olivine},
+}
+
+@Online{Jones2023,
+  author           = {Elliot Jones},
+  date             = {2023-07-17},
+  title            = {Explainer: What is a foundation model?},
+  url              = {https://www.adalovelaceinstitute.org/resource/foundation-models-explainer/},
+  organization     = {Ada Lovelace Institute},
+  comment          = {Refer to foundation model as general purpose AI (GPAI) but recognise this is contested as are other terms and that this explainer is a snapshot in time.
+
+Contrast with narrow AI
+
+Also consider definitions of AI, mainly using UK Data Ethics Framework's definition
+
+``A defining characteristic of foundation models is the scale of data and computational resources involved in building them. They require datasets featuring billions of words or hundreds of millions of images scraped from the internet. Foundation models also rely on `transfer learning' – that is, applying learned patterns from one task to another''
+
+`frontier models' and `AGI/strong AI' are also being used in industry, policy and elsewhere, but are more contested
+
+Comprehensive glossary including Generative AI, LLMs, Artificial general intelligence (AGI), Diffusion models, Generative adversarial network (GAN)
+
+``Frontier models'' ``is increasingly being used to refer to an undefined group of cutting-edge powerful models, for example, those that may have newer or better capabilities than other foundation models ... as technologies develop, today's frontier models will no longer be described in those terms''},
+  creationdate     = {2023-12-07T18:00:05},
+  modificationdate = {2023-12-10T16:48:16},
+  owner            = {izzy_olivine},
+}
+
+@Online{Bender2022,
+  author           = {Emily M. Bender},
+  date             = {2022-04-18},
+  title            = {On NYT Magazine on AI: Resist the Urge to be Impressed},
+  url              = {https://medium.com/@emilymenonbender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed-3d92fd9a0edd},
+  urldate          = {2023-12-08},
+  comment          = {Post pulling apart post by Steven Johnson in New York Times that gushes over AI. 
+
+Solid responses to claims about AI, including the use of the term ``AI''
+
+Alternative questions to ``how do we build?'':
+``How do we shift power so that we see fewer (ideally no) cases of algorithmic oppression? How do we imagine and deploy design processes that locate technology as tools, shaped for and in the service of people working towards pro-social ends? How do we ensure the possibility of refusal, making it possible to shut down harmful applications and ensure recourse for those being harmed?''
+
+Some useful links too.
+
+Listen to it here \url{https://soundcloud.com/emily-m-bender/on-nyt-magazine-on-ai-resist-the-urge-to-be-impressed}},
+  creationdate     = {2023-12-08T21:56:57},
+  modificationdate = {2023-12-08T22:01:39},
+  owner            = {izzy_olivine},
+}
+
+@Online{Hao2020,
+  author           = {Karen Hao},
+  date             = {2020-02-17},
+  title            = {The messy, secretive reality behind OpenAI’s bid to save the world},
+  url              = {https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/},
+  urldate          = {2023-12-09},
+  comment          = {On commercialisation:
+OpenAI needed to change approach from fully non-profit, setting up a ``capped profit'' arm—a for-profit with a 100-fold limit on investors' returns, albeit overseen by a board that's part of a nonprofit entity. Also received \$1 billion injection from Microsoft
+
+to keep up with big players in AI ``The computational resources that others in the field were using to achieve breakthrough results were doubling every 3.4 months''
+
+OpenAI rigidly adhere's to charter as well as working closely in the same location, long hours, social time together. Philosophy of effective altruism
+
+Pay structure reflects how much of the charter has been absorbed
+
+But need to make money to continue to research has become clearer
+
+On transparency:
+Didn't release GPT-2 because it was dangerous - and therefore accussed of overhyping
+
+``OpenAI insisted that GPT-2 hadn't been a stunt. It was, rather, a carefully thought-out experiment, agreed on after a series of internal discussions and debates. The consensus was that even if it had been slight overkill this time, the action would set a precedent for handling more dangerous research''
+
+But also people felt that OpenAI was once again walking back its earlier promises of openness and transparency. Also kept findings that scaling current technologies would be the best approach to achieving AGI secret for 6 months because this was considered their main competitive advantage. 
+
+Reporter not able to access parts of premises where the researchers work.
+
+On strategy:
+Strategy is twofold:
+1. portfolios of research areas - best approaches rise to top
+2. focus on making advancing systems safe ``somewhat haphazard''
+
+Diversity is a problem for the AI industry including OpenAI, whose mission is to spread the technology evenly to everyone. It lacks representation from the groups most at risk of being left out and its not clear how OpenAI plans to distribute the benefits of AGI to all of humanity.},
+  creationdate     = {2023-12-09T10:26:34},
+  modificationdate = {2023-12-09T10:57:20},
+  owner            = {izzy_olivine},
+}
+
+@Article{KernR2018,
+  author           = {Florian Kern and Karoline S. Rogge},
+  date             = {2018},
+  journaltitle     = {Environmental Innovation and Societal Transitions},
+  title            = {Harnessing theories of the policy process for analysing the politics of sustainability transitions: A critical survey},
+  doi              = {10.1016/j.eist.2017.11.001},
+  eprint           = {https://pdf.sciencedirectassets.com/270502/1-s2.0-S2210422418X00033/1-s2.0-S2210422417301089/main.pdf},
+  url              = {https://www.sciencedirect.com/science/article/pii/S2210422417301089},
+  comment          = {Mindblowingly detailed piece of work taking 5 theories of the policy process, from policy studies (part of political science), and considering their value for transition studies. A fantastic summary and critical review of each of the theories, as well as references to how they've been applied and how they've been developed since first proposed. After the review of the theories, discusses how they can be applied as well as identifying two gaps in the theory as applied to transition studies. I've read this twice - see all my underlines in my reMarkable copy!
+
+Many of the frameworks focus on coalitions but have different perspectives on what is the ``glue'' that holds them together.
+
+Also links several with Geels multi layer perspective (MLP)
+
+Theories:
+- Advocacy coalitions framework (ACF, Sabatier and colleagues) - within a given policy subsystem, defined as including all actors which regularly participate in policy formulation processes in a given policy field, there are several advocacy coalitions (consensus is around beliefs), consisting of public and private actors, which are competing for influence on policymaking, one coalition is often dominant. Policy change comes from policy learning, negotiation, external and internal shocks in the subsystem, and macro-features such as f linked sub-systems, public opinion, and policymaking venues
+- Multiple streams approach (MSA, Kingdon, Zahariadis) - three streams in policy systems (problems, policy/solutions, and politics), window of opportunity, policy entrepreneur, solutions chase problems, policy dynamics over time (see Kingdon1993), Howlett 2016 add process and programme stream to include policy implementation 
+- Punctuated equilibrium theory (PET, Baumgartner, mentioned in WeimerV2015), a dynamic between the politics of subsystems and the macro politics of Congress and the Presidency, thereby normally militating against change but sometimes reinforcing it, policymakers are boundedly rational
+- Discourse coalitions (DC, Hajer2005) - a rich diversity of  approaches that focus on narratives, discourses, or frames, actors define issues through shared discourses influences their recognition as public policy problem and the subsequent policy response, story lines, best story, does not consider institutional context and so other work has extended DC, including Arts 2006  discourses, actors, power and rules, Smith and Kern 2009 `` argued that a coalition of policymakers, academics and consultants co-developed a powerful transitions storyline with sufficient interpretive flexibility to appear attractive and non-threatening for policymakers and businesses''
+- Policy feedback theory (PFT, Pierson) - ``[the creation
+of new policies] occurs in a context that is deeply influenced by already existing policies'', feedbacks are resource effects and interpretative effects
+
+2 generic shortcomings:
+- largely neglected to explicitly address messy, real-world policy mixes
+- studies rarely consider the impact of policy processes and policy outputs on sociotechnical change
+
+Grand challenges need to go beyond policy mixes and consider their interactions},
+  creationdate     = {2023-12-09T11:32:10},
+  keywords         = {systems, policy, politics, transition, transformation, environment},
+  modificationdate = {2023-12-12T14:26:05},
+  owner            = {izzy_olivine},
+}
+
+@Online{Bender2023AIterm,
+  author           = {Emily M. Bender},
+  date             = {2023-10-02},
+  title            = {Opening remarks on ``AI in the Workplace: New Crisis or Longstanding Challenge''},
+  url              = {https://medium.com/@emilymenonbender/opening-remarks-on-ai-in-the-workplace-new-crisis-or-longstanding-challenge-eb81d1bee9f},
+  comment          = {Talk aimed at regulators 
+
+AI is a marketing term ``it's a way to may certain kinds of automation sound sophisticated, powerful or magical .. to dodge accountability to make machines sound like autonomous thinking entities, rather than tools that a re created and used by people and companies''
+
+Even the term used for the field was originally a marketing term in 1950s.
+
+Replace the word AI with automation then ask:
+- What is being automated? 
+- By whom and why? 
+- Who benefits?
+- Who is being harmed?
+- How well does it work? 
+- Who is accountable?
+- What laws/regulations apply to what is being automated?
+
+The AI hype serves corporate interests:
+- makes the tech look powerful and valuable
+- distracts from the real issues
+- makes the AI seem to exotic to be regulatable},
+  creationdate     = {2023-12-09T14:32:04},
+  keywords         = {AI, trust, AISummit},
+  modificationdate = {2023-12-12T13:02:51},
+  owner            = {izzy_olivine},
+}
+
+@Online{KakMW2023,
+  author           = {Amba Kak and Sarah Myers West and Meredith Whittaker},
+  date             = {2023-12-05},
+  title            = {Make no mistake -- AI is owned by Big Tech},
+  url              = {https://www.technologyreview.com/2023/12/05/1084393/make-no-mistake-ai-is-owned-by-big-tech/},
+  urldate          = {2023-12-09},
+  comment          = {Builds on WidderWW2023 and discusses the recent chaos at OpenAI pushing out and then return of Sam Altman
+
+AI is built on big tech compute and power is concentrated with big tech
+
+Also single points of failure - risks to financial order
+
+Altman involved in getting Saudi investment into chips to rival nvidia (RainAI) but this has been unwound by US government
+
+open source does not address the problem of concentrated power
+
+``a fact that's frequently lost in the hype around AI: there isn't yet a clear business model outside of increasing cloud profits for Big Tech by bundling AI services with cloud infrastructure. And a business model is important when you're talking about systems that can cost hundreds of millions of dollars to train and develop''
+
+Takes Microsoft recent investment in cloud infrastructure in UK as attempt to blunt Ofcom's referral of MS and Amazon to Competition and Markets Authority for anticompetitive behaviour
+
+Calls for ``a meaningful and robust accountability regime that places the interests of the public above the promises of firms not known for keeping them''' and placing of ``burden on companies to demonstrate that they meet baseline privacy, security, and bias standards before their AI products are publicly released''},
+  creationdate     = {2023-12-09T14:57:27},
+  keywords         = {AI, trust, AISummit, Open Source, monopoly, economics},
+  modificationdate = {2023-12-09T15:24:10},
+  owner            = {izzy_olivine},
+}
+
+@Report{AINow2023,
+  author           = {{AI Now Institute}},
+  date             = {2023-04-11},
+  institution      = {AI Now Institute},
+  title            = {Spotlight: Tech and Financial Capital},
+  url              = {https://ainowinstitute.org/spotlight/tech-and-financial-cap},
+  comment          = {Recent financial turmoil including waves of layoffs, the collapse of crypto markets and the failure of Silicon Valley Bank favour big tech who are less in need of venture capital
+
+Great for links for Big Tech activities
+- Lobbying governments (e.g. EU), groups
+- Staffing and recruiting from and to government
+- Creating biased information by funding academic research to support policy objectives - influence on research agendas (``ethicswashing'')
+- Directing politics of employees and contractors (e.g. sacking based on political stances)
+- Deriving power from being ``too big to fail''
+
+Links to works from Rikap and Whittaker},
+  creationdate     = {2023-12-09T15:19:26},
+  keywords         = {AI, trust, AISummit, Open Source, monopoly, economics, AI, technology, BigTech},
+  modificationdate = {2023-12-09T15:36:55},
+  owner            = {izzy_olivine},
+}
+
+@Online{Mitchell2023,
+  author           = {Margaret Mitchell},
+  date             = {2023-12-05},
+  title            = {The Pillars of a Rights-Based Approach to AI Development},
+  url              = {https://www.techpolicy.press/the-pillars-of-a-rightsbased-approach-to-ai-development/},
+  urldate          = {2023-12-09},
+  comment          = {Framework for how to regulate AI
+
+``We do not have to be reactive to the results of technology. By centering peoples' rights - an approach that governments are uniquely qualified for - and focusing on methods for rigorous foresight of the outcomes of technology, we can be proactive, shaping AI to maximally benefit humanity while minimizing harms to our lives, our freedom, and our opportunities''
+
+Four pillars based around elements of pipeline (this may be linear, loop back, or have multiple pipelines to form a system):
+- Data collection
+- Training processes
+- Model evaluation and analysis
+- System deployment
+
+
+Each pillar affects rights and should give rise to regulatory artifacts.
+
+Rights:
+- human
+- civil
+- cultural
+
+References UNHRO2023
+
+right to existence handles the current discourse over future existential risk 
+
+right to freedom and right to equal opportunity handle the current harms or short-term risk
+
+Define stakeholder groups and identify the rights pertaining to each, for each pillar
+
+A critical regulatory artifact is rigorous documentation
+
+Elaborates on model cards MitchellEtAl2019 in a clearer sense with people and use contexts as main dimentions and beneficial and problematic technologies highlighted},
+  creationdate     = {2023-12-09T15:36:52},
+  keywords         = {trust, AI, technology, AISummit},
+  modificationdate = {2023-12-09T15:56:02},
+  owner            = {izzy_olivine},
+}
+
+@Report{UNHRO2023,
+  author           = {{UNHRO}},
+  date             = {2023},
+  institution      = {United Nations Human Rights Office of the High Commissioner},
+  title            = {Taxonomy of Human Rights Risks Connected to Generative AI},
+  eprint           = {https://www.ohchr.org/sites/default/files/documents/issues/business/b-tech/taxonomy-GenAI-Human-Rights-Harms.pdf},
+  comment          = {Referenced in Mitchell2023 as defining human rights to be considered in developing AI
+
+This taxonomy examines human rights that may be adversely impacted by generative AI, providing real world examples for each right. Rights from the Universal Declaration of Human Rights (UDHR):
+- Freedom from Physical and Psychological Harm
+- Right to Equality Before the Law and to Protection against Discrimination
+- Right to Privacy
+- Right to Own Property
+- Freedom of Thought, Religion, Conscience and Opinion
+- Freedom of Expression and Access to Information
+- Right to Work and to Gain a Living
+ - Rights of the Child
+ - Rights to Culture, Art and Science},
+  creationdate     = {2023-12-09T15:56:07},
+  keywords         = {trust, AI, rights, AISummit, technology},
+  modificationdate = {2023-12-09T15:59:50},
+  owner            = {izzy_olivine},
+}
+
+@Article{Haas1989,
+  author           = {Haas, Peter M.},
+  date             = {1989},
+  journaltitle     = {International Organization},
+  title            = {Do Regimes Matter? Epistemic Communities and Mediterranean Pollution Control},
+  issue            = {3},
+  pages            = {377--403},
+  volume           = {43},
+  comment          = {Discusses the Mediterranean Action Plan (Med Plan) a regime for marine pollution around the Mediterranean and how different countries and groups of experts played different roles to end up ultimate, I think, in successful outcome reducing pollution
+
+Interesting take away for me is that even countries that were opposed, where regimes norms and principles were counter to the short term interests of participants ended up complying with the regime
+
+Demonstrating how regimes can be transformative
+
+Regime consists of legal, assessment, management and administrative components
+
+Krasner said the regime consisted of implicit and explicit principles, norms, rules and decision-making
+
+Agenda set by ecologists and marine scientists - epistemic commity, informal lobbying group},
+  creationdate     = {2023-12-09T16:18:40},
+  keywords         = {systems, policy, environment, transformation, AISummit},
+  modificationdate = {2023-12-09T16:52:36},
+  owner            = {izzy_olivine},
+}
+
+
+
+
+
+
+@Article{Mittelstadt2016,
+  author           = {Brent Daniel Mittelstadt and Patrick Allo and Mariarosaria Taddeo and Sandra Wachter and Luciano Floridi},
+  date             = {2016},
+  journaltitle     = {Big Data \& Society},
+  title            = {The ethics of algorithms: Mapping the debate},
+  doi              = {10.1177/2053951716679679},
+  eprint           = {https://doi.org/10.1177/2053951716679679},
+  number           = {2},
+  pages            = {2053951716679679},
+  url              = {https://doi.org/10.1177/2053951716679679},
+  volume           = {3},
+  abstract         = {In information societies, operations, decisions and choices previously left to humans are increasingly delegated to algorithms, which may advise, if not decide, about how data should be interpreted and what actions should be taken as a result. More and more often, algorithms mediate social processes, business transactions, governmental decisions, and how we perceive, understand, and interact among ourselves and with the environment. Gaps between the design and operation of algorithms and our understanding of their ethical implications can have severe consequences affecting individuals as well as groups and whole societies. This paper makes three contributions to clarify the ethical importance of algorithmic mediation. It provides a prescriptive map to organise the debate. It reviews the current discussion of ethical aspects of algorithms. And it assesses the available literature in order to identify areas requiring further work to develop the ethics of algorithms.},
+  comment          = {An early-ish work considering ethics and algorithms
+
+definition of an algorithm as a mathematical construct with ``a finite, abstract, effective, compound control structure, imperatively given, accomplishing a given purpose under given provisions'' - also include other uses with `algorithm' interpreted along public discourse lines -  limit focus to issues relating to the algorithm's work, rather than all issues related to the artefact
+
+algorithms are ethically challenging because of 
+- the scale of analysis 
+- complexity of decision-making
+- uncertainty and opacity of the work being done
+
+algorithms for 
+- decision-making 
+- data analytics
+- machine learning
+
+Propose a conceptual map based on six types of concerns that are jointly sufficient for a principled organisation of the field:
+- epistemic concerns:
+  - inconclusive evidence
+  - inscrutable evidence
+  - misguided evidence
+- normative concerns:
+  - unfair outcomes
+  - transformative effects
+- traceability
+
+This map is not intended as a tool to help solve ethical dilemmas arising from problematic actions driven by algorithms, but rather is posed as an organising structure based on how algorithms operate that can structure future discussion of ethical issues},
+  creationdate     = {2023-12-09T19:21:56},
+  keywords         = {trust, AI, technology, AISummit, ethics},
+  modificationdate = {2023-12-09T20:08:15},
+  owner            = {izzy_olivine},
+}
+
+@Misc{EcosiaAIethicssafety,
+  author           = {{Ecosia AI Chat}},
+  date             = {2023-12-09},
+  title            = {whats the difference between ethics and safety},
+  abstract         = {Ethics and safety are two distinct concepts, although they can sometimes intersect.
+
+Ethics refers to a set of moral principles or values that guide individuals or groups in determining what is right or wrong, good or bad. It involves making decisions based on principles such as honesty, fairness, respect, and responsibility. Ethical considerations often involve evaluating the impact of actions on others, the environment, and society as a whole.
+
+On the other hand, safety pertains to the condition of being protected from harm, danger, or risk. It involves taking precautions and measures to prevent accidents, injuries, or any form of harm to individuals, property, or the environment.
+
+While ethics and safety can overlap, they are not synonymous. Safety measures are often put in place to protect individuals and the environment, regardless of ethical considerations. However, ethical considerations can influence safety practices by emphasizing the importance of protecting all stakeholders and minimizing harm.
+
+It's important to note that ethical behavior can contribute to a safer environment by promoting responsible decision-making and considering the well-being of all involved.},
+  creationdate     = {2023-12-09T20:17:28},
+  modificationdate = {2023-12-09T20:18:19},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{BucknallD2022,
+  author           = {Bucknall, Benjamin S. and Dori-Hacohen, Shiri},
+  booktitle        = {Proceedings of the 2022 AAAI/ACM Conference on AI, Ethics, and Society},
+  title            = {Current and Near-Term AI as a Potential Existential Risk Factor},
+  doi              = {10.1145/3514094.3534146},
+  publisher        = {ACM},
+  series           = {AIES '22},
+  url              = {http://dx.doi.org/10.1145/3514094.3534146},
+  collection       = {AIES '22},
+  comment          = {Referenced by BengioREtAl2023
+
+Argue that societal and political issues surrounding contemporary AI systems can have far-reaching impacts on humanity through their potential acting as existential risk factors, rather than solely through the development of unaligned AGI
+
+AI can shift or strengthen existing power dynamics:
+- state-steate power relationships
+- state-corporation power relationships
+- state-citizen power relationships
+
+AI affects information transfer and access:
+- information ecosystem threats
+- cybersecurity and international cyber warfare
+
+Risk is as a direct impacts on social and political structures as well as:
+- nuclear weaponry
+- pandemics and biotechnology
+- climate change
+- natural risks
+- unaligned AGI},
+  creationdate     = {2023-12-09T20:48:14},
+  keywords         = {trust, ethics, AI, technology, AISummit, policy, systems},
+  modificationdate = {2023-12-09T20:55:29},
+  month            = {7},
+  owner            = {izzy_olivine},
+  year             = {2022},
+}
+
+@Online{Ghaffary2021,
+  author           = {Shirin Ghaffary},
+  date             = {2021-06-02},
+  title            = {Google says it's committed to ethical AI research. Its ethical AI team isn't so sure},
+  url              = {https://www.vox.com/recode/22465301/google-ethical-ai-timnit-gebru-research-alex-hanna-jeff-dean-marian-croak},
+  urldate          = {2023-12-09},
+  comment          = {Google fired Timnit Gebru and Meg Mitchell over BenderGMM2021 leaving  the ethical AI unit running itself in an ad-hoc fashion
+
+Samy Bengio resigned, moving to Apple
+
+Google promised to double its research staff studying responsible AI to 200 people
+
+The team has been in a state of limbo for months, and that they have serious doubts company leaders can rebuild credibility in the academic community
+
+Quotes Alex Hanna},
+  creationdate     = {2023-12-09T22:03:58},
+  keywords         = {trust, ethics, big tech, technology, AI, AISummit},
+  modificationdate = {2023-12-09T22:13:41},
+  owner            = {izzy_olivine},
+}
+
+@Online{Paul2023,
+  author           = {Kari Paul},
+  date             = {2023-04-01},
+  title            = {Letter signed by Elon Musk demanding AI research pause sparks controversy},
+  url              = {https://www.theguardian.com/technology/2023/mar/31/ai-research-pause-elon-musk-chatgpt},
+  comment          = {Criticism in response to BengioREtAl2023
+
+Critics have accused the Future of Life Institute (FLI), which has received funding from the Musk foundation, of prioritising imagined apocalyptic scenarios over more immediate concerns about AI - such as racist or sexist biases being programmed into the machines.
+
+Mitchell: ``By treating a lot of questionable ideas as a given, the letter asserts a set of priorities and a narrative on AI that benefits the supporters of FLI, ignoring active harms right now is a privilege that some of us don't have.''
+
+``There are non-existential risks that are really, really important, but don't receive the same kind of Hollywood-level attention''
+
+LeCun denies signing pause letter (no verification was used to collect signatures)},
+  creationdate     = {2023-12-10T08:31:47},
+  modificationdate = {2023-12-10T08:43:08},
+  owner            = {izzy_olivine},
+}
+
+@Report{UKGov2023AISummitSummary,
+  author           = {{UKGov}},
+  date             = {2023-11-02},
+  institution      = {UK Government},
+  title            = {Chair's Summary of the AI Safety Summit 2023, Bletchley Park},
+  url              = {https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-2-november/chairs-summary-of-the-ai-safety-summit-2023-bletchley-park},
+  comment          = {A statement by the United Kingdom of Great Britain and Northern Ireland in their capacity as Chair of the inaugural AI Safety Summit
+
+Outcomes of summit:
+- state of science report to be produced led by Yoshua Bengio
+- there will be state-led testing - of next iteration of models
+- countries will set up AI Safety institutes
+- further summits in SK and France
+
+150 attendees [my estimate of percentage]:
+- government leaders and ministers [25]
+- industry [30]
+- academia [12] [25 total research institutions]
+- civil society leaders [<10]
+
+[also around 10 percent advocacy and policy research, including only 1 workers union]
+
+``Next year, the next generation of considerably more powerful models will be released and participants identified a narrow window for clear, decisive, and committed action, to engage constructively, globally, and inclusively''
+
+Rather bloated and somewhat repetitive series statements from the summit identifying risks, harms, actions, related international initiatives and, of course, opportunities},
+  creationdate     = {2023-12-10T08:54:25},
+  modificationdate = {2023-12-10T09:35:38},
+  owner            = {izzy_olivine},
+}
+
+@Report{GrandChallenges2017,
+  author           = {{UKGov}},
+  date             = {2017},
+  institution      = {UK Government},
+  title            = {Industrial Strategy Building a Britain fit for the future},
+  type             = {Industrial Strategy White Paper},
+  eprint           = {https://assets.publishing.service.gov.uk/media/5b5afeffe5274a3fd124c9ba/industrial-strategy-white-paper-web-ready-a4-version.pdf},
+  url              = {https://www.gov.uk/government/publications/industrial-strategy-the-grand-challenges/industrial-strategy-the-grand-challenges},
+  comment          = {White paper referred to as ``Grand Challenges''
+
+4 Grand Challenges:
+- AI and data economy
+- clean growth
+- future of mobility
+- aging society
+
+5 foundations of productivity:
+- ideas
+- people
+- infrastructure
+- business environment
+- places
+
+Sector deals partnerships between government and industry aiming to increase sector productivity. The first Sector Deals are in life sciences, construction, artificial intelligence and the automotive sector
+
+This policy paper was withdrawn on 1 March 2023.},
+  creationdate     = {2023-12-10T10:52:54},
+  isbn             = {978-1-5286-0131-3},
+  keywords         = {AI, technology, policy, economics, AISummit},
+  modificationdate = {2023-12-10T11:00:00},
+  month            = {11},
+  owner            = {izzy_olivine},
+}
+
+@Report{HallP2017,
+  author           = {Dame Wendy Hall and J\'er\^ome Pesenti},
+  date             = {2017-10-15},
+  title            = {Growing the artificial intelligence industry in the UK},
+  eprint           = {https://assets.publishing.service.gov.uk/media/5a824465e5274a2e87dc2079/Growing_the_artificial_intelligence_industry_in_the_UK.pdf},
+  url              = {https://www.gov.uk/government/publications/growing-the-artificial-intelligence-industry-in-the-uk},
+  comment          = {Independent review, carried out by Professor Dame Wendy Hall and Jérôme Pesenti reports on how the Artificial Intelligence industry can be grown in the UK
+
+Skimmed for mentions of AI safety, harms and risks - its very light on these acknowledging that there may be some risks but also possibly equal mention of use of AI to avoid other risks
+
+Contributors were at least half industry (including banking, fossil, digital, private healthcare) and around a quarter universities. The rest included
+- OSI
+- ATI
+- RS},
+  creationdate     = {2023-12-10T11:03:49},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T11:14:45},
+  owner            = {izzy_olivine},
+}
+
+@Report{UKGov2018AISectorDeal,
+  author           = {{UKGov}},
+  date             = {2018-04-26},
+  institution      = {Department for Science, Innovation and Technology, Department for Business and Trade, Office for Artificial Intelligence, Department for Digital, Culture, Media \& Sport, and Department for Business, Energy \& Industrial Strategy},
+  title            = {AI Sector Deal},
+  eprint           = {https://assets.publishing.service.gov.uk/media/5ae0f342e5274a0d85c1c6d5/180425_BEIS_AI_Sector_Deal__4_.pdf},
+  url              = {https://www.gov.uk/government/publications/artificial-intelligence-sector-deal},
+  comment          = {This Sector Deal sets out actions to promote the adoption and use of AI in the UK, and delivers on the recommendations of the independent AI review, Growing the AI industry in the UK, led by Professor Dame Wendy Hall and Jérôme Pesenti HallP2017
+
+Develop policy to support AI in the UK:
+- The government will use its convening power to establish an AI Council of leading figures from industry and academia with ministerial representation. The Council will drive action, oversee implementation of the deal, galvanise industry, and advise government.
+- The government will establish a new Office for Artificial Intelligence to work with the AI Council to create and deliver the AI strategy, and collaborate with other relevant initiatives, such as the GovTech Catalyst.
+
+Leadership, policy setting and strategy:
+- Senior figures from industry and academia will participate in the AI Council to provide high level leadership and momentum for the implementation of AI review recommendations and the Sector Deal.
+- Industry will work closely with the government, through the AI Council, on broader questions related to AI such as data ethics and the role of AI in the public sector.
+
+No mention of risks, harm or safety except where these may be prevented by AI},
+  creationdate     = {2023-12-10T11:24:45},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T11:29:43},
+  owner            = {izzy_olivine},
+}
+
+@Online{UKGovAISector1year,
+  author           = {{UKGov}},
+  date             = {2019-05-21},
+  title            = {AI Sector Deal - One year on},
+  url              = {https://www.gov.uk/government/publications/artificial-intelligence-sector-deal/ai-sector-deal-one-year-on},
+  urldate          = {2023-12-10},
+  comment          = {Came out of GrandChallenges2017
+
+No mention os risk, safety or harm.},
+  creationdate     = {2023-12-10T11:40:53},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T11:42:45},
+  owner            = {izzy_olivine},
+}
+
+@Report{Ada2020Blackbox,
+  author           = {{Ada Lovelace Institute and DataKind UK}},
+  date             = {2020-04-29},
+  institution      = {Ada Lovelace Institute and DataKind UK},
+  title            = {Examining the Black Box: Tools for assessing algorithmic systems},
+  eprint           = {https://www.adalovelaceinstitute.org/wp-content/uploads/2020/04/Ada-Lovelace-Institute-DataKind-UK-Examining-the-Black-Box-Report-2020.pdf},
+  url              = {https://www.adalovelaceinstitute.org/report/examining-the-black-box-tools-for-assessing-algorithmic-systems/},
+  abstract         = {This report clarifies terms in algorithm audits and algorithmic impact assessments, and the current state of research and practice.},
+  comment          = {Two terms, four approaches - gives summary of what each is, when it is performed and by whom, as well as how established or not each is:
+- Algorithm audit:
+  - Bias audit
+  - Regulatory inspection
+- Algorithmic impact assessment
+  - Algorithmic risk assessment
+  - Algorithmic impact evaluation
+
+For policymakers and practitioners, it may be disappointing to see that many of these approaches are not `ready to roll out'; that the evidence base and best-practice approaches are still being developed
+
+Also considers stakeholder and what each should should focus on:
+- Regulators/auditors - legal powers, auditability by design, skills and capability, learn by sharing successes failures
+- Civic society organisations and nonprofits - public bias audits and methods, analyse impact of bias audit
+- Public sector - publish case studies of algorithmic risks assessment and and post-hoc impact evaluations and open up to evaluation, 
+- Private sector - publish case studies and open to evaluation
+- Researchers - evaluate how useful these approaches are for governance
+- Data scientists  and engineers - collaborate, create best practice, develop tools, libraries frameworks},
+  creationdate     = {2023-12-10T14:36:06},
+  keywords         = {ethics, trust, AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T14:49:04},
+  owner            = {izzy_olivine},
+}
+
+@Online{Sheehan2023,
+  author           = {Matt Sheehan},
+  date             = {2023-07-10},
+  title            = {China's AI Regulations and How They Get Made},
+  url              = {https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117},
+  urldate          = {2023-12-10},
+  comment          = {Lists NOTABLE CHINESE AI GOVERNANCE POLICY DOCUMENTS with links:
+
+* 20/07/2017	New Generation AI Development Plan
+* 17/06/2019	Governance Principles for New Generation AI: Develop Responsible Artificial Intelligence
+* 07/12/2020	Outline for Establishing a Rule-of-Law-Based Society (2020-2025)
+* 17/09/2021	Guiding Opinions on Strengthening Overall Governance of Internet Information Service Algorithms
+* 31/12/2021	Provisions on the Management of Algorithmic Recommendations in Internet Information Services
+* 20/03/2022	Opinions on Strengthening the Ethical Governance of Science and Technology
+* 25/11/2022	Provisions on the Administration of Deep Synthesis Internet Information Services
+* 11/04/2023	Measures for the Management of Generative Artificial Intelligence Services (Draft for Comment)},
+  creationdate     = {2023-12-10T15:24:27},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T15:29:54},
+  owner            = {izzy_olivine},
+}
+
+@Online{USAISummit2023,
+  author           = {{The White House}},
+  date             = {2023-05-04},
+  title            = {Readout of White House Meeting with CEOs on Advancing Responsible Artificial Intelligence Innovation},
+  url              = {https://www.whitehouse.gov/briefing-room/statements-releases/2023/05/04/readout-of-white-house-meeting-with-ceos-on-advancing-responsible-artificial-intelligence-innovation/},
+  urldate          = {2023-12-10},
+  comment          = {US AI Summit - the White House met with the CEOs of Alphabet, Anthropic, Microsoft, and OpenAI, to consult with those companies and urge them to adopt actions consistent with the administration's AI Bill of Rights and Risk Management Framework, announced public working group on AI},
+  creationdate     = {2023-12-10T15:37:57},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:45:48},
+  owner            = {izzy_olivine},
+}
+
+@Report{EU2023AIAct,
+  author           = {{European Parliament}},
+  date             = {2023-06-14},
+  institution      = {European Parliament},
+  title            = {Amendments adopted by the European Parliament on 14 June 2023 on the proposal for a regulation of the European Parliament and of the Council on laying down harmonised rules on artificial intelligence},
+  url              = {https://www.europarl.europa.eu/doceo/document/TA-9-2023-0236_EN.pdf},
+  creationdate     = {2023-12-10T15:48:48},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T15:50:20},
+  owner            = {izzy_olivine},
+}
+
+@Report{Minderoo2023,
+  author           = {Ann Kristin Glenster and Sam Gilbert},
+  date             = {2023-10-16},
+  institution      = {Minderoo Centre for Technology and Democracy and Bennett Institute for Public Policy},
+  title            = {Policy Brief: Generative AI},
+  url              = {https://www.mctd.ac.uk/which-path-should-the-uk-take-to-build-national-capability-for-generative-ai},
+  comment          = {concerns about AI's impact on the economy and society
+
+In the UK, policy makers are looking to large language models and other so-called foundation models as ways to potentially improve economic productivity
+
+This policy brief outlines which policy levers could support those goals.
+
+UK should pursue becoming a global leader in applying generative AI to the economy. Rather than use public support for building new foundation models, the UK could support the growing ecosystem of startups that develop new applications for these models, creating new products and services.
+
+A UK approach to generative AI could leverage the existing national strengths in safe, responsible and ethical AI to put human safety and flourishing at the forefront of innovation. A national approach could achieve these goals by increasing understanding of and access to generative AI tools throughout the economy and society.
+
+This policy brief answers three key questions:
+- What policy infrastructure and social capacity does the UK need to lead and manage deployment of responsible generative AI (over the long term)?
+- What national capability does the UK need for large-scale AI systems in the short- and medium-term?
+- What governance capacity does the UK need to deal with fast moving technologies, in which large uncertainties are a feature, not a bug?},
+  creationdate     = {2023-12-10T15:53:49},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T16:12:02},
+  owner            = {izzy_olivine},
+}
+
+@Online{ChathamHouse2023,
+  author           = {{Chatham House}},
+  date             = {2023-10-24},
+  title            = {UK AI Summit: What can it achieve?},
+  url              = {https://www.chathamhouse.org/events/all/members-event/uk-ai-summit-what-can-it-achieve},
+  urldate          = {2023-12-10},
+  comment          = {Panel discussion before UK AI Summit with Olivia O'Sullivan, Yoshua Bengio and Francine Bennett.
+
+Panel criticised AI Safety Summit for being preoccupied with far-off dangers},
+  creationdate     = {2023-12-10T16:01:44},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T16:38:16},
+  owner            = {izzy_olivine},
+}
+
+@Report{Brakel2023,
+  author           = {Mark Brakel},
+  date             = {2023-09-10},
+  institution      = {Future of Life Institute},
+  title            = {FLI recommendations for the UK Global AI Safety Summit},
+  eprint           = {https://futureoflife.org/wp-content/uploads/2023/09/FLI_AI_Summit_Recommendations.pdf},
+  url              = {https://futureoflife.org/document/fli-recommendations-for-the-uk-global-ai-safety-summit/},
+  comment          = {Summit should achieve three things: 
+1. Establish a common understanding of the severity and urgency of AI risks; 
+2. Make the global nature of the AI challenge explicit, recognising that all of humanity has a stake in this issue and that some solutions require a unified global response, and; 
+3. Embrace the need for urgent government intervention, including hard law where appropriate. Propose a declaration on on AI safety and make reccommendations for the programme, speakers and actions to be taking by specific attendees - really detailed.},
+  creationdate     = {2023-12-10T16:10:22},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T16:12:27},
+  owner            = {izzy_olivine},
+}
+
+@Online{DSIT2023AISummitintro,
+  author           = {{DSIT}},
+  date             = {2023-09-25},
+  title            = {AI Safety Summit: introduction},
+  url              = {https://www.gov.uk/government/publications/ai-safety-summit-introduction},
+  urldate          = {2023-12-10},
+  comment          = {Regarding Frontier AI at AI Safety Summit, two particular categories of risk to be focused on: 
+1. Misuse risks; 
+2. Loss of control risks. 
+
+Also information about 
+- Frontier AI
+- stakeholder and public engagement
+
+Pre-summit engagement:
+To ensure the widest range of domestic voices were heard, we partnered with the Royal Society, the British Academy, techUK, The Alan Turing Institute, the Founders Forum, and the British Standards Institution, as part of an ambitious and truly inclusive public dialogue to inform global action. A wide range of further events were also held including a business roundtable with CEOs and senior leaders from firms in a variety of sectors that develop and/or use AI, and roundtables with venture capital firms and think tanks, recognising the impact of AI is already present across our economy and society. Ministers from DSIT and other government departments have been present at a majority of the 24 events that will have been held, engaging with representatives from media, business, charity, and research sectors on top of ministers meeting with businesses and community groups. This has provided stakeholders with an opportunity to feed in their views on key themes to enrich Summit conversation and has underlined our commitment to a continued conversation before and after the Summit.
+
+The summary of significant views from a plurality of participants:
+- Unlocking the opportunities of AI
+- Understanding potential societal risks
+- International leadership and collaboration
+- A role for regulation on AI
+
+Kinda dismisses what is raised at the pre-summit events with
+
+``Government has already sought to address some of the key issues raised through these engagements. The AI Safety Summit primarily intends to focus on the risks of frontier AI and discuss how they can be mitigated through internationally coordinated action''},
+  creationdate     = {2023-12-10T16:13:08},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:09:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{CantwellCorn2023,
+  author           = {Adam Cantwell-Corn},
+  date             = {2023-10-30},
+  title            = {AI Summit is dominated by Big Tech and a “missed opportunity”, civil society organisations tell Prime Minister},
+  url              = {https://connectedbydata.org/news/2023/10/30/ai-open-letter-press-release},
+  urldate          = {2023-12-10},
+  comment          = {- More than 100 UK and international organisations, experts and campaigners sign open letter to Rishi Sunak
+- Groups warn that the “communities and workers most affected by AI have been marginalised by the Summit.”
+- ``Closed door event'' is dominated by Big Tech and overly focused on speculative risks instead of AI threats ``in the here and now''- PM told
+- Signatories to letter include leading human rights organisations, trade union bodies, tech orgs, leading academics and experts on AI
+
+
+More than 100 civil society organisations from across the UK and world have today (Monday) branded the government's AI Summit as ``a missed opportunity''},
+  creationdate     = {2023-12-10T16:25:53},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T16:33:04},
+  owner            = {izzy_olivine},
+}
+
+@Online{CbD2023openletter,
+  author           = {{Connected by Data}},
+  date             = {2023-10-30},
+  title            = {AI Safety Summit: Open Letter to the UK Prime Minister},
+  url              = {https://ai-summit-open-letter.info/},
+  organization     = {Connected by Data, The Trades Union Congress and Open Rights Group},
+  urldate          = {2023-12-10},
+  comment          = {For many millions of people in the UK and across the world, the risks and harms of AI are not distant - they are felt in the here and now
+
+Identifies these issues:
+- being fired from your job by algorithm, or unfairly profiled for a loan based on your identity or postcode
+- being subject to authoritarian biometric surveillance, or to discredited predictive policing
+- small businesses and artists are being squeezed out, and innovation smothered as a handful of big tech companies capture even more power and influence},
+  creationdate     = {2023-12-10T16:27:35},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-10T16:38:05},
+  owner            = {izzy_olivine},
+}
+
+@Online{US2023AISafetyOrder,
+  author           = {{The White House}},
+  date             = {2023-10-30},
+  title            = {Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence},
+  url              = {https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/},
+  urldate          = {2023-12-10},
+  comment          = {From The Batch: The executive order interprets existing law — specifically the Cold War-era Defense Production Act, a Cold War-era law that gives the president powers to promote national defense and respond to emergencies — and thus can be implemented without further legislation. It focuses on foundation models, or general-purpose models that can be fine-tuned for specific tasks:
+* Safety: Developers must notify the government when they train a model whose processing budget exceeds 1026 integer or floating-point operations, which corresponds roughly to 1 trillion parameters, with a lower limit for training on biological sequences. (These are preliminary values to be updated regularly.) In addition, developers must watermark generated outputs and share results of safety tests conducted by so-called red teams.
+* Privacy: The federal government will support tools to protect users' privacy and evaluate AI developers' collection of personal information. The order calls on Congress to pass comprehensive data-privacy legislation, reflecting the president's limited power in this area.
+* Civil rights: Federal administrators of benefits, contractors, and landlords are barred from using algorithms to discriminate against members of protected groups. The Department of Justice and civil rights offices of various government agencies will set best practices for the use of AI in criminal justice and civil rights investigations.
+* Competitiveness: A new National AI Research Resource will support researchers with processing power, data, tools, and expertise. The Federal Trade Commission will assist small business owners in commercializing AI developments. Immigration authorities will lower barriers to workers with expertise in critical areas like software engineering.
+* Global leadership: The administration will work with other countries and nongovernmental organizations to set international standards for safety and risk management as well as an agenda for applying AI to solve global problems.},
+  creationdate     = {2023-12-10T16:37:36},
+  modificationdate = {2023-12-11T16:41:15},
+  owner            = {izzy_olivine},
+}
+
+@Report{DSIT2023frontierAI,
+  author           = {{DSIT}},
+  date             = {2023-10-25},
+  institution      = {Department for Science, Innovation and Technology},
+  title            = {Frontier AI: capabilities and risks},
+  type             = {Discussion Paper},
+  url              = {https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper},
+  comment          = {Produced in advance of teh UK AI Safety Summit
+
+I think they mostly mean foundation models
+
+List ``economically useful tasks''
+
+Risks:
+Cross cutting risk factors
+- It is difficult to design safe frontier models in open-ended domains 
+- Evaluating the safety of frontier AI systems is an open challenge
+- It may be difficult to track how frontier AI systems are deployed or used
+- AI safety standards have not yet been established
+- Insufficient incentives for AI developers to invest into risk mitigation measures
+- There may be significant concentration of market power in AI
+Societal harms:
+- Degradation of the information environment
+- Labour market disruption
+- Bias, Fairness and Representational Harms
+Misuse risks:
+- Dual Use Science risks
+- Cyber
+- Disinformation and Influence Operations
+Loss of control: 
+- Humans might increasingly hand over control to misaligned AI systems
+- Future AI systems might actively reduce human control},
+  creationdate     = {2023-12-10T16:48:36},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:09:38},
+  owner            = {izzy_olivine},
+}
+
+@Article{Crawford2016,
+  author           = {Kate Crawford},
+  date             = {2016-06-25},
+  journaltitle     = {The New York Times},
+  title            = {Artificial Intelligence's White Guy Problem},
+  url              = {http://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html},
+  urldate          = {2023-12-11},
+  creationdate     = {2023-12-11T06:50:03},
+  keywords         = {AI, AISummit, ethics, trust, policy},
+  modificationdate = {2023-12-11T16:07:28},
+  owner            = {izzy_olivine},
+}
+
+@Article{Anon1982robots,
+  author           = {Anon},
+  date             = {1982},
+  journaltitle     = {Production engineer},
+  title            = {Fears about robots -- just a `mechanical response'},
+  comment          = {Full text:
+Fears that `the robots are coming to take away our jobs' are an understandable reason for workers to reject robots, according to Norman Tebbit, Secretary of State for Employment. Speaking at a recent gathering of the West Midlands Engineering Employers Association, Mr Tebbit quipped that attempts to resist the coming of the robot were simply mechanical responses of the kind a robot would make! ``The greatest advantage workers have over robots,'' he said, ``is that they have minds. And when they think about the proposition of taking on new technology, they must see that jobs can only be made secure if the company they work for keeps its place in the markets.'' Mr Tebbit added that the attitude that robots breed mass unemployment is rubbish, and is no more relevant than it was in the last century, when worried Luddites smashed machinery. This attitude, he said, ignores the reality of the present day, where, taking Japan as an example, adopting new technology can lead to very low rates of unemployment. "It is not change which threatens jobs,'' he said, ``it is the refusal to change which costs jobs, as we have seen so often and so tragically in this country. ``Robots offer us a future of great prosperity and greater fulfilment than ever before. The only fear we have to face is a fear founded by ignorance. There is no security in opposing change.''},
+  creationdate     = {2023-12-11T07:07:27},
+  keywords         = {AI, AISummit, ethics, trust, policy},
+  modificationdate = {2023-12-11T07:23:24},
+  owner            = {izzy_olivine},
+}
+
+@Conference{FLI2015,
+  author           = {FLI},
+  date             = {2015-01-02},
+  title            = {AI safety conference in Puerto Rico},
+  url              = {https://futureoflife.org/event/ai-safety-conference-in-puerto-rico/},
+  creationdate     = {2023-12-11T07:19:07},
+  institution      = {Future of Life Institute},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T07:23:17},
+  owner            = {izzy_olivine},
+}
+
+@Article{NYT2015,
+  author           = {{NYT}},
+  date             = {2015-02-02},
+  journaltitle     = {The Washington Post (Online)},
+  title            = {Artificial intelligence is marvelous -- unless it's part of a killer robot: Some experts worry that the technology is dangerous as well as marvelous. Think killer robot},
+  language         = {English},
+  note             = {Copyright - (Copyright The Washington Post Company, Feb 2, 2015; People - Musk, Elon; Last updated - 2021-04-22},
+  url              = {https://www.proquest.com/blogs-podcasts-websites/artificial-intelligence-is-marvelous-unless-part/docview/1650784375/se-2},
+  abstract         = {In "AI Has Arrived, and That Really Worries the World's Brightest Minds," he reports on the fears of experts who gathered at a closed-door conference in Puerto Rico in early January; among the industry talents were Elon Musk of SpaceX and Tesla, Skype co-founder Jaan Tallinn and Google AI expert Shane Legg.},
+  creationdate     = {2023-12-11T07:24:53},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T08:11:40},
+  owner            = {izzy_olivine},
+  year             = {2015},
+}
+
+@Online{AIAAIC2023,
+  author           = {{AIAAIC}},
+  date             = {2023-06-21},
+  title            = {AI, Algorithmic, and Automation Incidents and Controversies: Classifications and definitions},
+  url              = {https://www.aiaaic.org/aiaaic-repository/classifications-and-definitions},
+  urldate          = {2023-12-11},
+  comment          = {Classifies risks and harms - comprehensively},
+  creationdate     = {2023-12-11T08:09:15},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T08:12:02},
+  owner            = {izzy_olivine},
+}
+
+@Report{AICouncil20190909,
+  author           = {{AI Council}},
+  date             = {2019-09-09},
+  institution      = {Office for Artificial Intelligence, Department for Digital, Culture, Media \& Sport and Department for Business, Energy \& Industrial Strategy},
+  title            = {Artificial Intelligence Council meeting 9th September 2019},
+  type             = {Meeting minutes},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/836901/AI_Council_Meeting_Minutes_9_September_2019.pdf},
+  url              = {https://www.gov.uk/government/groups/ai-council},
+  urldate          = {2023-12-11},
+  comment          = {Three themes suggested:
+- Data 
+- Skills 
+- Narrative and perception},
+  creationdate     = {2023-12-11T11:25:38},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T13:06:36},
+  owner            = {izzy_olivine},
+}
+
+@Report{OAI2021strategy,
+  author           = {{Office for Artificial Intelligence}},
+  date             = {2021-09-22},
+  institution      = {Department for Science, Innovation and Technology, Office for Artificial Intelligence, Department for Digital, Culture, Media \& Sport, and Department for Business, Energy \& Industrial Strategy},
+  title            = {National AI Strategy},
+  type             = {Guidance},
+  eprint           = {https://assets.publishing.service.gov.uk/media/614db4d1e90e077a2cbdf3c4/National_AI_Strategy_-_PDF_version.pdf},
+  url              = {https://www.gov.uk/government/publications/national-ai-strategy},
+  urldate          = {2023-12-11},
+  comment          = {``Our ten-year plan to make Britain a global AI super power''
+
+builds on the UK's strengths but also represents the start of a step-change for AI in the UK, recognising the power of AI to increase resilience, productivity, growth and innovation across the private and public sectors. 
+
+3 pillars, 3rd is governance. 
+Aims to: 
+- Invest and plan for the long-term needs of the AI ecosystem to continue our leadership as a science and AI superpower; 
+- Support the transition to an AI-enabled economy, capturing the benefits of innovation in the UK, and ensuring AI benefits all sectors and regions; 
+- Ensure the UK gets the national and international governance of AI technologies right to encourage innovation, investment, and protect the public and our fundamental values. 
+
+- Establish medium and long term horizon scanning functions to increase government's awareness of AI safety. 
+- Work with The Alan Turing Institute to update guidance on AI ethics and safety in the public sector. 
+- Work with national security, defence, and leading researchers to understand what public sector actions can safely advance AI and mitigate catastrophic risks. 
+
+``While the emergence of Artificial General Intelligence (AGI) may seem like a science fiction concept, concern about AI safety and non-human-aligned systems is by no means restricted to the fringes of the field'' [referencing Stuart Russell, Allan Dafoe, Nick Bostrom].},
+  creationdate     = {2023-12-11T11:42:46},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T13:33:15},
+  owner            = {izzy_olivine},
+}
+
+@Report{CSPL2020,
+  author           = {{CSPL}},
+  date             = {2020-02-10},
+  institution      = {Committee on Standards in Public Life},
+  title            = {Artificial Intelligence and Public Standards},
+  type             = {Review},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/868284/Web_Version_AI_and_Public_Standards.PDF},
+  url              = {https://www.gov.uk/government/publications/artificial-intelligence-and-public-standards-report},
+  urldate          = {2023-12-11},
+  comment          = {Considers public sector use of AI again 7 Nolan principles. Finds that there is not sufficient openness, accountability or objectivity. Government needs to identify and embed authoritative ethical principles and issue accessible guidance on AI governance to those using it in the public sector -  a new AI regulator is not needed but existing regulators will need to adapt to face the challenges AI brings. Finds governance and regulatory framework for AI in the public sector is still a work in progress and one with significant deficiencies. Privacy is beyond the remit. Draws a lot on Leslie2019. Loads of detail.},
+  creationdate     = {2023-12-11T12:07:34},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T21:25:39},
+  owner            = {izzy_olivine},
+}
+
+@Report{CDEI2020,
+  author           = {{CDEI}},
+  date             = {2020-11-27},
+  institution      = {Centre for Data Ethics and Innovation},
+  title            = {Review into bias in algorithmic decision-making},
+  type             = {Independent report},
+  eprint           = {https://assets.publishing.service.gov.uk/media/60142096d3bf7f70ba377b20/Review_into_bias_in_algorithmic_decision-making.pdf},
+  url              = {https://www.gov.uk/government/publications/cdei-publishes-review-into-bias-in-algorithmic-decision-making},
+  urldate          = {2023-12-11},
+  comment          = {considers what guidance, support, regulation and incentives are needed to create the right conditions for fair innovation to flourish. Specifically considered algorithmic decision making for recruitment, financial services, policing and local government},
+  creationdate     = {2023-12-11T12:25:07},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T13:06:28},
+  owner            = {izzy_olivine},
+}
+
+@Report{AICouncil20211209,
+  author           = {{AI Council}},
+  date             = {2021-12-09},
+  institution      = {Office for Artificial Intelligence, Department for Digital, Culture, Media \& Sport and Department for Business, Energy \& Industrial Strategy},
+  title            = {Artificial Intelligence Council meeting 9th December 2021},
+  type             = {Meeting minutes},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1045843/AI_Council_Meeting_Minutes_09_December_2021.pdf},
+  url              = {https://www.gov.uk/government/groups/ai-council},
+  urldate          = {2023-12-11},
+  comment          = {Discussion on AI Governance & Regulation. `pro-innovation' national position on governing and regulating AI in the UK would be set out in a White Paper in 2022. drive prosperity while also building trust in the use of AI.  discussed the current legal and regulatory landscape with reference to issues of fairness, explainability, human oversight, accountability and product standards. Also AI Standards hub pilot. The Centre for Data Ethics and Innovation (CDEI) had recently published a roadmap setting out the steps required to build a world-leading AI assurance ecosystem in the UK. Separately, the Central Digital and Data Office had launched a new algorithmic transparency standard for government departments and public sector bodies, delivering on commitments made in both the National Data Strategy and National AI Strategy.},
+  creationdate     = {2023-12-11T12:42:20},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T13:06:26},
+  owner            = {izzy_olivine},
+}
+
+@Report{CDEI2021,
+  author           = {{CDEI}},
+  date             = {2021-12-08},
+  institution      = {Centre for Data Ethics and Innovation},
+  title            = {The roadmap to an effective AI assurance ecosystem},
+  type             = {Independence report},
+  eprint           = {https://assets.publishing.service.gov.uk/media/61b0746b8fa8f50379269eb3/The_roadmap_to_an_effective_AI_assurance_ecosystem.pdf},
+  url              = {https://www.gov.uk/government/publications/the-roadmap-to-an-effective-ai-assurance-ecosystem},
+  urldate          = {2023-12-11},
+  comment          = {Comes out of the National AI Strategy - about pro-innovation AI governance and regulation.},
+  creationdate     = {2023-12-11T13:05:00},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T13:07:22},
+  owner            = {izzy_olivine},
+}
+
+@Online{CDDO2021,
+  author           = {CDDO},
+  date             = {2021-11-29},
+  title            = {UK government publishes pioneering standard for algorithmic transparency},
+  url              = {https://www.gov.uk/government/news/uk-government-publishes-pioneering-standard-for-algorithmic-transparency},
+  organization     = {Central Digital and Data Office},
+  urldate          = {2023-12-11},
+  comment          = {The CDDO has launched an algorithmic transparency standard for government departments and public sector bodies, delivering on commitments made in the National Data Strategy and National AI Strategy.  review into bias in algorithmic decision-making, the Centre for Data Ethics and Innovation (CDEI) recommended that the UK government should place a mandatory transparency obligation on public sector organisations using algorithms to support significant decisions affecting individuals},
+  creationdate     = {2023-12-11T13:11:24},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:05:45},
+  owner            = {izzy_olivine},
+}
+
+@Online{DCMSOAI2022,
+  author           = {{DCMS and OAI}},
+  date             = {2022-01-12},
+  title            = {New UK initiative to shape global standards for Artificial Intelligence},
+  url              = {https://www.gov.uk/government/news/new-uk-initiative-to-shape-global-standards-for-artificial-intelligence},
+  organization     = {Department for Digital, Culture, Media \& Sport, Office for Artificial Intelligence,},
+  urldate          = {2023-12-11},
+  comment          = {AI Standards Hub is part of National AI Strategy. ATI, supported by the BSI and NPL, will pilot a new UK government initiative to lead in shaping global technical standards for Artificial Intelligence.},
+  creationdate     = {2023-12-11T13:14:11},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:02:00},
+  owner            = {izzy_olivine},
+}
+
+@Report{DRCF2022,
+  author           = {{DRCF}},
+  date             = {2022-09-23},
+  institution      = {Digital Regulation Cooperation Forum},
+  title            = {The benefits and harms of algorithms: a shared perspective from the four digital regulators},
+  type             = {Research and Analysis},
+  url              = {https://www.gov.uk/government/publications/findings-from-the-drcf-algorithmic-processing-workstream-spring-2022/the-benefits-and-harms-of-algorithms-a-shared-perspective-from-the-four-digital-regulators},
+  comment          = {algorithmic systems, particularly modern Machine Learning (ML) approaches, pose significant risks if deployed and managed without due care
+
+They can
+- amplify harmful biases that lead to discriminatory decisions or unfair outcomes that reinforce inequalities
+- be used to mislead consumers and distort competition
+
+the opaque and complex nature by which they collect and process large volumes of personal data can put people’s privacy rights in jeopardy
+
+The CMA, FCA, ICO and Ofcom collectively believe that we can, and should, play a role in identifying and mitigating these risks within the industries we regulate
+
+harms can occur both intentionally and inadvertently. those procuring and/or using algorithms often know little about their origins and limitations
+
+there is a lack of visibility and transparency in algorithmic processing, which can undermine accountability
+
+a ``human in the loop'' is not a foolproof safeguard against harms
+there are limitations to DRCF members' current understanding of the risks associated with algorithmic processing},
+  creationdate     = {2023-12-11T13:57:00},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:02:02},
+  owner            = {izzy_olivine},
+}
+
+@Report{Acemoglu2021,
+  author           = {Daron Acemoglu},
+  date             = {2021-09-01},
+  institution      = {National Bureau of Economic Research},
+  title            = {Harms of {AI}},
+  doi              = {10.3386/w29247},
+  eprint           = {chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.nber.org/system/files/working_papers/w29247/w29247.pdf},
+  subtitle         = {NBER Working Paper No. 29247},
+  url              = {http://www.nber.org/papers/w29247},
+  creationdate     = {2023-12-11T14:21:38},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:27:37},
+  owner            = {izzy_olivine},
+}
+
+@Report{ArnoldR2021,
+  author           = {Zachary Arnold and Helen Toner},
+  date             = {2021-07-01},
+  institution      = {The Center for Security and Emerging Technology},
+  title            = {AI Accidents: An Emerging Threat - What Could Happen and What to Do},
+  type             = {Analysis},
+  eprint           = {https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Accidents-An-Emerging-Threat.pdf},
+  url              = {https://cset.georgetown.edu/publication/ai-accidents-an-emerging-threat/},
+  creationdate     = {2023-12-11T14:29:15},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:31:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{OpenAI2022,
+  author           = {{OpenAI}},
+  date             = {2022-11-30},
+  title            = {Introducing ChatGPT},
+  url              = {https://openai.com/blog/chatgpt},
+  urldate          = {2023-12-11},
+  comment          = {The launch},
+  creationdate     = {2023-12-11T14:34:40},
+  keywords         = {AI, AISummit, technology, technology},
+  modificationdate = {2023-12-11T14:35:38},
+  owner            = {izzy_olivine},
+}
+
+@Report{AICouncil20221206,
+  author           = {{AI Council}},
+  date             = {2022-12-06},
+  institution      = {Office for Artificial Intelligence, Department for Digital, Culture, Media \& Sport and Department for Business, Energy \& Industrial Strategy},
+  title            = {Artificial Intelligence Council meeting 6th December 2022},
+  type             = {Meeting minutes},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1126431/AI_Council_Meeting_Minutes_06_Dec_2022__3_.pdf},
+  url              = {https://www.gov.uk/government/groups/ai-council},
+  urldate          = {2023-12-11},
+  comment          = {updated members on the plans surrounding the AI White Paper. Members discussed the impact of Large Language Models on the paper. Update and discussion on AI Regulatory Framework -  must avoid inhibiting growth and innovation, and the need for legal certainty in any regulation. LLMs come up under several topics},
+  creationdate     = {2023-12-11T14:45:56},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T14:50:00},
+  owner            = {izzy_olivine},
+}
+
+@Online{KuspertMD2023,
+  author           = {Sabrina K\"uspert and Nicolas Mo\"es and Connor Dunlop},
+  date             = {2023-02-10},
+  title            = {The value chain of general-purpose AI},
+  url              = {https://www.adalovelaceinstitute.org/blog/value-chain-general-purpose-ai/},
+  organization     = {Ada Lovelace Institute},
+  subtitle         = {A closer look at the implications of API and open-source accessible GPAI for the EU AI Act},
+  comment          = {Looks at foundation models / backbone models / GPAI and compares the options for API access versus the open sourcing of weights, and more options for both
+
+AI Act is concerned most with GPAI because:
+- Complexity of the value chain
+- The multi-functionality of GPAI models
+- The polarity of (current) release strategies
+
+Key challenges:
+1. How should GPAI be defined in the legislation?
+2. How to factor in the various incentives behind open-source release strategies?
+3. What regulatory tools are needed to ensure future-proofed governance of GPAI models?
+4. How can regulators ensure adequate capacity for oversight to deal with the societal-level implications of GPAI models?
+5. How can AI governance incorporate the views of affected persons and impacted communities, so that the benefits of GPAI are equitably distributed?},
+  creationdate     = {2023-12-11T15:09:26},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T15:18:46},
+  owner            = {izzy_olivine},
+}
+
+@Article{Vincent2023,
+  author           = {James Vincent},
+  date             = {2023-05-25},
+  journaltitle     = {The Verge},
+  title            = {OpenAI says it could `cease operating' in the {EU} if it can't comply with future regulation},
+  url              = {https://www.theverge.com/2023/5/25/23737116/openai-ai-regulation-eu-ai-act-cease-operating},
+  urldate          = {2023-12-11},
+  comment          = {Initial response by Sam Altman that OpenAI may pull out of EU if obligations on foundation models are too stringent},
+  creationdate     = {2023-12-11T16:05:25},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:28:41},
+  owner            = {izzy_olivine},
+}
+
+@Report{FLI2022,
+  author           = {FLI},
+  date             = {2022-05-01},
+  institution      = {Future of Life Institute},
+  title            = {General Purpose AI and the AI Act},
+  eprint           = {https://artificialintelligenceact.eu/wp-content/uploads/2022/05/General-Purpose-AI-and-the-AI-Act.pdf},
+  comment          = {Proposes 4 new articles to the EU AI Act relating to general purpose AI based on work of MullerDAP2022},
+  creationdate     = {2023-12-11T16:11:08},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:29:24},
+  owner            = {izzy_olivine},
+}
+
+@Report{MullerDAP2022,
+  author           = {Catelijne Muller and Virginia Dignum and Maria Avramidou and M\'onica Fern\'andez Pe\~{n}alver},
+  date             = {2022-02-13},
+  institution      = {ALLAI},
+  title            = {AIA in-depth 1 Objective Scope Definition},
+  eprint           = {https://allai.nl/wp-content/uploads/2022/03/AIA-in-depth-Objective-Scope-and-Definition.pdf},
+  urldate          = {2023-12-11},
+  comment          = {This report is the first in a series of in-depth analyses of the European Commission proposal for a Regulation for Artificial Intelligence (AIA). Raise concerns that  protection of health, safety and fundamental rights are less protected. Focus is on AI techniques, while it is better to focus on the characteristics, or properties of a system, that are relevant to be regulated. Warn that excluding general purpose AI systems from the AI Act runs the risk of stifling innovation - the burden of making these systems compliant with the regulation falls entirely on the users.},
+  creationdate     = {2023-12-11T16:14:41},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:29:07},
+  owner            = {izzy_olivine},
+}
+
+@Report{NIST2023,
+  author           = {{NIST}},
+  date             = {2023-01-26},
+  institution      = {National Institute of Standards and Technology},
+  title            = {Artificial Intelligence Risk Management Framework ({AI RMF 1.0})},
+  doi              = {10.6028/NIST.AI.100-1},
+  eprint           = {https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf},
+  comment          = {a guidance document for voluntary use by organizations designing, developing, deploying or using AI systems to help manage the many risks of AI technologies - adapted from OECD Framework for the Classification of AI systems. The Framework is intended to be voluntary, rights-preserving, non-sector-specific, and use-case agnostic, providing flexibility to organizations of all sizes and in all sectors and throughout society to implement the approaches in the Framework. 
+
+This was mentioned as a voluntary framework that companies could join as part of USGov2023},
+  creationdate     = {2023-12-11T16:35:41},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:43:44},
+  owner            = {izzy_olivine},
+}
+
+@Online{USGov2023,
+  author           = {{The White House}},
+  date             = {2023-07-21},
+  title            = {FACT SHEET: Biden-Harris Administration Secures Voluntary Commitments from Leading Artificial Intelligence Companies to Manage the Risks Posed by AI},
+  url              = {https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-secures-voluntary-commitments-from-leading-artificial-intelligence-companies-to-manage-the-risks-posed-by-ai/},
+  urldate          = {2023-12-11},
+  comment          = {7 leading AI companies voluntarily accept 8 commitments},
+  creationdate     = {2023-12-11T16:41:15},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:43:24},
+  owner            = {izzy_olivine},
+}
+
+@Article{FoyP2023,
+  author           = {Henry Foy and Jim Pickard},
+  date             = {2023-05-19},
+  journaltitle     = {Financial Times},
+  title            = {G7 leaders call for `guardrails' on development of artificial intelligence},
+  url              = {https://www.ft.com/content/1b9d1e21-ebc1-494d-9cce-97e0afd30c2d},
+  urldate          = {2023-12-11},
+  comment          = {debate among G7 leaders over AI was a significant part of the opening session of the three-day global economic summit. AI policies and regulations should be human centric and based on nine democratic values.},
+  creationdate     = {2023-12-11T16:56:49},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T16:58:13},
+  owner            = {izzy_olivine},
+}
+
+@InBook{MuellerB2016,
+  author           = {M{\"u}ller, Vincent C. and Bostrom, Nick},
+  booktitle        = {Fundamental Issues of Artificial Intelligence},
+  date             = {2016},
+  title            = {Future Progress in Artificial Intelligence: A Survey of Expert Opinion},
+  doi              = {10.1007/978-3-319-26485-1_33},
+  editor           = {M{\"u}ller, Vincent C.},
+  isbn             = {978-3-319-26485-1},
+  location         = {Cham},
+  pages            = {555--572},
+  publisher        = {Springer International Publishing},
+  url              = {https://doi.org/10.1007/978-3-319-26485-1_33},
+  abstract         = {There is, in some quarters, concern about high--level machine intelligence and superintelligent AI coming up in a few decades, bringing with it significant risks for humanity. In other quarters, these issues are ignored or considered science fiction. We wanted to clarify what the distribution of opinions actually is, what probability the best experts currently assign to high--level machine intelligence coming up within a particular time--frame, which risks they see with that development, and how fast they see these developing. We thus designed a brief questionnaire and distributed it to four groups of experts in 2012/2013. The median estimate of respondents was for a one in two chance that high-level machine intelligence will be developed around 2040--2050, rising to a nine in ten chance by 2075. Experts expect that systems will move on to superintelligence in less than 30 years thereafter. They estimate the chance is about one in three that this development turns out to be `bad' or `extremely bad' for humanity.},
+  comment          = {Contraversial. See \url{https://www.technologyreview.com/2016/11/02/156285/yes-we-are-worried-about-the-existential-risk-of-artificial-intelligence/} for a defence that quotes a critique},
+  creationdate     = {2023-12-11T20:51:50},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T21:45:12},
+  owner            = {izzy_olivine},
+}
+
+@Article{HawkingTR2014,
+  author           = {Stephen Hawking and Max Tegmark and Stuart Russell},
+  date             = {2014-04-19},
+  journaltitle     = {HuffPost},
+  title            = {Transcending Complacency on Superintelligent Machines},
+  url              = {https://www.huffpost.com/entry/artificial-intelligence_b_5174265},
+  urldate          = {2023-12-11},
+  comment          = {``facing possible futures of incalculable benefits and risks, the experts are surely doing everything possible to ensure the best outcome, right? Wrong. If a superior alien civilization sent us a text message saying, ``We'll arrive in a few decades,'' would we just reply, ``OK, call us when you get here -- we'll leave the lights on''? Probably not -- but this is more or less what is happening with AI. Although we are facing potentially the best or worst thing ever to happen to humanity, little serious research is devoted to these issues outside small non-profit institutes such as the Cambridge Center for Existential Risk, the Future of Humanity Institute, the Machine Intelligence Research Institute, and the Future of Life Institute. All of us -- not only scientists, industrialists and generals -- should ask ourselves what can we do now to improve the chances of reaping the benefits and avoiding the risks''},
+  creationdate     = {2023-12-11T20:54:36},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T21:45:11},
+  owner            = {izzy_olivine},
+}
+
+@Article{Giannott2023,
+  author           = {Livia Giannotti},
+  date             = {2023-12-01},
+  journaltitle     = {Techmonitor},
+  title            = {Who is Sam Altman, the man who co-founded OpenAI ``for the benefit of humanity''?},
+  url              = {https://techmonitor.ai/technology/ai-and-automation/who-is-sam-altman-the-man-who-co-founded-openai-for-the-benefit-of-humanity},
+  urldate          = {2023-12-11},
+  creationdate     = {2023-12-11T21:40:03},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T21:45:07},
+  owner            = {izzy_olivine},
+}
+
+@Article{Shah2022,
+  author           = {Agam Shah},
+  date             = {2022-04-09},
+  journaltitle     = {The Register},
+  title            = {AI pioneer suggests trickle-down approach to machine learning},
+  url              = {https://www.theregister.com/2022/04/09/ai_trickledown_economics/},
+  urldate          = {2023-12-11},
+  creationdate     = {2023-12-11T21:45:23},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T21:46:47},
+  owner            = {izzy_olivine},
+}
+
+@Article{Espinoza2022,
+  author           = {Javier Espinoza},
+  date             = {2022-01-11},
+  journaltitle     = {Financial Times},
+  title            = {Google in last-ditch lobbying attempt to influence incoming EU tech rules},
+  url              = {https://www.ft.com/content/8c7527bc-7ab4-41cd-ba94-3145208da9c3},
+  urldate          = {2023-12-11},
+  comment          = {Google wants to prevent the EU AI Act},
+  creationdate     = {2023-12-11T22:21:58},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T22:23:40},
+  owner            = {izzy_olivine},
+}
+
+@Article{Ng2023,
+  author           = {Andrew Ng},
+  date             = {2023-11-15},
+  journaltitle     = {The Batch},
+  title            = {[Editorial]},
+  url              = {https://info.deeplearning.ai/cyberattack-strikes-openai-actors-reach-accord-on-ai-anthropic-goes-steady-with-google-and-amazon-1},
+  urldate          = {2023-12-11},
+  comment          = {Ng objects to regulation of foundations models - it would be onerous to their produces. Applications should be regulated.
+
+Similar to Gerbu and others: some companies that would rather not compete with open-source, as well as some nonprofits and individuals, are exaggerating AI risks},
+  creationdate     = {2023-12-11T22:26:15},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:26:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{Davies2022,
+  author           = {Tim Davies},
+  date             = {2022-11-21},
+  title            = {Participation pathways - designing for effective engagement},
+  url              = {https://connectedbydata.org/blog/2022/11/21/pathways-of-participation},
+  urldate          = {2023-12-11},
+  comment          = {How can the individuals and communities affected by decisions about data be more engaged in shaping and making those decisions?},
+  creationdate     = {2023-12-11T22:46:33},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T22:47:42},
+  owner            = {izzy_olivine},
+}
+
+@Online{DSIT2023attendees,
+  author           = {{DSIT}},
+  date             = {2023-10-31},
+  title            = {AI Safety Summit: confirmed attendees (governments and organisations)},
+  url              = {https://www.gov.uk/government/publications/ai-safety-summit-introduction/ai-safety-summit-confirmed-governments-and-organisations},
+  urldate          = {2023-12-11},
+  creationdate     = {2023-12-11T23:34:31},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-11T23:35:28},
+  owner            = {izzy_olivine},
+}
+
+@Report{BrundageEtAl2018,
+  author           = {Miles Brundage and Shahar Avin and Jack Clark and Helen Toner and Peter Eckersley and Ben Garfinkel and Allan Dafoe and Paul Scharre and Thomas Zeitzoff and Bobby Filar and Hyrum Anderson and Heather Roff and Gregory C. Allen and Jacob Steinhardt and Carrick Flynn and Se\'an \'O h\'Eigeartaigh and Simon Beard and Haydn Belfield and Sebastian Farquhar and Clare Lyle and Rebecca Crootof and Owain Evans and Michael Page and Joanna Bryson and Roman Yampolskiy and Dario Amodei},
+  date             = {2018-02-01},
+  institution      = {Future of Humanity Institute, University of Oxford, Centre for the Study of Existential Risk, University of Cambridge, Center for a New American Security, Electronic Frontier Foundation and OpenAI},
+  title            = {The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation},
+  url              = {https://maliciousaireport.com/},
+  creationdate     = {2023-12-12T06:27:14},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T06:35:03},
+  owner            = {izzy_olivine},
+}
+
+@Article{London2017,
+  author           = {Andrew London},
+  date             = {2017-07-17},
+  journaltitle     = {Techradar},
+  title            = {Elon Musk warns `AI is a fundamental risk to the existence of human civilization'},
+  url              = {https://www.techradar.com/news/elon-musk-warns-ai-is-a-fundamental-risk-to-the-existence-of-human-civilization},
+  creationdate     = {2023-12-12T06:34:11},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T06:35:17},
+  owner            = {izzy_olivine},
+}
+
+@Online{Johnson2023,
+  author           = {Rebecca Johnson},
+  date             = {2023-08-01},
+  title            = {X-riskers think differently},
+  url              = {https://ethicsgenai.com/x-riskers-think-differently/},
+  urldate          = {2023-12-12},
+  comment          = {Opinion on x-riskers 
+- some of it is driven by profit, moating out competitors, drawing attention to their product, publicity etc.
+- some of them really believe this risk - puts this down to functionlist approach - that if a thing functions in a certain way, then that indicates underlying intelligence - reductionist - sidesteps subjectivity and inner, private mental states},
+  creationdate     = {2023-12-12T07:22:03},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:27:02},
+  owner            = {izzy_olivine},
+}
+
+@Online{Gebru2022,
+  author           = {Timnit Gebru},
+  date             = {2022-08-06},
+  title            = {Timnit Gebru talks to Al Jazeera},
+  url              = {https://www.aljazeera.com/program/talk-to-al-jazeera/2022/8/6/timnit-gebru-is-ai-racist-and-antidemocratic},
+  urldate          = {2023-12-12},
+  comment          = {At 5 minutes: rebranding of AI to confuse public and prevents people focussing on creators to AI. AI developed with e.g. warfare in mind, it doesn't make sense to be trying to then convert these to ``good'' purposes. Need to advocate for regulation that puts the onus on companies to make sure everything is safe by design.},
+  creationdate     = {2023-12-12T11:33:17},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:27:03},
+  owner            = {izzy_olivine},
+}
+
+@Online{Gebru2023,
+  author           = {Timnit Gebru},
+  date             = {2023-03-21},
+  title            = {How to make AI systems more just with Hilary Pennington and Dr. Timnit Gebru},
+  url              = {https://www.youtube.com/watch?v=MgcUatmPnyE},
+  urldate          = {2023-12-12},
+  comment          = {8 minutes 40 Intentional obfuscation of compute power, environmental impacts, etc
+
+17 minutes 22 Problems with regulation: Regulators don't feel they know enough; Imbalance in resources - onus is on individuals to prove harm; Understaffed and underresourced regulators for enforcing - and against lobbyists; Thus little deterrant even if there is regulation. Centralisation of power.},
+  creationdate     = {2023-12-12T11:40:15},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:27:05},
+  owner            = {izzy_olivine},
+}
+
+@Online{Gebru2021,
+  author           = {Timnit Gebru},
+  date             = {2021-05-03},
+  title            = {Moving beyond the fairness rhetoric in machine learning},
+  url              = {https://iclr.cc/virtual/2021/invited-talk/3718},
+  urldate          = {2023-12-12},
+  comment          = {Gebru's talk at ICLR - telling the story of the Google sacking},
+  creationdate     = {2023-12-12T11:44:51},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:27:07},
+  owner            = {izzy_olivine},
+}
+
+@Article{BoinHM2009,
+  author           = {Arjen Boin and Paul 't Hart and Allan McConnell},
+  date             = {2009},
+  journaltitle     = {Journal of European Public Policy},
+  title            = {Crisis exploitation: political and policy impacts of framing contests},
+  doi              = {10.1080/13501760802453221},
+  eprint           = {https://doi.org/10.1080/13501760802453221},
+  number           = {1},
+  pages            = {81--106},
+  url              = {https://doi.org/10.1080/13501760802453221},
+  volume           = {16},
+  comment          = {Crisis exploitation
+
+Framing as a crisis:
+Widespread use of emotive labels and dislocation of domination discussions
+
+Frame contests - crisis narrative
+
+Frames:
+- Type 1: no crisis; political stance: no blame; policy stance: BAU
+- Type 2: crisis as threat; political stance: diffuse blame; policy stance: defend status quo
+- Type 3: crisis as opportunity; political stance: focus blame; policy stance: attack status quo
+
+
+1. The first framing contest: ripple or crisis? - significance of events
+proponents of type-1 frames argue to minimize event significance, proponents of type-2 frames are more likely to acknowledge event significance, and proponents of type-3 frames are most likely to maximize event significance
+
+2. The second framing contest: incident or symptom? - causality},
+  creationdate     = {2023-12-12T12:36:02},
+  keywords         = {AISummit, policy},
+  modificationdate = {2023-12-12T13:27:31},
+  owner            = {izzy_olivine},
+  publisher        = {Routledge},
+  year             = {2009},
+}
+
+@Article{TummersB2014,
+  author           = {Lars Tummers and Victor Bekkers},
+  journaltitle     = {Public Management Review},
+  title            = {Policy Implementation, Street-level Bureaucracy, and the Importance of Discretion},
+  doi              = {10.1080/14719037.2013.841978},
+  eprint           = {https://doi.org/10.1080/14719037.2013.841978},
+  number           = {4},
+  pages            = {527--547},
+  url              = {https://doi.org/10.1080/14719037.2013.841978},
+  volume           = {16},
+  comment          = {Discretion is what is given to the street-level bureaucrat (e.g. doctor). 
+
+Propose simple model showing how discretion helps to make policy more meaning for recipient and both parties (the bureaucrat with discretion and and recipient with meaningfulness) are thus more inclined to take up the policy
+
+Policy alienation - loss of ownership of a policy
+
+Need to check this is the right paper. I think it parallels Marlow's double disconnect},
+  creationdate     = {2023-12-12T12:49:57},
+  keywords         = {technology, policy},
+  modificationdate = {2023-12-12T13:27:38},
+  owner            = {izzy_olivine},
+  publisher        = {Routledge},
+  year             = {2014},
+}
+
+@Online{Ng2023stochasticparrot,
+  author           = {Andrew Ng},
+  date             = {2023-08-09},
+  title            = {[Editorial]},
+  url              = {https://www.deeplearning.ai/the-batch/issue-209/},
+  comment          = {The one where Ng says that GPT LLMs build world models
+
+``This shows that, rather than being a ``stochastic parrot'' that tried only to mimic the statistics of its training data, the network did indeed build a world model''},
+  creationdate     = {2023-12-12T13:25:34},
+  journaltitle     = {The Batch},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T13:30:05},
+  owner            = {izzy_olivine},
+}
+
+@Online{EUAIAct2023,
+  author           = {{European Parliament}},
+  date             = {2023-12-09},
+  title            = {Artificial Intelligence Act: deal on comprehensive rules for trustworthy AI},
+  url              = {https://www.europarl.europa.eu/news/en/press-room/20231206IPR15699/artificial-intelligence-act-deal-on-comprehensive-rules-for-trustworthy-ai},
+  organization     = {European Parliament},
+  urldate          = {2023-12-12},
+  creationdate     = {2023-12-12T16:45:12},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T16:48:16},
+  owner            = {izzy_olivine},
+}
+
+@Online{DaviesB2023,
+  author           = {Matt Davies and Michael Birtwistle},
+  date             = {2023-09-07},
+  title            = {Seizing the `AI moment': making a success of the AI Safety Summit},
+  url              = {https://www.adalovelaceinstitute.org/blog/ai-safety-summit/},
+  urldate          = {2023-12-12},
+  comment          = {The current ‘AI moment’ is a critical inflection point for the UK and the world.
+
+one way of thinking of AI harms is four broad categories:
+- accidental harms
+- misuse harms
+- supply chain harms
+- structural harms
+
+Keep a wide variety of AI systems in scope
+
+Centre the perspectives of affected people and communities
+
+Follow concrete interim commitments with legislation
+
+Build towards long-term solutions},
+  creationdate     = {2023-12-12T17:59:51},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T18:03:07},
+  owner            = {izzy_olivine},
+}
+
+@Report{SmakmanDB2023,
+  author           = {Julia Smakman and Matt Davies and Michael Birtwistle},
+  date             = {2023-10-31},
+  institution      = {Ada Lovelace Institute},
+  title            = {Mission critical: Lessons from relevant sectors for AI safety},
+  type             = {Policy Briefing},
+  url              = {https://www.adalovelaceinstitute.org/policy-briefing/ai-safety/},
+  urldate          = {2320-12-12},
+  comment          = {Draws from
+- Medicines and medical devices
+- Food
+- Financial services
+- Transport
+  - Aviation
+  - Road and rail
+- Energy
+  - Gas and electricity
+  - Nuclear energy
+- Communications
+
+Regulatory systems are not created overnight, and it would be unrealistic to expect the AI Safety Summit to address every angle of the AI governance question. But it would be equally unrealistic to suggest that a narrow conversation centred solely on technical mitigations for misuse and loss-of-control risks from a subset of AI systems is adequate to the challenges of the present moment. This week is an important opportunity to reassure people that, as AI assumes a greater role in their lives, it will be governed in the ways that we expect from other infrastructural technologies, and to set out a roadmap to that governance.},
+  creationdate     = {2023-12-12T18:04:27},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T18:26:28},
+  owner            = {izzy_olivine},
+}
+
+@Article{CriddleMG2023,
+  author           = {Cristina Criddle and Madhumita Murgia and Anna Gross},
+  date             = {2023-08-16},
+  journaltitle     = {Financial Times},
+  title            = {UK to host AI safety summit at start of November},
+  url              = {https://www.ft.com/content/1d3043db-b68d-496e-8fda-4654f8af15bc},
+  urldate          = {2023-12-12},
+  comment          = {Wendy Hall:  ``My worry about the summit is that the advice is coming mainly from the big tech companies themselves, is it right for the people making money out of this to be the people designing the regulation vehicle? You need voices other than the tech companies themselves in this''},
+  creationdate     = {2023-12-12T18:13:48},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T18:15:18},
+  owner            = {izzy_olivine},
+}
+
+@Conference{AdaATI2023,
+  author           = {{The Ada and ATI}},
+  booktitle        = {Ada Lovelace Institute and The Alan Turing Institute},
+  date             = {2023-06-06},
+  title            = {How do people feel about AI?},
+  eprint           = {https://www.adalovelaceinstitute.org/wp-content/uploads/2023/06/Ada-Lovelace-Institute-The-Alan-Turing-Institute-How-do-people-feel-about-AI.pdf},
+  subtitle         = {A nationally representative survey of public attitudes to artificial intelligence in Britain},
+  url              = {https://www.adalovelaceinstitute.org/report/public-attitudes-ai/},
+  urldate          = {2023-12-12},
+  comment          = {View are nuanced but
+
+The public want regulation of AI technologies, though this differs by age.},
+  creationdate     = {2023-12-12T18:28:24},
+  keywords         = {AI, AISummit, technology, policy},
+  modificationdate = {2023-12-12T18:45:51},
   owner            = {izzy_olivine},
 }
 
