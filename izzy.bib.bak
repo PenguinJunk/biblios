@@ -9009,6 +9009,7 @@ Israel - Office of the Chief Scientist in the Ministry of Trade and Industry (OC
   date             = {2016},
   journaltitle     = {Research Policy},
   title            = {STI and DUI innovation modes: Scientific-technological and context-specific nuances},
+  doi              = {10.1016/j.respol.2016.01.001},
   url              = {https://www.sciencedirect.com/science/article/pii/S0048733316000020},
   comment          = {argue that the STI interaction mode alone has a stronger effect on technological innovation (i.e. product and process), whereas the DUI mode tends to have a stronger impact on non-technological innovation (i.e. commercial and organisational).
 
@@ -9025,7 +9026,7 @@ This paper studies the Basque Autonomous Community in Spain
 ``From a policy-making and a business practice perspective, some critical implications may be drawn. In particular, the fact that most businesses adopt a DUI type of interaction does not imply that it is an effective interaction mode. It delivers lower impact (than STI factors) in technological and radical innovation, whereas it matters more for non-technological innovation. And it is inadequate when it is bounded to the regional environment (DUI-regional)''.},
   creationdate     = {2023-02-24T17:13:28},
   keywords         = {economics, innovation, transformation, policy, technology, organisations, decisions},
-  modificationdate = {2023-09-18T12:41:00},
+  modificationdate = {2023-12-14T19:08:17},
   owner            = {izzy_olivine},
 }
 
@@ -14694,12 +14695,12 @@ Data on which LLMs are trained are likely to more male, young, hegemonic. Simple
 
 Risk mitigation
 
-Urge researchers to shift to a mindset of careful planning, along many dimensions, before starting to buildeither datasets or systems trained on datasets.
+Urge researchers to shift to a mindset of careful planning, along many dimensions, before starting to build either datasets or systems trained on datasets.
 
-Start from identifying research time as valuable - what is the best way to use our time and support others to build on this work. Documentating procesess, data, motivation etc. Adopt approaches from value-senstive design.},
+Start from identifying research time as valuable - what is the best way to use our time and support others to build on this work. Set a (time, storage) budget in advance and work to it (e.g. stop building the dataset when you no longer have budget to document it). Documentating procesess, data, motivation etc. Adopt approaches from value-senstive design.},
   creationdate     = {2023-06-15T08:32:09},
   keywords         = {AI, trust, NLP, BigTech},
-  modificationdate = {2023-12-11T21:15:10},
+  modificationdate = {2023-12-13T09:59:49},
   numpages         = {14},
   owner            = {ISargent},
   year             = {2021},
@@ -17092,8 +17093,8 @@ Better decisions:
 * better mental simulation e.g. crystal ball p283
 * accept error as inevitable - safeguards etc make errors harder to diagnose so are not wholly helpful; make malfunctions more obvious instead p283},
   creationdate     = {2023-09-12T08:19:53},
-  keywords         = {decisions, recognition, bureaucracy, transformation},
-  modificationdate = {2023-09-30T14:06:58},
+  keywords         = {decisions, recognition, bureaucracy, transformation, policy},
+  modificationdate = {2023-12-14T03:37:14},
   owner            = {izzy_olivine},
 }
 
@@ -21541,12 +21542,12 @@ Given knowledge that coutnries in middle and far east are seeking from OS},
 @Online{Janusz2017,
   author           = {Stefan Janusz},
   date             = {2017-06-20},
-  title            = {Isabel Sargent OrdnanceSurvey talks machinelearning at DataMash},
+  title            = {Isabel Sargent Ordnance Survey talks machine learning at DataMash},
   url              = {https://defradigital.blog.gov.uk/2017/06/20/isabel-sargent-ordnancesurvey-talks-machinelearning-at-datamash/},
   urldate          = {2023-12-04},
   comment          = {That video talking about our deep learning stuff},
   creationdate     = {2023-12-04T21:33:50},
-  modificationdate = {2023-12-05T13:01:03},
+  modificationdate = {2023-12-14T08:44:29},
   owner            = {izzy_olivine},
 }
 
@@ -21799,7 +21800,7 @@ Great for links for Big Tech activities
 
 Links to works from Rikap and Whittaker},
   creationdate     = {2023-12-09T15:19:26},
-  keywords         = {AI, trust, AISummit, Open Source, monopoly, economics, AI, technology, BigTech},
+  keywords         = {AI, trust, AISummit, Open Source, monopoly, economics, technology, BigTech},
   modificationdate = {2023-12-09T15:36:55},
   owner            = {izzy_olivine},
 }
@@ -22694,7 +22695,7 @@ there are limitations to DRCF members' current understanding of the risks associ
   urldate          = {2023-12-11},
   comment          = {The launch},
   creationdate     = {2023-12-11T14:34:40},
-  keywords         = {AI, AISummit, technology, technology},
+  keywords         = {AI, AISummit, technology},
   modificationdate = {2023-12-11T14:35:38},
   owner            = {izzy_olivine},
 }
@@ -23192,6 +23193,20 @@ The public want regulation of AI technologies, though this differs by age.},
   creationdate     = {2023-12-12T18:28:24},
   keywords         = {AI, AISummit, technology, policy},
   modificationdate = {2023-12-12T18:45:51},
+  owner            = {izzy_olivine},
+}
+
+@Online{OS2022,
+  author           = {{Ordnance Survey}},
+  date             = {2022-11-15},
+  title            = {Using AI to map African cities to improve infrastructure at low cost},
+  url              = {https://www.ordnancesurvey.co.uk/news/using-ai-to-map-african-cities-to-improve-infrastructure-at-low-cost},
+  organization     = {Ordnance Survey},
+  urldate          = {2023-12-14},
+  comment          = {Using aerial imagery provided by the Zambia Survey Department in the Ministry of Lands and Natural Resources, OS has utilised its advanced automated process to generate a new base map using artificial intelligence across 420km2 of Lusaka.},
+  creationdate     = {2023-12-14T02:57:21},
+  keywords         = {machine learning},
+  modificationdate = {2023-12-14T02:59:15},
   owner            = {izzy_olivine},
 }
 
