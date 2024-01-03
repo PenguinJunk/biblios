@@ -10473,10 +10473,17 @@ Wheel of good governance:
   url              = {https://www.adalovelaceinstitute.org/report/participatory-data-stewardship/},
   comment          = {Report about participatory data stewardship. Creates the framework from the spectrum of participation.
 
-rejects practices of data collection, storage, sharing and use in ways that are opaque or seek to manipulate people, in favour of practices that empower people to help inform, shape and - in some instances - govern their own data.},
+rejects practices of data collection, storage, sharing and use in ways that are opaque or seek to manipulate people, in favour of practices that empower people to help inform, shape and - in some instances - govern their own data.
+
+Framework:
+1. information
+2. consult
+3. involve
+4. collaborate
+5. empower},
   creationdate     = {2023-03-15T21:44:56},
   keywords         = {trust, data, participation},
-  modificationdate = {2023-03-15T21:56:29},
+  modificationdate = {2023-12-24T13:13:10},
   owner            = {ISargent},
 }
 
@@ -17109,6 +17116,14 @@ Broadly:
 * Econs (consistent; unbiased; [Homo Economicus] [see Frey below]) v Humans (subject to biases and heuristics)
 * Experiencing Self (moment by moment) v Remembering Self (summary for each experience)
 
+System 1 and System 2 was originally form Stanovich and West p20
+
+Both systems are involved in attention, but system 2 activities are disrupted when attention is drawn away from them - list of examples of such activities p22
+
+A sentence is more easily understood if it describes what an agent does than if it describes what something is p29
+
+Systen 2 adopts ``task sets'', which are something like groups of tasks to perform an action (example is counting all the f's on the page). ``Exectuive control'' is adopting and terminating these p36-7
+
 ``Ego depletion'' occurs because the effort of self control (activiating system 2) is tiring. Even controlling emotional/pain reactions causes ego depletion. The result is less motivation to continue to activate control, although ability to activate control is not impaired (it is different from the effects of cognitive load). p41-3
 
 Flow separates concentration from control of attention p40-1
@@ -17204,7 +17219,7 @@ The experiences of welbeing are different to those of satisfaction p 397
 Welbeing also relates to people's goals and their attainment p 402},
   creationdate     = {2023-09-27T09:52:35},
   keywords         = {economics, psychology, decisions, trust},
-  modificationdate = {2023-09-28T18:45:31},
+  modificationdate = {2023-12-22T20:12:32},
   owner            = {ISargent},
 }
 
@@ -19282,7 +19297,7 @@ Create consensus
   title            = {Business Dynamics},
   subtitle         = {Systems Thinking and Modeling for a Complex World},
   url              = {https://web.mit.edu/jsterman/www/BusDyn2.html},
-  comment          = {Not yet read much - looks like a useful detailed text for systems, complexit, wicked, practice - must look at more
+  comment          = {Not yet read much - looks like a useful detailed text for systems, complexity, wicked, practice - must look at more
 
 Lots of examples of policy resistance p9
 
@@ -19295,7 +19310,7 @@ Dynamics of the system is determined by p12:
 All dynamics arise from the interaction of positive (self-reinforcing) and negative (self-correcting) loops},
   creationdate     = {2023-10-28T18:31:44},
   keywords         = {systems, organisation, practice, transformation},
-  modificationdate = {2023-10-28T18:44:17},
+  modificationdate = {2024-01-02T18:07:45},
   owner            = {izzy_olivine},
 }
 
@@ -19591,17 +19606,20 @@ Ulrich also 12 questions that could be used by a party to challenge an implement
 
 The description of how this was applied in a real example includes the researchers recognition that sacred-profane judgements could occur as a result of one set of stakeholders needing to hold a meeting without others in the room (team handled this by assigning roles that advocated for non-present stakeholders), or their own expertise (knowledge and language), which they addressed by presenting critiques of their knowledge and carefully using plain english to describe their work.
 
-Supported participants to design their solution by setting a scenario that existing situation has been swept away and that they could design their ideal solutions, with the limitations that this is@
+Supported participants to design their solution by setting a scenario that existing situation has been swept away and that they could design their ideal solutions, with the limitations that this is:
 - technologically feasible
 - viable
 - adaptable
 
 Mentions Habermas's theory that a rational view is gained by dialog [which also aligns with Ostrom and MercierS2017]
 
+Also mentions Ulrich2005's Critical System Heuristics 12 questions `` build an argument with which to embarrass planners in future public debate by
+exposing the limited nature of the expertise they lay claiim to''
+
 [I feel like a lot of what was done within this work is extremely practical and sits slightly strangely with the philosophical underpinning, and yet this underpinning maintains a consistent acknowledgement of the causes and risks of marginalisation]},
   creationdate     = {2023-10-30T19:54:47},
   keywords         = {systems, complexity, transformation, organisation, AISummit},
-  modificationdate = {2023-12-08T07:12:19},
+  modificationdate = {2024-01-01T17:02:14},
   owner            = {izzy_olivine},
 }
 
@@ -22063,7 +22081,8 @@ Outcomes of summit:
 
 Rather bloated and somewhat repetitive series statements from the summit identifying risks, harms, actions, related international initiatives and, of course, opportunities},
   creationdate     = {2023-12-10T08:54:25},
-  modificationdate = {2023-12-10T09:35:38},
+  keywords         = {AISummit, technology, policy, trust},
+  modificationdate = {2023-12-26T12:02:40},
   owner            = {izzy_olivine},
 }
 
@@ -23223,7 +23242,7 @@ The public want regulation of AI technologies, though this differs by age.},
   owner            = {ISargent},
 }
 
-@Online{Ng2023,
+@Online{Ng2023senate,
   author           = {Andrew Ng},
   date             = {2023-12-11},
   title            = {Written Statement of Andrew Ng before the U.S. Senate AI Insight Forum},
@@ -23234,8 +23253,426 @@ The public want regulation of AI technologies, though this differs by age.},
 I should read the rest of this},
   creationdate     = {2023-12-19T09:24:31},
   keywords         = {AI, AISummit, technology, policy},
-  modificationdate = {2023-12-19T09:28:54},
+  modificationdate = {2023-12-19T09:29:11},
   owner            = {ISargent},
+}
+
+@Article{DelgadoYMY2023,
+  author           = {Fernando Delgado and Stephen Yang and Michael Madaio and Qian Yang},
+  title            = {The Participatory Turn in AI Design: Theoretical Foundations and the Current State of Practice},
+  doi              = {10.48550/arXiv.2310.00907},
+  eprint           = {https://arxiv.org/pdf/2310.00907.pdf},
+  url              = {https://arxiv.org/abs/2310.00907},
+  archiveprefix    = {arXiv},
+  comment          = {Really interesting well-written paper reviewing work into participatory design in AI. Considers different approaches and develops a framework for analysis of approaches to AI design from literature and interviews.
+
+Approaches to stakeholder participation:
+- User-centered design (UCD)
+- Service design
+- Participatory design (PD)
+- Co-design
+- Value-sensitive design (VSD)
+- Participatory action research (PAR)
+- Social choice theory (SCT) and mechanism design
+- Participatory democracy and civic participation
+- Deliberation theory
+
+Really useful for descriptions of these methods. Summary critique is that all are limited in particular because none are fully participatory, tending to have some information, direction, power or other factor that is not perfectly shared.
+
+Full stakeholder empowerment only achieved in stakeholders have ability to make decisions about both: p4
+- design
+- process
+
+Identify parameters of participation:
+- Dimensions:
+  - Goal - why is participation needed - can be instrumentalist (e.g. ``better results'', whatever better means) or normative (e.g. its the right thing to do)
+  - Scope - what is on the table AND who is involved
+  - Form - what form does the participation take (ranking, dialog, learning, ...)
+- Modes (variation on framework in PatelPPBPS2021, but more about how these shape participation rather than them being of increasing level of participation):
+  - consult
+  - include
+  - collaborate
+  - own
+
+Deliberation theory argues that people learn new information and update their beliefs all the time and some methods do not take account of this
+
+Findings:
+- The majority of projects operationalized stakeholder participation via discrete preference or value elicitation
+- Researchers and practitioners feel they have to substantially scale back their participatory ambitions
+- instead of directly engaging the affected stakeholders, AI system designers
+have come to embrace a proxy-based approach to participation (representatives, UX/HCI practitioners, or algorithmic proxies) which have risks of:
+  - mistaken identify
+  - biased intermediation
+  - stale modelling
+
+Unique challenges for participation in AI:
+- High-Dimensionality v. Human Reasoning
+- Scaling v Caring},
+  creationdate     = {2023-12-24T11:54:00},
+  keywords         = {AI, participatory, trust, technology, transformation},
+  modificationdate = {2023-12-24T13:31:25},
+  owner            = {izzy_olivine},
+  primaryclass     = {cs.HC},
+  year             = {2023},
+}
+
+@Book{FoxPivenC1978,
+  author           = {Fox Piven, Frances and Richard Cloward},
+  date             = {1978-12-12},
+  title            = {Poor People's Movements},
+  isbn             = {9780394726977},
+  subtitle         = {Why They Succeed, How They Fail},
+  url              = {https://www.penguinrandomhouse.com/books/131609/poor-peoples-movements-by-frances-fox-piven-and-richard-cloward/},
+  comment          = {I've only read the introduction and start of chapter 1, but its very readable - I should read more! About protest movements and the ``lower'' classes, challenging assumptions about the core necessity of formal organisation.
+
+The drive to formal organisation has blunted movements because it has driven organisers to search for resources to maintain the organisation which drives them towards elites.
+
+Idea that if movement becomes part of the establishment it has lost (c.f. RochonM1993)
+
+Power - may be devine - on in capitalist societies: ``not legitimated by rendering the powerful devine but by obscuring their existence''
+
+In 1960s idea that pluralist apporach with electoral representatives does not distribute power as many are barred from participation and entrapped by predetermined electoral ``choices''. Protest may be the only recourse. However, it is also not a matter of free choice, and is not available to lower class groups at all.
+
+The study of movements, but focussing on organisations, which must have leadership, a constitution, a legislative programme, diverts attention from many other forms of political unrest e.g. truancy, worker absenteeism, rent defaults.},
+  creationdate     = {2023-12-26T09:07:39},
+  keywords         = {transformation, systems, movements},
+  modificationdate = {2023-12-26T11:36:52},
+  owner            = {izzy_olivine},
+}
+
+@Article{RochonM1993,
+  author           = {Rochon, Thomas R. and Mazmanian, Daniel A.},
+  date             = {1993},
+  journaltitle     = {The Annals of the American Academy of Political and Social Science},
+  title            = {Social movements and the policy process},
+  doi              = {10.1177/0002716293528001006},
+  issue            = {1},
+  pages            = {75--87},
+  volume           = {528},
+  comment          = {Discusses how the impacts of social movements shold be considered with a wider lens. It may not be that they obviously change the policy but they may change the process by being accepted into it.
+
+Social movement success may be:
+- policy change
+- process change
+- values change
+
+Political leaders may concede such process change to defuse protest whilst limiting policy change, diffuse responsibility for policy and/or to help monitor bureaucratic performance
+
+Draws on a study by Gamson of 53 ``challenging groups''. Only 20 percent achieved policy change without acceptance of the group, the rest achieved both, neither or process change only. Gamson called this co-optation
+
+Draws on nuclear freeze movement and protest against hazardous wastes
+
+``The involvement of movement activists in the policy process has greatly expanded the range of interests and perspectives that are expressed in the making of environmental policy, with important implications for the quality of the democratic process''},
+  creationdate     = {2023-12-26T09:15:24},
+  keywords         = {transformation, systems, movements},
+  modificationdate = {2023-12-26T10:46:01},
+  owner            = {izzy_olivine},
+  year             = {1993},
+}
+
+@Article{Scott1986,
+  author           = {Scott, Jim},
+  date             = {1986},
+  journaltitle     = {The journal of peasant studies},
+  title            = {Everyday forms of peasant resistance},
+  doi              = {10.1080/03066158608438289},
+  issue            = {2},
+  pages            = {5--35},
+  volume           = {13},
+  comment          = {Studies peasant resistance, uses specific examples from Malaysian rice-farming villages (1978-80) - of boycotting landowners who began using combine harvesters and of thefts of harvested paddy
+
+Not overt revolts, but using ``weapons of the weak'':
+- footdragging
+- dissimulation
+- false-compliance
+- pilfering
+- feigned ignorance
+- slander
+- arson
+- sabotage
+
+Require little or no co-ordination, appear individual but are not performed in isolation and without others knowing or suspecting. They also represent a form a self-help. As such, this paper challenges the idea that resistance requires some form of sacrefice. The distinction between `self-indulgent' and `principled' is naive.
+
+Perpetrators rarely want to draw attention to themselves - but also neither do officials or those being resisted against, which means it is often not on the historical record
+
+Also considers the desertions from the Tsarist army in 1917. There was no revolutionary intent but a revolutionary situation is created.},
+  creationdate     = {2023-12-26T11:38:15},
+  keywords         = {transformation, systems, movements},
+  modificationdate = {2023-12-26T11:50:16},
+  owner            = {izzy_olivine},
+  year             = {1986},
+}
+
+@Report{UKGov2023AISummitScience,
+  author           = {{UKGov}},
+  date             = {2023-11-02},
+  institution      = {UK Government},
+  title            = {``State of the science'' Report to Understand Capabilities and Risks of Frontier {AI}},
+  url              = {https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-state-of-the-science-2-november/state-of-the-science-report-to-understand-capabilities-and-risks-of-frontier-ai-statement-by-the-chair-2-november-2023},
+  comment          = {Announces that Yoshua Bengio will chair a report into the state of the science of AI. Lists the countries represented at Bletchley Park},
+  creationdate     = {2023-12-26T11:54:31},
+  keywords         = {AISummit, technology, policy, trust},
+  modificationdate = {2023-12-26T12:02:34},
+  owner            = {izzy_olivine},
+}
+
+@Report{UKGov2023AISummitTesting,
+  author           = {{UKGov}},
+  date             = {2023-11-02},
+  institution      = {UK Government},
+  title            = {Safety Testing: Statement of Session Outcomes},
+  url              = {https://www.gov.uk/government/publications/ai-safety-summit-2023-chairs-statement-safety-testing-2-november},
+  comment          = {Lists countries and organisations who attended  Bletchley Park summit and who say they will collaborate on testing the ``next generation'' of AI against ``a range of critical national security, safety and societal risks''},
+  creationdate     = {2023-12-26T12:00:07},
+  keywords         = {AISummit, technology, policy, trust},
+  modificationdate = {2023-12-26T12:03:40},
+  owner            = {izzy_olivine},
+}
+
+@Report{George2023,
+  author           = {George P. George},
+  date             = {2023-09-01},
+  institution      = {REI Systems},
+  title            = {Roadmap to Transformation: The Next Generation of Governement Operations with Ethical and Responsible AI Adoption},
+  comment          = {Claims to be a roadmap for government agencies to ensure the ethical and responsible use of AI. Rather lacking in content, although it does suggest a framework:
+- governance (strategy) - these are the people and institutions that collectively design policies, guidelines and mechanisms for overseeing AI adoption
+- product/project customisation (enforcement) - these are the mechanisms by which AI is used (this is the most detailed section)
+- knowledge and skills (training)},
+  creationdate     = {2023-12-26T12:07:12},
+  keywords         = {AISummit, technology, policy, trust},
+  modificationdate = {2023-12-26T15:42:01},
+  owner            = {izzy_olivine},
+}
+
+@Report{Ulrich2005,
+  author           = {Werner Ulrich},
+  date             = {2005-10-14},
+  institution      = {ECOSENSUS project website, The Open University},
+  title            = {A Brief Introduction to Critical Systems Heuristics ({CSH})},
+  location         = {Milton Keynes, UK},
+  url              = {http://projects.kmi.open.ac.uk/ecosensus/publications/ulrich_csh_intro.pdf},
+  urldate          = {2024-01-01},
+  comment          = {In MidgleyMB1998 it suggests using these 12 questions to challenge planning. These are defined by the claim's basis of (these are the boundary choices):
+- motivation (purpose - gain v loss)
+- power (control - autonomy v control)
+- knowledge (use v ignore)
+- legitimacy (desirable v feasible)
+
+(its ``anatomy of purposefulness''), each having a 
+- stakeholder
+- concern
+- difficulty
+
+- SOURCES OF MOTIVATION
+1. Client - Who is (ought to be) the client or beneficiary? That is, whose interests are (should be) served?
+2. Purpose- What is (ought to be) the purpose? That is, what are (should be) the consequences?
+3. Measure of improvement - What is (ought to be) the measure of improvement or measure of success? That is, how can (should) we determine that the consequences, taken together, constitute an improvement?
+- SOURCES OF POWER
+4. Decision-maker- Who is (ought to be) the decision-maker? That is, who is (should be) in a position to change the measure of improvement?
+5. Resources - What resources and other conditions of success are (ought to be) controlled by the decision-maker? That is, what conditions of success can (should) those involved control?
+6. Decision environment - What conditions of success are (ought to be) part of the decision environment? That is, what conditions can (should) the decision-maker not control (e.g. from the viewpoint of those not involved)?
+- SOURCES OF KNOWLEDGE
+7. Professional - Who is (ought to be) considered a professional or further expert? That is, who is (should be) involved as competent provider of experience and expertise?
+8. Expertise - What kind expertise is (ought to be) consulted? That is, what counts (should count) as relevant knowledge?
+9. Guarantee - What or who is (ought to be) assumed to be the guarantor of success? That is, where do (should) those involved seek some guarantee that improvement will be achieved – for example, consensus among experts, the involvement of stakeholders, the experience and intuition of those involved, political support?
+- SOURCES OF LEGITIMATION (those affected)
+10. Witness - Who is (ought to be) witness to the interests of those affected but not involved? That is, who is (should be) treated as a legitimate stakeholder, and who argues (should argue) the case of those stakeholders who cannot speak for themselves, including future generations and non-human nature?
+11. Emancipaton - What secures (ought to secure) the emancipation of those affected from the premises and promises of those involved? That is, where does (should) legitimacy lie?
+12. Worldview - What worldview is (ought to be) determining? That is, what different visions of ‘improvement’ are (should be) considered, and how are they (should they be) reconciled?
+
+Nice video explanation with overview of where CSH fits into systems thinking in \url{https://www.youtube.com/watch?v=87pD2gjrcUs}
+
+Legitimacy is primarily gained by those outside a system who are negatively affected by it. But the more you sweep in these interests you may expand the system bringing in a new system - a further boundary system.},
+  creationdate     = {2024-01-01T17:02:23},
+  keywords         = {systems, complexity, transformation, trust},
+  modificationdate = {2024-01-01T17:39:48},
+  owner            = {izzy_olivine},
+}
+
+@Book{Lukes2005,
+  author           = {Steven Lukes},
+  date             = {2005},
+  title            = {Power: A radical view},
+  edition          = {Second},
+  eprint           = {https://voidnetwork.gr/wp-content/uploads/2016/09/Power-A-Radical-View-Steven-Lukes.pdf},
+  publisher        = {Palgrave Macmillan},
+  comment          = {Second edition of PRV - this time with an introduction and two additional chapters.
+Asks about the nature of power, how it persists, why subordinates comply, why willingly, particularly in capitalism. 
+
+Introduction is a superb overview of work into power and worth returning to to slot ideas and authors into a bigger picture:
+- C. Wright Mills
+- Floyd Hunter
+- Alan Wolfe
+- Robert Dahl (Who Governs?)
+- Schumpeter
+- Bachrach and Baratz (BachrachB1962)
+- Schattschneider
+- Antonio Gramsci (Hegemony)
+- Anderson / Althusser / Femia
+- Przeworski
+- Tilly
+- Michel Foucault
+
+- elite power
+- pluralism
+- second face of power (nondecisionmaking)
+- Gramsci's hegemony - and its interpretations: cultural/psychological consent v material interests
+- Reaganism and Thatcherism
+- neo-liberalism
+- third dimension of power ``the power to prevent people to whatever degree from having grievances by shaping their preceptions, cognition and preferences in such a way that they accept their role in the existing order of things''
+
+Tilly provides a checklist of all the answers to the question of why comply?:
+1. actually rebelling continually (e.g. Scott1986)
+2. get something in return (Gramsci + Przeworski)
+3. gain some other value such as esteem or identity (Gramsci + Anderson / Althusser / Femia)
+4. mystification, repression, unavailability of alternatives (3rd dimension of power)
+5. force and inertia (coercion)
+6. cost of resistance and rebellion (scant resources)
+7 all of the above
+
+Chapter 1 - virtually unaltered version of the original
+Chapter 2 - considers
+- the debate around power
+- if it is a necessary concept
+- considers the ultra-radical response to the original questions that is Foucalt's answer that domination is everywhere
+Chapter 3 - identifies the mistakes in chapter 1 and elaborates on its answer
+
+I've not read the 3 chapters but would be worth returning to (perhaps 2021 edition) to explore more on theories of power},
+  creationdate     = {2024-01-02T17:42:58},
+  keywords         = {systems, power},
+  modificationdate = {2024-01-02T17:48:27},
+  owner            = {izzy_olivine},
+}
+
+@Article{Graan2022,
+  author           = {Andrew Graan},
+  date             = {2022-06-29},
+  journaltitle     = {Journal of Cultural Economy},
+  title            = {What was the project? Thoughts on genre and the project form},
+  doi              = {10.1080/17530350.2022.2087716},
+  url              = {https://www.tandfonline.com/doi/full/10.1080/17530350.2022.2087716},
+  comment          = {Mentioned in BegovicQ2022 as a critique of the project form
+
+``inquires into the conditions and consequences of the project form, asking: how have norms and practices of project making shaped historical formations, social environments, and our understanding of them? In answering this question, the essay contextualizes the project form within a history of the modern world system. It then develops a theory of the project form, illustrating how the logistical and visionary aspects of projects emerge as effects of genre-mediated processes of project making. Finally, the essay considers how social theories that are blind to the project form risk naturalizing its logics. Through these steps, the essay reflects on the limits and limitations of the project form''},
+  creationdate     = {2024-01-02T18:08:48},
+  keywords         = {research, organisation},
+  modificationdate = {2024-01-02T18:12:08},
+  owner            = {izzy_olivine},
+}
+
+@Report{DSIT2023aisummitdiscussion,
+  author           = {{DSIT}},
+  date             = {2023},
+  title            = {AI Safety Summit: Capabilities and risks from frontier AI},
+  type             = {Discussion paper},
+  url              = {https://www.gov.uk/government/publications/frontier-ai-capabilities-and-risks-discussion-paper},
+  comment          = {The discussion paper released before the November 2023 AI Safety Summit
+
+Doesn't really define frontier AI (need to read thoroughly to check this) but implies that frontier AI has two phases - pretraining and fine-tuning
+
+Risks of frontier AI:
+- Cross-cutting risk factors (the factors that lead to a range of risks)
+- Societal harms
+- Misuse risks
+- Loss of control
+
+Only the last two are picked up in the AI Safety Summit introduction},
+  creationdate     = {2024-01-02T18:14:25},
+  keywords         = {AISummit, trust},
+  modificationdate = {2024-01-02T18:20:53},
+  owner            = {izzy_olivine},
+}
+
+@Article{LentonXAGLSZEDSS2023,
+  author           = {Lenton, Timothy M. and Xu, Chi and Abrams, Jesse F. and Ghadiali, Ashish and Loriani, Sina and Sakschewski, Boris and Zimm, Caroline and Ebi, Kristie L. and Dunn, Robert R. and Svenning, Jens-Christian and Scheffer, Marten},
+  date             = {2023-10-01},
+  journaltitle     = {Nature Sustainability},
+  title            = {Quantifying the human cost of global warming},
+  doi              = {10.1038/s41893-023-01132-6},
+  issue            = {10},
+  pages            = {1237--1247},
+  volume           = {6},
+  abstract         = {The costs of climate change are often estimated in monetary terms, but this raises ethical issues. Here we express them in terms of numbers of people left outside the `human climate niche'--defined as the historically highly conserved distribution of relative human population density with respect to mean annual temperature. We show that climate change has already put ~9\% of people (>600 million) outside this niche. By end-of-century (2080–2100), current policies leading to around 2.7 °C global warming could leave one-third (22–39\%) of people outside the niche. Reducing global warming from 2.7 to 1.5 °C results in a ~5-fold decrease in the population exposed to unprecedented heat (mean annual temperature ≥29 °C). The lifetime emissions of ~3.5 global average citizens today (or ~1.2 average US citizens) expose one future person to unprecedented heat by end-of-century. That person comes from a place where emissions today are around half of the global average. These results highlight the need for more decisive policy action to limit the human costs and inequities of climate change.},
+  comment          = {The paper that calculates how many people will be forced outside of the human climate niche with climate change
+
+c.f. PearceP2023},
+  creationdate     = {2024-01-02T18:23:23},
+  keywords         = {environment, climate},
+  modificationdate = {2024-01-02T18:28:04},
+  owner            = {izzy_olivine},
+  year             = {2023},
+}
+
+@Article{PearceP2023,
+  author           = {Joshua M. Pearce and Richard Parncutt},
+  date             = {2023-08-19},
+  journaltitle     = {Energies},
+  title            = {Quantifying Global Greenhouse Gas Emissions in Human Deaths to Guide Energy Policy},
+  doi              = {10.3390/en16166074},
+  issue            = {16},
+  volume           = {16},
+  comment          = {Compares approaches to quantify the number of future humans caused by carbon emissions and finds several studies consistent with the ``rule'' that ``a future person is killed every time 1000 tons of fossil carbon are burned (order-of-magnitude estimate). If warming reaches or exceeds 2 °C this century, mainly richer humans will be responsible for killing roughly 1 billion mainly poorer humans through anthropogenic global warming, which is comparable with involuntary or negligent manslaughter''.
+
+c.f. LentonXAGLSZEDSS2023},
+  creationdate     = {2024-01-02T18:25:56},
+  modificationdate = {2024-01-02T18:28:11},
+  owner            = {izzy_olivine},
+}
+
+@InProceedings{BarlettaCGR2023,
+  author           = {Barletta, Vita Santa and Caivano, Danilo and Gigante, Domenico and Ragone, Azzurra},
+  booktitle        = {Proceedings of the 27th International Conference on Evaluation and Assessment in Software Engineering},
+  date             = {2023},
+  title            = {A Rapid Review of Responsible AI frameworks: How to guide the development of ethical AI},
+  doi              = {10.1145/3593434.3593478},
+  publisher        = {ACM},
+  url              = {http://dx.doi.org/10.1145/3593434.3593478},
+  comment          = {Rapid review of responsible AI frameworks
+
+The  the most cited RAI principles Jobin et al. [2019]:
+- Transparency
+- Diversity and Non-discrimination and Fairness
+- Technical Robustness and Safety
+- Privacy and Data Governance
+
+Find these are mostly all addressed in the frameworks
+
+Groups frameworks into 4 types:
+- Principle
+- Guidelines
+- Tool
+- Other
+
+Find mostly principles and guidelines but few practical tools
+
+Find frameworks from:
+- Companies
+- Universities
+- Non-profit organisations
+
+Consider how much each applies across the software development lifecycle (SDLC):
+- Requirements elicitation
+- Design
+- Development
+- Testing
+- Deployment
+
+and find that there is very little beyond the first phase (also University of Texas at Austin looks promising - possibly \url{https://assets.ctfassets.net/rz1q59puyoaw/5pyXogKSKNUKRkqOP4hRfy/5c5b525d0a77a1017643dcb6b5124634/RAII_Certification_Guidebook.pdf} - and there may be others but not all the data are available. I have asked for full data on ResearchGate)
+
+Findings:
+- frameworks are provided by heterogenous entities leading to diversity of perspectives but little consensus or standardisation
+- few frameworks cover the whole of teh SDLC or have practical support for practioners or tools for stakeholders or auditing
+- there is no comprehensive framework `` whose knowledge can be
+navigated and exploited by different kinds of stakeholders (technical and non-technical ones), which can simplify and
+speed up the adoption of RAI practices''
+
+``Ethics Bluewashing Floridi [2019] (the unethical behavior of making unsupported or false claims about, or taking insufficient action to support, the ethical ideals and advantages of digital processes,
+products, services, or other solutions in an effort to look more ethically conscientious than one actually is)''},
+  creationdate     = {2024-01-03T12:35:39},
+  keywords         = {technology, trust, ethics, AI},
+  modificationdate = {2024-01-03T13:08:37},
+  owner            = {ISargent},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
