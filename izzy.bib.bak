@@ -23822,6 +23822,7 @@ Use this to understand two case studies.
   date             = {2022},
   institution      = {Responsible Artificial Intelligence Institute},
   title            = {The Responsible {AI} Certification: Program Guidebook},
+  eprint           = {https://assets.ctfassets.net/rz1q59puyoaw/5pyXogKSKNUKRkqOP4hRfy/5c5b525d0a77a1017643dcb6b5124634/RAII_Certification_Guidebook.pdf},
   comment          = {Say there was an international consensus on what constitutes responsible AI (RAI) Eitel-Poter et al., 2021
 
 But that AI-related laws and regulations differ in scope, stringency and severity for non-compliance
@@ -23860,8 +23861,25 @@ scenarios)
 
 Developed assessment and scoring method for assessment and certification. To earn certification, the AI system must earn 50\5+ of available score for each of the 6 dimensions - the total is then used to give an overall assessment (needs improvement, satisfactory, good, excellent) and a level (certified, silver, gold, platinum).},
   creationdate     = {2024-01-08T10:37:21},
-  modificationdate = {2024-01-08T11:10:47},
+  keywords         = {trust, AI, responsible, ethics, bureaucracy},
+  modificationdate = {2024-01-08T11:11:09},
   owner            = {ISargent},
+}
+
+@Article{NasrCHJCICWTL2023,
+  author           = {Milad Nasr and Nicholas Carlini and Jonathan Hayase and Matthew Jagielski and A. Feder Cooper and Daphne Ippolito and Christopher A. Choquette-Choo and Eric Wallace and Florian Tramèr and Katherine Lee},
+  title            = {Scalable Extraction of Training Data from (Production) Language Models},
+  url              = {https://arxiv.org/abs/2311.17035},
+  archiveprefix    = {arXiv},
+  comment          = {an adversary can efficiently extract training data by querying a machine learning model without prior knowledge of the training dataset
+
+``Our methods show practical attacks can recover far more data than previously thought, and reveal that current alignment techniques do not eliminate memorization''},
+  creationdate     = {2024-01-08T11:17:26},
+  keywords         = {AI, IP},
+  modificationdate = {2024-01-08T11:19:32},
+  owner            = {ISargent},
+  primaryclass     = {cs.LG},
+  year             = {2023},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
