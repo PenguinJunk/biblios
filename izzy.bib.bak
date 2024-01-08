@@ -23051,7 +23051,7 @@ Similar to Gerbu and others: some companies that would rather not compete with o
   pages            = {81--106},
   url              = {https://doi.org/10.1080/13501760802453221},
   volume           = {16},
-  comment          = {Crisis exploitation
+  comment          = {Crisis exploitation ``seek to open the `black box' of post-crisis politicking'
 
 Framing as a crisis:
 Widespread use of emotive labels and dislocation of domination discussions
@@ -23063,14 +23063,32 @@ Frames:
 - Type 2: crisis as threat; political stance: diffuse blame; policy stance: defend status quo
 - Type 3: crisis as opportunity; political stance: focus blame; policy stance: attack status quo
 
-
 1. The first framing contest: ripple or crisis? - significance of events
 proponents of type-1 frames argue to minimize event significance, proponents of type-2 frames are more likely to acknowledge event significance, and proponents of type-3 frames are most likely to maximize event significance
 
-2. The second framing contest: incident or symptom? - causality},
+2. The second framing contest: incident or symptom? - causality, endogenize or exogenize accountability
+
+Crisis exploitation - polical and policy blame `games'
+
+Demonstrate that crisis exploitation strategies matter. However they may not be enough.
+
+Incumbents are more likely to successfully survive the political game of crisis exploitation if:
+a. they have good pre-crisis political capital
+b. they communicate their crisis frames well
+c. they haven't been in office long
+d. the predominant view is that the crisis has exogenous causes
+e. they have an `expert' commission as the main locus for official inquiry into the crisis
+
+Oppositional forces are more likely to gain the upper hand if:
+a. the predominant view is that the crisis has endogenous causes
+b. incumbents have been in office a long time
+c. incumbents have recently been getting bad press
+d. opposition manages to instigate or capitalise on a political (non-expert) inquiry
+
+Study finds that it is doubtful that crises are sufficient conditions for change},
   creationdate     = {2023-12-12T12:36:02},
   keywords         = {AISummit, policy},
-  modificationdate = {2023-12-12T13:27:31},
+  modificationdate = {2024-01-03T19:58:35},
   owner            = {izzy_olivine},
   publisher        = {Routledge},
   year             = {2009},
@@ -23673,6 +23691,177 @@ products, services, or other solutions in an effort to look more ethically consc
   modificationdate = {2024-01-03T13:08:37},
   owner            = {ISargent},
   year             = {2023},
+}
+
+@Article{ChenLCW2023,
+  author           = {Juan Chen and Mengyu Liu and Charles Chang and Yuhua Wang},
+  date             = {2023-01-24},
+  journaltitle     = {Journal of Urban Affairs},
+  title            = {State infrastructure and neighborhood well-being in urbanizing China},
+  doi              = {10.1080/07352166.2022.2157730},
+  comment          = {Link detailed geo-referenced POI data (2017) on state agencies to a nationwide wellbeing survey conducted in 40 localities experiencing rural-urban transition (2018) to examine how state infrastructure is associated with residents' neighborhood well-being in the context of urbanizing China.
+
+China has experienced ``urbanization of place'' rather than ``urbanization of people'' by appropriating and developing large swaths of land
+
+In situ urbanisation
+Human-centred urbanisation
+
+Increased physical presence of the state ``Recent studies demonstrate that the Chinese state maximizes the efficiency of coercive institutions by locating them where potential threats to regime stability are suspected''
+
+studies find ``Modernized high-rise buildings represent a totally different economic and social milieu. While, in the past, access to land would guarantee a high level of self-reliance for food and other daily necessities, these formerly rural residents now must rely on commercial transactions to obtain their staples, leading to an immediate increase in the cost of living''
+
+Findings:
+1. urbanization encourages the expansion of the state: a greater increase in state infrastructure per capita is observed in newly urbanized areas than in potential sites of urbanization
+2. the four types of state institutions show distinct patterns of relationship with neighborhood well-being: the presence of administrative infrastructure is positively associated with neighborhood satisfaction, the presence of coercive infrastructure is negatively associated with neighborhood satisfaction, whereas the association between the presence of legal or fiscal infrastructure and neighborhood satisfaction is not significant
+
+the positive association between administrative infrastructure and neighborhood satisfaction can be partially attributed to the fact that residents and neighborhoods also have better access to public services where there are more government administrative agencies},
+  creationdate     = {2024-01-05T14:16:33},
+  keywords         = {infrastructure, bureaucracy, state, china},
+  modificationdate = {2024-01-05T14:31:31},
+  owner            = {izzy_olivine},
+}
+
+@Report{LucasSBB2019,
+  author           = {Karen Lucas and Gordon Stokes and Jeroen Bastiaanssen and Julian Burkinshaw},
+  date             = {2019},
+  institution      = {Social and Political Science Group, Institute for Transport Studies, University of Leeds},
+  title            = {Inequalities in Mobility and Access in the UK Transport System},
+  type             = {Evidence Review},
+  eprint           = {https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/784685/future_of_mobility_access.pdf},
+  comment          = {Fantastic for stats and insights into transport and inequality of access
+
+Why do inequalities in mobility and access matter?
+- Transport can be a key barrier to employment
+- Lack of transport can reduce access to education and training opportunities
+- Limited transport options reduce access to healthcare
+- Inadequate transport limits access to shops and services
+- Spatial variations in accessibility to key services
+- Lack of transport leads to social isolation
+- Cost of transport constrains access to key activities
+- Forced car ownership can lead to economic stress
+- Disadvantaged road users are at higher risk of injury and death
+- Health risks and environmental impacts of transport
+
+Differences in travel across social groups
+- Car owners and drivers are most travel included overall
+- Lower income households travel less overall
+- Gender differences are declining
+- Disabled people are still constrained in their travel options
+- Employment status still dominates people’s travel activities
+- Household structure is also a key factor in determining levels of travel
+- Where people live makes a significance difference to their car access patterns
+- being in a lower income group, experiencing a mobility difficulty, being a younger adult (aged 17-29) and being retired or long-term sick all act to suppress people’s travel behaviours
+- drivers trips and bus use are decreasing except in lower income group, walking is declining across all groups, cycle trips is increasing except in middle-income quintile, lowest income group becoming more reliant on taxis 
+
+Also looks at future trends:
+- Demographic projections
+- Inequalities in Mobility and Access in the UK Transport System
+- Housing and settlement patterns
+- Income inequalities and poverty projections
+- Health inequalities
+- Education levels and digital literacy skills},
+  creationdate     = {2024-01-05T15:38:22},
+  keywords         = {transport, policy, infrastructure},
+  modificationdate = {2024-01-05T15:55:13},
+  owner            = {izzy_olivine},
+}
+
+
+
+
+
+
+@Article{DyerDWWGGG2019,
+  author           = {Dyer, Mark and Dyer, Rachel and Weng, Min-Hsien and Wu, Shaoqun and Grey, Thomas and Gleeson, Richard and Ferrari, Tom\'{a}s Garc\'{\i}a},
+  date             = {2019},
+  journaltitle     = {Proceedings of the Institution of Civil Engineers - Urban Design and Planning},
+  title            = {Framework for soft and hard city infrastructures},
+  doi              = {10.1680/jurdp.19.00021},
+  number           = {6},
+  pages            = {219-227},
+  url              = {https://www.icevirtuallibrary.com/doi/10.1680/jurdp.19.00021},
+  volume           = {172},
+  abstract         = {The term city infrastructures is often restricted to the physical elements of a city, while in practice it comprises both hard infrastructures for built environment and utilities, as well as soft infrastructures involving services, social groupings and personal skills. Part of the confusion is the lack of clarity about the role and delivery of city infrastructures and its relationship to livelihood and livability. To address this issue, a framework for soft and hard city infrastructures has been developed using results from two case studies to model the relationships, conflicts and connections between soft and hard infrastructures. The first case study concerns the abandonment of a planned urban regeneration project for the Italian City of Lucca in Tuscany where institutional inertia prevented regeneration of a derelict tobacco factory. The second case study concerned results from data analysis of contributions for a public consultation exercise for City of Christchurch in New Zealand. The syntactic data analytics using Flax software coupled with data visualisation demonstrated how an urban narrative can be constructed about citizen priorities based on a framework for soft and hard city infrastructures. The methodology enables citizen engagement through cultivating open processes of urban exploration that advocate ‘connected infrastructures’ thinking.},
+  comment          = {Develop a framework describing city infrastructures and use it to understand why urban planning efforts failed.
+
+- Hard infrastructure:
+  - Formal (top-down):
+    - utilities (transport, water, waste, energy,...)
+    - urban space (streets, squares, parks, business parks, ...)
+    - buildings (local authority offices, buildings for healthcare, educational, recreational, ...)
+  - Informal (bottom-up):
+    - utilities (guerilla urbanism, informal drainage, ...)
+    - urban space (natural/semi-natural, community gardens, semi-private and private space, ...)
+    - buildings (commercial buildings, dwellings, ...)
+
+- Soft infrastructure:
+  - Formal (top-down):
+    - institutional (government, planning, legal, health, emergency, educational and training system, ...)
+    - communual (residents association, neighbourhood watch, business associations, landlord groups, ...)
+    - personal (employment, educational attainment, ...)
+  - Informal (bottom-up):
+    - institutional (organisations for sports and recreation, arts and culture, and community development, ...)
+    - community (social networks - bridging social capital, informal community groups - linking social capital, ...)
+    - personal (family and close friends - bonding social capital, ...)
+
+Use this to understand two case studies. 
+
+``In the case of Lucca, the frameworkhelped understand how a regeneration project for a derelictquarter of the historic city had been abandoned due to weaknessand inertia with the institutional component of the soft city infrastructures''
+
+``syntactic analysis ... revealed residents' thoughts about perceived relationships between different categories of soft and hard city infrastructures ... qualities of city infrastructures expected by residents such as safer public spaces or moreeconomic public transport''
+
+``peer-reviewed publi-cations into urban governance and urban design was mutuallyexclusive with a very few notable exceptions''},
+  creationdate     = {2024-01-05T17:52:56},
+  keywords         = {infrastructure, bureaucracy, policy},
+  modificationdate = {2024-01-05T18:13:39},
+  owner            = {izzy_olivine},
+}
+
+@Report{RAII2022,
+  author           = {{RAII}},
+  date             = {2022},
+  institution      = {Responsible Artificial Intelligence Institute},
+  title            = {The Responsible {AI} Certification: Program Guidebook},
+  comment          = {Say there was an international consensus on what constitutes responsible AI (RAI) Eitel-Poter et al., 2021
+
+But that AI-related laws and regulations differ in scope, stringency and severity for non-compliance
+
+RAII, a member of the World Economic Forum’s (WEF) Global AI Action Alliance (GAIA), aims to address this inconsistency
+
+RAII’s main governance tool, the Responsible AI Certification Program is based on recurring themes, princples and gaps found by ``extensive review''. This assesses an organization’s AI system against six dimensions: 
+1. Systems Operations - s the functioning of the AI system
+and key design choices related to the model and its data
+  - System Scope and Function
+  - Human-in-the-Loop
+  - Model is Fit for Purpose
+  - Data Relevance and Representativeness
+  - Data Quality
+2. Explainability and Interpretability
+  - Communication about the Outcome (informing people of inputs and outputs)
+  - Notification (to a person if a decision is made about them)
+  - Recourse (to appeal a decision)
+  -  Understanding the AI System's Decisions or Functions (extent of documents, reviews, publications of system information)
+3. Accountability
+  - Organizational Governance
+  - Team Governance
+4 Consumer Protection
+  - Transparency to the User and Data Subject
+  - Harm to Individuals (potential to harm users)
+  - Protections (individual or group's privacy)
+5. Bias and Fairness
+  - Bias Impacts (mitigation of bias)
+  - Bias Training (education of designers, developers, users and those impacted)
+  - Bias Testing (of models, algorithms and datasets)
+6. Robustness
+  - Data Drift (processes and procedures for combatting)
+  - System Acceptance Test Performed (extent of exposure to edge cases)
+  - Contingency Planning (extent of preparedness for  adversarial attacks, load inputs, and other edge cases and extreme
+scenarios)
+
+Developed assessment and scoring method for assessment and certification. To earn certification, the AI system must earn 50\5+ of available score for each of the 6 dimensions - the total is then used to give an overall assessment (needs improvement, satisfactory, good, excellent) and a level (certified, silver, gold, platinum).},
+  creationdate     = {2024-01-08T10:37:21},
+  modificationdate = {2024-01-08T11:10:47},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
