@@ -3919,7 +3919,7 @@ Gordon Moore, founder of Intel: start-up exploit what large organisations invent
 Financialisation of firms occurs when executives focus on purpose of maximising shareholder value and loss of investment in innovation},
   creationdate     = {2022-10-23T10:14:37},
   keywords         = {economics, innovation, organisations},
-  modificationdate = {2023-07-11T16:56:14},
+  modificationdate = {2024-01-14T15:00:03},
   owner            = {ISargent},
   year             = {2016},
 }
@@ -23868,7 +23868,10 @@ Developed assessment and scoring method for assessment and certification. To ear
 
 @Article{NasrCHJCICWTL2023,
   author           = {Milad Nasr and Nicholas Carlini and Jonathan Hayase and Matthew Jagielski and A. Feder Cooper and Daphne Ippolito and Christopher A. Choquette-Choo and Eric Wallace and Florian Tramèr and Katherine Lee},
+  date             = {2023},
+  journaltitle     = {arXiv},
   title            = {Scalable Extraction of Training Data from (Production) Language Models},
+  doi              = {10.48550/arXiv.2311.17035},
   url              = {https://arxiv.org/abs/2311.17035},
   archiveprefix    = {arXiv},
   comment          = {an adversary can efficiently extract training data by querying a machine learning model without prior knowledge of the training dataset
@@ -23876,10 +23879,195 @@ Developed assessment and scoring method for assessment and certification. To ear
 ``Our methods show practical attacks can recover far more data than previously thought, and reveal that current alignment techniques do not eliminate memorization''},
   creationdate     = {2024-01-08T11:17:26},
   keywords         = {AI, IP},
-  modificationdate = {2024-01-08T11:19:32},
+  modificationdate = {2024-01-08T11:53:47},
   owner            = {ISargent},
   primaryclass     = {cs.LG},
   year             = {2023},
+}
+
+@Article{Norman2016,
+  author           = {Donald A. Norman},
+  date             = {2016},
+  journaltitle     = {She Ji: The Journal of Design, Economics, and Innovation},
+  title            = {When you come to a fork in the road, take it: The future of design},
+  doi              = {10.1016/j.sheji.2017.07.003},
+  issue            = {4},
+  url              = {https://www.sciencedirect.com/science/article/pii/S2405872617300813},
+  volume           = {2},
+  comment          = {Expresses the contrast between the craft and the evidence-based sides of design - saying that both are needed.
+
+Talks about problem defining rather than solving
+
+Rather than productivity, efficiency and profit - maximise the experience of people involved},
+  creationdate     = {2024-01-12T17:39:49},
+  keywords         = {design},
+  modificationdate = {2024-01-12T17:45:11},
+  owner            = {izzy_olivine},
+}
+
+@Article{HillC2019,
+  author           = {Dan Hill and Stuart Candy},
+  date             = {2019},
+  journaltitle     = {Journal of Futures Studies},
+  title            = {Change the Model},
+  doi              = {10.6531/JFS.201906_23(4).0013},
+  issue            = {4},
+  volume           = {23},
+  comment          = {Introduces a cone of design - like and not-liek a futures cone - in which strategic design includes dark matter ``dark matter being the organisational model, the legal model or the political situation''
+
+Regarding government policy - there is no implicit answer - ``it depends what you do''
+
+Policy tends to using the model to drive the policy (e.g. the model of car and bike use based on the past) rather than considering what a desired outcome could be
+
+So with mobility a possibility is people moving less or more slowly
+
+But may not be acceptible politically so how can we move the Overton window?},
+  creationdate     = {2024-01-13T19:04:11},
+  keywords         = {design, policy},
+  modificationdate = {2024-01-13T19:17:45},
+  owner            = {izzy_olivine},
+}
+
+@Article{BasonA2019,
+  author           = {Christian Bason and Robert D. Austin},
+  date             = {2019},
+  journaltitle     = {Harvard Business Review},
+  title            = {The Right Way to Lead Design Thinking},
+  eprint           = {https://static1.squarespace.com/static/56f53cf6b09f955f052e3847/t/5c8106d61905f4668249bde6/1551959767246/How+to+Lead+Design+Thinking+When+People+Aren’t+Familiar+with+It.pdf},
+  comment          = {``Even more than other change-management processes, design thinking requires active and effective leadership to keep efforts on a path to success''
+
+The method can be unsettling to those involved in it because:
+- the method focusses on achieving connection, even intimacy, with users and so may be emotive
+- divergent thinking and not racing to solution is valued, which can be difficult for people who are used to a clear direction and requirements (e.g. efficiency)
+- iterative prototyping is better when lots of negative results
+
+``Our research has identified three categories of practice that executives can use to lead design-thinking projects to success:
+- leveraging empathy [back the design process, support with distressing emotions, facilitate field experience, communicate qualitatively e.g. audio rather than charts, share feelings]
+- encouraging divergence and navigating ambiguity [legitimise a change in focus, e.g. away from efficiency and towards user-focus, resist the urge to converge quickly on a solution, seven-ways]
+- rehearsing new futures [test possible solutions with end users, staffers, and other stakeholders in quick-and-dirty ways]''
+
+``Leaders of design-thinking projects must draw back when the team hits its stride''
+
+See paper for lots of case studies},
+  creationdate     = {2024-01-13T19:19:53},
+  keywords         = {design, organisation},
+  modificationdate = {2024-01-13T21:50:38},
+  owner            = {izzy_olivine},
+}
+
+@Thesis{Bason2017,
+  author           = {Bason, Christian},
+  date             = {2017},
+  institution      = {Copenhagen Business School (CBS)},
+  title            = {Leading Public Design: How Managers Engage with Design to Transform Public Governance},
+  type             = {phdthesis},
+  url              = {http://hdl.handle.net/10419/209029},
+  comment          = {PhD looking at the experiences and outcomes of using design in public governance
+
+Main research question: 
+What happens when managers engage with design to achieve change in public sector organizations?
+
+I've only read the abstract and introduction
+
+p6:
+Interviews managers in public sector to understand their experiences and outomces - most/all are newcomers to design. Finds activites are along 3 dimensions:
+- Exploring the problem space
+- Generating alternative scenarios
+- Enacting new practices
+
+p6-7:
+And there are 6 types of engagement:
+1. Questioning assumptions
+2. Leveraging empathy
+3. Stewarding divergence
+4. Navigating the unknown
+5. Making the future concrete
+6. Insisting on public value
+
+
+p7-8:
+``Managers who use design approaches seem inclined toward governance that, in comparison to historical public management approaches, is more:
+- Relational
+- Networked
+- Interactive
+- Reflective
+
+more emphasis on future making [like HillC2019 considering the desired outcome?]
+
+Introduction expresses how the use of design approaches to public sector innovation can be transformational not only the service but to the public sector manager. That design approaches are being embedded explicitly in public sector organisations (innovation labs, i-teams, etc). This may be because of financial pressures and growing wicked problems.
+
+Also an emerging understanding of the fluidity of institutions and roles within them p22
+
+However, literature on innovation of public services is under-developed, perhaps partly because its based on product rather than service innovation and partly because it doesn't sufficiently account for the characteristics of the public sector p23
+
+Asks lots of questions p24-5
+
+``Design is thus still largely an unexplored, marginal phenomenon that may hold important lessons – academically and operationally – for the agenda of innovation in the public sector and (wider still) the question of how to intentionally generate societal change''},
+  creationdate     = {2024-01-13T21:50:46},
+  keywords         = {design, organisation, bureaucracy, transformation},
+  modificationdate = {2024-01-13T22:07:24},
+  owner            = {izzy_olivine},
+}
+
+@Online{Nussbaum2011,
+  author           = {Bruce Nussbaum},
+  date             = {2011},
+  title            = {Design Thinking Is A Failed Experiment. So What’s Next?},
+  url              = {https://www.fastcompany.com/1663558/design-thinking-is-a-failed-experiment-so-whats-next},
+  comment          = {Starts with the claim ``Design Thinking has given the design profession and society at large all the benefits it has to offer and is beginning to ossify and actually do harm''
+
+But actually seems to be saying that its the ``process trick'' employed by those promoting design thinking that is at fault - and that the mess, conflict, failure, emotions and looping circularity are lost.
+
+``Design Thinking broke design out of its specialized, narrow, and limited base and connected it to more important issues and a wider universe of profit and non-profit organizations. I believe the concept of Creative Intelligence [CQ] expands that social engagement even further''
+
+I am defining Creative Intelligence as the ability to frame problems in new ways and to make original solutions},
+  creationdate     = {2024-01-13T22:20:29},
+  keywords         = {design},
+  modificationdate = {2024-01-13T22:48:58},
+  owner            = {izzy_olivine},
+}
+
+@Book{Papanek1971,
+  author           = {Victor Papanek},
+  date             = {1971},
+  title            = {Design for the Real World},
+  comment          = {An amazing prevace that includes:
+
+``Advertising design, in persuading people to buy things they don't need, with money they don't have, in order to impress others who don't care, is probably the phoniest field in existence today. Industrial design, by concocting the tawdry idiocies hawked by advertisers, comes a close second ...  industrial design has put murder on a mass-production basis ... criminally unsafe automobiles that kill or maim nearly one million people around the world each year ... whole new species of permanent garbage to clutter up the landscape ...  materials and processes that pollute the air we breathe ... Not a single [book] volume on the responsibility of the designer, no book on design that considers the public in this way, has ever been published anywhere ... Not a single volume on the responsibility of the designer, no book on design that considers the public in this way, has ever been published anywhere ... This book is written from the viewpoint that there is some- thing basically wrong with the whole concept of patents and copyrights ...  In an environment that is screwed up visually, physically, and chemically, the best and simplest thing that architects, industrial designers, planners, etc., could do for humanity would be to stop working entirely [or] we can go beyond not working at all, and work positively. Design can and must become a way in which young people can participate in changing society''
+
+Chapter 1 ``What is design?'':
+``the conscious effort to impose meaningful order''
+There are many different answers to design questions, none is right but some may seem better than others
+
+Can't separate form and function, or claim form follows function ``aesthetic value is an inherent part of function''
+
+6 inherent parts of design:
+1. METHOD: The interaction of tools, processes, and materials (e.g. what is to hand shapes culture and tradition of design)
+2. USE: `Does it work?'
+3. NEED: neglected in favour of more profitable `wants'
+4. TELESIS: use of nature and society to obtain goals, and also seems to be about how design influences nature and society
+5. ASSOCIATION: psychological conditioning, some personal, some universal
+6. AESTHETICS 
+
+Also, designers often attempt to go beyond the primary functional requirements of method, use, need, telesis, association, and aesthetics; they strive for a more concise statement: precision, simplicity - sometime termed elegance},
+  creationdate     = {2024-01-14T15:53:48},
+  keywords         = {design, transformation},
+  modificationdate = {2024-01-14T16:10:17},
+  owner            = {izzy_olivine},
+}
+
+@Article{,
+  url              = {https://www.nplusonemag.com/issue-35/reviews/on-design-thinking/},
+  comment          = {Belief in 1960's that design process could be fully catalogued, described, and rationalized - West Churchman, Herbert Simon
+
+Horst Rittel felt differently, didn't think it could be rationlized. The problem was indeterminate, could always go deeper for another cause, and there weren't true or false answers, only better solutions. Also implemented solutions leave ``traces'' that couldn’t be undone.
+
+
+Rittel teamed up with Melvin M. Webber to define wicked problems, that could never be subject to a single process of resolution.},
+  creationdate     = {2024-01-14T18:18:59},
+  keywords         = {design, organisations},
+  modificationdate = {2024-01-14T21:05:07},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
