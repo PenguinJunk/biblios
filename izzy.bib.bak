@@ -17377,9 +17377,57 @@ Quoted by KahnemanK2009 ``The situation has provided a cue: This cue has given t
   date             = {2007},
   title            = {The Black Swan: The Impact of the Highly Improbable},
   url              = {https://www.penguin.co.uk/books/56380/the-black-swan-by-nassim-nicholas-taleb/9780141034591},
+  comment          = {Extremistan versus Mediocristan - nice table on p36
+
+``all manner of fads, such as astrology superstitions, economics and tarot card reading'' p67
+
+We compress data using causation and narrative, which remove randomness
+
+``all manner of fads, such as astology supersticions, econoics and tarot card reading'' p67
+
+Narratives, if repeated enough, can also help to reduce the regret after events - for them to seem inevitable p75
+
+Biases that mean we focus on what did happen, rather than what almost did. Tendency to see outcomes as caused by events. e.g. the idea that a tough life makes you stronger ignores that fact that only the strong survive.
+
+Platonicity - the tendance to mistake the map with the territory, focus on pure forms [I think this relates to Scott2020 high modernism] pxxix
+
+Ludic fallacy - that there are uncertainties that can be known - like in games - but in reality just about nothing has a known probability p127 [is this why we are naturally bad a statistics?]
+
+Distributions are not Gaussian, more Mandelbrotian p128
+
+``scalable'' jobs - those for which it is possible to work the same amount whilst increasing income. While possible, high income in this jobs (musician, author) is extremely rare. Prior to recording and globalisation, such jobs would not have been scalable. But with the inability to reproduce had fewer exceptionally high incomes but also a greater local demand for any individual.
+
+Tetlock showed how people's predictions are rubbish p151
+
+But forecasters find excuses to keep forecasting, or at least keep their forecasts similar to others' so they can look like anyone was scuppered by the same thing p151-4
+
+[Age is mediocristan] - the longer you live, the shorter your predicted remaining years. [Planning is extremistan] - with [planning fallacy] projects, the longer they go past their delivery date, the further in the future is their likely delivery date p159-6
+
+3 fallacies of prediction:
+1. ignoring the range/precision of a prediction
+2. ignoring that predictions degrade as projected period lengthens
+3. misunderstanding randomness - there may be increase in divergence not just Gaussian tails p161-2
+
+There are ethical risks of predicting p163
+
+Tunnelling - ignoring/failing to recognise the possibility of Black Swans
+
+``To predict the spread of a technology implies predicting a large element of fads and social contagion'' p170
+
+Poincar\'e and others before and since observed that projects into the future require increasingly precise knowledge at the start p176-9 chaos theory
+
+Barbell strategy p205
+Tricks a to e p206-19
+Asymmetry p210
+
+The Matthew effect, cumulative advantage [success to the successful] p216-8
+
+Chapter on Gaussian, why it often (mostly?) does not hold p229-246
+
+Arguing for users of Gaussian to justify its use p245},
   creationdate     = {2023-10-02T21:42:37},
   keywords         = {decisions},
-  modificationdate = {2023-10-02T21:43:58},
+  modificationdate = {2024-01-15T20:46:32},
   owner            = {ISargent},
 }
 
@@ -21593,10 +21641,10 @@ Given knowledge that coutnries in middle and far east are seeking from OS},
   url              = {https://www.sciencedirect.com/science/article/pii/S1462901114001142},
   volume           = {42},
   abstract         = {Environmental research varies in its methodological quality, degree of bias, and relevance to policy questions. Using this heterogeneous, and sometimes polarised, research to inform environmental policies can be challenging. Policy-making in the healthcare field sometimes uses systematic reviews (SRs) to tackle these issues and present a comprehensive, policy-neutral, transparent and reproducible synthesis of the evidence. However, there is less familiarity with SRs in the environmental field. The aim of this article is to: (1) summarise the process of conducting SRs, using best practice methods from the healthcare field as an example, (2) explain the rationale behind each stage of conducting a SR, and (3) examine the prospects and challenges of using SRs to inform environmental policy. We conclude that existing SR protocols from healthcare can be, and have been, applied successfully to environmental research but some adaptations could improve the process. The literature search stage could be expedited by standardising the reporting and indexing of environmental studies, equivalent to that in the healthcare field. The consistency of the study appraisal stage of SRs could be augmented by refining the existing quality assessment tools used in the healthcare field, enhancing their ability to discriminate quality and risk of bias in non-randomised studies. Ultimately, the strength of evidence within SRs on environmental topics could be improved through more widespread use of randomised controlled trials as a research method, owing to their inherently lower risk of bias when conducted according to best practice.},
-  comment          = {Because Defra research was not delivering in a way that policy makers could understand, this process was developed},
+  comment          = {Because Defra research was not delivering in a way that policy makers could understand, this process was developed to become a kind of template for how researched was reviewed},
   creationdate     = {2023-12-04T22:49:59},
   keywords         = {policy, research, Systematic review, Literature review, Environment},
-  modificationdate = {2023-12-06T06:53:56},
+  modificationdate = {2024-01-15T15:41:50},
   owner            = {izzy_olivine},
 }
 
@@ -24056,18 +24104,78 @@ Also, designers often attempt to go beyond the primary functional requirements o
   owner            = {izzy_olivine},
 }
 
-@Article{,
+@Article{Gram2019,
+  author           = {Maggie Gram},
+  date             = {2019},
+  journaltitle     = {{n+1}},
+  title            = {On Design Thinking},
+  issue            = {Issue 35: Savior Complex},
   url              = {https://www.nplusonemag.com/issue-35/reviews/on-design-thinking/},
   comment          = {Belief in 1960's that design process could be fully catalogued, described, and rationalized - West Churchman, Herbert Simon
 
-Horst Rittel felt differently, didn't think it could be rationlized. The problem was indeterminate, could always go deeper for another cause, and there weren't true or false answers, only better solutions. Also implemented solutions leave ``traces'' that couldn’t be undone.
+Horst Rittel felt differently, didn't think it could be rationlized. The problem was indeterminate, could always go deeper for another cause, and there weren't true or false answers, only better solutions. Also implemented solutions leave ``traces'' that couldn’t be undone. Early in his career he called design ``planning'' - the planning of complex systems, environments and tools. It was only when planning was seen as top-down rationalism that he used ``design''more.
 
+Rittel teamed up with Melvin M. Webber to define wicked problems, that could never be subject to a single process of resolution.
 
-Rittel teamed up with Melvin M. Webber to define wicked problems, that could never be subject to a single process of resolution.},
+Victor Papanek published Papanek1971 in which he exhorts designers to tackle only complicated problems: ecological catastrophe, say, rather than ``mass leisure and phony fads''
+
+David Kelley met Steve Jobs, signed the first compute mouse, formed IDEO and went on to design many things but biggest hit was the phrase ``Design Thinking''
+
+Guerrilla fighters in Colombian jungle convinced out with christmas lights saying ``If Christmas can come to the jungle, you can come home. Demobilize. At Christmas everything is possible''
+
+But also failures of design, such as in Gainsville, which underminrf many existing city employees and failed to consider or address deep inequalities. 
+
+``by embracing ``design thinking'' we attribute to design a kind of superior epistemology: a way of knowing, of ``solving'' that is better than the old and local and blue-collar and municipal and unionized and customary ways''
+
+``Stop at that top turtle and you miss that it’s turtles all the way down''},
   creationdate     = {2024-01-14T18:18:59},
   keywords         = {design, organisations},
-  modificationdate = {2024-01-14T21:05:07},
+  modificationdate = {2024-01-15T20:12:54},
   owner            = {izzy_olivine},
+}
+
+@Article{MorrisSFWDFFL2024,
+  author           = {Meredith Ringel Morris and Jascha Sohl-dickstein and Noah Fiedel and Tris Warkentin and Allan Dafoe and Aleksandra Faust and Clement Farabet and Shane Legg},
+  title            = {Levels of AGI: Operationalizing Progress on the Path to AGI},
+  url              = {https://arxiv.org/abs/2311.02462},
+  archiveprefix    = {arXiv},
+  comment          = {Propose a framework for classifying the capabilities and behavior of Artificial General Intelligence (AGI) models and their precursors
+
+``The concept of AGI is important as it maps onto goals for, predictions about, and risks of AI''
+
+Analyse nine prominent definitions of AGI
+
+Define AGI with 6 principles:
+1. Focus on Capabilities, not Processes
+2. Focus on Generality and Performance
+3. Focus on Cognitive and Metacognitive Tasks
+4. Focus on Potential, not Deployment
+5. Focus on Ecological Validity - ``tasks that align with real-world tasks that people value''
+6. Focus on the Path to AGI, not a Single Endpoint
+
+Two dimensions of AGI:
+- performance
+- generality
+
+Levels of performance of AGI into which narrow and general can be classified:
+0. No AI
+1. Emerging
+2. Competant (``at least 50th percentile of skilled adults'')
+3. Expert (``at least 90th percentile of skilled adults'')
+4. Virtuoso (``at least 99th percentile of skilled adults'')
+5. Superhuman (``outperforms 100\% of humans'')
+
+Suggest that model cards MitchellEtAl2019 are used to document the perfomance levels of a model
+
+observed that AGI is not necessarily synonymous with autonomy
+
+From \href{https://info.deeplearning.ai/ai-discovers-new-antibiotics-openai-revamps-safety-researchers-define-agi-llms-go-multimodal-1}{The Batch}: ``it includes neither a list of tasks a system must perform to be considered general nor a method for selecting them. Rather, the authors call on the research community to develop a “living benchmark” for generality that includes a mechanism for adding novel tasks''},
+  creationdate     = {2024-01-16T10:16:36},
+  keywords         = {AI},
+  modificationdate = {2024-01-16T10:38:02},
+  owner            = {ISargent},
+  primaryclass     = {cs.AI},
+  year             = {2024},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
