@@ -22041,7 +22041,7 @@ It's important to note that ethical behavior can contribute to a safer environme
 Argue that societal and political issues surrounding contemporary AI systems can have far-reaching impacts on humanity through their potential acting as existential risk factors, rather than solely through the development of unaligned AGI
 
 AI can shift or strengthen existing power dynamics:
-- state-steate power relationships
+- state-state power relationships
 - state-corporation power relationships
 - state-citizen power relationships
 
@@ -22057,7 +22057,7 @@ Risk is as a direct impacts on social and political structures as well as:
 - unaligned AGI},
   creationdate     = {2023-12-09T20:48:14},
   keywords         = {trust, ethics, AI, technology, AISummit, policy, systems},
-  modificationdate = {2023-12-09T20:55:29},
+  modificationdate = {2024-01-17T07:22:31},
   month            = {7},
   owner            = {izzy_olivine},
   year             = {2022},
@@ -24138,7 +24138,7 @@ But also failures of design, such as in Gainsville, which underminrf many existi
   author           = {Meredith Ringel Morris and Jascha Sohl-dickstein and Noah Fiedel and Tris Warkentin and Allan Dafoe and Aleksandra Faust and Clement Farabet and Shane Legg},
   date             = {2024},
   journaltitle     = {ArXiv},
-  title            = {Levels of AGI: Operationalizing Progress on the Path to AGI},
+  title            = {Levels of {AGI}: Operationalizing Progress on the Path to {AGI}},
   url              = {https://arxiv.org/abs/2311.02462},
   archiveprefix    = {arXiv},
   comment          = {Propose a framework for classifying the capabilities and behavior of Artificial General Intelligence (AGI) models and their precursors
@@ -24174,7 +24174,7 @@ observed that AGI is not necessarily synonymous with autonomy
 From \href{https://info.deeplearning.ai/ai-discovers-new-antibiotics-openai-revamps-safety-researchers-define-agi-llms-go-multimodal-1}{The Batch}: ``it includes neither a list of tasks a system must perform to be considered general nor a method for selecting them. Rather, the authors call on the research community to develop a “living benchmark” for generality that includes a mechanism for adding novel tasks''},
   creationdate     = {2024-01-16T10:16:36},
   keywords         = {AI},
-  modificationdate = {2024-01-16T10:38:23},
+  modificationdate = {2024-01-16T10:39:36},
   owner            = {ISargent},
   primaryclass     = {cs.AI},
   year             = {2024},
