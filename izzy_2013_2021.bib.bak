@@ -40,7 +40,7 @@
   comment      = {Given a dictionary, D, a signal, y, can be encoded as y = Dx where x is sparse. A collection of signals, Y, can be encoded as Y = DX where X is sparse a matrix. In the standard case, ``each signal is assumed to be a single measurement associated with a unique non-zero pattern of its sparse representation (i.e. a unique combination of atoms)''. This is the Single Measurement Vector (SMV) model. However, the case ``in which all the sparse representations share the same non-zero pattern is referred to as the Multiple Measurement Vector (MMV) or joint-sparsity model''. This paper gives simple graphical representations of this although I can't quite understand the when the MMV would apply. For anomaly detection, the model is extended to Y = DX + E +V. It assumed that D is known, ``E has few non-zero columns that equal to the deviation of each outlier from the sparse representations model, and V is a low-energy noise component''. Provides lots of pseudo code and applies the Alternating Directoin method of Multipliers (ADMM) to finding anomalies. Applied method of arrhythmia detection and to remove specular reflectance and shadow from natural images.},
   creationdate = {2013.09.27},
   keywords     = {Machine Learning, Sparse Coding, Anomaly Detection},
-  month        = {September},
+  month        = {9},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -74,7 +74,7 @@
   title     = {Covariate Shift Approach For Invariant Texture Classification},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SI GNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {The covariate shift is the shift in the input densities between the training data set and the testing data set. This occurs even thought the conditional distribution remains the same. Importance weighting is a method of overcoming this by weighting training inputs according to how well they represent the testing input distribution (references given). One method of importance weighting uses the Kullback-Leibler (KL) divergence. This was applied to SVM to created an importance weighted support vector machine (IW-SVM). This paper used the Brodatz texture album which contains textures from real-world things. The album also contains rotated and scaled textures. The IW-SVM doesn't perform as well as other method with the non-rotated test set but performance is better for the rotated and the scaled data.},
   keywords  = {Machine Learning, Classification, Texture Analysis},
@@ -87,7 +87,7 @@
   title     = {Fast Newton Nearest Neighbors Boosting For Image Classification},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {Massive databases of images, each of which belong to one or more class. Propose Newton-Raphson variant of k-NN to perform classification.},
   keywords  = {Machine Learning, Image Categorisation, ImageLearn},
@@ -133,7 +133,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   comment      = {Building computers that operate like brains. This is more than just neural network software but hardware that works a bit like brains. Karlheinz Meier, University of Heidelberg three characteristics that brains have and computers do not: 1) low power consumption (human brains use about 20 watts, whereas the supercomputers currently used to try to simulate them need megawatts) 2) fault tolerance (losing just one transistor can wreck a microprocessor, but brains lose neurons all the time) 3) a lack of need to be programmed (brains learn and change spontaneously as they interact with the world, instead of following the fixed paths and branches of a predetermined algorithm) ``Science has a passable knowledge of how individual nerve cells, known as neurons, work. It also knows which visible lobes and ganglia of the brain do what. But how the neurons are organised in these lobes and ganglia remains obscure. Yet this is the level of organisation that does the actual thinking, and is, presumably, the seat of consciousness.'' ``asynchronous signalling ... can process data more quickly than the synchronous sort, since no time is wasted waiting for the clock to tick'' Analogue computers, sub-threshold domain. ``a human brain contains about 86 billion neurons, each is within two or three connections of all the others via myriad potential routes''. ``The neocortex, where most neurons reside and which accounts for three-quarters of the brain's volume, is made up of lots of columns, each of which contains about 70,000 neurons.''},
   creationdate = {2013.10.15},
   keywords     = {neuromorphic computing},
-  month        = {3rd August},
+  month        = {8},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -168,7 +168,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   title        = {Deep Machine Learning - A New Frontier in Artificial Intelligence Research},
   journaltitle = {IEEE Computational Intelligence Magazine},
   year         = {2010},
-  month        = {November},
+  month        = {11},
   pages        = {13-18},
   url          = {http://web.eecs.utk.edu/~itamar/Papers/CIM2010.pdf},
   comment      = {Bought from IEEE, find in library in personal drive. A useful overview of deep (machine) learning. Covers convolutional neural networks, deep belief networks, convolutional deep belief networks and Hierarchical temporary memory. Useful references for all of these as well as neuro-science on which it is based. A short section on applications (handwriting, speech, face as well as one reference for general objects HuangL06).},
@@ -182,7 +182,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   title     = {Inducing Discrimination In Biologically Inspired Models Of Visual Scene Recognition},
   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2013},
-  month     = {June},
+  month     = {6},
   address   = {Providence, RI, USA},
   comment   = {University of Southampton. Quite hard to understand. Paper is about the discriminatory ability of two generative models, multivariate Gaussian and Restricted Boltzman machine. Propose to derive a Fisher kernel (kernal that enhances discrimination between observations, I think) from the RBM. Use texture and handwritten character benchmark data sets. Results don't look all that convincing but it is very interesting that this work is being undertaken at Southampton.},
   keywords  = {Machine Learning, Computer Vision, Representation Learning, ImageLearn},
@@ -212,7 +212,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   year         = {2014},
   volume       = {3},
   number       = {3},
-  month        = jul,
+  month        = {7},
   pages        = {1--16},
   issn         = {2156-1710},
   doi          = {10.4018/ij3dim.2014070101},
@@ -220,7 +220,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   acmid        = {2738646},
   address      = {Hershey, PA, USA},
   comment      = {use 3D models to model energy in city - energy loss and gain through buildings. buildings modelled to LOD2 with some semantic information},
-  issue_date   = {July 2014},
+  date   = {2014},
   keywords     = {Agent-Based Modelling, Energy Systems, Heat Energy Demand, Keywords: 3D City Model, Urban Planning, 3DCharsPaper},
   numpages     = {16},
   owner        = {ISargent},
@@ -263,7 +263,7 @@ Gives a fairly detailed history of MCMC including references. Reasons for doing 
   title     = {Learning Incoherent Subspaces For Classification Via Supervised Iterative Projections And Rotations},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {Includes brief review of feature transform methods principal component analysis (PCA) and Fisher's linear discriminant analysis (LDA). Also simple description of incoherent dictionary learning 'Dictionary learning aims at optimising a dictionary for sparse approximation given a set of training data. It is an unsupervised technique that can be thought as being a generalisation of PCA, as both methods learn linear subspaces that minimise the approximation error of the signals. Dictionary learning, however, is generally more flexible than PCA because it can be employed to learn more general non-orthogonal over-complete dictionaries'. includes useful descriptions, references and pseudo code for incoherence subspace projection. Test on iris data set and include some plots that look good.},
   keywords  = {Machine Learning, Classification, Feature TraCoding, Sparse Coding},
@@ -528,7 +528,7 @@ Representation learning allows the learning of non-task-specific priors. The obj
   address      = {Dubai, UAE},
   comment      = {Really valuable paper looking at the effect of different building heights on analysis using block models. includes useful references for different uses of block models. Relates block models to CityGML and INSPIRE, both of which seem to have several options for the location of the height measure. identifies 7 different heights which are a mix of real-world features (eave, top) and technical heights (third, half roof). Create a synthetic city with synthetic LOD3 models as 'ground truth' from which the various height block models area created. Find H3, which is one half the roof height, results in the least RMSE when calculating volumes. ``We have shown that, while LOD1 is the simplest volumetric form in CityGML, it is surrounded by potential ambiguities because its geometry may be modelled in many variants...we have shown with experiments the potentially drastic difference between the variants with respect to a GIS operation (volume computation)''},
   creationdate = {2015.11.09},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -591,7 +591,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   title        = {The Ignorant Led by the Blind: A Hybrid Human-Machine Vision System for Fine-Grained Categorization},
   journaltitle = {International Journal of Computer Vision},
   year         = {2014},
-  month        = {February},
+  month        = {2},
   abstract     = {We present a visual recognition system for fine-grained visual categorization. The system is composed of a human and a machine working together and combines the complementary strengths of computer vision algorithms and (non-expert) human users. The human users provide two heterogeneous forms of information object part clicks and answers to multiple choice questions. The machine intelligently selects the most informative question to pose to the user in order to identify the object class as quickly as possible. By leveraging computer vision and analyzing the user responses, the overall amount of human effort required, measured in seconds, is minimized. Our formalism shows how to incorporate many different types of computer vision algorithms into a human-in-the-loop framework, including standard multiclass methods, part-based methods, and localized multiclass and attribute methods. We explore our ideas by building a field guide for bird identification. The experimental results demonstrate the strength of combining ignorant humans with poor-sighted machines the hybrid system achieves quick and accurate bird identification on a dataset containing 200 bird species.},
   comment      = {This looks fascinating. An application that uses CV to generate the most intelligent question for the human such that a classification can be arrived at as soon as possible. Utilises the best aspects of machines and of humans.},
   keywords     = {machine learning},
@@ -638,7 +638,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   comment      = {Excellent and very short paper saying why confidence intervals, P-values etc are not good because they are not understood and easy to cheat with. Talks about the great Bayesian Switch. ``Equipped only with their common sense and ignorant of fine distinctions of philosophy we statisticians spend years assimilating, civilians before they come to us think like Bayesians. We do our best, by repetition and by rote, to beat this out of them...''},
   creationdate = {2014.10.03},
   keywords     = {statistics},
-  month        = {January},
+  month        = {1},
   owner        = {ISargent},
   year         = {2012},
 }
@@ -746,7 +746,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   comment      = {''We then propose a novel deep learning framework to merge [stacked autoencoders with a new way of classifying with spatial-dominated information], from which we can get the highest classification accuracy. The framework is a hybrid of principle component analysis (PCA), deep learning architecture, and logistic regression.'' Compress the spectral dimension using PCA and then extract neighbourhood regions around each pixel that are then flattened for forward propogation through the stacked autoencoder. Interesting that they use patches with a AE rather than CNN.},
   creationdate = {2016.05.11},
   keywords     = {ImageLearn, Spatial Scale, Hyperspectral, RemoteDeepLEAP, DeepLEAP},
-  month        = {June},
+  month        = {6},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -788,7 +788,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   comment      = {University of Exeter. Actual work is on predicting sea state within a 3-4 second window (for use in optimising wave power generation). Previous paper introduced robust bayesian spectral analysis and this paper looks at the effect of missing data on the model. Uses precipitation data because wave data not available. Finds that if missing data are in a block, up to 50\% of the data can be missing. Much less is data are randomly missing.},
   creationdate = {2013.09.30},
   keywords     = {Machine Learning, Bayesian Methods},
-  month        = {September},
+  month        = {9},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -946,7 +946,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   year      = {2005},
   editor    = {C. Schmid and S. Soatto and C. Tomas},
   volume    = {1},
-  month     = {June},
+  month     = {6},
   pages     = {886-893},
   url       = {http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1467360},
   address   = {San Diego, USA},
@@ -960,7 +960,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   title        = {Getting to Know Machine Learning},
   journaltitle = {UX Magazine},
   year         = {2011},
-  month        = {14 December},
+  date        = {2011-12-14},
   pages        = {Article No. 773},
   url          = {http://uxmag.com/articles/getting-to-know-machine-learning},
   comment      = {Getting to Know Machine Learning},
@@ -988,7 +988,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   title     = {Impact of Geospatial Information on Economy and Society},
   booktitle = {Geospatial World Forum},
   year      = {2016},
-  month     = {May},
+  month     = {5},
   comment   = {Slides show the economic impact created by geospatial information on national economies of Australia, New Zealand, USA, Canada, Ireland, England and Wales.},
   owner     = {ISargent},
   creationdate = {2016.09.21},
@@ -1043,7 +1043,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   comment      = {Surveys and workshops current users of 2D data to understand who they are, what they do and if 3D would improve what they do. Indication are that existing applications would benefore from 3D data. visualisation would be the a use common to different applications but other requirements tend to be more application-specific. It would not be possible to design thedata model to suit all uses so suggest an interative approach to developing 3D data, cycling through the requirements, the data models, the implented large-scale topographic database and the applications. Data model would start by focussing on the common requirement, visualisation, and with each iterations be increasing detailed or extended. Gives a table showing what object clasess (buildings, trees, road infrastructure, water/river, terrain modela dn cables/pipelines) are important to each application. I have PDF.},
   creationdate = {2015.11.10},
   keywords     = {3DCharsPaper},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2010},
 }
@@ -1056,7 +1056,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   comment      = {''As an alternative to a semantic analysis, we searched for inter-document references or direct references. Direct references are defined as terms that explicitly refer to other documents present in the inventory. We show that the grouping based on references is largely similar to the one based on semantics, but with considerably less computational efforts. `` Linking documents in an inventory of 6,919 useful documents and over 330,000 pages. Full text semantic search method took around 6 months for whole inventory whereas search for direct references took only an hour. At poster, author said the reason for not continuing this work is that it is ``too technical and we are scientists''. The work has been transfered to a commercial organisation to continue.},
   creationdate = {2013.09.30},
   keywords     = {Machine Learning, Natural Language Processing},
-  month        = {September},
+  month        = {9},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -1075,16 +1075,17 @@ for a comprehensive decision to be made before producing 3D city models. More wo
   creationdate    = {2013.04.05},
 }
 
-@Other{DeepLearningTutorial,
-  author       = {{Deep Learning Tutorial}},
-  comment      = {''stacking many such layers leads to (non-linear) ``filters'' that become increasingly ``global'' (i.e. responsive to a larger region of pixel space).''},
-  creationdate = {2016.05.11},
-  keywords     = {ImageLearn, CNN, Spatial Scale},
-  owner        = {ISargent},
-  title        = {Convolutional Neural Networks (LeNet)},
-  url          = {http://deeplearning.net/tutorial/lenet.html},
-  urldate      = {2016.05.11},
-  year         = {2016},
+@Misc{DeepLearningTutorial,
+  author           = {{Deep Learning Tutorial}},
+  title            = {Convolutional Neural Networks (LeNet)},
+  url              = {http://deeplearning.net/tutorial/lenet.html},
+  urldate          = {2016.05.11},
+  comment          = {''stacking many such layers leads to (non-linear) ``filters'' that become increasingly ``global'' (i.e. responsive to a larger region of pixel space).''},
+  creationdate     = {2016.05.11},
+  keywords         = {ImageLearn, CNN, Spatial Scale},
+  modificationdate = {2023-12-06T08:00:49},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @InProceedings{Deng2014,
@@ -1184,7 +1185,7 @@ for a comprehensive decision to be made before producing 3D city models. More wo
 Also extract features from networks pretrained with ImageNet, train different classifiers (logistic regression, SVM) and compare ability to transfer against CalTexh-101 (in both cases dropout improved results) and on the Office domain adaptation test dataset. Also tested capacity of pretraining on subcategory recognition using the Caltech-UCSD birds dataset and on scene recognition using the e SUN-397 large-scale scene recognition database.},
   creationdate = {2017.09.08},
   keywords     = {deep learning, pretraining, image classification, object detection, MLStrat Object},
-  month        = {22--24 Jun},
+  month        = {6},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -1297,7 +1298,7 @@ Also extract features from networks pretrained with ImageNet, train different cl
   year      = {2013},
   volume    = {II-2/W1},
   note      = {ISPRS 8th 3DGeoInfo Conference \& WG II/2 Workshop},
-  month     = {November},
+  month     = {11},
   url       = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/II-2-W1/129/2013/isprsannals-II-2-W1-129-2013.pdf},
   address   = {Istanbul, Turkey},
   comment   = {Testing differences in rendering 3D data between block models and models with roof shapes. There is a significant time difference. Excellent paper for references on applications of 3D data as well as their creation.},
@@ -1348,7 +1349,7 @@ Also extract features from networks pretrained with ImageNet, train different cl
   Year                     = {2009},
   Number                   = {1341},
 
-  Date                     = {June},
+  Date                     = {6},
   Keywords                 = {ImageLearn, visualisation},
   Owner                    = {ISargent},
   creationdate                = {2017.05.30}
@@ -1446,7 +1447,7 @@ Economics/Humanitarian Issues
 Law},
   creationdate     = {2017.01.05},
   keywords         = {AI, Ethics, EthicsWS},
-  modificationdate = {2022-12-17T20:46:46},
+  modificationdate = {2023-12-11T08:01:14},
   organisation     = {IEEE},
   owner            = {ISargent},
   year             = {2019},
@@ -1457,7 +1458,7 @@ Law},
   title     = {A 3D geometrical model of the non-domestic building stock of England and Wales},
   booktitle = {Building Simulation and Optimisation conference},
   year      = {2014},
-  month     = {June},
+  month     = {6},
   url       = {http://www.bartlett.ucl.ac.uk/energy/news/documents/BSO14_Paper_026.pdf},
   address   = {University College London},
   comment   = {Work produced using AddressBase Premium and Sites layer data for GB and a small area of Topo data with Building Height Attribute using geospatial data to understand energy use in buildings better.},
@@ -1508,7 +1509,7 @@ Law},
   title     = {3{D} Feature Point Extraction from Lidar Data Using a Neural Network},
   booktitle = {ISPRS XXIII CONGRESS},
   year      = {2016},
-  date      = {12-19 July},
+  date      = {2016},
   comment   = {Detect features for matching between images using neural network.},
   owner     = {ISargent},
   creationdate = {2016.07.05},
@@ -1519,7 +1520,7 @@ Law},
   title        = {Deep Learning for Computer Vision},
   year         = {2013},
   howpublished = {Tutorial at NIPS 2013},
-  month        = {December},
+  month        = {12},
   url          = {http://research.microsoft.com/apps/video/default.aspx?id=206976&l=i},
   comment      = {Overview of the state of the art of deep learning introduced by Chris Bishop. Log book 7/8/14.},
   owner        = {ISargent},
@@ -1546,7 +1547,7 @@ Law},
   title     = {Representation Learning for Contextual Object and Region Detection in Remote Sensing},
   booktitle = {22nd International Conference on Pattern Recognition (ICPR)},
   year      = {2014},
-  month     = {August},
+  month     = {8},
   pages     = {3708-3713},
   doi       = {10.1109/ICPR.2014.637},
   address   = {Stockholm, Sweden},
@@ -1719,7 +1720,7 @@ Law},
   title     = {Cost-effective reconstruction of BIM from 2{D} scanned plan: experiments on existing buildings},
   booktitle = {Sustainable Places},
   year      = {2015},
-  month     = {September},
+  month     = {9},
   address   = {Savona, Italy},
   comment   = {Paper describing method of creating 3D building models from 2D plans. Divide model into geometry, topology and semantics. Employs methods of vectorisation and pattern recognition to idetnify walls and other elements and automatic recognition of text elements and human intervention to reconstruct the building.},
   keywords  = {3D extraction},
@@ -1739,7 +1740,7 @@ Law},
   address      = {Rio de Janeiro, Brazil},
   creationdate = {2016.11.22},
   keywords     = {DeepLEAP1},
-  month        = {May},
+  month        = {5},
   owner        = {ISargent},
   year         = {2012},
 }
@@ -1779,7 +1780,7 @@ Law},
   comment      = {Probably a more recent version of GoldLuckeC09.},
   creationdate = {2014.01.17},
   keywords     = {3D, super resolution},
-  month        = {January},
+  month        = {1},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -1880,17 +1881,31 @@ Law},
 }
 
 @Article{GraceSDZE2017,
-  author       = {Katja Grace and John Salvatier and Allan Dafoe and Baobao Zhang and Owain Evans},
-  date         = {24 May 2017},
-  title        = {When Will AI Exceed Human Performance? Evidence from AI Experts},
-  url          = {https://arxiv.org/abs/1705.08807},
-  abstract     = {Advances in artificial intelligence (AI) will transform modern life by reshaping transportation, health, science, finance, and the military [1, 2, 3]. To adapt public policy, we need to better anticipate these advances [4, 5]. Here we report the results from a large survey of machine learning researchers on their beliefs about progress in AI. Researchers predict AI will outperform humans in many activities in the next ten years, such as translating languages (by 2024), writing high-school essays (by 2026), driving a truck (by 2027), working in retail (by 2031), writing a bestselling book (by 2049), and working as a surgeon (by 2053). Researchers believe there is a 50\\% chance of AI outperforming humans in all tasks in 45 years and of automating all human jobs in 120 years, with Asian respondents expecting these dates much sooner than North Americans. These results will inform discussion amongst researchers and policymakers about anticipating and managing trends in AI.},
-  comment      = {Surveyed AI experts to get predictions of when AI will surpass human ability in different areas.},
-  creationdate = {2017.06.19},
-  journal      = {arXiv},
-  keywords     = {AI, Ethics, Transition, MLStrat Experts},
-  owner        = {ISargent},
-  year         = {2017},
+  author           = {Katja Grace and John Salvatier and Allan Dafoe and Baobao Zhang and Owain Evans},
+  date             = {2017-05-24},
+  journaltitle     = {CoRR},
+  title            = {When Will AI Exceed Human Performance? Evidence from AI Experts},
+  eprint           = {1705.08807},
+  eprinttype       = {arXiv},
+  url              = {https://arxiv.org/abs/1705.08807},
+  volume           = {abs/1705.08807},
+  abstract         = {Advances in artificial intelligence (AI) will transform modern life by reshaping transportation, health, science, finance, and the military [1, 2, 3]. To adapt public policy, we need to better anticipate these advances [4, 5]. Here we report the results from a large survey of machine learning researchers on their beliefs about progress in AI. Researchers predict AI will outperform humans in many activities in the next ten years, such as translating languages (by 2024), writing high-school essays (by 2026), driving a truck (by 2027), working in retail (by 2031), writing a bestselling book (by 2049), and working as a surgeon (by 2053). Researchers believe there is a 50\% chance of AI outperforming humans in all tasks in 45 years and of automating all human jobs in 120 years, with Asian respondents expecting these dates much sooner than North Americans. These results will inform discussion amongst researchers and policymakers about anticipating and managing trends in AI.},
+  bibsource        = {dblp computer science bibliography, \url{https://dblp.org}},
+  biburl           = {https://dblp.org/rec/journals/corr/GraceSDZE17.bib},
+  comment          = {Surveyed AI experts to get predictions of when AI will surpass human ability in different areas.
+
+Survey of 352 `top' AI researchers. Lots of disagreement.
+
+When will machines achieve high level machine intelligence - wide range of views and depends on how the question was asked
+
+Also discusses AI safety and how experts seem to underestimate the need to address this (despite `5\% chance of human extinction')
+
+Summarised brilliantly here:  \url{https://www.youtube.com/watch?v=HOJ1NVtlnyQ}},
+  creationdate     = {2017.06.19},
+  keywords         = {AI, Transition, MLStrat, trust, ethics, AISummit},
+  modificationdate = {2023-12-11T07:59:16},
+  owner            = {ISargent},
+  year             = {2017},
 }
 
 @Article{GrogerP2012,
@@ -1912,7 +1927,7 @@ Law},
   url          = {http://www.microsoftpdc.com/2009/VTL03},
   comment      = {Call the signal to desired value problem ``reasoning backwards''. Infer.NET, like other probabilistic programming tools, works with probability distributions (rather than running problems many times). E.g. use inference engine to infer new distribution given observed values. Can have forwards and backwards messages. Have seen up to 25 minutes in - real examples after this point. variable.if() statement has variable.ifnot() statement, the latter being a bit like else. However, in probabilistic programming both statements are executed. Gives examples of clicking on web search results and TrueSkill for judging Halo players. 100's of lines of code for TrueSkill and several months to develop but with Infer.NET only a few lines and an hour to develop. Can use if() and ifnot() to create variables with different distributions if don't know what distribution to use.},
   creationdate = {2014.06.03},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2009},
 }
@@ -1997,7 +2012,7 @@ Law},
 
 @Book{HallPW2016,
   author    = {Patrick Hall and Wen Phan and Katie Whitson},
-  date      = {May},
+  date      = {5},
   title     = {The Evolution of Analytics: Opportunities and Challenges for Machine Learning in Business},
   comment   = {A short free eBook written well without sensation. Puts machine learning into a wider context of analytics as well as artificial intelligence and gives a short background to ML. A series of sections then describe three modern applications of machine learning: recommendation systems, streaming analytics, deep learning and cognitive computing. The third section considers 5 areas where the business will face challenges to the adoption of ML: organisational, data, infrastructure, modelling, and, operational and production. Organisational challenges include talent scarcity and lack of engagement - solutions include creating a centre of excellence that will then efficiently use analytic talent within the organisation; making analytics more approachable by providing approachable interfaces (and I would argue: data); employing a chief analytics officer who can champion analytics both in IT (usu realm of CIO) and business (usually the realm of CMO) and; having processes in place to enable a data-driven culture. Data challenges include various data quality problems, which can be fixed but the truth is that the majority of time on algorithm development is spent on preparing data and dealing with quality issues. Data security and governance is also important but there don't seem to be any clear approaches apart from addressing these are the start of a ML exercise. There are challenges around integrating different types of data, and feature extraction, selection and engineering can help this. And data need to be easy to explore so that data scientists can make effective decisions on which data to appropriately use. Infrastructure challenges are largely around the best way to store data and files, and compute power. These need to allow the data scientist to work efficiently and can be highly dynamic so designing in 'elasticity' will allow optimal use of resources. Machine learning models can be complex and difficult to interpret and this is a challenge to their adoption in some areas. Operational and production challenges arise when developed models needs to be deployed and consideration of where the data are stored and the programming language of the final model can make a significant difference when scaling up to production. Additionally, means to regularly or continually upgrade models are essential if accuracy of the outcome is to be maintained (or improved) over time and this can be acheived using either a 'challenger model' approach (whereby an alternative model is developed alongside the existing one) or online learning which is constantly updating with new data. Because operational systems are critical there is a need for tighter controls and governance but this must be balanced by the need to innovate and quickly evaluate new algorithms, libraries and tools. The final sections give a couple of case studies, firstly of a healthcare information company that analyses patient data consumer analysis company that enables decision making about customers for marketing, credit, etc. Useful things from these that I identified were: putting in feedback screens within the systems allowed operators/patients to update the system if the models had made inaccurate predictions, thereby improving the model; Equifax is a company that analyses billions of social media posts and relates this to buying behaviour; using Neural Decision technology Equifax is able to produce reason codes that explain the logic behind their model's (neural net) 'decision'; trying new things takes more time and its managements' responsibility to create space for this research and development to occur; the importance of preserving the experimental graduate schell mindset in the workplace.},
   keywords  = {Machine learning, AI, operational, MLStrat Programme},
@@ -2133,7 +2148,7 @@ we discussed in the introduction, if the added layers can be constructed as iden
   url          = {http://www.cs.toronto.edu/~hinton/absps/fastnc.pdf},
   volume       = {18},
   abstract     = {We show how to use ``complementary priors'' to eliminate the explaining away effects that make inference difficult in densely-connected belief nets that have many hidden layers. Using complementary priors, we derive a fast, greedy algorithm that can learn deep, directed belief networks one layer at a time, provided the top two layers form an undirected associative memory . The fast, greedy algorithm is used to initialize as lower learning procedure that fine-tunes the weights using a contrastive version of the wake-sleep algorithm. After fine-tuning, a network with three hidden layers forms a very good generative model of the joint distribution of handwritten digit images and their labels. This generative model gives better digit classification than the best discriminative learning algorithms. The low-dimensional manifolds on which the digits lie are modelled by long ravines in the free-energy landscape of the top-level associative memory and it is easy to explore these ravines by using the directed connections to display what the associative memory has in mind},
-  comment      = {Possibly the first paper of training deep networks one layer at a time. Useful hints from google+ deep learning group on understanding this paper: https://plus.google.com/u/0/108611294554440482097/posts/KmsA6182SQQ?cfem=1},
+  comment      = {Possibly the first paper of training deep networks one layer at a time. Useful hints from google+ deep learning group on understanding this paper: \url{https://plus.google.com/u/0/108611294554440482097/posts/KmsA6182SQQ?cfem=1}},
   creationdate = {2013.11.20},
   keywords     = {Representation learning, deep learning, ImageLearn, DeepLEAP, unsupervised, MLStrat Milestones},
   owner        = {ISargent},
@@ -2146,7 +2161,7 @@ we discussed in the introduction, if the added layers can be constructed as iden
   journaltitle = {Science},
   year         = {2006},
   volume       = {313},
-  month        = {July},
+  month        = {7},
   pages        = {504-507},
   url          = {http://www.cs.toronto.edu/~hinton/science.pdf},
   comment      = {Paper on building a deep(ish) autoencoder using RBMs. Lovely figures showing the separation of classes achieved with these autoencoders.},
@@ -2168,15 +2183,16 @@ we discussed in the introduction, if the added layers can be constructed as iden
   year         = {1986},
 }
 
-@Other{HistoricEnglandLandscapeCharacterisationWebpage,
-  author       = {{Historic England}},
-  comment      = {''Historic Characterisation involves applying to aspects of landscape a long-established archaeological and historical method, the classifying and interpreting of material through identifying and describing essential or distinguishing patterns, features and qualities, or attributes. The sources used when doing this are comprehensive and systematic, like modern and historic maps or aerial photographs.''},
-  creationdate = {2017.04.04},
-  keywords     = {Landscape, Characterisation, ImageLearn},
-  owner        = {ISargent},
-  title        = {Historic Landscape Characterisation},
-  url          = {https://www.historicengland.org.uk/research/methods/characterisation-2/},
-  year         = {2017},
+@Online{HistoricEnglandLandscapeCharacterisationWebpage,
+  author           = {{Historic England}},
+  title            = {Historic Landscape Characterisation},
+  url              = {https://www.historicengland.org.uk/research/methods/characterisation-2/},
+  comment          = {''Historic Characterisation involves applying to aspects of landscape a long-established archaeological and historical method, the classifying and interpreting of material through identifying and describing essential or distinguishing patterns, features and qualities, or attributes. The sources used when doing this are comprehensive and systematic, like modern and historic maps or aerial photographs.''},
+  creationdate     = {2017.04.04},
+  keywords         = {Landscape, Characterisation, ImageLearn},
+  modificationdate = {2023-12-06T08:02:23},
+  owner            = {ISargent},
+  year             = {2017},
 }
 
 @InCollection{HochreiterBFS2001,
@@ -2219,27 +2235,28 @@ we discussed in the introduction, if the added layers can be constructed as iden
   creationdate = {2016.11.22},
   journal      = {ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
   keywords     = {DeepLEAP, MLStrat Data},
-  month        = jun,
+  month        = {6},
   owner        = {ISargent},
   year         = {2016},
 }
 
 @Article{HollandGSHGF2012,
-  author       = {David Holland and Catherine Gladstone and Isabel Sargent and Jon Horgan and Andrew Gardiner and Mark Freeman},
-  date         = {25 August - 01 September},
-  title        = {Automating the Photogrammetric Workflow in a National Mapping Agency},
-  url          = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/I-4/83/2012/isprsannals-I-4-83-2012.pdf},
-  volume       = {I-4},
-  abstract     = {The goal of automating the process of identifying changes to topographic features in aerial photography, extracting the geometry of these features and recording the changes in a database, is yet to be fully realised. At Ordnance Survey, Britain's national mapping agency, research into the automation of these processes has been underway for several years, and is now beginning to be implemented in production systems. 
-At the start of the processing chain is the identification of change - new buildings and roads being constructed, old structures demolished, alterations to field and vegetation boundaries and changes to inland water features. Using eCognition object-based image analysis techniques, a system has been developed to detect the changes to features. This uses four-band digital imagery (red, green, blue and near infra-red), together with a digital surface model derived by image matching, to identify all the topographic features of interest to a mapping agency. Once identified, these features are compared with those in the National Geographic Database and any potential changes are highlighted. These changes will be presented to photogrammetrists in the production area, who will rapidly assess whether or not the changes are real. If the change is accepted, they will manually capture the geometry and attributes of the feature concerned. The change detection process, although not fully automatic, cuts down the amount of time required to update the database, enabling a more efficient data collection workflow. Initial results, on the detection of changes to buildings only, showed a completeness value (proportion of the real changes that were found) of 92\% and a correctness value (proportion of the changes found that were real changes) of 22%, with a time saving of around 50\% when compared with the equivalent manual process. The completeness value is similar to those obtained by the manual process. Further work on the process has added vegetation, water and many other rural features to the list of features that can be detected, and the system is currently being evaluated in a production environment.
+  author           = {David Holland and Catherine Gladstone and Isabel Sargent and Jon Horgan and Andrew Gardiner and Mark Freeman},
+  date             = {2012},
+  title            = {Automating the Photogrammetric Workflow in a National Mapping Agency},
+  url              = {http://www.isprs-ann-photogramm-remote-sens-spatial-inf-sci.net/I-4/83/2012/isprsannals-I-4-83-2012.pdf},
+  volume           = {I-4},
+  abstract         = {The goal of automating the process of identifying changes to topographic features in aerial photography, extracting the geometry of these features and recording the changes in a database, is yet to be fully realised. At Ordnance Survey, Britain's national mapping agency, research into the automation of these processes has been underway for several years, and is now beginning to be implemented in production systems. 
+At the start of the processing chain is the identification of change - new buildings and roads being constructed, old structures demolished, alterations to field and vegetation boundaries and changes to inland water features. Using eCognition object-based image analysis techniques, a system has been developed to detect the changes to features. This uses four-band digital imagery (red, green, blue and near infra-red), together with a digital surface model derived by image matching, to identify all the topographic features of interest to a mapping agency. Once identified, these features are compared with those in the National Geographic Database and any potential changes are highlighted. These changes will be presented to photogrammetrists in the production area, who will rapidly assess whether or not the changes are real. If the change is accepted, they will manually capture the geometry and attributes of the feature concerned. The change detection process, although not fully automatic, cuts down the amount of time required to update the database, enabling a more efficient data collection workflow. Initial results, on the detection of changes to buildings only, showed a completeness value (proportion of the real changes that were found) of 92\% and a correctness value (proportion of the changes found that were real changes) of 22\%, with a time saving of around 50\% when compared with the equivalent manual process. The completeness value is similar to those obtained by the manual process. Further work on the process has added vegetation, water and many other rural features to the list of features that can be detected, and the system is currently being evaluated in a production environment.
 In addition to this work, the research team at Ordnance Survey are working with the remote sensing (data collection) department to develop more efficient methods of DSM and DTM creation; more automated seamline-generation for the creation of orthoimage mosaics; and methods to automatically record simple building heights on buildings in the database. These are all methods that have been proven in a research environment - the challenge is to implement them within the working environment of the existing data collection process.},
-  address      = {Melbourne, Australia},
-  booktitle    = {XXII ISPRS Congress},
-  creationdate = {2016.11.22},
-  journal      = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
-  keywords     = {DeepLEAP},
-  owner        = {ISargent},
-  year         = {2012},
+  address          = {Melbourne, Australia},
+  booktitle        = {XXII ISPRS Congress},
+  creationdate     = {2016.11.22},
+  journal          = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  keywords         = {DeepLEAP},
+  modificationdate = {2023-12-05T13:10:12},
+  owner            = {ISargent},
+  year             = {2012},
 }
 
 @Article{HornikFKB2012,
@@ -2365,7 +2382,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   institution = {Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE)},
   year        = {2012},
   url         = {http://inspire.ec.europa.eu/documents/Data_Specifications/INSPIRE_DataSpecification_BU_v3.0rc2.pdf},
-  comment     = {Buildings - there are core 2D and 3D specifications and extended 2D and 3D specifications. The intention is that mapping agencies work towards the extended spec.Different heights for buildings are possible, see http://inspire.ec.europa.eu/codeList/ElevationReferenceValue/ for the ElevationreferenceValues.},
+  comment     = {Buildings - there are core 2D and 3D specifications and extended 2D and 3D specifications. The intention is that mapping agencies work towards the extended spec.Different heights for buildings are possible, see \url{http://inspire.ec.europa.eu/codeList/ElevationReferenceValue/} for the ElevationreferenceValues.},
   keywords    = {3DCharsPaper},
   owner       = {ISargent},
   publisher   = {{INSPIRE} Thematic Working Group Buildings},
@@ -2433,7 +2450,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   comment      = {''The goal of feature extraction is to yield a pattern representation that makes the classification trivial. Conversely, a good classification design would not need the help of a sophisticated feature extraction. In fact, there is no conceptually clear boundary between feature extraction and classification.'' (DudaHS2000 say somehting very similar to this). Seems to consider FE as a dimensionality reduction operation, but this is to achieve the primary objective of ``facilitat[ing] a more reliable and more accurate classification''. ``This paper explores and studies some advanced feature extraction approaches that are based on: the human expert knowledge; the image local and global structures; and the machine learning from image database.'' Doesn't go beyond PCA and discriminant analysis for the machine learning approaches.},
   creationdate = {2017.04.12},
   keywords     = {feature extraction},
-  month        = {Aug},
+  month        = {8},
   owner        = {ISargent},
   year         = {2009},
 }
@@ -2488,7 +2505,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   booktitle = {Proceedings of the Third Workshop on Vision and Language},
   year      = {2014},
   publisher = {Dublin City University and the Association for Computational Linguistics},
-  month     = {August},
+  month     = {8},
   pages     = {62--67},
   url       = {http://www.aclweb.org/anthology/W14-5409},
   address   = {Dublin, Ireland},
@@ -2517,7 +2534,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   volume       = {19},
   comment      = {'' In this paper, a reconstruction method based on genetic algorithms (GA) is presented by optimizing height and slopes of gable roof of building models. The proposed algorithm consists of three steps; initial building boundaries are detected in the first step. Then, in extraction step, in order to improve the accuracy of detection step, initial building contours are generalized and buildings are extracted. Finally and in reconstruction step, a GA-based method is used for reconstructing the building models. Also, the method has proved to be computationally efficient, and the reconstructed models have an acceptable accuracy. Examination of the results shows that the reconstructed buildings from complex study areas that uses the proposed method have root mean square error (RMSE) of 0.1 m.''},
   creationdate = {2014.10.28},
-  month        = {October},
+  month        = {10},
   owner        = {ISargent},
   year         = {2012},
 }
@@ -2528,7 +2545,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   title        = {Locally Scale-Invariant Convolutional Neural Networks},
   url          = {http://arxiv.org/abs/1412.5104},
   volume       = {abs/1412.5104},
-  bibsource    = {dblp computer science bibliography, http://dblp.org},
+  bibsource    = {dblp computer science bibliography, \url{http://dblp.org}},
   biburl       = {http://dblp.uni-trier.de/rec/bib/journals/corr/KanazawaSJ14},
   comment      = {''we present a simple model that allows ConvNets to learn features in a locally scale-invariant manner without increasing the number of model parameters. ``},
   creationdate = {2015.06.01},
@@ -2546,7 +2563,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   creationdate = {2014.01.17},
   file         = {KapoorCLK14.pdf:MachineLearning\\KapoorCLK14.pdf:PDF},
   keywords     = {machine learning, clustering},
-  month        = {December},
+  month        = {12},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -2561,7 +2578,7 @@ In addition to this work, the research team at Ordnance Survey are working with 
   isbn      = {978-1-4503-2174-7},
   pages     = {793-801},
   url       = {http://arxiv.org/pdf/1306.1704v1.pdf},
-  comment   = {Used foursquare check ins to determine optimum locations for retail outlets. See slides on http://datasciencelondon.org/geo-spotting-mining-online-location-based-services-for-optimal-retail-store-placement/.},
+  comment   = {Used foursquare check ins to determine optimum locations for retail outlets. See slides on \url{http://datasciencelondon.org/geo-spotting-mining-online-location-based-services-for-optimal-retail-store-placement/}.},
   keywords  = {dblp},
   owner     = {ISargent},
   creationdate = {2014.02.07},
@@ -2667,7 +2684,7 @@ My opinion: ``Interesting view about focussing on labels. What about unexpected 
   title        = {Probabilistic Graphical Models},
   year         = {2013},
   howpublished = {MOOC},
-  month        = {April},
+  month        = {4},
   url          = {https://www.coursera.org/course/pgm},
   comment      = {Excellent introduction to PGMs.},
   owner        = {ISargent},
@@ -2822,7 +2839,7 @@ My opinion: ``Interesting view about focussing on labels. What about unexpected 
 
 @Article{LangeMR2016,
   author       = {Matthias Lange and Jan Mendling and Jan Recker},
-  date         = {March},
+  date         = {3},
   title        = {An empirical analysis of the factors and measures of Enterprise Architecture Management success},
   number       = {1},
   url          = {https://www.researchgate.net/publication/276884522_An_empirical_analysis_of_the_factors_and_measures_of_Enterprise_Architecture_Management_success},
@@ -2997,7 +3014,7 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
   comment      = {Excellent paper about character recognition with lots of background about neural networks. Its very long and I've not read it all. Introduces gradient based learning proceedure for graph transformer networks. Excellent reference for convolutional neural networks. Previously a lot of effort put into extracting features and these features specific to each task. This is now not so necessary for 3 reasons: 1) fast and powerful but low-cost machines are now available, 2) large databases/datasets/corpuses can now be obtained and 3) new powerful machine learning techniques that can handle high-dimensional inputs. Theoretical and experimental work (gives refs) has found that the difference between the expected error of the test set and the expected error of the training set decreases with the number of training samples in the order of E_test - E_train = k(h / P)^a where P is the number of training samples, h is a measure of the complexity of the machine ('effective capacity'), a is a number between 0.5 and 1 and k is a constant. Gradient descent has been used since the 1950's but its usefulness was not realised until 3 things happened: 1) it was found that the presence of local minima was not a problem in practise (it is still a bit of a mystery why), 2) the popularisation of this technique by Rumelhart, Hinton and Williams (and others) and 3) the demonstration that the backpropogation algorithm could be used to compute the gradient in non-linear multi-layered systems. This paper report comparitive experiments into recognising handwritten characters and shows that neural networks training with gradient-based learning performs better than all other methods. The best neural networks, convolution networks ``are designed to learn to extract relevant features directly from pixel images''. If we are to move to performing recognition tasks to working directly from imagery, rather than extracted features, then we need to overcome the problems associated with images, namely that they are often massive and so a fully connected network working directly with the whole image would require a massive number of weights, requiring a massive number of input images and also invariance to position and other distortions is difficult to obtain. Another drawback of fully connected architectures is that the topology of the input is not considered . Convolutional networks automatically obtain shift invariance by ``forcing the replication of weight configurations across space'' and have inbuilt ``force the extraction of local features by restricting the receptive fields of hidden units to be local''. Discuss stochastic and batch gradient descent (as well as other methods) and seem to conclude that stochastic gradient descent achieve excellent results and is much more efficient. Say that training a 'multi-module' system to optimise a global measure of performance overcomes need to hand truthing segmented characters yields significantly better recognition performance but I'm not sure how this is achieved. ``Feature extraction is traditionally a fixed transform, generally derived from some expert prior knowledge about the task. This relies on the probably incorrect assumption that the human designer is able to capture all the relevant information in the input''},
   creationdate = {2013.09.17},
   keywords     = {machine learning, neural networks, ImageLearn},
-  month        = {Nov},
+  month        = {11},
   owner        = {ISargent},
   year         = {1998},
 }
@@ -3097,14 +3114,15 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
   creationdate = {2013.07.22},
 }
 
-@Other{LevinNM2015,
-  Title                    = {Terrapattern},
-  Author                   = {Golan Levin and David Newbury and Kyle McDonald},
-  Keywords                 = {ImageLearn},
-  Owner                    = {ISargent},
-  creationdate                = {2017.05.30},
-  Url                      = {http://www.terrapattern.com},
-  Year                     = {2015}
+@Online{LevinNM2015,
+  author           = {Golan Levin and David Newbury and Kyle McDonald},
+  title            = {Terrapattern},
+  url              = {http://www.terrapattern.com},
+  creationdate     = {2017.05.30},
+  keywords         = {ImageLearn},
+  modificationdate = {2023-12-06T08:02:50},
+  owner            = {ISargent},
+  year             = {2015},
 }
 
 @Article{LiSLF13,
@@ -3156,7 +3174,7 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
   creationdate  = {2017.03.09},
   journal       = {CVPR (to appear)},
   keywords      = {Computer Science - Computer Vision and Pattern Recognition, deep learning, segmentation, MLStrat Segmentation},
-  month         = nov,
+  month         = {11},
   owner         = {ISargent},
   primaryclass  = {cs.CV},
   year          = {2015},
@@ -3170,7 +3188,7 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
   comment      = {Multi-instance multi-label (MIML) learning is applied to bags of instances each of which may have several labels (in multi-instance learning only one label is possible and so this can be positive or negative indicating the presence or absence of the class). This paper takes MIML further by performing novelty detection such that the classifier can indicate that an instance of an unknown class is present in the bag. ``such novel instances can be presented back to the experts for further inspection''. They use a kernal-based scoring function that I don't fully understand and compare their method to one-class SVM. This is applied to the MNIST handwritten digit set (bags created by putting set of digits together) and to recordings of birdsong which can include several birds singing as well as noise. They include pseudo-code. Results are good. MaronR98 describes Multiple Instance learning and bag of instances in terms of images reaonsably well. ZhouZHL12 is another reference.},
   creationdate = {2013.09.27},
   keywords     = {Machine Learning, Bag of Instances, Classification, Novelty Detection},
-  month        = {September},
+  month        = {9},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -3256,7 +3274,7 @@ In Sargent et al 2018: ``And early work investigating what deep networks learn i
   Title                    = {Gaussian Process Basics},
 
   Author                   = {David MacKay},
-  Month                    = {June},
+  Month                    = {6},
   Year                     = {2006},
 
   Address                  = {Bletchley Park},
@@ -3314,7 +3332,7 @@ Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
   title     = {Music Genre Classification Using Gaussian Process Models},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {Using a gaussian processes method to classify music to 4 different genres. Interesting, but i personally think unsupervised analysis would be more interesting.},
   keywords  = {Machine Learning},
@@ -3368,7 +3386,7 @@ Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
   comment      = {Short discussion with Paul Marshall. ``50\% of training is mentoring''.},
   creationdate = {2015.07.16},
   keywords     = {ImageLearn},
-  month        = {June},
+  month        = {6},
   owner        = {ISargent},
   year         = {2015},
 }
@@ -3391,7 +3409,7 @@ Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
   booktitle    = {ICCM 2013 The 12th International Conference on Cognitive Modelling},
   title        = {Perceptra: A New Approach to Pattern Classification Using a Growing Network of Binary Neurons (Binons)},
   url          = {http://www.adaptroninc.com/Perceptra_-_ICCM_2013.pdf},
-  comment      = {Binons are binary neurons. Perceptra builds a network in response to learning through data. The result is a deterministic model. ``Fechner's law states that human subjective sensation is proportional to the logarithm of the stimulus intensity (Portugal \& Svaiter, 2011)'' See also https://www.linkedin.com/groupItem?view=&item=5876731085613727746&type=member&gid=77471&trk=eml-b2_anet_digest-null-18-null&fromEmail=fromEmail&ut=1-1uxoafUNFmg1},
+  comment      = {Binons are binary neurons. Perceptra builds a network in response to learning through data. The result is a deterministic model. ``Fechner's law states that human subjective sensation is proportional to the logarithm of the stimulus intensity (Portugal \& Svaiter, 2011)'' See also \url{https://www.linkedin.com/groupItem?view=&item=5876731085613727746&type=member&gid=77471&trk=eml-b2_anet_digest-null-18-null&fromEmail=fromEmail&ut=1-1uxoafUNFmg1}},
   creationdate = {2014.06.10},
   keywords     = {machine learning, neural networks},
   owner        = {ISargent},
@@ -3419,7 +3437,7 @@ Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
   title     = {Compact Codebook Design For Visual Scene Recognition By Sequential Input Space Carving},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {University of Southampton. Images are described by a set of visual descriptors and these are used to build a codebook by sequential input space carving. Applies to PASCAL VOC 2007 dataset, human action recognition and texture classification.},
   keywords  = {Machine Learning, Representation Learning, Computer Vision, ImageLearn},
@@ -3444,8 +3462,9 @@ Is this saying the same thing as \cite{AdebayoGMGHK2018}?},
   author       = {Chris McCormick},
   title        = {Intuition Behind Whitening Image Patches},
   year         = {2014},
-  howpublished = {Blog Article: https://chrisjmccormick.wordpress.com/2014/07/23/intuition-behind-whitening-image-patches/},
-  month        = {July},
+  howpublished = {Blog Article},
+  url={https://chrisjmccormick.wordpress.com/2014/07/23/intuition-behind-whitening-image-patches/},
+  month        = {7},
   url          = {https://chrisjmccormick.wordpress.com/2014/07/23/intuition-behind-whitening-image-patches/},
   comment      = {Clear description of why 'whitening' is a necessary pre-processing step before e.g. kmeans. Pixels tend to be correlated with their neighbours so removing this correlation is important to subsequent tests of similarity between image patches.},
   keywords     = {ImageLearn},
@@ -3531,7 +3550,7 @@ that learning good vector representations for millions of phrases is possible.},
   author    = {Minka, T. and Winn, J.M. and Guiver, J.P. and Knowles, D.A.},
   title     = {{Infer.NET 2.5}},
   year      = {2012},
-  note      = {Microsoft Research Cambridge. http://research.microsoft.com/infernet},
+  note      = {Microsoft Research Cambridge},url={http://research.microsoft.com/infernet},
   comment   = {Reference to be cited when using Infer.NET in research.},
   keywords  = {machine learning, probabilistic programming},
   owner     = {ISargent},
@@ -3543,7 +3562,7 @@ that learning good vector representations for millions of phrases is possible.},
   title     = {Learning to Detect Roads in High-Resolution Aerial Images},
   booktitle = {Proceedings of the 11th European Conference on Computer Vision (ECCV)},
   year      = {2010},
-  month     = {September},
+  month     = {9},
   abstract  = {Reliably extracting information from aerial imagery is a difficult problem with many practical applications. One specific case of this problem is the task of automatically detecting roads. This task is a difficult vision problem because of occlusions, shadows, and a wide variety of non-road objects. Despite 30 years of work on automatic road detection, no automatic or semi-automatic road detection system is currently on the market and no published method has been shown
 to work reliably on large datasets of urban imagery. We propose detecting roads using a neural network with millions of trainable weights which looks at a much larger context than was used in previous attempts at learning the task. The network is trained on massive amounts of data using a consumer GPU. We demonstrate that predictive performance can be substantially improved by initializing the feature detectors using recently developed unsupervised learning methods as well as by taking advantage of the local spatial coherence of the output labels.We show that our method works reliably on two challenging urban datasets that are an order of magnitude larger than what was used to evaluate previous approaches.},
   comment   = {Use a very large data set},
@@ -3590,11 +3609,11 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   year             = {2015},
 }
 
-@Misc{MortonXX,
+@online{MortonXX,
   Title                    = {Virtual City Models},
 
   Author                   = {Peter James Morton},
-  HowPublished             = {Website: http://www.virtualcitymodels.co.uk/},
+  HowPublished             = {Website},url={http://www.virtualcitymodels.co.uk/},
   Year                     = {Last accessed October 2014},
 
   Abstract                 = {This website acts as a central hub for sharing information regarding virtual city models in general and the development and distribution of virtual city models on a world-wide scale. This website will also host research published by the author (Peter James Morton).},
@@ -3651,7 +3670,7 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   comment      = {I'm not really sure what this paper is doing. It seems to be flying the flag for 3D GI analyses functions. Creates 4 real or fictitious case studies and explains how these can be addressed in 3D GIS. Seems that the analyses already exist in GI so I'm not really sure what the outcome of the paper is. I have PDF.},
   creationdate = {2015.11.10},
   keywords     = {3D GI},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2010},
 }
@@ -3708,7 +3727,7 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   booktitle = {ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences. 2015 Joint International Geoinformation Conference},
   year      = {2015},
   volume    = {II-2/W2},
-  month     = {October},
+  month     = {10},
   pages     = {75--82},
   address   = {Kuala Lumpur, Malaysia},
   comment   = {Useful paper for listing different aspects of quality assessment - internal and external; spatial, temporal and thematic, ...must read},
@@ -3717,12 +3736,12 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   creationdate = {2015.11.11},
 }
 
-@Misc{Nelson2014,
+@online{Nelson2014,
   Title                    = {New building height data released},
 
   Author                   = {Gemma Nelson},
-  HowPublished             = {Web log article: http://www.ordnancesurvey.co.uk/blog/2014/03/new-building-height-data-released/},
-  Month                    = {March},
+  url={http://www.ordnancesurvey.co.uk/blog/2014/03/new-building-height-data-released/},
+  Month                    = {3},
   Year                     = {2014},
 
   Keywords                 = {3DCharsPaper},
@@ -3731,12 +3750,12 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   Url                      = {http://www.ordnancesurvey.co.uk/blog/2014/03/new-building-height-data-released/}
 }
 
-@Misc{Nelson2013,
+@online{Nelson2013,
   Title                    = {We've launched a new height product -- OS Terrain 5},
 
   Author                   = {Gemma Nelson},
-  HowPublished             = {Web log article: http://www.ordnancesurvey.co.uk/blog/2013/07/weve-launched-a-new-height-product-os-terrain-5/},
-  Month                    = {July},
+  url={http://www.ordnancesurvey.co.uk/blog/2013/07/weve-launched-a-new-height-product-os-terrain-5/},
+  Month                    = {7},
   Year                     = {2013},
 
   Keywords                 = {3DCharsPaper},
@@ -3745,24 +3764,26 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   Url                      = {http://www.ordnancesurvey.co.uk/blog/2013/07/weve-launched-a-new-height-product-os-terrain-5/}
 }
 
-@Other{NelwamondoMM07,
-  author       = {Nelwamondo, Fulufhelo V and Mohamed, Shakir and Marwala, Tshilidzi},
-  comment      = {Give different types of missing data. Describe autoencoder neural networks. Use backpropogation. Describes genetic algorithms. GA uses selection, crossover and mutation. ``The method used here combines the use of auto-associative neural networks with genetic algorithms to approximate missing data''. Compare this method to expectation-maximisation for single imputation. The NN-GA algorithm seems to perform better to a higher accuracy and can also give results when input data aren't positive definite. Shame this paper isn't peer reviewed. Maybe they have published something since?},
-  creationdate = {2013.11.15},
-  owner        = {ISargent},
-  title        = {Missing Data: A Comparison of Neural Network and Expectation Maximisation Techniques},
-  url          = {http://arxiv.org/ftp/arxiv/papers/0704/0704.3474.pdf},
-  year         = {2007},
+@Misc{NelwamondoMM07,
+  author           = {Nelwamondo, Fulufhelo V and Mohamed, Shakir and Marwala, Tshilidzi},
+  title            = {Missing Data: A Comparison of Neural Network and Expectation Maximisation Techniques},
+  url              = {http://arxiv.org/ftp/arxiv/papers/0704/0704.3474.pdf},
+  comment          = {Give different types of missing data. Describe autoencoder neural networks. Use backpropogation. Describes genetic algorithms. GA uses selection, crossover and mutation. ``The method used here combines the use of auto-associative neural networks with genetic algorithms to approximate missing data''. Compare this method to expectation-maximisation for single imputation. The NN-GA algorithm seems to perform better to a higher accuracy and can also give results when input data aren't positive definite. Shame this paper isn't peer reviewed. Maybe they have published something since?},
+  creationdate     = {2013.11.15},
+  modificationdate = {2023-12-06T08:00:43},
+  owner            = {ISargent},
+  year             = {2007},
 }
 
-@Other{Nervana2017,
-  Title                    = {neon},
-  Author                   = {{Nervana Systems}},
-  Keywords                 = {ImageLearn},
-  Owner                    = {ISargent},
-  creationdate                = {2017.05.30},
-  Url                      = {http://neon.nervanasys.com/docs/latest/},
-  Year                     = {2017}
+@Online{Nervana2017,
+  author           = {{Nervana Systems}},
+  title            = {neon},
+  url              = {http://neon.nervanasys.com/docs/latest/},
+  creationdate     = {2017.05.30},
+  keywords         = {ImageLearn},
+  modificationdate = {2023-12-06T08:01:58},
+  owner            = {ISargent},
+  year             = {2017},
 }
 
 @InProceedings{Nevatia1999,
@@ -3807,10 +3828,10 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   title        = {Regionalization of multi-categorical landscapes using machine vision methods},
   pages        = {250--258},
   volume       = {45},
-  comment      = {Not as exciting as implied by the publicity http://www.uc.edu/news/NR.aspx?id=18700. Find the pre-print at http://sil.uc.edu/pdfFiles/appliedGeography_Sept_2013.pdf. ``The method is underpinned by principles of machine vision rather than more traditional principles stemming from ecological landscape analysis.'' They start with a raster landcover map and perform analysis on tiles from this. Within each tile, the clumping of each landcover type and the extent (no of pixels) of each clump is determined. A 2D histogram is then produced for the existence of landcover type in one axis and extent of cluster on the other. They claim that the use of histograms, rather than a vector of landscape metrics (e.g. HainesYoungC96) makes this novel. I dispute that the first axis is much of a histogram, since the data are nominal. A combination of segmentation and clustering is then performed using the histogram data to produce a map of landscape types (regionalization). Would have been more interesting if applied to imagery rather than classified raster. Could also be applied to topo data such as OS MasterMap Topography Layer.},
+  comment      = {Not as exciting as implied by the publicity \url{http://www.uc.edu/news/NR.aspx?id=18700}. Find the pre-print at \url{http://sil.uc.edu/pdfFiles/appliedGeography_Sept_2013.pdf}. ``The method is underpinned by principles of machine vision rather than more traditional principles stemming from ecological landscape analysis.'' They start with a raster landcover map and perform analysis on tiles from this. Within each tile, the clumping of each landcover type and the extent (no of pixels) of each clump is determined. A 2D histogram is then produced for the existence of landcover type in one axis and extent of cluster on the other. They claim that the use of histograms, rather than a vector of landscape metrics (e.g. HainesYoungC96) makes this novel. I dispute that the first axis is much of a histogram, since the data are nominal. A combination of segmentation and clustering is then performed using the histogram data to produce a map of landscape types (regionalization). Would have been more interesting if applied to imagery rather than classified raster. Could also be applied to topo data such as OS MasterMap Topography Layer.},
   creationdate = {2013.11.06},
   keywords     = {landscape, ImageLearn},
-  month        = {December},
+  month        = {12},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -3837,15 +3858,15 @@ to work reliably on large datasets of urban imagery. We propose detecting roads 
   year         = {2015},
 }
 
-@Other{Norvig2015,
+@Online{Norvig2015,
   author           = {Peter Norvig},
+  title            = {Deploying machine learning applications in the Enterprise},
+  url              = {https://www.youtube.com/watch?v=BJ2QVzGmb2w},
   comment          = {Quite a good lecture (YouTube video) but mostly just covering the basic ML story at the start. Makes a clear disctiction between Rationalism (~rule-base) and Empiricism (~optimisation) and their respective philosophers Descartes and Hume. Final part lists 10 types of technical debt which can be incurred using ML approaches. Relates to the paper SculleyHGDPECY2014 This seems to be particularly because these approaches can allow rapid creation of solutions. The 10 points are:
 Lack of Clear Abstraction Barriers (difficult to find the bug); Changing anything changes everything; Feedback loops (like reinforcement of return priority in Google searches); Attractive nuisance (?); Data dependencies; Configuration dependencies; Optimizer's curse (in deployment, even the best model will perform worse); Allur of standard packages (even though ML is perhaps on 5\% of the s/w in the end); Non-stationarity (there need to be methods for replacing the model); Lack of intuition (how did the model make its decision?).},
   creationdate     = {2016.11.15},
-  modificationdate = {2022-11-26T15:58:36},
+  modificationdate = {2023-12-06T08:03:03},
   owner            = {ISargent},
-  title            = {Deploying machine learning applications in the Enterprise},
-  url              = {https://www.youtube.com/watch?v=BJ2QVzGmb2w},
   year             = {2015},
 }
 
@@ -3883,7 +3904,7 @@ Lack of Clear Abstraction Barriers (difficult to find the bug); Changing anythin
 An important aspect of image interpretation is being able to read context of a feature and interpret its function - often without a complete view and from an unusual angle. An example of this was the discovery of an unusual structure within a recently built railway [building] site. The highly experienced photogrammetric surveyor needed to infer, from the nature of several sets of rails, the activity going on within a roofed building. With the help of several other staff the purpose of the structure was determined to be a type of traverser, of which there are only a handful in Britain.},
   creationdate = {2015.07.16},
   keywords     = {ImageLearn, RapidDC},
-  month        = {July},
+  month        = {7},
   owner        = {ISargent},
   year         = {2015},
 }
@@ -3902,12 +3923,12 @@ An important aspect of image interpretation is being able to read context of a f
   Url                      = {http://www.ordnancesurvey.co.uk/business-and-government/help-and-support/os-insight/index.html}
 }
 
-@Misc{Osborne2013,
+@online{Osborne2013,
   Title                    = {OS OpenData product update -- OS Terrain 50},
 
   Author                   = {Melanie Osborne},
-  HowPublished             = {Web log article: http://www.ordnancesurvey.co.uk/blog/2013/04/os-opendata-product-update-os-terrain-50/},
-  Month                    = {April},
+  url={http://www.ordnancesurvey.co.uk/blog/2013/04/os-opendata-product-update-os-terrain-50/},
+  Month                    = {4},
   Year                     = {2013},
 
   Keywords                 = {3DCharsPaper},
@@ -3924,7 +3945,7 @@ An important aspect of image interpretation is being able to read context of a f
   comment      = {Recurrent neural networks 2are able to learn temporal dependencies in data sequences, whereas feed-forwards networks (FFNs), for instance the well known multilayer perceptron (MLP), can only learn static pattern mapping.'' A long short-term memory block overcomes the vanishing gradient problem by trapping the error with a constant error carousel so that it can be conserved for long time periods. LSTM blocks are capable of handling very long time-lags. Where the past context is not enough for learning, bi-directional recurrent neural networks have been devised to introduce the future context. These have two hidden layers that are not connected to each other. The input sequence enters the first layer in a forwards direction but in the 2nd hidden layer it is reversed. The output layer then combines both the past (1st hidden layer) and future (2nd hidden layer) contexts. Use for soft tissue classification when using OCT A-scans using a needle probe.},
   creationdate = {2013.09.30},
   keywords     = {Machine Learning, Neural Networks},
-  month        = {September},
+  month        = {9},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -4019,7 +4040,7 @@ Find that ConvNets do generalize well to remote sensing applications.},
   creationdate = {2016.05.11},
   issn         = {2160-7508},
   keywords     = {ImageLearn, Remote Sensing, DeepLEAP, MLStrat DLRS},
-  month        = {June},
+  month        = {6},
   owner        = {ISargent},
   year         = {2015},
 }
@@ -4143,7 +4164,7 @@ Find that ConvNets do generalize well to remote sensing applications.},
   year         = {2016},
   howpublished = {Online. Last visited: 4th December 2016},
   note         = {Last visited: 4th December 2016},
-  month        = {April},
+  month        = {4},
   url          = {http://www.itproportal.com/2016/04/27/the-real-world-value-of-geospatial-data/},
   comment      = {Includes Trimble infographic demonstrating how geospatial data are used in different sectors.},
   keywords     = {DeepLEAP},
@@ -4281,9 +4302,9 @@ Find that ConvNets do generalize well to remote sensing applications.},
   title        = {{CNN} Features off-the-shelf: an Astounding Baseline for Recognition},
   url          = {http://arxiv.org/abs/1403.6382},
   volume       = {abs/1403.6382},
-  bibsource    = {dblp computer science bibliography, http://dblp.org},
+  bibsource    = {dblp computer science bibliography}, 
   biburl       = {http://dblp.uni-trier.de/rec/bib/journals/corr/RazavianASC14},
-  comment      = {Reference for using pre-trainined CNNs. MelG: ``it has been found by Razavian et al (2014) among others that generic features extracted using a deep network not trained specifically for the task can successfully perform classification tasks.},
+  comment      = {\url{http://dblp.org} Reference for using pre-trainined CNNs. MelG: ``it has been found by Razavian et al (2014) among others that generic features extracted using a deep network not trained specifically for the task can successfully perform classification tasks.},
   creationdate = {2015.06.01},
   keywords     = {ImageLearn, CNN},
   owner        = {ISargent},
@@ -4345,7 +4366,7 @@ Find that ConvNets do generalize well to remote sensing applications.},
   comment      = {Unsupervised convolutional networks with a one hot code and constraint of same mean activitation among all outputs. Echos the work in Deep Belief Networks (HintonOT06 BengioLPL2007). Trained network in an unsupervised  layer-wise fashion.
 This is the ENFORCING POPULATION AND LIFETIME SPARSITY (EPLS) ALGORITHM.},
   keywords     = {ImageLearn, Unsupervised, CNN, Hyperspectral, Remote Sensing, DeepLEAP, pre-training, unsupervised, MLStrat DLRS},
-  month        = {March},
+  month        = {3},
   creationdate    = {2016.09.21},
   year         = {2016},
 }
@@ -4355,7 +4376,6 @@ This is the ENFORCING POPULATION AND LIFETIME SPARSITY (EPLS) ALGORITHM.},
   title     = {U-Net: Convolutional Networks for Biomedical Image Segmentation},
   url       = {http://arxiv.org/abs/1505.04597},
   volume    = {abs/1505.04597},
-  bibsource = {dblp computer science bibliography, http://dblp.org},
   biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/RonnebergerFB15},
   comment   = {Semantic segmentation of electron microscope images.
 
@@ -4374,7 +4394,7 @@ Perform data augmentation to address under represented classes.},
   title        = {What Motivates the Crowd to Participate?},
   journaltitle = {Crowdsourcing.org},
   year         = {2013},
-  month        = {December},
+  month        = {12},
   url          = {http://www.crowdsourcing.org/editorial/what-motivates-the-crowd-to-participate/29590},
   comment      = {Article about Zooniverse and why people participate},
   keywords     = {crowdsourcing, RapidDC},
@@ -4387,7 +4407,7 @@ Perform data augmentation to address under represented classes.},
   title        = {Get off the deep learning bandwagon and get some perspective},
   year         = {2014},
   howpublished = {Blog in pyimagesearch},
-  month        = {June},
+  month        = {6},
   url          = {http://www.pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective},
   comment      = {Article describing fads/crazes in machine learning algorithms through time.},
   keywords     = {machine learning},
@@ -4417,7 +4437,7 @@ Perform data augmentation to address under represented classes.},
 
   Address                  = {Berlin, Germany},
 
-  Date                     = {December},
+  Date                     = {12},
   Keywords                 = {3DCharsPaper},
   Owner                    = {ISargent},
   creationdate                = {2015.10.20}
@@ -4533,7 +4553,7 @@ Perform data augmentation to address under represented classes.},
   creationdate = {2016.05.11},
   issn         = {1051-4651},
   keywords     = {ImageLearn, Spatial Scale, Remote Sensing, DeepLEAP1},
-  month        = {Nov},
+  month        = {11},
   owner        = {ISargent},
   year         = {2012},
 }
@@ -4558,7 +4578,7 @@ Perform data augmentation to address under represented classes.},
   creationdate     = {2014.11.04},
   keywords         = {3DCharsPaper},
   modificationdate = {2023-12-04T21:58:15},
-  month            = {April},
+  month            = {4},
   owner            = {ISargent},
   year             = {2014},
 }
@@ -4583,24 +4603,25 @@ Perform data augmentation to address under represented classes.},
   Note                     = {(FOR slides, search Title Word:ImageLearn in HP TRIM)},
   Year                     = {2015},
 
-  Date                     = {January},
+  Date                     = {1},
   Institution              = {Ordnance Survey / University of Southampton},
   Keywords                 = {ImageLearn},
   Owner                    = {ISargent},
   creationdate                = {2016.06.20}
 }
 
-@Other{SargentYHA2015,
-  author       = {Isabel Sargent and David Young and Jonathon Hare and Peter Atkinson},
-  creationdate = {2016.06.20},
-  date         = {July},
-  institution  = {Ordnance Survey / University of Southampton},
-  keywords     = {ImageLearn, MLStrat},
-  note         = {(SEARCH Title Word:ImageLearn in HP TRIM)},
-  owner        = {ISargent},
-  title        = {Machine Learning for Aerial Image Analysis: Literature Review},
-  url          = {https://ordnancesurvey.sharepoint.com/:b:/r/sites/teampandi/Deep%20Machine%20Learning%20Library/ImageLearn/LitReview.pdf?csf=1&web=1&e=CFJvrI},
-  year         = {2015},
+@Report{SargentYHA2015,
+  author           = {Isabel Sargent and David Young and Jonathon Hare and Peter Atkinson},
+  date             = {7},
+  institution      = {Ordnance Survey / University of Southampton},
+  title            = {Machine Learning for Aerial Image Analysis: Literature Review},
+  note             = {Internal OS Document},
+  url              = {https://ordnancesurvey.sharepoint.com/:b:/r/sites/teampandi/Deep%20Machine%20Learning%20Library/ImageLearn/LitReview.pdf?csf=1&web=1&e=CFJvrI},
+  creationdate     = {2016.06.20},
+  keywords         = {ImageLearn, MLStrat},
+  modificationdate = {2023-12-06T08:01:21},
+  owner            = {ISargent},
+  year             = {2015},
 }
 
 @InProceedings{SargentH2015,
@@ -4633,7 +4654,7 @@ Perform data augmentation to address under represented classes.},
 
   Author                   = {Gesche Schmid},
   HowPublished             = {Presentation to AGI Scotland},
-  Month                    = {October},
+  Month                    = {10},
   Year                     = {2013},
 
   Booktitle                = {AGI Scotland},
@@ -4665,7 +4686,7 @@ Perform data augmentation to address under represented classes.},
   volume    = {34},
   comment   = {Buildings, roofs are made up of planes which are defined using 3D line segments from image matching. Uses a probilistic approach to construct models of buildings.},
   keywords  = {3DCharsPaper},
-  month     = {September},
+  month     = {9},
   owner     = {ISargent},
   creationdate = {2014.10.28},
   year      = {2002},
@@ -4686,7 +4707,7 @@ Perform data augmentation to address under represented classes.},
   author    = {Sadhvi Selvaraj},
   title     = {Classification of Roof Types from Aerial Photographs},
   year      = {2008},
-  month     = {September},
+  month     = {9},
   comment   = {Mentions geomorphometrics, neural networks, should be re-read.},
   keywords  = {Geomorphometry, aerial imagery},
   owner     = {isargent},
@@ -4699,11 +4720,10 @@ Perform data augmentation to address under represented classes.},
   title         = {OverFeat: Integrated Recognition, Localization and Detection using Convolutional Networks},
   url           = {http://arxiv.org/abs/1312.6229},
   volume        = {abs/1312.6229},
-  bdsk-url-1    = {http://arxiv.org/abs/1312.6229},
-  bibsource     = {dblp computer science bibliography, http://dblp.org},
+  url    = {http://arxiv.org/abs/1312.6229},
   biburl        = {http://dblp.uni-trier.de/rec/bib/journals/corr/SermanetEZMFL13},
   creationdate  = {2016-12-13 13:58:41 +0000},
-  date-modified = {2016-12-13 14:00:41 +0000},
+  modificationdate = {2016-12-13 14:00:41 +0000},
   journal       = {CoRR},
   keywords      = {ImageLearn},
   owner         = {ISargent},
@@ -4775,7 +4795,6 @@ Perform data augmentation to address under represented classes.},
   title        = {Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps},
   url          = {http://arxiv.org/abs/1312.6034},
   volume       = {abs/1312.6034},
-  bibsource    = {dblp computer science bibliography, http://dblp.org},
   biburl       = {http://dblp.uni-trier.de/rec/bib/journals/corr/SimonyanVZ13},
   comment      = {Apply two methods to visualising the representations learned by a deep convnet. The first iterates from a zero image so that the chosen class node is maximally fired producing. The result can then be directly labelled with the class value (although I presume this could be applied to any node in the network - except there is no predefined label for the network). the second method is to rank the pixels of an input image based on their influence on the score for a particular class (they then use this to initialise ``GraphCut-based object segmentation without the need to train dedicated segmentation or detection models''.
 
@@ -4795,7 +4814,7 @@ From BachBMKMS2020: ``lies between partical derivatives at the input point x and
   comment      = {The VGG paper. Investigate the effect of the convolutional network depth on its accuracy in the large-scale image recognition setting. In HuXHZ2015: ``demonstrate that the depth of the network plays a significant role in improving classification accuracy''.},
   creationdate = {2016.05.09},
   keywords     = {ImageLearn, MLStrat Milestones},
-  month        = {7th May},
+  month        = {5},
   owner        = {ISargent},
   year         = {2015},
 }
@@ -4832,7 +4851,7 @@ developed according to real-world deployment and used at scale. We include detai
   title     = {Diffusions MAP For Clustering FMRI Spatial MAP Extracted By Independent Component Analysis},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {fMRI scans of subjects whilst playing them music. Created diffusions MAP (matrix of distances between observations) and then performed clustering. One cluster in data is intriguing but infortunately we don't know what this is...},
   keywords  = {Machine Learning},
@@ -4847,7 +4866,7 @@ developed according to real-world deployment and used at scale. We include detai
   Year                     = {2015},
 
   Address                  = {Leeds, UK},
-  Month                    = {April},
+  Month                    = {4},
   Note                     = {In preparation},
 
   Keywords                 = {3DCharsPaper},
@@ -4924,7 +4943,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
 * The need of national and European policies on spatial information to stimulate the use of available 3D technologies. ``},
   creationdate = {2015.11.06},
   keywords     = {3DCharsPaper, 3D},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2013},
 }
@@ -5073,7 +5092,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
   title     = {Learning to Detect Good 3D Keypoints},
   journal   = {International Journal of Computer Vision},
   year      = {2017},
-  month     = {Aug},
+  month     = {8},
   issn      = {1573-1405},
   doi       = {10.1007/s11263-017-1037-3},
   url       = {https://doi.org/10.1007/s11263-017-1037-3},
@@ -5189,7 +5208,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
   Address                  = {Pontypridd, Wales, UK},
   Pages                    = {156--161},
 
-  Date                     = {September},
+  Date                     = {9},
   Keywords                 = {3DCharsPaper},
   Owner                    = {ISargent},
   creationdate                = {2015.10.20}
@@ -5265,7 +5284,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
   comment      = {paper emphasising the need for Human Factors Engineering technology in the develop of 3D geo information technologies. more about the tools (3D GIS etc) than the data. Describe in detail two scenario - urban planning and crisis management - to illustrate how people would need to be about to use the tools to work well. identifies 3 challenges: Intuitive data access and manipulation, Multi-stakeholder participatory design processes (which should mean that everyone can be involved early and timescales are reduced) and Multisensory experience. I have PDF.},
   creationdate = {2015.11.10},
   keywords     = {3DCharsPaper},
-  month        = {November},
+  month        = {11},
   owner        = {ISargent},
   year         = {2010},
 }
@@ -5275,7 +5294,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
 
   Author                   = {Harsha Vardhan},
   HowPublished             = {Online. Last visited: 4th December 2016},
-  Month                    = {May},
+  Month                    = {5},
   Year                     = {2016},
 
   Keywords                 = {DeepLEAP},
@@ -5289,7 +5308,7 @@ technologies, still these are not fully exploited in practise ... [because] ... 
   title     = {A New Information Theoretic Clustering Algorithm Using K-NN},
   booktitle = {2013 IEEE INTERNATIONAL WORKSHOP ON MACHINE LEARNING FOR SIGNAL PROCESSING},
   year      = {2013},
-  month     = {September},
+  month     = {9},
   address   = {SOUTHAMPTON, UK},
   comment   = {One author is from Microsoft in Norway. K-NN information theoretic clustering uses RÃƒÂ©nyi entropy to define the divergence. This paper defines two values of k to describe separately the distance between clusters and the maximum distance that an observation may be from its cluster centroid. The results are very robust to scale differences between clusters.},
   keywords  = {Machine Learning, Clustering},
@@ -5506,22 +5525,23 @@ cephalographic recordings verify those predictions and thus strongly support the
 
   Address                  = {Sacramento, USA},
 
-  Date                     = {March},
+  Date                     = {3},
   Keywords                 = {3DCharsPaper},
   Owner                    = {ISargent},
   creationdate                = {2015.10.20}
 }
 
-@Other{WikipediaCNN,
-  author       = {Wikipedia},
-  comment      = {'' Stacking many such layers leads to non-linear ``filters'' that become increasingly ``global'' (i.e. responsive to a larger region of pixel space). This allows the network to first create good representations of small parts of the input, then assemble representations of larger areas from them.''},
-  creationdate = {2016.05.11},
-  keywords     = {ImageLearn, CNN, Spatial Scale},
-  owner        = {ISargent},
-  title        = {Convolutional neural network},
-  url          = {https://en.wikipedia.org/wiki/Convolutional_neural_network},
-  urldate      = {2016.05.11},
-  year         = {2016},
+@Online{WikipediaCNN,
+  author           = {Wikipedia},
+  title            = {Convolutional neural network},
+  url              = {https://en.wikipedia.org/wiki/Convolutional_neural_network},
+  urldate          = {2016.05.11},
+  comment          = {'' Stacking many such layers leads to non-linear ``filters'' that become increasingly ``global'' (i.e. responsive to a larger region of pixel space). This allows the network to first create good representations of small parts of the input, then assemble representations of larger areas from them.''},
+  creationdate     = {2016.05.11},
+  keywords         = {ImageLearn, CNN, Spatial Scale},
+  modificationdate = {2023-12-06T08:00:54},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Article{WojnaGLMYLI2017,
@@ -5544,7 +5564,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   Year                     = {2015},
 
   Address                  = {Kuala Lumpur, Malaysia},
-  Month                    = {October},
+  Month                    = {10},
   Volume                   = {II-2/W2},
 
   Owner                    = {ISargent},
@@ -5556,7 +5576,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   Author                   = {Kelvin Wong and Claire Ellul},
   Booktitle                = {GISRUK},
   Year                     = {2013},
-  Month                    = {April},
+  Month                    = {4},
 
   Keywords                 = {3D buildings, 3DCharsPaper},
   Owner                    = {ISargent},
@@ -5571,7 +5591,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   comment      = {Kelvin's individual project report. ``3D is a multifaceted and ill-defined problem and it is unclear whether the benefits of the extra dimension outweighs its complexity''.},
   creationdate = {2014.11.04},
   keywords     = {3D buildings, uuser, task analysis},
-  month        = {October},
+  month        = {10},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -5584,7 +5604,7 @@ cephalographic recordings verify those predictions and thus strongly support the
 
   Address                  = {Leeds, UK},
 
-  Date                     = {April},
+  Date                     = {4},
   Keywords                 = {3DCharsPaper},
   Owner                    = {ISargent},
   creationdate                = {2015.10.20}
@@ -5597,7 +5617,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   year         = {2014},
   volume       = {106},
   number       = {3},
-  month        = {February},
+  month        = {2},
   pages        = {332-341},
   comment      = {Not read yet but could be useful for 3D shape work},
   keywords     = {3D Shape},
@@ -5624,7 +5644,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   year      = {2008},
   publisher = {John Wiley \& Sons},
   comment   = {Only read a small bit of introduction online but it looks like a very readable guide to clustering/unsupervised learning.},
-  month     = {Nov},
+  month     = {11},
   owner     = {ISargent},
   creationdate = {2016.10.19},
 }
@@ -5658,7 +5678,7 @@ cephalographic recordings verify those predictions and thus strongly support the
   title     = {A Codebook-Free and Annotation-Free Approach for Fine-Grained Image Categorization},
   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year      = {2012},
-  month     = {June},
+  month     = {6},
   url       = {http://ai.stanford.edu/~bangpeng/document/cvpr12_0654.pdf},
   address   = {Providence, RI, USA},
   comment   = {Uses template matching to classify images. Fine-scales in this case I think is to the level of bird species (rather than coarser-scaled birds). Does not use a codebook and users do not need to label images.},
@@ -5712,16 +5732,17 @@ cephalographic recordings verify those predictions and thus strongly support the
   year             = {2015},
 }
 
-@Other{YoungSHA2015,
-  Title                    = {Machine Learning for Aerial Image Analysis: Mid-project Report},
-  Author                   = {David Young and Isabel Sargent and Jonathon Hare and Peter Atkinson},
-  Date                     = {November},
-  Institution              = {Ordnance Survey / University of Southampton},
-  Keywords                 = {ImageLearn},
-  Note                     = {(SEARCH Title Word:ImageLearn in HP TRIM)},
-  Owner                    = {ISargent},
-  creationdate                = {2016.06.20},
-  Year                     = {2015}
+@Report{YoungSHA2015,
+  author           = {David Young and Isabel Sargent and Jonathon Hare and Peter Atkinson},
+  date             = {2015},
+  institution      = {Ordnance Survey \& University of Southampton},
+  title            = {Machine Learning for Aerial Image Analysis: Mid-project Report},
+  note             = {Internal Ordnance Survey Report},
+  creationdate     = {2016.06.20},
+  keywords         = {ImageLearn},
+  modificationdate = {2023-12-06T08:01:44},
+  mon              = {11},
+  owner            = {ISargent},
 }
 
 @Book{YuD2015,
@@ -5781,7 +5802,7 @@ Also explore the ability of the learned features to generalised to classify othe
   creationdate = {2015.06.12},
   editors      = {T. Fuse and M. Nakagawa},
   keywords     = {building facade},
-  month        = {May},
+  month        = {5},
   owner        = {ISargent},
   year         = {2015},
 }
@@ -5871,13 +5892,14 @@ Also explore the ability of the learned features to generalised to classify othe
   volum     = {8},
 }
 
-@Other{CooteFM2010,
-  Title                    = {{AGI} Foresight Study: The {UK} Geospatial Industry in 2015},
-  Editor                   = {Andrew Coote and Steven Feldman and Robin McLaren},
-  Month                    = {May},
-  Owner                    = {ISargent},
-  creationdate                = {2016.09.20},
-  Year                     = {2010}
+@Misc{CooteFM2010,
+  editor           = {Andrew Coote and Steven Feldman and Robin McLaren},
+  title            = {{AGI} Foresight Study: The {UK} Geospatial Industry in 2015},
+  creationdate     = {2016.09.20},
+  modificationdate = {2023-12-06T08:02:40},
+  month            = {5},
+  owner            = {ISargent},
+  year             = {2010},
 }
 
 @Book{OGCCityGML12,
@@ -5890,9 +5912,9 @@ Also explore the ability of the learned features to generalised to classify othe
   creationdate = {2013.11.07},
   institution  = {Open Geospatial Consortium},
   keywords     = {roof type, 3DCharsPaper},
-  month        = {April},
+  month        = {4},
   owner        = {isargent},
-  type         = {OpenGISÃ‚Â® Encoding Standard},
+  type         = {OpenGIS Encoding Standard},
   year         = {2012},
 }
 
@@ -5907,11 +5929,19 @@ Also explore the ability of the learned features to generalised to classify othe
   creationdate = {2015.06.30},
 }
 
-@Other{CarnegieMellonStatistics,
-  url       = {https://oli.cmu.edu/jcourse/workbook/activity/page?context=c09cf67880020ca601e42944841e08bb},
-  comment   = {Contains excellent diagrams showing the 4 stages of statistics: converting data into useful information.},
-  owner     = {ISargent},
-  creationdate = {2013.10.16},
+@Online{CarnegieMellonStatistics,
+  title            = {Carnegie Mellon University Probability and Statistics},
+  url              = {https://oli.cmu.edu/jcourse/workbook/activity/page?context=c09cf67880020ca601e42944841e08bb},
+  comment          = {Contains excellent diagrams showing the 4 stages of statistics: converting data into useful information.
+
+May have been \url{http://wiki.penson.io/images/big-picture.png} from \url{http://wiki.penson.io/courses/cmu-stats.html} which shows the four phases of understanding a population from which a data sample is taken (phase 1):
+1. producing data
+2. exploratory data analysis
+3. probability
+4. inference},
+  creationdate     = {2013.10.16},
+  modificationdate = {2023-12-24T13:05:22},
+  owner            = {ISargent},
 }
 
 @Misc{RedditDeepDream2015,
@@ -5998,7 +6028,7 @@ Also explore the ability of the learned features to generalised to classify othe
   title     = {Landmark classification in large-scale image collections},
   booktitle = {2009 IEEE 12th International Conference on Computer Vision},
   year      = {2009},
-  month     = {Sept},
+  month     = {9},
   pages     = {1957-1964},
   doi       = {10.1109/ICCV.2009.5459432},
   comment   = {Labelling images based on geotag - finding peaks that correspond to landmarks - and learn models of the landmarks using interest point descriptors. Also use textual tags and dates givenon photo sharing sites.},
@@ -6086,7 +6116,7 @@ evaluate the filters as part detectors, following the PASCAL VOC (Everingham et 
   comment       = {The question of processing point cloud data such that it can be learned from remains open, and one of the more difficult topics of future ImageLearn research. This paper from Apple suggests a way that irregular point clouds can be regularised into voxels, each attributed with local shape information. Neat.},
   journal       = {ArXiv e-prints},
   keywords      = {Computer Science - Computer Vision and Pattern Recognition, point cloud, 3D, machine learning},
-  month         = nov,
+  month         = {11},
   owner         = {ISargent},
   primaryclass  = {cs.CV},
   creationdate     = {2017.11.23},
@@ -7909,11 +7939,11 @@ Designing markets
 }
 
 @InProceedings{AmershiEtAl2019,
-  author       = {Saleema Amershi and Andrew Begel and Christian Bird and Robert DeLine and Harald Gall and Ece Kamar and Nachiappan Nagappan and Besmira Nushi and Thomas Zimmermann},
-  booktitle    = {International Conference on Software Engineering (ICSE 2019) - Software Engineering in Practice track},
-  title        = {Software Engineering for Machine Learning: A Case Study},
-  url          = {https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/},
-  comment      = {Survey of AI teams at Microsoft to identify common approaches and issues. ``identified three aspects of the AI domain that make it fundamentally different from prior software application domains: 1) discovering, managing, and versioning the data needed for machine learning applications is much more complex and difficult than other types of software engineering, 2) model customization and model reuse require very different skills than are typically found in software teams, and 3) AI components are more difficult to handle as distinct modules than traditional software components - models may be “entangled” in complex ways and experience non-monotonic error behavior.''
+  author           = {Saleema Amershi and Andrew Begel and Christian Bird and Robert DeLine and Harald Gall and Ece Kamar and Nachiappan Nagappan and Besmira Nushi and Thomas Zimmermann},
+  booktitle        = {International Conference on Software Engineering (ICSE 2019) - Software Engineering in Practice track},
+  title            = {Software Engineering for Machine Learning: A Case Study},
+  url              = {https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/},
+  comment          = {Survey of AI teams at Microsoft to identify common approaches and issues. ``identified three aspects of the AI domain that make it fundamentally different from prior software application domains: 1) discovering, managing, and versioning the data needed for machine learning applications is much more complex and difficult than other types of software engineering, 2) model customization and model reuse require very different skills than are typically found in software teams, and 3) AI components are more difficult to handle as distinct modules than traditional software components - models may be “entangled” in complex ways and experience non-monotonic error behavior.''
 ''We have made a first attempt to create a process maturity metric to help teams identify how far they have come on their journeys to building AI applications''
 AI teams are sometimes staffed by ``polymath data scientists, who <<do it all>> [others] domain experts who deeply understand the business problems,
 modelers who develop predictive models, and platform builders who create the cloud-based infrastructure''
@@ -7932,10 +7962,11 @@ modelers who develop predictive models, and platform builders who create the clo
 (6) continuously improved.''
 ''While there are very well-designed technologies to version code, the same is not true for data''
 ''Conway's Law, ... makes the observation that the teams that build each component of the software organize themselves similarly to its architecture''},
-  creationdate = {2020-02-19},
-  keywords     = {Artificial Intelligence, Sustainable Software, MLStrat Programme, metrics, trust},
-  owner        = {ISargent},
-  year         = {2019},
+  creationdate     = {2020-02-19},
+  keywords         = {Artificial Intelligence, Sustainable Software, MLStrat Programme, metrics, trust},
+  modificationdate = {2023-12-11T08:03:36},
+  owner            = {ISargent},
+  year             = {2019},
 }
 
 @Article{SuttonATM2010,
@@ -8081,7 +8112,7 @@ Meeting and managing ISO standards
 Learning and development
 Seems to be lacking an inroduction and conclusion for those not involved in the creation of the doc - but a useful resource for making IT more sustainable. I believe it's due for an update.},
   keywords  = {Carbon, Greening Business, Environment},
-  month     = {October},
+  month     = {10},
   owner     = {ISargent},
   priority  = {prio1},
   creationdate = {2020-04-29},
@@ -8391,7 +8422,7 @@ Put people's wellbeing at the heart of the crisis response
   volume    = {80},
   series    = {Proceedings of Machine Learning Research},
   publisher = {PMLR},
-  month     = {10--15 Jul},
+  month     = {7},
   pages     = {531--540},
   url       = {http://proceedings.mlr.press/v80/belghazi18a.html},
   address   = {Stockholmsmässan, Stockholm Sweden},
@@ -9458,7 +9489,7 @@ Tests approach on Baf of Words and Deep Learning approaches.},
 4. The post-COVID city''},
   creationdate     = {2020-11-23},
   keywords         = {trust, transport, smart, environment},
-  modificationdate = {2022-12-10T10:19:12},
+  modificationdate = {2023-12-11T08:04:12},
   owner            = {ISargent},
   year             = {2020},
 }
@@ -9701,11 +9732,12 @@ Practical implementation on WikiText-103 benchmark of ChenRBD2019.},
 }
 
 @Article{PalmO2006,
-  author       = {Elin Palm and Ove Hansson, Sven},
-  title        = {The case for ethical technology assessment (eTA)},
-  doi          = {https://doi.org/10.1016/j.techfore.2005.06.002},
-  url          = {https://www.sciencedirect.com/science/article/pii/S004016250500082X},
-  comment      = {Discusses technology assessments, which have a long history but tend to be rather focussed on the perspective of the 'West'.
+  author           = {Elin Palm and Ove Hansson, Sven},
+  journaltitle     = {Technological Forecasting and Social Change},
+  title            = {The case for ethical technology assessment (eTA)},
+  doi              = {https://doi.org/10.1016/j.techfore.2005.06.002},
+  url              = {https://www.sciencedirect.com/science/article/pii/S004016250500082X},
+  comment          = {Discusses technology assessments, which have a long history but tend to be rather focussed on the perspective of the 'West'.
 ''social and legal response is constantly one step behind technological development''.
 ''We see it as the principal task of eTA to find and characterise the ethical aspects of an emerging technology.''
 ''one approach would be the consequentialist where potential benefits for individuals and society are weighed against potential harms for individuals, community, and environment''.
@@ -9719,12 +9751,12 @@ The following is our preliminary version of the ethical check-list:
 7. Gender, minorities and justice
 8. International relations
 9. Impact on human values.},
-  creationdate = {2021-01-04},
-  journal      = {Technological Forecasting and Social Change},
-  keywords     = {ethics, MLStrat},
-  owner        = {ISargent},
-  priority     = {prio1},
-  year         = {2006},
+  creationdate     = {2021-01-04},
+  keywords         = {ethics, MLStrat, trust},
+  modificationdate = {2023-12-11T07:57:48},
+  owner            = {ISargent},
+  priority         = {prio1},
+  year             = {2006},
 }
 
 @Article{SelvarajuCDVPB2019,
@@ -9830,7 +9862,7 @@ Without deep understanding of the basic tools needed to build and train new algo
   volume    = {111},
   journal   = {International Journal of Computer Vision},
   keywords  = {MLStrat Data},
-  month     = jan,
+  month     = {1},
   owner     = {ISargent},
   creationdate = {2021-01-08},
   year      = {2015},
@@ -10178,7 +10210,7 @@ Representative and large-scale RS image datasets with accurate annotations are d
   title     = {Topographic data machine learning method and system},
   note      = {US Patent 10,586,103},
   keywords  = {izzypub, MLStrat},
-  month     = mar #{~10},
+  month     = {3},
   owner     = {ISargent},
   creationdate = {2021-01-15},
   year      = {2020},
@@ -10203,7 +10235,7 @@ Representative and large-scale RS image datasets with accurate annotations are d
   title     = {Topographical contextual grouping},
   note      = {US Patent 10,747,790},
   keywords  = {izzypub, MLStrat},
-  month     = aug #{~18},
+  month     = {8},
   owner     = {ISargent},
   creationdate = {2021-01-15},
   year      = {2020},
@@ -10227,7 +10259,7 @@ Representative and large-scale RS image datasets with accurate annotations are d
   title     = {Joint Deep Learning for Land Cover and Land Use Classification},
   note      = {US Patent App. 16/549,216},
   keywords  = {izzypub, MLStrat},
-  month     = feb #{~27},
+  month     = {2},
   owner     = {ISargent},
   creationdate = {2021-01-15},
   year      = {2020},
@@ -10238,7 +10270,7 @@ Representative and large-scale RS image datasets with accurate annotations are d
   title     = {Object-based Convolutional Neural Network for Land Use Classification},
   note      = {US Patent App. 16/156,044},
   keywords  = {izzypub, MLStrat},
-  month     = apr #{~16},
+  month     = {4},
   owner     = {ISargent},
   creationdate = {2021-01-15},
   year      = {2020},
@@ -10262,8 +10294,8 @@ SUM values (ethical values that Support, Underwrite, and Motivate a responsible 
 FAST Track Principles - four key notions of Fairness, Accountability, Sustainability and Transparency;
 PBG Framework (process-based governance framework) - that operationalises the SUM Values and the FAST Track Principles},
   creationdate     = {2021-01-20},
-  keywords         = {AI, ethics, MLStrat, EthicsWS},
-  modificationdate = {2022-07-05T14:13:35},
+  keywords         = {AI, ethics, MLStrat, EthicsWS, trust, ResponsibleAI},
+  modificationdate = {2024-01-30T10:03:55},
   owner            = {ISargent},
   year             = {2019},
 }
@@ -10312,7 +10344,7 @@ PBG Framework (process-based governance framework) - that operationalises the SU
   issue_date = {August 2015},
   journal    = {ACM Trans. Graph.},
   keywords   = {gradient-domain, path tracing, global illumination, light transport},
-  month      = jul,
+  month      = {7},
   numpages   = {13},
   owner      = {ISargent},
   publisher  = {Association for Computing Machinery},
@@ -10339,6 +10371,8 @@ PBG Framework (process-based governance framework) - that operationalises the SU
   date             = {2021-01-06},
   institution      = {Office for Artificial Intelligence, Department for Business, Energy \& Industrial Strategy, and Department for Digital, Culture, Media \& Sport},
   title            = {AI Roadmap},
+  eprint           = {https://assets.publishing.service.gov.uk/media/5ff3bc6e8fa8f53b76ccee23/AI_Council_AI_Roadmap.pdf},
+  url              = {https://www.gov.uk/government/publications/ai-roadmap},
   abstract         = {The AI Council is an independent expert committee. It provides advice to the UK Government, as well as high-level leadership of the Artificial Intelligence (AI) ecosystem. This independent report draws on the expertise of its members and those in its wider ecosystem to summarise four pillars on which to build the UK's future in AI. It invites action across government to keep the UK at the forefront of safe and responsible AI.},
   comment          = {4 pillars:
 1. Research, Development and Innovation
@@ -10349,33 +10383,33 @@ PBG Framework (process-based governance framework) - that operationalises the SU
 Not a ``draft strategy'' or ``instruction manual''.
 16 recommendations (these are excellent)
 
-''confidence will depend on the existence of systems that ensure full accountability, clear ethics and transparency''
+``'confidence will depend on the existence of systems that ensure full accountability, clear ethics and transparency''
 
 ''The Council calls for a UK National AI Strategy that creates an even stronger general base of support for AI. Scotland has already embarked on an AI Strategy and the UK strategy should be created in consultation with the devolved administrations and the wider ecosystem.''
 
-''Properly designed and delivered moonshot programmes play to AI's strengths by requiring people to work across boundaries and existing organisational structures, and to build new relationships, networks and common languages in order to develop entirely new solutions to big challenges.''
+``Properly designed and delivered moonshot programmes play to AI's strengths by requiring people to work across boundaries and existing organisational structures, and to build new relationships, networks and common languages in order to develop entirely new solutions to big challenges.''
 
-''One such moonshot ... developing and establishing appropriate methods for safe, ethical, explainable and reproducible AI which will accelerate its use across many sectors.''
+``One such moonshot ... developing and establishing appropriate methods for safe, ethical, explainable and reproducible AI which will accelerate its use across many sectors.''
 
-''every child leaves school with a basic sense of how AI works ... knowing enough to be a conscious and confident user of AI-related products''
+``every child leaves school with a basic sense of how AI works ... knowing enough to be a conscious and confident user of AI-related products''
 
-''Over time, AI needs to be built into the curriculum as a specialist subject. As well as being its own subject AI needs to be part of computer science, citizenship studies, and as part of new ways of doing other subjects such as geography or history''
+``Over time, AI needs to be built into the curriculum as a specialist subject. As well as being its own subject AI needs to be part of computer science, citizenship studies, and as part of new ways of doing other subjects such as geography or history''
 
-''available to young people of all backgrounds, ensuring that the UK's future AI workforce reflects the diversity of background and thought needed to develop world leading AI capabilities that tackle the issues which matter most''
+``available to young people of all backgrounds, ensuring that the UK's future AI workforce reflects the diversity of background and thought needed to develop world leading AI capabilities that tackle the issues which matter most''
 
-''need for significant change in the contract between the state, individual and employer and a step change in the scale of continuous professional development and the ability to move between types of work''
+``need for significant change in the contract between the state, individual and employer and a step change in the scale of continuous professional development and the ability to move between types of work''
 
-''new curriculum resources need to include curated data sets that will enable teachers to create the case studies and exercises that will in turn create the familiarity that leads all young people to increased confidence and data literacy''
+``new curriculum resources need to include curated data sets that will enable teachers to create the case studies and exercises that will in turn create the familiarity that leads all young people to increased confidence and data literacy''
 
-''more work is needed to help businesses seeking to use data for AI by creating the conditions for the deployment of suitable privacy enhancing technologies''
+``more work is needed to help businesses seeking to use data for AI by creating the conditions for the deployment of suitable privacy enhancing technologies''
 
-''work is needed to build a common language amongst data practitioners''
+``work is needed to build a common language amongst data practitioners''
 
-''Developing and deploying trustworthy AI will be dependent on the UK strengthening its governing environment in a manner that both provides guidance and confidence to businesses to innovate and adopt AI, and reassures the public that the use of AI is safe, secure, fair, ethical and duly overseen by independent entities. This is beginning to be addressed in the National Data Strategy...''
+``Developing and deploying trustworthy AI will be dependent on the UK strengthening its governing environment in a manner that both provides guidance and confidence to businesses to innovate and adopt AI, and reassures the public that the use of AI is safe, secure, fair, ethical and duly overseen by independent entities. This is beginning to be addressed in the National Data Strategy...''
 
-''algorithmic impact assessments''
+``algorithmic impact assessments''
 
-''fully consider the implications of AI in areas such as labour, environmental, and criminal law. These three tenets: (1) clear transparency about automated decision making, (2) the right to give meaningful public input and (3) the ability to enforce sanctions could be encapsulated in a Public Interest Data Bill''
+``fully consider the implications of AI in areas such as labour, environmental, and criminal law. These three tenets: (1) clear transparency about automated decision making, (2) the right to give meaningful public input and (3) the ability to enforce sanctions could be encapsulated in a Public Interest Data Bill''
 
 Some stuff on digital twins
 
@@ -10385,10 +10419,12 @@ Supporting high growth AI startups
 Enabling public sector adoption
 Health and social care
 Climate change
-Defence and security},
+Defence and security
+
+``Threaded throughout discussions about AI is the need for adaptive and informed regulation and standards as part of an enabling environment of good governance,which includes public engagement,transparency measures and responsible research and innovation on the part of businesses through the lifecycle of AI operations''},
   creationdate     = {2021-02-01},
   keywords         = {AI, Ethics, Policy, Strategy, MLStrat},
-  modificationdate = {2022-12-09T09:06:22},
+  modificationdate = {2023-12-11T11:37:36},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -10433,16 +10469,18 @@ Defence and security},
 }
 
 @Online{GovAIEthics2019,
-  author    = {{Government Digital Service}},
-  date      = {2019-06-10T09:15:00.000+00:00},
-  title     = {Understanding artificial intelligence ethics and safety - GOV.UK},
-  url       = {https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety},
-  urldate   = {2021-02-04},
-  comment   = {The main ways that AI systems can cause involuntary harm are misuse, questionable design or unintended negative consequences
+  author           = {{CDDO / OAI}},
+  date             = {2019-06-10},
+  title            = {Understanding artificial intelligence ethics and safety},
+  url              = {https://www.gov.uk/guidance/understanding-artificial-intelligence-ethics-and-safety},
+  organization     = {Central Digital and Data Office and Office for Artificial Intelligence},
+  urldate          = {2021-02-04},
+  comment          = {The main ways that AI systems can cause involuntary harm are misuse, questionable design or unintended negative consequences
 The rest of this guidance document is a summary of Leslie2019 (Turing AI Ethics Framework).},
-  keywords  = {AI, Ethics, Government, MLStrat},
-  owner     = {ISargent},
-  creationdate = {2021-02-04},
+  creationdate     = {2021-02-04},
+  keywords         = {AI, Ethics, Government, MLStrat},
+  modificationdate = {2023-12-09T17:51:41},
+  owner            = {ISargent},
 }
 
 @Report{BirdFJLWW2020,
@@ -10495,8 +10533,8 @@ Impact on trust
 	Accountability
 	Control},
   creationdate     = {2021-02-04},
-  keywords         = {AI, Ethics, Government, MLStrat, EthicsWS},
-  modificationdate = {2023-12-03T21:25:37},
+  keywords         = {AI, Ethics, Government, MLStrat, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:01:38},
   owner            = {ISargent},
 }
 
@@ -10615,14 +10653,14 @@ At each change, you will need to consider the ethics of each decision, trade-off
 }
 
 @Online{GC2020,
-  author       = {{Geospatial Commission}},
-  date         = {2020-11-24},
-  title        = {Enhancing the UK's Geospatial Ecosystem},
-  url          = {https://www.gov.uk/government/publications/enhancing-the-uks-geospatial-ecosystem},
-  organization = {Cabinet Office�},
-  urldate      = {2021-02-04},
-  abstract     = {Outlines the actions needed to nurture the UK's growing geospatial economy, underpinned by an independent study into the current UK location data market.},
-  comment      = {Report buildings on the UK's Geospatial Strategy (although I have not been able to develop a very clear, concrete idea of what it wants to achieve).
+  author           = {{Geospatial Commission}},
+  date             = {2020-11-24},
+  title            = {Enhancing the UK's Geospatial Ecosystem},
+  url              = {https://www.gov.uk/government/publications/enhancing-the-uks-geospatial-ecosystem},
+  organization     = {Cabinet Office�},
+  urldate          = {2021-02-04},
+  abstract         = {Outlines the actions needed to nurture the UK's growing geospatial economy, underpinned by an independent study into the current UK location data market.},
+  comment          = {Report buildings on the UK's Geospatial Strategy (although I have not been able to develop a very clear, concrete idea of what it wants to achieve).
 
 ''the Geospatial Commions's way of working, being evidence-led, iterative, collaborative and open''.
 
@@ -10644,18 +10682,19 @@ Driving location data adoption
 Quite a lot about the public good in location data - that good is achieved by giving access and so means are needed to overcome ethical barriers to giving access. 
 
 In terms of trust, much of the comment is about building a conversation with the public and consumers about how data are used and the safeguards that are put in place. Mostly, there doesn't seem to be much recognition of ethical concerns beyond those around personal data.},
-  creationdate = {2021-02-04},
-  keywords     = {strategy, geospatial, MLStrat, trust},
-  owner        = {ISargent},
+  creationdate     = {2021-02-04},
+  keywords         = {strategy, geospatial, MLStrat, trust},
+  modificationdate = {2023-12-11T08:04:15},
+  owner            = {ISargent},
 }
 
 @Online{BS86112016,
-  author    = {{British Standards Institute}},
-  date      = {2016-04-01},
-  title     = {BS 8611},
-  url       = {https://shop.bsigroup.com/ProductDetail?pid=000000000030320089},
-  subtitle  = {Guide to the Ethical Design of Robots and Robotic Systems},
-  abstract  = {What is this standard about? 
+  author           = {{British Standards Institute}},
+  date             = {2016-04-01},
+  title            = {BS 8611},
+  url              = {https://shop.bsigroup.com/ProductDetail?pid=000000000030320089},
+  subtitle         = {Guide to the Ethical Design of Robots and Robotic Systems},
+  abstract         = {What is this standard about? 
 
 BS 8611 gives guidelines for the identification of potential ethical harm arising from the growing number of robots and autonomous systems being used in everyday life.
 
@@ -10670,11 +10709,12 @@ Why should you use this standard?
 BS 8611 was written by scientists, academics, ethicists, philosophers and users to provide guidance on specifically ethical hazards associated with robots and robotic systems and how to put protective measures in place. It recognizes that these potential ethical hazards have a broader implication than physical hazards, so it is important that different ethical harms and remedial considerations are considered.
 
 The new standard builds on existing safety requirements for different types of robots, covering industrial, personal care and medical.},
-  comment   = {Probably the first ethical framework in AI},
-  keywords  = {ethics, AI, MLStrat},
-  owner     = {ISargent},
-  creationdate = {2021-02-04},
-  year      = {2016},
+  comment          = {Probably the first ethical framework in AI},
+  creationdate     = {2021-02-04},
+  keywords         = {ethics, AI, MLStrat, trust},
+  modificationdate = {2023-12-11T07:58:52},
+  owner            = {ISargent},
+  year             = {2016},
 }
 
 @Online{ODICanvas2019,
@@ -10711,12 +10751,12 @@ The Data Ethics Canvas provides a framework to develop ethical guidance that sui
 }
 
 @Article{DAmourEtAl2021,
-  author        = {Alexander D'Amour and Katherine Heller and Dan Moldovan and Ben Adlam and Babak Alipanahi and Alex Beutel and Christina Chen and Jonathan Deaton and Jacob Eisenstein and Matthew D. Hoffman and Farhad Hormozdiari and Neil Houlsby and Shaobo Hou and Ghassen Jerfel and Alan Karthikesalingam and Mario Lucic and Yian Ma and Cory McLean and Diana Mincu and Akinori Mitani and Andrea Montanari and Zachary Nado and Vivek Natarajan and Christopher Nielson and Thomas F. Osborne and Rajiv Raman and Kim Ramasamy and Rory Sayres and Jessica Schrouff and Martin Seneviratne and Shannon Sequeira and Harini Suresh and Victor Veitch and Max Vladymyrov and Xuezhi Wang and Kellie Webster and Steve Yadlowsky and Taedong Yun and Xiaohua Zhai and D. Sculley},
-  title         = {Underspecification Presents Challenges for Credibility in Modern Machine Learning},
-  eprint        = {2011.03395},
-  url           = {https://arxiv.org/abs/2011.03395},
-  archiveprefix = {arXiv},
-  comment       = {Just because a model trains well doesn't mean it'll work well when deployed in different domain and the only way to find out which is to the best is to test all the options. 
+  author           = {Alexander D'Amour and Katherine Heller and Dan Moldovan and Ben Adlam and Babak Alipanahi and Alex Beutel and Christina Chen and Jonathan Deaton and Jacob Eisenstein and Matthew D. Hoffman and Farhad Hormozdiari and Neil Houlsby and Shaobo Hou and Ghassen Jerfel and Alan Karthikesalingam and Mario Lucic and Yian Ma and Cory McLean and Diana Mincu and Akinori Mitani and Andrea Montanari and Zachary Nado and Vivek Natarajan and Christopher Nielson and Thomas F. Osborne and Rajiv Raman and Kim Ramasamy and Rory Sayres and Jessica Schrouff and Martin Seneviratne and Shannon Sequeira and Harini Suresh and Victor Veitch and Max Vladymyrov and Xuezhi Wang and Kellie Webster and Steve Yadlowsky and Taedong Yun and Xiaohua Zhai and D. Sculley},
+  title            = {Underspecification Presents Challenges for Credibility in Modern Machine Learning},
+  eprint           = {2011.03395},
+  url              = {https://arxiv.org/abs/2011.03395},
+  archiveprefix    = {arXiv},
+  comment          = {Just because a model trains well doesn't mean it'll work well when deployed in different domain and the only way to find out which is to the best is to test all the options. 
 
 Really good paper for comparing models for their ability to be used for transfer learning / feature extraction.
 
@@ -10746,11 +10786,12 @@ How it works: The authors built many models per pipeline across a range of machi
 Results: The authors found highly variable performance in models produced by identical model pipelines for several practical tasks in language, vision, and healthcare. For instance, they trained 50 ResNet-50 models on ImageNet using the same pipeline except for differing random seeds. On ImageNet's test set, the standard deviation from top-1 accuracy was 0.001. On ImageNet-C, which comprises corrupted ImageNet examples that are still recognizable to humans, the standard deviation was 0.024. A given model's performance on one dataset didn't correlate with its performance on the other.
 Why it matters: If our models are to be useful and trustworthy, they must deliver consistent results. Underspecification is a significant barrier to that goal.
 We're thinking: This work offers a helpful framework to evaluate the model performance on similar-but-different data. But how can we specify model pipelines to produce consistent models? We eagerly await further studies in this area.},
-  creationdate  = {2021-03-12},
-  keywords      = {metrics, deep learning, machine learning, transfer learning, trust},
-  owner         = {ISargent},
-  primaryclass  = {cs.LG},
-  year          = {2020},
+  creationdate     = {2021-03-12},
+  keywords         = {metrics, deep learning, machine learning, transfer learning, trust},
+  modificationdate = {2023-12-11T08:04:26},
+  owner            = {ISargent},
+  primaryclass     = {cs.LG},
+  year             = {2020},
 }
 
 @Article{ijgi8050232,
@@ -11949,7 +11990,7 @@ So learn policy in single environment, try it in target environment, then adapt 
   pages        = {e181535-e181535},
   url          = {https://doi.org/10.1001/jamanetworkopen.2018.1535},
   volume       = {1},
-  abstract     = {{More than one-third of the adult population in the United States is obese. Obesity has been linked to factors such as genetics, diet, physical activity, and the environment. However, evidence indicating associations between the built environment and obesity has varied across studies and geographical contexts.To propose an approach for consistent measurement of the features of the built environment (ie, both natural and modified elements of the physical environment) and its association with obesity prevalence to allow for comparison across studies.The cross-sectional study was conducted from February 14 through October 31, 2017. A convolutional neural network, a deep learning approach, was applied to approximately 150 000 high-resolution satellite images from Google Static Maps API (application programing interface) to extract features of the built environment in Los Angeles, California; Memphis, Tennessee; San Antonio, Texas; and Seattle (representing Seattle, Tacoma, and Bellevue), Washington. Data on adult obesity prevalence were obtained from the Centers for Disease Control and Prevention's 500 Cities project. Regression models were used to quantify the association between the features and obesity prevalence across census tracts.Model-estimated obesity prevalence (obesity defined as body mass index ≥30, calculated as weight in kilograms divided by height in meters squared) based on built environment information.The study included 1695 census tracts in 6 cities. The age-adjusted obesity prevalence was 18.8\\\% (95\\\% CI, 18.6\\%-18.9\\%) for Bellevue, 22.4\\\% (95\\\% CI, 22.3\\%-22.5\\%) for Seattle, 30.8\\\% (95\\\% CI, 30.6\\%-31.0\\%) for Tacoma, 26.7\\\% (95\\\% CI, 26.7\\%-26.8\\%) for Los Angeles, 36.3\\\% (95\\\% CI, 36.2\\%-36.5\\%) for Memphis, and 32.9\\\% (95\\\% CI, 32.8\\%-32.9\\%) for San Antonio. Features of the built environment explained 64.8\\\% (root mean square error [RMSE], 4.3) of the variation in obesity prevalence across all census tracts. Individually, the variation explained was 55.8\\\% (RMSE, 3.2) for Seattle (213 census tracts), 56.1\\\% (RMSE, 4.2) for Los Angeles (993 census tracts), 73.3\\\% (RMSE, 4.5) for Memphis (178 census tracts), and 61.5\\\% (RMSE, 3.5) for San Antonio (311 census tracts).This study illustrates that convolutional neural networks can be used to automate the extraction of features of the built environment from satellite images for studying health indicators. Understanding the association between specific features of the built environment and obesity prevalence can lead to structural changes that could encourage physical activity and decreases in obesity prevalence.}},
+  abstract     = {More than one-third of the adult population in the United States is obese. Obesity has been linked to factors such as genetics, diet, physical activity, and the environment. However, evidence indicating associations between the built environment and obesity has varied across studies and geographical contexts.To propose an approach for consistent measurement of the features of the built environment (ie, both natural and modified elements of the physical environment) and its association with obesity prevalence to allow for comparison across studies.The cross-sectional study was conducted from February 14 through October 31, 2017. A convolutional neural network, a deep learning approach, was applied to approximately 150 000 high-resolution satellite images from Google Static Maps API (application programing interface) to extract features of the built environment in Los Angeles, California; Memphis, Tennessee; San Antonio, Texas; and Seattle (representing Seattle, Tacoma, and Bellevue), Washington. Data on adult obesity prevalence were obtained from the Centers for Disease Control and Prevention's 500 Cities project. Regression models were used to quantify the association between the features and obesity prevalence across census tracts.Model-estimated obesity prevalence (obesity defined as body mass index ≥30, calculated as weight in kilograms divided by height in meters squared) based on built environment information.The study included 1695 census tracts in 6 cities. The age-adjusted obesity prevalence was 18.8\\\% (95\\\% CI, 18.6\\%-18.9\\%) for Bellevue, 22.4\\\% (95\\\% CI, 22.3\\%-22.5\\%) for Seattle, 30.8\\\% (95\\\% CI, 30.6\\%-31.0\\%) for Tacoma, 26.7\\\% (95\\\% CI, 26.7\\%-26.8\\%) for Los Angeles, 36.3\\\% (95\\\% CI, 36.2\\%-36.5\\%) for Memphis, and 32.9\\\% (95\\\% CI, 32.8\\%-32.9\\%) for San Antonio. Features of the built environment explained 64.8\\\% (root mean square error [RMSE],4.3) of the variation in obesity prevalence across all census tracts. Individually, the variation explained was 55.8\\\% (RMSE,3.2) for Seattle (213 census tracts), 56.1\\\% (RMSE,4.2) for Los Angeles (993 census tracts), 73.3\\\% (RMSE,4.5) for Memphis (178 census tracts), and 61.5\\\% (RMSE,3.5) for San Antonio (311 census tracts).This study illustrates that convolutional neural networks can be used to automate the extraction of features of the built environment from satellite images for studying health indicators. Understanding the association between specific features of the built environment and obesity prevalence can lead to structural changes that could encourage physical activity and decreases in obesity prevalence.},
   comment      = {Find that obesity prevalence can be predicted from satellite data - indicating that aspects of the built environment correlate with obesity.},
   creationdate = {2021-05-07},
   journal      = {JAMA Network Open},
@@ -12026,8 +12067,8 @@ Uses
 Distribution
 Maintenance},
   creationdate     = {2021-06-14},
-  keywords         = {trust, AI, data, ethics, EthicsWS},
-  modificationdate = {2022-07-05T14:14:58},
+  keywords         = {trust, AI, data, ethics, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:01:24},
   owner            = {ISargent},
   primaryclass     = {cs.DB},
   year             = {2020},
@@ -12079,8 +12120,8 @@ Review of Model Cards after a could of yaers https://ecstaticnate.medium.com/aic
 ''comparing models from card to card was impossible''
 (instead introduces AICards)},
   creationdate     = {2021-06-14},
-  keywords         = {trust, AI, models, EthicsWS},
-  modificationdate = {2022-12-11T17:47:00},
+  keywords         = {trust, AI, models, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:01:09},
   month            = {1},
   owner            = {ISargent},
   year             = {2019},
@@ -12117,7 +12158,7 @@ Say that their method allows an interpretation of why the algorithm misclassifie
 Well worth trying to repeat - who has applied or developed this work?},
   creationdate     = {2021-06-14},
   keywords         = {trust, ethics, metrics, machine learning},
-  modificationdate = {2022-12-10T15:23:30},
+  modificationdate = {2023-12-11T07:59:13},
   owner            = {ISargent},
   primaryclass     = {cs.AI},
   year             = {2016},
@@ -12142,7 +12183,7 @@ Finally, the interaction between learning systems and their users need not be li
   creationdate = {2021-06-15},
   journal      = {AI Magazine},
   keywords     = {human in the loop, machine learning, interactive machine learning},
-  month        = {Dec.},
+  month        = {12},
   owner        = {ISargent},
   year         = {2014},
 }
@@ -12160,7 +12201,7 @@ Finally, the interaction between learning systems and their users need not be li
 I feel like this moves on from LakkarajuKCH2016 but I can't see the direct route between them. However, this work then developed into https://erroranalysis.ai/ (https://github.com/microsoft/responsible-ai-widgets)},
   creationdate     = {2021-06-15},
   keywords         = {ethics, trust, artificial intelligence},
-  modificationdate = {2022-12-10T10:08:10},
+  modificationdate = {2023-12-11T07:59:40},
   owner            = {ISargent},
   primaryclass     = {cs.LG},
   year             = {2018},
@@ -12230,7 +12271,7 @@ As it may not be clear if our use of AI is high-risk or lower-risk (I presume no
 --- resilient as regards attempts by unauthorised third parties ... (`data poisoning') ... (`adversarial examples')},
   creationdate     = {2021-06-23},
   keywords         = {ethics, trust, artificial intelligence, EthicsWS},
-  modificationdate = {2022-12-10T20:57:44},
+  modificationdate = {2023-12-11T08:04:32},
   owner            = {ISargent},
   year             = {2021},
 }
@@ -12394,7 +12435,7 @@ Individually we were probably of similar intelligence to Neanderthals, but we ha
 - Fostering an approach that shares knowledge is good for the group and the individual},
   creationdate     = {2021-07-12},
   keywords         = {ethics, trust},
-  modificationdate = {2022-07-05T15:12:32},
+  modificationdate = {2023-12-11T08:03:45},
   owner            = {ISargent},
   year             = {2019},
 }
@@ -12504,18 +12545,19 @@ We're thinking: If simple neural nets work as well as more complex ones for comp
 }
 
 @Article{BanerjeeEtAl2021,
-  author        = {Imon Banerjee and Ananth Reddy Bhimireddy and John L. Burns and Leo Anthony Celi and Li-Ching Chen and Ramon Correa and Natalie Dullerud and Marzyeh Ghassemi and Shih-Cheng Huang and Po-Chih Kuo and Matthew P Lungren and Lyle Palmer and Brandon J Price and Saptarshi Purkayastha and Ayis Pyrros and Luke Oakden-Rayner and Chima Okechukwu and Laleh Seyyed-Kalantari and Hari Trivedi and Ryan Wang and Zachary Zaiman and Haoran Zhang and Judy W Gichoya},
-  title         = {Reading Race: AI Recognises Patient's Racial Identity In Medical Images},
-  eprint        = {2107.10356},
-  url           = {https://arxiv.org/abs/2107.10356},
-  archiveprefix = {arXiv},
-  comment       = {AI can identify the self-reported race in medical images - that human cannot identify race. Not down to interpreting physical factors e.g. body mass, tissue density and even persisted with cropping, blurring and adding noise. i.e. unclear how machines are doing this. Demonstrates bias in AI and highlights how difficult it is to correct for.
+  author           = {Imon Banerjee and Ananth Reddy Bhimireddy and John L. Burns and Leo Anthony Celi and Li-Ching Chen and Ramon Correa and Natalie Dullerud and Marzyeh Ghassemi and Shih-Cheng Huang and Po-Chih Kuo and Matthew P Lungren and Lyle Palmer and Brandon J Price and Saptarshi Purkayastha and Ayis Pyrros and Luke Oakden-Rayner and Chima Okechukwu and Laleh Seyyed-Kalantari and Hari Trivedi and Ryan Wang and Zachary Zaiman and Haoran Zhang and Judy W Gichoya},
+  title            = {Reading Race: AI Recognises Patient's Racial Identity In Medical Images},
+  eprint           = {2107.10356},
+  url              = {https://arxiv.org/abs/2107.10356},
+  archiveprefix    = {arXiv},
+  comment          = {AI can identify the self-reported race in medical images - that human cannot identify race. Not down to interpreting physical factors e.g. body mass, tissue density and even persisted with cropping, blurring and adding noise. i.e. unclear how machines are doing this. Demonstrates bias in AI and highlights how difficult it is to correct for.
 
 More info in this edition of The Batch https://info.deeplearning.ai/the-batch-ai-recognizes-race-in-x-rays-robots-do-bees-work-transformers-pay-closer-attention-new-research-centers-1},
-  keywords      = {ethics, AI, deep learning, bias},
-  primaryclass  = {cs.CV},
   creationdate     = {2021-11-01},
-  year          = {2021},
+  keywords         = {ethics, AI, deep learning, bias},
+  modificationdate = {2023-12-11T08:02:13},
+  primaryclass     = {cs.CV},
+  year             = {2021},
 }
 
 @Article{GuettaSSME2021,

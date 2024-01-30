@@ -14706,8 +14706,8 @@ Urge researchers to shift to a mindset of careful planning, along many dimension
 
 Start from identifying research time as valuable - what is the best way to use our time and support others to build on this work. Set a (time, storage) budget in advance and work to it (e.g. stop building the dataset when you no longer have budget to document it). Documentating procesess, data, motivation etc. Adopt approaches from value-senstive design.},
   creationdate     = {2023-06-15T08:32:09},
-  keywords         = {AI, trust, NLP, BigTech},
-  modificationdate = {2023-12-13T09:59:49},
+  keywords         = {AI, trust, NLP, BigTech, ResponsibleAI},
+  modificationdate = {2024-01-30T10:04:51},
   numpages         = {14},
   owner            = {ISargent},
   year             = {2021},
@@ -16814,8 +16814,8 @@ Lots of detail on OpenAI
 
 See also Rikap2022},
   creationdate     = {2023-09-06T13:07:57},
-  keywords         = {AI, digital, transformation, technology, BigTech, AISummit},
-  modificationdate = {2023-12-06T06:16:57},
+  keywords         = {AI, digital, transformation, technology, BigTech, AISummit, ResponsibleAI},
+  modificationdate = {2024-01-30T10:04:09},
   owner            = {ISargent},
 }
 
@@ -19495,7 +19495,7 @@ of cloud},
   editor           = {Jose Ramon Saura and Felipe Debasa},
   publisher        = {IGI Global},
   url              = {https://pure.qub.ac.uk/en/publications/a-public-values-perspective-on-the-application-of-artificial-inte},
-  comment          = {Consider Ai use in government with objective to understand citizen adoption of AI in government. 
+  comment          = {Consider AI use in government with objective to understand citizen adoption of AI in government. 
 
 Discuss waves of innovation in public services. The first, in neoliberal 80s was  New Public Management (NPM) and a second wave is technologically centred approach that Dunleavy referred to as digital-era governance (DEG). Argues for a Public Values Management (PVM) perspective in exploring AI adoption in government.
 
@@ -19551,7 +19551,7 @@ Also labelled each use case with the public values orientation (duty, etc.) and 
 Discusses different aspects of value, their prominence and whether they are internal or external in orientation. Makes a series of propositions, which are largely reflective of the citizen adoption goal [therefore less of interest to me right now].},
   creationdate     = {2023-10-29T12:05:19},
   keywords         = {AI, public values, digital, transformation, trust, organisation, technology},
-  modificationdate = {2023-11-12T15:07:17},
+  modificationdate = {2024-01-17T07:45:16},
   owner            = {izzy_olivine},
 }
 
@@ -21207,8 +21207,8 @@ Questions that remain open:
 - Pathway - the notion of accountability and ownership of responsibility, including ensuring that structures evolve collaboratively with respect to advances in technology and changing societal expectations
 - Purpose - how to align multiple stakeholders with multiple perspectives to common goals in relation to Responsible AI, and how these goals interact and evolve with other paradigms that emerge},
   creationdate     = {2023-11-26T12:13:31},
-  keywords         = {AI, technology, systems, policy, trust, AISummit},
-  modificationdate = {2023-12-08T07:06:30},
+  keywords         = {AI, technology, systems, policy, trust, AISummit, ResponsibleAI},
+  modificationdate = {2024-01-30T10:04:24},
   owner            = {izzy_olivine},
   year             = {2023},
 }
@@ -21339,10 +21339,12 @@ Can cause more problems and damage social and economic systems
 
 Reduces capacity for problem solving at home
 
-Can undermine individuals who travel and are knowingly having to overstate successes to earn more funding},
+Can undermine individuals who travel and are knowingly having to overstate successes to earn more funding
+
+Also given as an illustration of why Dark Matter (see HillC2019) matters},
   creationdate     = {2023-12-02T16:13:41},
   keywords         = {trust, systems},
-  modificationdate = {2023-12-02T16:26:52},
+  modificationdate = {2024-01-20T20:45:11},
   owner            = {izzy_olivine},
 }
 
@@ -21907,8 +21909,8 @@ A critical regulatory artifact is rigorous documentation
 
 Elaborates on model cards MitchellEtAl2019 in a clearer sense with people and use contexts as main dimentions and beneficial and problematic technologies highlighted},
   creationdate     = {2023-12-09T15:36:52},
-  keywords         = {trust, AI, technology, AISummit},
-  modificationdate = {2023-12-09T15:56:02},
+  keywords         = {trust, AI, technology, AISummit, ResponsibleAI},
+  modificationdate = {2024-01-30T10:03:03},
   owner            = {izzy_olivine},
 }
 
@@ -22056,8 +22058,8 @@ Risk is as a direct impacts on social and political structures as well as:
 - natural risks
 - unaligned AGI},
   creationdate     = {2023-12-09T20:48:14},
-  keywords         = {trust, ethics, AI, technology, AISummit, policy, systems},
-  modificationdate = {2024-01-17T07:22:31},
+  keywords         = {trust, ethics, AI, technology, AISummit, policy, systems, ResponsibleAI},
+  modificationdate = {2024-01-30T10:03:32},
   month            = {7},
   owner            = {izzy_olivine},
   year             = {2022},
@@ -22253,8 +22255,8 @@ Also considers stakeholder and what each should should focus on:
 - Researchers - evaluate how useful these approaches are for governance
 - Data scientists  and engineers - collaborate, create best practice, develop tools, libraries frameworks},
   creationdate     = {2023-12-10T14:36:06},
-  keywords         = {ethics, trust, AI, AISummit, technology, policy},
-  modificationdate = {2023-12-10T14:49:04},
+  keywords         = {ethics, trust, AI, AISummit, technology, policy, ResponsibleAI},
+  modificationdate = {2024-01-30T10:03:21},
   owner            = {izzy_olivine},
 }
 
@@ -22550,8 +22552,8 @@ Fears that `the robots are coming to take away our jobs' are an understandable r
   urldate          = {2023-12-11},
   comment          = {Classifies risks and harms - comprehensively},
   creationdate     = {2023-12-11T08:09:15},
-  keywords         = {AI, AISummit, technology, policy},
-  modificationdate = {2023-12-11T08:12:02},
+  keywords         = {AI, AISummit, technology, policy, ResponsibleAI},
+  modificationdate = {2024-01-30T10:02:00},
   owner            = {izzy_olivine},
 }
 
@@ -23735,8 +23737,8 @@ speed up the adoption of RAI practices''
 ``Ethics Bluewashing Floridi [2019] (the unethical behavior of making unsupported or false claims about, or taking insufficient action to support, the ethical ideals and advantages of digital processes,
 products, services, or other solutions in an effort to look more ethically conscientious than one actually is)''},
   creationdate     = {2024-01-03T12:35:39},
-  keywords         = {technology, trust, ethics, AI},
-  modificationdate = {2024-01-03T13:08:37},
+  keywords         = {technology, trust, ethics, AI, ResponsibleAI},
+  modificationdate = {2024-01-30T09:58:33},
   owner            = {ISargent},
   year             = {2023},
 }
@@ -23909,8 +23911,8 @@ scenarios)
 
 Developed assessment and scoring method for assessment and certification. To earn certification, the AI system must earn 50\5+ of available score for each of the 6 dimensions - the total is then used to give an overall assessment (needs improvement, satisfactory, good, excellent) and a level (certified, silver, gold, platinum).},
   creationdate     = {2024-01-08T10:37:21},
-  keywords         = {trust, AI, responsible, ethics, bureaucracy},
-  modificationdate = {2024-01-08T11:11:09},
+  keywords         = {trust, AI, responsible, ethics, bureaucracy, ResponsibleAI},
+  modificationdate = {2024-01-30T10:00:34},
   owner            = {ISargent},
 }
 
@@ -24178,6 +24180,85 @@ From \href{https://info.deeplearning.ai/ai-discovers-new-antibiotics-openai-reva
   owner            = {ISargent},
   primaryclass     = {cs.AI},
   year             = {2024},
+}
+
+@Article{WoolleyMC2015,
+  author           = {Anita Woolley and Thomas W. Malone and Christopher F. Chabris},
+  date             = {2015-01-16},
+  journaltitle     = {The New York TImes},
+  title            = {Why Some Teams Are Smarter Than Others},
+  url              = {https://www.nytimes.com/2015/01/18/opinion/sunday/why-some-teams-are-smarter-than-others.html},
+  comment          = {Experiment with teams
+
+Find that some are smarter than others - they tend to excel at more things. But these were not team with higher average member IQ, or those with more extroverts. Instead, 3 characteristics:
+1. members contributed more equally to discussions
+2. members scored higher on a test called Reading the Mind in the Eyes
+3. teams with more women outperformed teams with more men
+
+These still applied to working online, even the reading others' emotions - not so much reading faces but having theory of mind},
+  creationdate     = {2024-01-20T20:37:57},
+  keywords         = {design, teams, organisations},
+  modificationdate = {2024-01-20T20:42:58},
+  owner            = {izzy_olivine},
+}
+
+@Report{CostaPM2018,
+  author           = {Nina Costa and Lia Patrício and Nicola Morelli},
+  date             = {2018},
+  institution      = {Politecnico di Milano},
+  title            = {A designerly-way of conducting qualitative research in design studies},
+  eprint           = {https://servdes.org/wp/wp-content/uploads/2018/07/13.pdf},
+  comment          = {Design isn't just practiced, it's researched too
+
+``this paper explores how a more designerly approach can better support design researchers to undertake qualitative research within design studies''
+
+``qualitative account of a design project which included 10 design teams developing new solutions with companies [meta design] ... service design elements were infused in data collection, data analysis and report of the phenomena'' - 5 teams each on product design and service design approaches, exploring how they can be enganced with product-service system (PSS) design components [this is an approach the authors have previously developed].
+
+``Design studies can involve the use of qualitative research methods from social sciences ... However, as the amount of complexity and heterogeneous sets of data are being collected within design studies, traditional social science qualitative methods may be limitative for design researchers''
+
+``Field notes included rich information including thick description of the situation observed, as well as sketches representing certain moments''
+
+Resulting data were messy so were organised onto a board - columns are the projects rows are the design stages (exploration, creation, test and prototype and implementation). This was thus a visual representation of the data - could see where there are gaps needing further research. 
+
+``Each evidence was colour coded to keep track of the type of source (e.g. interviews were in yellow, field notes in blue, pictures in white), and the parallel representation of the different evidences facilitated the analytic analysis of the phenomena under study''
+
+This allowed observations cross-cutting the cases to be made, such as product-design tended to use physical models and service design more abstract models.
+
+Say that this designerly approach to qualitative research is a new instrument to bridge the gap between design researchers and practitioners.},
+  creationdate     = {2024-01-22T15:27:40},
+  keywords         = {design, research},
+  modificationdate = {2024-01-22T15:51:47},
+  owner            = {izzy_olivine},
+}
+
+@Book{PolaineLR2013,
+  author           = {Andy Polaine and Lavrans L{\o}vlie and Ben Reason},
+  date             = {2013},
+  title            = {Service Design},
+  eprint           = {https://www.google.co.uk/books/edition/Service_Design/NHo3DwAAQBAJ?hl=en&gbpv=1&dq=service+design+ben+reason&printsec=frontcover},
+  subtitle         = {From Insight to Implementation},
+  comment          = {Chapter 1: Description of how a Norwegian insurance company looked at the quality of their service to develop a better offer in a market that is largely defined on price. The customer and employee experiences were both important. For customers there is a lack of trust in insurers - they don't fully understand what they are buying and yet they rarely read the documentation. Prototyping discovered that if the documentation is too short, they assume that details have been left out. The insurers are incompetition with others in society for information about insurance, which may not be correct. Staff created their own routines, e.g. using post-it notes on their desks and so work was done to formalise these routines. Understanding the hidden problems, such as customers not being able to remember all the details after a discussion with an agent, meant that they could design interventions here.},
+  creationdate     = {2024-01-23T20:52:21},
+  keywords         = {design},
+  modificationdate = {2024-01-23T21:05:56},
+  owner            = {izzy_olivine},
+}
+
+@Online{Rao2009,
+  author           = {Venkatesh Rao},
+  date             = {2009-10-07},
+  title            = {The Gervais Principle, Or The Office According to ``The Office''},
+  url              = {https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/},
+  urldate          = {2024-01-24},
+  comment          = {Comic Satirical Philosophy
+
+Forget the Peter principle, and the Dilbert principle, this is the Gervais principle
+
+Organisations are structured by sociopaths, peopled by losers, with the clueless buffering between the two - the MacLeod Hierarchy},
+  creationdate     = {2024-01-24T08:45:38},
+  keywords         = {organisations},
+  modificationdate = {2024-01-24T08:54:55},
+  owner            = {izzy_olivine},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
