@@ -24611,4 +24611,79 @@ Summarise emotion-mining methods using learning, rules and lexicons},
   year             = {2017},
 }
 
+@InProceedings{AbercrombieB2018,
+  author           = {Gavin Abercrombie and Batista-Navarro, Riza},
+  booktitle        = {LREC 2018, Eleventh International Conference on Language Resources and Evaluation},
+  date             = {2018},
+  title            = {`Aye' or `No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts},
+  language         = {English},
+  publisher        = {European Language Resources Association},
+  url              = {https://research.manchester.ac.uk/en/publications/aye-or-no-speech-level-sentiment-analysis-of-hansard-uk-parliamen},
+  address          = {France},
+  comment          = {Opinion mining of Hansard. 
+Create and use the HanDeSet dataset (AbercrombieB2018data)
+
+Applied SVM and MLP, learning features were:
+- n-grams
+- speaker party affiliation
+- debate id (because multiple speeches in same debate [this strikes me as very leaky!])
+- motion party affiliation 
+
+Identify top 10 most discriminating positive and negative n-gram features (ranked by SVM training)
+
+Positive:
+1. security 
+2. connection 
+3. given 
+4. purposes 
+5. general 
+6. new 
+7. schedule 
+8. proceedings 
+9. session 
+10. programme 
+
+Negative:
+1. notes
+2. amend
+3. believes
+4. calls
+5. government
+6. calls government
+7. dated
+8. eu
+9. disagrees
+10. number
+
+``positive language can indicate negative sentiment polarity and vice-versa''
+
+Therefore, propose a two-step Motion-speech model which they say ``outperforms a simple one-step model in nearly all label-feature-classifier configurations, and therefore seems better able to take account of the complexities inherent in the structure of House of Commons debates, such as double negation''
+
+``found that labelling motions according to the relationship to the Government of the speakers who propose them can approximate the effects of sentiment classification in debate motions''
+
+``sentiment analysis of Hansard transcripts at the speech level does not yield major insights beyond those that could be obtained by merely examining MPs voting records''
+
+Useful for methods for understanding attitudes in Hansard},
+  creationdate     = {2024-02-04T16:45:35},
+  day              = {7},
+  keywords         = {machine learning, NLP, text mining, step0056},
+  modificationdate = {2024-02-04T17:11:21},
+  month            = may,
+  owner            = {izzy_olivine},
+  year             = {2018},
+}
+
+@Dataset{AbercrombieB2018data,
+  author           = {Abercrombie, Gavin and Batista-Navarro, Riza},
+  date             = {2018},
+  title            = {HanDeSeT: Hansard Debates with Sentiment Tags},
+  doi              = {10.17632/xsvp45cbt4.2},
+  howpublished     = {Mendeley Data, V2},
+  url              = {https://data.mendeley.com/datasets/xsvp45cbt4/2},
+  creationdate     = {2024-02-04T16:50:47},
+  keywords         = {machine learning, NLP, text mining, step0056},
+  modificationdate = {2024-02-04T16:57:42},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
