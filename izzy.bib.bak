@@ -2479,8 +2479,8 @@ self-policing in other areas (parliament, journalism, ...) has been shown to be 
 See also https://www.youtube.com/watch?v=w926VBnsO3w},
   creationdate     = {2022-10-04T14:42:51},
   journal          = {Science and Public Policy},
-  keywords         = {economics, innovation, technology},
-  modificationdate = {2023-10-21T18:23:48},
+  keywords         = {economics, innovation, technology, STS},
+  modificationdate = {2024-02-04T14:49:21},
   month            = {04},
   owner            = {ISargent},
   year             = {2016},
@@ -4003,8 +4003,8 @@ Twenty advances in science policy
 19. 	 From national to multi-level systems of innovation 
 20. 	 From closed to open innovation},
   creationdate     = {2022-10-23T12:40:36},
-  keywords         = {economics, policy, innovation, science},
-  modificationdate = {2023-09-28T15:43:25},
+  keywords         = {economics, policy, innovation, science, STA},
+  modificationdate = {2024-02-04T14:49:27},
   month            = Dec,
   owner            = {ISargent},
   year             = {2010},
@@ -4538,8 +4538,8 @@ Transitions research
 
 ``Framing struggles are consequential because it matters if a problem like climate change is framed as a `market failure' (which would lead to market-based instruments such as a carbon tax) or as a `planetary boundary' (which may lead to stronger regulatory or innovation policies with greater urgency). It also matters how specific innovations are framed: are wind turbines seen as renewable energy technologies or as ugly artefacts that spoil the landscape and kill birds? Are nuclear plants framed as low-carbon technologies or as existential threats? The implication is that transitions should not only be seen as techno-economic management challenges, but also as socio-cultural processes which involve wider publics and cultural meanings.''},
   creationdate     = {2022-11-08T20:17:57},
-  keywords         = {sociology, innovation, economics, transformation},
-  modificationdate = {2023-08-02T10:01:36},
+  keywords         = {sociology, innovation, economics, transformation, STS},
+  modificationdate = {2024-02-04T14:48:37},
   owner            = {ISargent},
 }
 
@@ -6374,7 +6374,7 @@ These models should be considered canonical and as building blocks. Contextual f
   isbn             = {9781781005323},
   publisher        = {Elgar},
   url              = {https://www.e-elgar.com/shop/gbp/technological-revolutions-and-financial-capital-9781843763314.html},
-  comment          = {When technologies become `common sense' a new regulatory framework with sppropriate institutions is required to steer and facilitate the functions of the new economy in a socially and economically equitable manner p4
+  comment          = {When technologies become `common sense' a new regulatory framework with appropriate institutions is required to steer and facilitate the functions of the new economy in a socially and economically equitable manner p4
 
 A technological revolution comprises a cluster of technology, low cost input of energy, rapid transport and communications p8
 
@@ -6429,8 +6429,8 @@ The current surge, forming the Age of Information and Telecommunications, began 
 
 Not read p58 onwards},
   creationdate     = {2022-12-09T10:17:36},
-  keywords         = {economics, innovation, transformation},
-  modificationdate = {2023-08-02T10:33:48},
+  keywords         = {economics, innovation, transformation, step0056},
+  modificationdate = {2024-02-04T15:06:42},
   owner            = {ISargent},
 }
 
@@ -6870,6 +6870,8 @@ AI can be used to optimise compents for additive manufacturing (3D printing)},
 
 @Article{Mitchell2021,
   author           = {Mitchell, Melanie},
+  date             = {2021-04-28},
+  journaltitle     = {arXiv:2104.12871Search...},
   title            = {Why AI is Harder Than We Think},
   doi              = {10.48550/ARXIV.2104.12871},
   url              = {https://arxiv.org/abs/2104.12871},
@@ -6886,8 +6888,8 @@ Sets out 4 fallacies:
 Lots of references to common sense},
   copyright        = {arXiv.org perpetual, non-exclusive license},
   creationdate     = {2022-12-11T19:46:36},
-  keywords         = {Artificial Intelligence},
-  modificationdate = {2022-12-11T19:51:25},
+  keywords         = {Artificial Intelligence, step0056},
+  modificationdate = {2024-02-04T13:13:41},
   owner            = {ISargent},
   publisher        = {arXiv},
   year             = {2021},
@@ -10482,8 +10484,8 @@ Framework:
 4. collaborate
 5. empower},
   creationdate     = {2023-03-15T21:44:56},
-  keywords         = {trust, data, participation},
-  modificationdate = {2023-12-24T13:13:10},
+  keywords         = {trust, data, participatory},
+  modificationdate = {2024-02-24T21:03:53},
   owner            = {ISargent},
 }
 
@@ -11527,7 +11529,7 @@ Short review of case studies including:
 @Book{McNulty2019,
   author           = {Stephanie L. McNulty},
   date             = {2019},
-  title            = {Democracy From Above?The Unfulfilled Promise of Nationally Mandated Participatory Reforms},
+  title            = {Democracy From Above? The Unfulfilled Promise of Nationally Mandated Participatory Reforms},
   doi              = {10.1515/9781503608955},
   url              = {https://www.degruyter.com/document/doi/10.1515/9781503608955/html},
   comment          = {Asks the question: Can nationally elected officials effectively improve democracy by mandating citizen participation in subnational governments?
@@ -11547,7 +11549,7 @@ Have reformed changed aspects of democracy and governance? Short answer is not y
 Final chapter},
   creationdate     = {2023-03-22T16:02:09},
   keywords         = {policy, bureaucracy, participatory, democracy},
-  modificationdate = {2023-03-28T10:58:58},
+  modificationdate = {2024-02-24T21:12:41},
   owner            = {izzy_olivine},
 }
 
@@ -13511,7 +13513,7 @@ Three observations from history:
 1. reform parliament to make use of free intelligence:
 - Examples of democratic deliberation from Taiwan, also Select Committees
 - Improve quality of debates with live fact checking
-- Citizns to appear in the chamber
+- Citizens to appear in the chamber
 - Parliamentary refurbishment is an opportunity to experiment with different options
 
 2. Deliberation on the big issues
@@ -13533,7 +13535,7 @@ Referendums must have preceding phase of deliberation and 60\% confirmatory requ
 Not hopeful that this can happen because encumbants are benefiting form current system},
   creationdate     = {2023-04-10T11:10:35},
   keywords         = {bureaucracy, democracy, participatory, transformation},
-  modificationdate = {2023-12-02T16:25:49},
+  modificationdate = {2024-02-24T21:19:02},
   owner            = {izzy_olivine},
 }
 
@@ -15816,7 +15818,7 @@ Seems to be testing hypotheses in ZolloW2002 but doesn't cite that paper},
   organization     = {New York, Intelligencer},
   subtitle         = {And a chatbot is not a human. And a linguist named Emily M. Bender is very worried what will happen when we forget this},
   urldate          = {2023-07-12},
-  comment          = {Wonderful profile of Emily Bender among others. The octopus paper, the stochastic parrot paper
+  comment          = {Wonderful profile of Emily Bender among others. The octopus paper [similar to Chinese room?], the stochastic parrot paper
 
 Topics covered:
 - whether all meaning is contained within language, distributional-semantics (Manning)
@@ -15825,7 +15827,7 @@ Topics covered:
 - the dangers of human potential, perfectibility thesis, actualised by the AI dream (Butler)},
   creationdate     = {2023-07-12T08:12:08},
   keywords         = {AI, trust},
-  modificationdate = {2023-07-12T08:31:18},
+  modificationdate = {2024-02-21T12:51:08},
   owner            = {ISargent},
 }
 
@@ -16118,8 +16120,8 @@ Study Vinnova funding allocation and finds ``The locus of innovation is on scien
 
 Question whether one-off measures such as hackathons are enough - suggest 5 others types of measures leading to a more systemic approach.},
   creationdate     = {2023-07-24T16:51:11},
-  keywords         = {innovation, participation, transformation, sustainability},
-  modificationdate = {2023-07-24T17:24:46},
+  keywords         = {innovation, participatory, transformation, sustainability},
+  modificationdate = {2024-02-24T21:03:39},
   owner            = {ISargent},
   publisher        = {Routledge},
 }
@@ -16812,10 +16814,10 @@ Lots of detail on OpenAI
 
 ``openness'' in AI does not directly lead to innovation, despite claims to the contrary; certainly not when significant industry presence, corporate ownership of the costly infrastructure needed to make new AI systems, and corporate capture of the field of academic AI research forms the backdrop for ‘open’ AI research. Evidence indicates these factors are already contributing to the development of an AI monoculture, incentivizing the creation of only the kinds of AI systems that industry is most invested in and able to profit from''
 
-See also Rikap2022},
+See also Rikap2022 [i should also look at talks from Yanis Varoufakis]},
   creationdate     = {2023-09-06T13:07:57},
   keywords         = {AI, digital, transformation, technology, BigTech, AISummit, ResponsibleAI},
-  modificationdate = {2024-01-30T10:04:09},
+  modificationdate = {2024-02-21T12:52:04},
   owner            = {ISargent},
 }
 
@@ -17603,8 +17605,8 @@ Progress and success tracked and measured with multiple accounts of worth
 
 With climate change, review how this meets criteria of grand challenges, including evaluative, which cites paper (Verweij et al 2006) with 3 plausible but conducting stories of climate change},
   creationdate     = {2023-10-08T16:35:08},
-  keywords         = {policy, systems},
-  modificationdate = {2023-10-08T16:49:49},
+  keywords         = {policy, systems, particpatory, design},
+  modificationdate = {2024-02-24T20:46:21},
   owner            = {izzy_olivine},
 }
 
@@ -20121,8 +20123,8 @@ Prototyping principles:
 
 Half-step - install some and leave space for subsequent iterations - gives an awesome example of half-house in Chile},
   creationdate     = {2023-11-05T12:53:51},
-  keywords         = {missions, systems, policy, AI, food},
-  modificationdate = {2023-11-10T17:02:45},
+  keywords         = {missions, systems, policy, AI, food, design},
+  modificationdate = {2024-02-25T11:01:35},
   owner            = {izzy_olivine},
 }
 
@@ -20294,8 +20296,8 @@ THEN
 
 From \url{https://youtu.be/dPsmww461pI} what is drunken district was treated like a music festival then...},
   creationdate     = {2023-11-10T16:58:43},
-  keywords         = {policy},
-  modificationdate = {2023-11-10T17:06:20},
+  keywords         = {policy, design},
+  modificationdate = {2024-02-25T11:01:08},
   owner            = {izzy_olivine},
 }
 
@@ -20671,8 +20673,8 @@ White paper:  ``Realising our potential'' - talk of entrepreneurial universities
 
 ``Since the 1990s, research policy has been a substitute for industrial policy''},
   creationdate     = {2023-11-19T14:52:50},
-  keywords         = {research, science, policy, technology},
-  modificationdate = {2023-11-19T15:26:39},
+  keywords         = {research, science, policy, technology, step0056},
+  modificationdate = {2024-02-04T15:09:14},
   owner            = {izzy_olivine},
 }
 
@@ -21866,10 +21868,10 @@ Great for links for Big Tech activities
 - Directing politics of employees and contractors (e.g. sacking based on political stances)
 - Deriving power from being ``too big to fail''
 
-Links to works from Rikap and Whittaker},
+Links to works from Rikap and Whittaker [i should also look at talks from Yanis Varoufakis]},
   creationdate     = {2023-12-09T15:19:26},
   keywords         = {AI, trust, AISummit, Open Source, monopoly, economics, technology, BigTech},
-  modificationdate = {2023-12-09T15:36:55},
+  modificationdate = {2024-02-21T12:51:44},
   owner            = {izzy_olivine},
 }
 
@@ -24259,6 +24261,940 @@ Organisations are structured by sociopaths, peopled by losers, with the clueless
   keywords         = {organisations},
   modificationdate = {2024-01-24T08:54:55},
   owner            = {izzy_olivine},
+}
+
+@TechReport{Leslie2019,
+  author           = {Leslie, D.},
+  date             = {2019},
+  institution      = {The Alan Turing Institute},
+  title            = {Understanding artificial intelligence ethics and safety: A guide for the responsible design and implementation of AI systems in the public sector},
+  doi              = {https://doi.org/10.5281/zenodo.3240529},
+  url              = {https://www.turing.ac.uk/sites/default/files/2019-06/understanding_artificial_intelligence_ethics_and_safety.pdf},
+  comment          = {This guidance is designed to outline values, principles, and guidelines to assist department and delivery leads in ensuring that they develop and deploy AI ethically, safely, and responsibly. Potential Harms Caused by AI Systems: 
+Bias and Discrimination; 
+Denial of Individual Autonomy, Recourse, and Rights;
+Invasions of Privacy;
+Isolation and Disintegration of Social Connection;
+Unreliable, Unsafe, or Poor-Quality Outcomes. 
+
+Three building-blocks to make such an ethical platform possible:
+SUM values (ethical values that Support, Underwrite, and Motivate a responsible data design and use ecosystem) - four key notions of Respect, Connect, Care and Protect;
+FAST Track Principles - four key notions of Fairness, Accountability, Sustainability and Transparency;
+PBG Framework (process-based governance framework) - that operationalises the SUM Values and the FAST Track Principles},
+  creationdate     = {2024-01-30T10:05:33},
+  keywords         = {AI, ethics, MLStrat, EthicsWS, trust, ResponsibleAI},
+  modificationdate = {2024-01-30T10:05:33},
+  owner            = {ISargent},
+}
+
+@Report{BirdFJLWW2020,
+  author           = {Eleanor Bird and Jasmin Fox-Skelly and Nicola Jenner and Ruth Larbey and Emma Weitkamp and Alan Winfield},
+  date             = {2020-03-01},
+  institution      = {Panel for the Future of Science and Technology, European Parliamentary Research Service},
+  title            = {The ethics of artificial intelligence},
+  type             = {techreport},
+  subtitle         = {Issues and initiatives},
+  url              = {https://www.europarl.europa.eu/RegData/etudes/STUD/2020/634452/EPRS_STU(2020)634452_EN.pdf},
+  abstract         = {This study deals with the ethical implications and moral questions that arise from the development and implementation of artificial intelligence (AI) technologies. It also reviews the guidelines and frameworks which countries and regions around the world have created to address them. It presents a comparison between the current main frameworks and the main ethical issues, and highlights gaps around the mechanisms of fair benefit-sharing; assigning of responsibility; exploitation of workers; energy demands in the context of environmental and climate changes; and more complex and less certain implications of AI, such as those regarding human relationships.},
+  comment          = {Possibly the widest consideration of ethical considerations.
+
+Excellent table summarising Ethical initiatives and harms addressed. Predates the Turing AI Ethics work, however. From these, 12 harms and concerns are identified: 
+1. Human rights and well-being
+2. Emotional harm
+3. Accountability and responsibility
+4. Security, privacy, accessibility, and transparency
+5. Safety and trust
+6. Social harm and social justice
+7. Financial harm
+8. Lawfulness and justice
+9. Control and the ethical use - or misuse - of AI
+10. Environmental harm and sustainability
+11. Informed use
+12. Existential risk
+
+Discusses each of these in mroe detail. Also, earlier in the report, there is considerable exploration of these topics:
+Impact on society
+	The labour market
+	Inequality
+	Privacy, human rights and dignity
+	Bias
+	Democracy
+Impact on human psychology
+	Relationships
+	Personhood
+Impact on the financial system
+Impact on the legal system
+	Criminal law
+	Tort law
+Impact on the environment and the planet
+	Use of natural resources
+	Pollution and waste
+	Energy concerns
+	Ways AI could help the planet
+Impact on trust
+	Fairness
+	Transparency
+	Accountability
+	Control},
+  creationdate     = {2024-01-30T10:05:34},
+  keywords         = {AI, Ethics, Government, MLStrat, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:05:34},
+  owner            = {ISargent},
+}
+
+@Article{GebruEtAl2020,
+  author           = {Timnit Gebru and Jamie Morgenstern and Briana Vecchione and Jennifer Wortman Vaughan and Hanna Wallach and Hal Daumé III au2 and Kate Crawford},
+  date             = {2020},
+  title            = {Datasheets for Datasets},
+  eprint           = {1803.09010},
+  eprintclass      = {cs.DB},
+  eprinttype       = {arXiv},
+  url              = {https://arxiv.org/abs/1803.09010},
+  comment          = {Really straightforward approach to collecting metadata that pertains to to ethical and trust performance of the data set. Developed using an iterative process over experts and datasets. Still open for further refinement and development. Also would need adapting to specific domains.
+
+''For dataset creators, the primary objective is to encourage careful reflection on the process of creating, distributing, and maintaining a dataset, including any underlying assumptions, potential risks or harms, and implications of use. For dataset consumers, the primary objective is to ensure they have the information they need to make informed decisions about using a dataset ... datasheets may be valuable to policy makers, consumer advocates, individuals whose data is included in those datasets, and those who may be impacted by models trained or evaluated on those datasets. They also serve a secondary objective of facilitating greater reproducibility of machine learning results: without access to a dataset, researchers and practitioners can use the information in a datasheet to reconstruct the dataset''.
+
+''We found that product teams were more likely to answer questions about legal and ethical considerations if they were integrated into sections about the relevant stages of the dataset creation rather than grouped together. Following feedback from external counsel, we removed questions explicitly asking about compliance with regulations, and introduced factual questions intended to elicit relevant information about compliance without requiring dataset creators to make legal judgments''.
+
+Datasheets are constructed by answering a series of open (not yes/no) questions on the themes:
+Motivation
+Composition
+Collection process
+Preprocessing/cleaning/labelling
+Uses
+Distribution
+Maintenance},
+  creationdate     = {2024-01-30T10:05:34},
+  keywords         = {trust, AI, data, ethics, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:05:34},
+  owner            = {ISargent},
+}
+
+@InProceedings{MitchellEtAl2019,
+  author           = {Mitchell, Margaret and Wu, Simone and Zaldivar, Andrew and Barnes, Parker and Vasserman, Lucy and Hutchinson, Ben and Spitzer, Elena and Raji, Inioluwa Deborah and Gebru, Timnit},
+  booktitle        = {Proceedings of the Conference on Fairness, Accountability, and Transparency},
+  date             = {2019-01-29},
+  title            = {Model Cards for Model Reporting},
+  doi              = {10.1145/3287560.3287596},
+  isbn             = {9781450361255},
+  publisher        = {ACM},
+  url              = {http://dx.doi.org/10.1145/3287560.3287596},
+  comment          = {Similar to GebruEtAl2020 but for models!
+
+Discusses impacts of bias in models, especially intersectional bias and the consequences.
+
+Intended for use by:
+• ML and AI practitioners
+• Model developers
+• Software developers
+• Policymakers
+• Organizations
+• ML-knowledgeable individuals 
+• Impacted individuals
+
+Has sections on:
+• Model Details
+• Intended Use
+• Factors
+• Metrics
+• Evaluation Data
+• Training Data
+• Quantitative Analyses
+• Caveats and Recommendations
+
+''Additional details may include, for example, interpretability approaches, such as saliency maps, TCAV [33], and Path-Integrated Gradients [38, 43]); stakeholder-relevant explanations (e.g., informed by a careful consideration of philosophical, psychological, and other factors concerning what is as a good explanation in different contexts''
+
+Provides two example model cards that show some specific evaluation of bias quantification in models.
+
+''It seems unlikely, at least in the near term, that model cards could be standardized or formalized to a degree needed to prevent misleading representations of model results (whether intended or unintended). It is therefore important to consider model cards as one transparency tool among many, which could include, for example, algorithmic auditing by third-parties (both quantitative and qualitative), “adversarial testing” by technical and non-technical analysts, and more inclusive user feedback mechanisms''.
+
+My early thoughts - under metrics - any records of metrics that we've developed 
+Under ethics - reference to LOCUS Charter principles and Ethical Explorer harms
+
+Review of Model Cards after a could of yaers https://ecstaticnate.medium.com/aicards-a-companion-in-ai-ethics-documentation-1ad72bb40f1:
+''The majority of projects that have Model Cards have also largely missed the spirit of the framework: ethical limitations, stakeholders, or population-based effects are typically missing from the documentation''
+''comparing models from card to card was impossible''
+(instead introduces AICards)},
+  creationdate     = {2024-01-30T10:05:34},
+  keywords         = {trust, AI, models, EthicsWS, ResponsibleAI},
+  modificationdate = {2024-01-30T10:05:34},
+  month            = {1},
+  owner            = {ISargent},
+  year             = {2019},
+}
+
+@Online{TamarackInst2020,
+  author           = {{Tamarack Institute}},
+  date             = {2020-07-23},
+  title            = {Asset-Based Community Development at a Glance},
+  url              = {https://www.tamarackcommunity.ca/library/guide-asset-based-community-development-at-a-glance},
+  urldate          = {2024-02-03},
+  comment          = {Really simple readable primer on ``Asset Based Community Development''
+
+ABCD looks for and starts from people’s gifts and strengths},
+  creationdate     = {2024-02-03T12:36:39},
+  eprint           = {https://www.tamarackcommunity.ca/hubfs/Resources/CDC ABCD resources/ABCD at a Glance.pdf},
+  keywords         = {design, transformation},
+  modificationdate = {2024-02-03T12:45:23},
+  owner            = {izzy_olivine},
+}
+
+@Article{Fischer2013,
+  author           = {Douglas Fischer},
+  date             = {2013-04-08},
+  journaltitle     = {Scientific American},
+  title            = {``Iron Lady'' Took Strong Stance on Climate Change},
+  url              = {https://www.scientificamerican.com/article/iron-lady-took-strong-stance-on-climate-change/},
+  comment          = {``In a 1990 speech at the second World Climate Conference, in Geneva, Thatcher compared the threat of global warming to the Gulf War, which was then just escalating following Iraq's invasion of Kuwait.''
+
+See Thatcher1988 for transcript of original speech to Royal Society},
+  creationdate     = {2024-02-04T13:41:28},
+  keywords         = {climate, politics, step0056},
+  modificationdate = {2024-02-04T18:14:23},
+  owner            = {izzy_olivine},
+}
+
+@Article{FisherKPBS2022,
+  author           = {Stephen D. Fisher and John Kenny and Wouter Poortinga and Gisela Böhm and Linda Steg},
+  title            = {The politicisation of climate change attitudes in Europe},
+  doi              = {https://doi.org/10.1016/j.electstud.2022.102499},
+  issn             = {0261-3794},
+  pages            = {102499},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0261379422000580},
+  volume           = {79},
+  comment          = {Climate change has become politicised and is more of a left issue.
+
+Uses data from a special module of questions on energy and climate change from the European Social Survey (ESS) Round 8 which was conducted in late 2016 and early 2017
+
+ESS round 8 - 2016. Welfare attitudes, Attitudes to climate change for 2016 includes UK (\url{https://ess.sikt.no/en/study/f8e11f55-0c14-4ab3-abde-96d3f14d3c76/158})
+
+See briefing at \url{https://www.ox.ac.uk/news/2022-11-03-expert-comment-european-public-opinion-climate-change-has-become-politicised}
+
+``38\% of voters for social democrat parties (including the British Labour Party) report being ``very'' or ``extremely'' worried about climate change, compared with just 26\% of voters for conservative parties. Voters for the mainstream left are also more likely to believe climate change is mainly or entirely caused by human activity (49\%) than voters for mainstream right parties (39\%)''
+
+``differences in climate change attitudes ... exist even after accounting for attitudes to income redistribution, gender equality, gay rights, and immigration. Climate change attitudes are linked to vote choice in their own right, not just as a statistical by-product''},
+  creationdate     = {2024-02-04T13:54:21},
+  journal          = {Electoral Studies},
+  keywords         = {climate, step0056, politics},
+  modificationdate = {2024-02-04T14:24:49},
+  owner            = {izzy_olivine},
+  year             = {2022},
+}
+
+@Article{Brown2015,
+  author           = {Mark B. Brown},
+  date             = {2014-12-23},
+  journaltitle     = {Social Studies of Science},
+  title            = {Politicizing science: Conceptions of politics in science and technology studies},
+  doi              = {10.1177/0306312714556694},
+  eprint           = {https://doi.org/10.1177/0306312714556694},
+  note             = {PMID: 25803915},
+  number           = {1},
+  pages            = {3-30},
+  url              = {https://doi.org/10.1177/0306312714556694},
+  volume           = {45},
+  comment          = {Dense paper considering five conceptions of politics in STS:
+1. Critique of scientism - Science is essentially political
+2. Description of scientific practice - Science is politics by other means
+3. Description of boundary-work - Science is contingently political
+4. Democracy as collective world making: material democracy - Science generates `matters of concern'
+5. Democracy as collective self-governance: representative democracy - Science may become a site of politics
+
+Taxonomies of the political nature of science and technology: ``Shapin and Schaffer (1985), for example, distinguish three ways that science is political: 
+1. the scientific community is a political community
+2. science plays a role in politics outside the laboratory
+3. there is a conditional relationship between the polity of scientists and the wider polity (p. 332). 
+
+Similarly, Latour (2007), Nahuis and Van Lente (2008), and Papadopoulos (2010) each identify five ways that science is political, and Bijker (2006) finds no fewer than seven ways that technology is political''
+
+Discussion of political 
+``Posthumanist conceptions of politics help show how science and technology often fail to produce accepted factual knowledge and instead generate contentious ‘matters of concern’, such as mad cow disease or genetically modified food, which become focal points of scientific uncertainty and political controversies (Latour, 2004b)''},
+  creationdate     = {2024-02-04T14:29:02},
+  keywords         = {science, technology, STS, politics, step0056},
+  modificationdate = {2024-02-04T18:06:03},
+  owner            = {izzy_olivine},
+  year             = {2015},
+}
+
+@Article{Cormick2019,
+  author           = {Craig Cormick},
+  date             = {2019-05-22},
+  journaltitle     = {Science Progress},
+  title            = {Public attitudes toward new technologies: Our post-truth, post-trust, post-expert world demands a deeper understanding of the factors that drive public attitudes},
+  doi              = {10.1177/0036850419851350},
+  eprint           = {https://doi.org/10.1177/0036850419851350},
+  note             = {PMID: 31829841},
+  number           = {2},
+  pages            = {161-170},
+  url              = {https://doi.org/10.1177/0036850419851350},
+  volume           = {102},
+  comment          = {Interesting, if apparently rushed, article about how attitudes to science and technology have more influence than facts
+
+Includes a discussion of tribes, for example within the discourse around climate},
+  creationdate     = {2024-02-04T15:24:44},
+  keywords         = {science, technology, policy, attitudes, step0056},
+  modificationdate = {2024-02-04T18:06:00},
+  owner            = {izzy_olivine},
+  year             = {2019},
+}
+
+@Article{KerschnerE2016,
+  author           = {Christian Kerschner and Melf-Hinrich Ehlers},
+  date             = {2016},
+  journaltitle     = {Ecological Economics},
+  title            = {A framework of attitudes towards technology in theory and practice},
+  doi              = {https://doi.org/10.1016/j.ecolecon.2016.02.010},
+  issn             = {0921-8009},
+  pages            = {139-151},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0921800916302129},
+  volume           = {126},
+  comment          = {Really interesting and well-written paper considering attitudes towards science and technology. Use literature review to develop a framework of attitudes towards technology consisting of four main categories: 
+- Enthusiasm
+- Determinism
+- Romanticism 
+- Scepticism
+
+Test this by performing qualitative analysis of slides of 17 presentations from a European Society of Ecological Economics summer school based. This identified explicity and implicit attitudes
+
+Could be useful for methods for understanding attitudes in certain corpora
+
+``apparent gap in empirical and theoretical research on attitudes towards technology in general and attitudes of Ecological Economists in particular''
+
+Generally people in Europe are optimistinc towards science and technology but there is a trend towards pessimission towards technology, with some fluctuations
+
+From 1980s science literacy was thought to be necessary to address non-positive attitudes towards science and technology (deficit model), with public participation and deliberaton becoming fo tool to repair public trust in 2000s
+
+This parallels ecological economics post-normal science positions from 1990s
+
+``Enthusiastic attitudes towards technology were most straightforwardly articulated, while sceptic and ambiguous romantic attitudes were more difficult to trace''},
+  creationdate     = {2024-02-04T15:35:26},
+  keywords         = {science, technology, STS, attitudes, step0056},
+  modificationdate = {2024-02-04T16:06:40},
+  owner            = {izzy_olivine},
+  year             = {2016},
+}
+
+@Article{YadollahiSZ2017,
+  author           = {Yadollahi, Ali and Shahraki, Ameneh Gholipour and Zaiane, Osmar R.},
+  date             = {2017-05-25},
+  journaltitle     = {ACM Comput. Surv.},
+  title            = {Current State of Text Sentiment Analysis from Opinion to Emotion Mining},
+  doi              = {10.1145/3057270},
+  issn             = {0360-0300},
+  number           = {2},
+  url              = {https://doi.org/10.1145/3057270},
+  volume           = {50},
+  abstract         = {Sentiment analysis from text consists of extracting information about opinions, sentiments, and even emotions conveyed by writers towards topics of interest. It is often equated to opinion mining, but it should also encompass emotion mining. Opinion mining involves the use of natural language processing and machine learning to determine the attitude of a writer towards a subject. Emotion mining is also using similar technologies but is concerned with detecting and classifying writers emotions toward events or topics. Textual emotion-mining methods have various applications, including gaining information about customer satisfaction, helping in selecting teaching materials in e-learning, recommending products based on users emotions, and even predicting mental-health disorders. In surveys on sentiment analysis, which are often old or incomplete, the strong link between opinion mining and emotion mining is understated. This motivates the need for a different and new perspective on the literature on sentiment analysis, with a focus on emotion mining. We present the state-of-the-art methods and propose the following contributions: (1) a taxonomy of sentiment analysis; (2) a survey on polarity classification methods and resources, especially those related to emotion mining; (3) a complete survey on emotion theories and emotion-mining research; and (4) some useful resources, including lexicons and datasets.},
+  address          = {New York, NY, USA},
+  articleno        = {25},
+  comment          = {Useful overview of sentiment analysis of texts providing a taxonomy that divides sentiment into opinion mining and emotion mining, both of which break down further into various approaches to detection and classification (including polarity) each of which is described in the paper
+
+``The first one deals with the expression of opinions and the latter is concerned with the articulation of emotions''
+
+Labelled data can be used to learn a mapping. There is also work into finding the most salient parts of text.
+
+Unlabelled data can be analysed using lexical approaches
+
+Lexicon may need to be expanded/adapted into new/specific domain, e.g. by clustering into domain independent and domain-specific features
+
+The different lexicons are described
+
+Survey emotion theories with a diagram showing how different theories do and don't overlap (the four theories all agree that anger, surprise, joy and fear are emotions, they differ on sadness, disgust, trust, anticipation, love, interest, distress and shame)
+
+Summarise emotion-mining methods using learning, rules and lexicons},
+  creationdate     = {2024-02-04T16:18:02},
+  issue_date       = {March 2018},
+  keywords         = {machine learning, NLP, text mining, step0056},
+  modificationdate = {2024-02-04T16:43:26},
+  month            = {may},
+  numpages         = {33},
+  owner            = {izzy_olivine},
+  publisher        = {Association for Computing Machinery},
+  year             = {2017},
+}
+
+@InProceedings{AbercrombieB2018,
+  author           = {Gavin Abercrombie and Batista-Navarro, Riza},
+  booktitle        = {LREC 2018, Eleventh International Conference on Language Resources and Evaluation},
+  date             = {2018},
+  title            = {`Aye' or `No'? Speech-level Sentiment Analysis of Hansard UK Parliamentary Debate Transcripts},
+  language         = {English},
+  publisher        = {European Language Resources Association},
+  url              = {https://research.manchester.ac.uk/en/publications/aye-or-no-speech-level-sentiment-analysis-of-hansard-uk-parliamen},
+  address          = {France},
+  comment          = {Opinion mining of Hansard. 
+Create and use the HanDeSet dataset (AbercrombieB2018data)
+
+Applied SVM and MLP, learning features were:
+- n-grams
+- speaker party affiliation
+- debate id (because multiple speeches in same debate [this strikes me as very leaky!])
+- motion party affiliation 
+
+Identify top 10 most discriminating positive and negative n-gram features (ranked by SVM training)
+
+Positive:
+1. security 
+2. connection 
+3. given 
+4. purposes 
+5. general 
+6. new 
+7. schedule 
+8. proceedings 
+9. session 
+10. programme 
+
+Negative:
+1. notes
+2. amend
+3. believes
+4. calls
+5. government
+6. calls government
+7. dated
+8. eu
+9. disagrees
+10. number
+
+``positive language can indicate negative sentiment polarity and vice-versa''
+
+Therefore, propose a two-step Motion-speech model which they say ``outperforms a simple one-step model in nearly all label-feature-classifier configurations, and therefore seems better able to take account of the complexities inherent in the structure of House of Commons debates, such as double negation''
+
+``found that labelling motions according to the relationship to the Government of the speakers who propose them can approximate the effects of sentiment classification in debate motions''
+
+``sentiment analysis of Hansard transcripts at the speech level does not yield major insights beyond those that could be obtained by merely examining MPs voting records''
+
+Useful for methods for understanding attitudes in Hansard},
+  creationdate     = {2024-02-04T16:45:35},
+  day              = {7},
+  keywords         = {machine learning, NLP, text mining, step0056, politics},
+  modificationdate = {2024-02-04T17:35:55},
+  month            = may,
+  owner            = {izzy_olivine},
+  year             = {2018},
+}
+
+@Dataset{AbercrombieB2018data,
+  author           = {Abercrombie, Gavin and Batista-Navarro, Riza},
+  date             = {2018},
+  title            = {HanDeSeT: Hansard Debates with Sentiment Tags},
+  doi              = {10.17632/xsvp45cbt4.2},
+  howpublished     = {Mendeley Data, V2},
+  url              = {https://data.mendeley.com/datasets/xsvp45cbt4/2},
+  creationdate     = {2024-02-04T16:50:47},
+  keywords         = {machine learning, NLP, text mining, step0056},
+  modificationdate = {2024-02-04T16:57:42},
+  owner            = {izzy_olivine},
+}
+
+@InBook{OnyimaduNWML2014,
+  author           = {Onyimadu, Obinna and Nakata, Keiichi and Wilson, Tony and Macken, David and Liu, Kecheng},
+  booktitle        = {Semantic Technology},
+  date             = {2014-01-01},
+  title            = {Towards Sentiment Analysis on Parliamentary Debates in Hansard},
+  editor           = {Kim, Wooju and Ding, Ying and Kim, Hong-Gee},
+  isbn             = {978-3-319-06826-8},
+  pages            = {48--50},
+  publisher        = {Springer International Publishing},
+  url              = {https://link.springer.com/chapter/10.1007/978-3-319-06826-8_4},
+  comment          = {Short paper finding that it is difficult to classify the sentiment of Hansard due to compound opinions, sarcasm and comparative sentences featuring a comparison of several entities. Also note in the abstract that interjections, irony and digression from the topic are also commonplace.
+
+approach involves a hybrid of syntactic and lexical clues in identifying subjective and objective sentences. The sentiment lexicon base – MPQA corpus – is used for the identification of sentences bearing known positive and negative words},
+  creationdate     = {2024-02-04T17:16:25},
+  keywords         = {machine learning, NLP, text mining, step0056, politics},
+  modificationdate = {2024-02-04T17:35:47},
+  owner            = {izzy_olivine},
+  year             = {2014},
+}
+
+@Online{Gabbatiss2019,
+  author           = {Josh Gabbatiss},
+  date             = {2019-09-11},
+  title            = {Analysis: The UK politicians who talk the most about climate change},
+  url              = {https://www.carbonbrief.org/analysis-the-uk-politicians-who-talk-the-most-about-climate-change/},
+  organization     = {Carbon Brief},
+  comment          = {Study of Hansard comparing who talks most about ``climate change'' and the change in the terminology from ``greenhouse effect'' and ``global warming'' to ``climate crisis''
+
+Considers the number of mentions relative to the size of party
+
+Outlines methodology},
+  creationdate     = {2024-02-04T17:24:53},
+  keywords         = {climate, politics, text mining, step0056},
+  modificationdate = {2024-02-04T17:35:40},
+  owner            = {izzy_olivine},
+}
+
+@Online{Thatcher1988,
+  author           = {Margaret Thatcher},
+  date             = {1988-09-27},
+  title            = {Speech to the Royal Society (climate change)},
+  url              = {https://www.margaretthatcher.org/document/107346},
+  urldate          = {2024-02-04},
+  comment          = {Archive transcript of Thatcher's speech to RS about climate change},
+  creationdate     = {2024-02-04T17:29:45},
+  keywords         = {climate, politics, step0056},
+  modificationdate = {2024-02-04T17:36:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{Barasi2019,
+  author           = {Leo Barasi},
+  date             = {2019-04-28},
+  title            = {Extinction Rebellion’s protests were an unprecedented success. Three questions about what comes next},
+  url              = {https://www.noiseofthecrowd.com/extinction-rebellions-protests-unprecedented-success-three-questions-comes-next/},
+  organization     = {Noise of the Crowd Blog},
+  urldate          = {2024-02-04},
+  comment          = {Whilst previously protests have not had an impact on climate debate, this research found that Extinction Rebellion protests of April 2019 did not only lead to media coverage but also parliamentary debate
+
+Possibly this is due to the timing - linked to IPCC 1.5 degrees report
+
+Anticipates that future media coverage may be limited if future protests are similar to these ones
+
+Author of The Climate Majority},
+  creationdate     = {2024-02-04T17:41:46},
+  keywords         = {climate, policy, attitudes, step0056, protest},
+  modificationdate = {2024-02-04T18:03:41},
+  owner            = {izzy_olivine},
+}
+
+@Online{GomezMont2021,
+  author           = {Gabriella G\'omez-Mont},
+  date             = {2021-08-06},
+  title            = {What -- and who -- is a city for?},
+  url              = {https://policyoptions.irpp.org/magazines/august-2021/what-and-who-is-a-city-for/},
+  organization     = {Policy Options},
+  comment          = {Beautiful piece demonstrating how the hollowing out and commodification of urban areas was most starkly visible when workers stayed home during the Covid19 pandemic. Idenifies how reimagining the role of the city from different perspectives can reinvigorate urban spaces.
+
+Examples from Paris, New York, Buffalo, Mexico City, Bogota
+
+``If we thought about feminist cities, care cities, playful cities, eco-cities (for example) what new urban forms could we imagine? The built environment can have the capacity to shape community coalitions, to organize social energy in different ways, to become reminders of different urban capacities that support diverse ways of being and belonging, of coming together''
+
+Some wonderful quotes from others about neoliberalism, gendered space, ...
+
+e.g. Leslie Kern: ``city planners and architects can’t take the white, able-bodied cis man as the default subject and imagine everyone else as a variation on the norm. Instead, the margins must become the center''},
+  creationdate     = {2024-02-05T11:50:13},
+  modificationdate = {2024-02-05T12:12:55},
+  owner            = {izzy_olivine},
+}
+
+@Book{SilgeR2017,
+  author           = {Julia Silge and David Robinson},
+  date             = {2017},
+  title            = {Text Mining with R},
+  publisher        = {O'Reilly Media},
+  subtitle         = {A Tidy Approach},
+  comment          = {Tidy Text Format and ngrams chapter 1
+
+Sentiment analysis chapter 2
+
+Word etc frequency chapter 3},
+  creationdate     = {2024-02-06T12:33:15},
+  keywords         = {step0056, data},
+  modificationdate = {2024-02-06T13:06:10},
+  owner            = {izzy_olivine},
+}
+
+@Manual{Odell2017,
+  author           = {Evan Odell},
+  date             = {2017},
+  title            = {{hansard}: Provides Easy Downloading Capabilities for the UK Parliament API},
+  doi              = {10.5281/zenodo.591264},
+  url              = {https://cran.r-project.org/package=hansard},
+  creationdate     = {2024-02-06T13:23:35},
+  keywords         = {step0056},
+  modificationdate = {2024-02-06T13:27:28},
+  owner            = {izzy_olivine},
+  year             = {2017},
+}
+
+@Manual{Lowe2018,
+  author           = {Will Lowe},
+  date             = {2018},
+  title            = {twfy: Drive the API for TheyWorkForYou},
+  url              = {https://conjugateprior.github.io/twfy},
+  creationdate     = {2024-02-06T13:57:13},
+  keywords         = {step0056},
+  modificationdate = {2024-02-06T13:58:11},
+  owner            = {izzy_olivine},
+}
+
+@Online{Hartnett2021,
+  author           = {J. P. Hartnett},
+  date             = {2021-06-14},
+  title            = {Ontological Design Has Become Influential In Design Academia – But What Is It?},
+  url              = {https://eyeondesign.aiga.org/ontological-design-is-popular-in-design-academia-but-what-is-it/},
+  subtitle         = {How a previously obscure academic theory became a way for educators to understand design's relationship to contemporary crises},
+  urldate          = {2024-02-07},
+  comment          = {More readable than Escobar2018
+
+Pluriverse - from Zapatista - ``a world where many worlds fit'' as opposed to ``one-world world'' of neoliberal globalization
+
+``ontological design'' from Anne-Marie Willis - ``we design our world, while our world acts back on us and designs us'' Design Designs (us)
+
+Terry Winograd and Fernando Flores, interested in computing for cognition, ``in designing tools we are designing ways of being'' which is demostrably true in age of internet and virtual activities
+
+Heidegger influential ``being-in-the-world'' concept, impossible to exist not in-the-world
+
+``Just as we have no memory of how we acquired language and began to use and be shaped by it, we have no memory of how we began to use and be shaped by design. This makes it extremely difficult to imagine how things could be otherwise''
+
+``Unsustainability is a core theme in the work of Tony Fry, an extraordinarily prolific author on the subject of design, politics and the environment since the late 1980s. One of the most vocal proponents of ontological design theory, much of his output has focused on the dialectical agency of design as both a `futuring' activity — that extends possibilities for the prospering of life on earth — and a `defuturing' one — that instead reduces those prospects by causing severe social and environmental harm, thus `taking the future away'.''
+
+individualism, iconic design, don't make sense in context of ontological design - Escobar calls the `radical interdependence' of all things
+
+Interesting discussion of brand},
+  creationdate     = {2024-02-07T10:17:01},
+  keywords         = {design, participatory},
+  modificationdate = {2024-02-07T12:38:21},
+  owner            = {izzy_olivine},
+}
+
+@Online{Escobar2017,
+  author           = {Arturo Escobar},
+  date             = {2017-03-16},
+  title            = {Designs for the Pluriverse - Clark University Atwood Lecture},
+  url              = {https://www.youtube.com/watch?v=8Ouy7aN6XPs},
+  urldate          = {2024-02-07},
+  comment          = {Overview of book of same name - but much easier to follow.
+
+Design is seen a means to transition out of crises
+
+Design as cultural-political project
+
+Take an ontological approach to design
+
+Builds on territorial struggles, autonomy, and design
+
+Autonomy - communual, creation of conditions for the community's ongoing self-creation
+
+``easy to see theoretically, very difficult to bring into practice''
+
+Question right at end - but why is all this design?},
+  creationdate     = {2024-02-07T12:35:37},
+  keywords         = {design, participatory},
+  modificationdate = {2024-02-07T12:54:01},
+  owner            = {izzy_olivine},
+}
+
+@Article{Jones2023,
+  author           = {Nicola Jones},
+  date             = {2023-11-23},
+  journaltitle     = {Nature},
+  title            = {What the OpenAI drama means for AI progress -- and safety},
+  url              = {https://www.nature.com/articles/d41586-023-03700-4},
+  comment          = {Covers everything - background to OpenAI and GPT, from non-profit to capped profit, heavy competition ``taking the breaks off'' AI development, lock-in of AI to Google, MS and Amazon, anti-trust, that X-risk concerns overshadow today's dangers, AGI, Sam Altman,  Sarah Meyers West, Ilya Sutskever, Geoffrey Hinton, Jathan Sadowski},
+  creationdate     = {2024-02-07T16:52:15},
+  keywords         = {AI, technology, Tech Giants},
+  modificationdate = {2024-02-07T16:57:30},
+  owner            = {izzy_olivine},
+}
+
+@Article{SnowdenB2007,
+  author           = {David J. Snowden and Mary E. Boone},
+  date             = {2007},
+  journaltitle     = {Harvard Business Review},
+  title            = {A Leader’s Framework for Decision Making},
+  url              = {https://hbr.org/2007/11/a-leaders-framework-for-decision-making},
+  comment          = {About leadership using the Cynefin framework. Leadership needs to switch style depending on the circumstances:
+
+- simple - no arguments about what the solution is - proceedural leadership and best practice work here
+- complicated - there is at least one solution, but there is unclear relationship between cause and effect - requires iput from experts
+- complex - unpredictable and emergent outcomes - requires input from diverse perspectives, encourage dissent
+- chaotic - needs rapid response and command and control [somewhat like critical problems in Grint2010]
+- disorder - a mixture of contexts - very difficult to recognise, needs the components teasing apart
+
+Leader needs to be able to switch e.g. when chaos become complex (the immediate emergency has passed) leader needs to relinquish command style and elicit input from others},
+  creationdate     = {2024-02-07T17:34:08},
+  keywords         = {decisions, leadership},
+  modificationdate = {2024-02-07T17:42:45},
+  owner            = {izzy_olivine},
+}
+
+@Online{McKenzie2022,
+  author           = {Bridget McKenzie},
+  date             = {2022-06-07},
+  title            = {Earth Crisis Blinkers},
+  url              = {https://climatemuseumuk.org/2022/06/07/earth-crisis-blinkers/comment-page-1/},
+  urldate          = {2024-02-07},
+  comment          = {Builds on carbon tunnel vision - the idea that by focussing only on carbon emissions everything else in the sustainability transition is being neglected
+
+Earth Crisis Blinkers nests impacts on lives, planetary boundaries and solutions and tactics but expresses that when we focus in on any of these, we will leave other others
+
+Missing from the diagram are the causes e.g. separation from nature, extraction, overconsumption, etc
+
+Recommends the People Take Action framework \url{https://bridgetmck.medium.com/people-take-action-941e90139876}
+
+Also presents a flipped version describing how UK Government is obscuring the exploiting the Earth crisis},
+  creationdate     = {2024-02-07T19:18:52},
+  keywords         = {climate, society},
+  modificationdate = {2024-02-07T19:27:26},
+  owner            = {izzy_olivine},
+}
+
+@InBook{CostanzaChock2020,
+  author           = {Costanza-Chock, Sasha},
+  booktitle        = {Design {Justice}},
+  date             = {2020-02-27},
+  title            = {Design {Practices}: ``{Nothing} about {Us} without {Us}''},
+  edition          = {1},
+  note             = {https://designjustice.mitpress.mit.edu/pub/cfohnud7},
+  comment          = {``Design justice focuses on the ways that race, class, gender, and disability structure both information asymmetries and variance in user product needs''
+
+Had a great history of Participatory design in latter sections
+
+Section ``Designers: Who Gets (Paid) to Do Design?'':
+all human beings thus participate in design Papanek - but who gets paid to design?
+
+``Professional design jobs in nearly all fields are disproportionately allocated to people who occupy highly privileged locations within the matrix of domination. At the same time, the numerous expert designers and technologists who are not wealthy and/or educationally privileged white cis men have often been ignored, their labor appropriated, and their stories erased from the history of technology'' (Wajcman 1991; and see Chanda Prescod-Weinstein’s ``Decolonising Science Reading List'' at \url{https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f}; see also Beatrice Martini’s ``Decolonizing Technology: A  Reading List'' at url{https://beatricemartini.it/blog/decolonizing-technology-reading-list}.)
+
+``full parity remains unlikely without macro policy shifts to support systems-wide equalizers such as universal family policies, job protection, generous paid parental leave, child care services, and other key factors that are known to support gender-diverse employment, retention, and career advancement'' (Kushi and McManus 2016)
+
+Section ``Diversity Is Good for Capitalist Profitability''
+``employee diversity ... remains comfortably within the discourse of (neo)liberal multiculturalism and entrepreneurial citizenship'' (Irani 2015) ``despite steadily increasing interest in establishing a diverse pool of designers, developers, product managers, and other tech workers ... structural inequality is rarely mentioned, let alone challenged''
+
+Section ``Imagined Users: Whose Tech?'':
+``There is nothing wrong with making things people want. It’s just that too little attention is being paid to the things people need'' (Penny 2014)
+
+Section `User-Centered Design, the ``Unmarked'' User, and the Spiral of Exclusion'':
+``Research shows that unless the gender identity, sexual orientation, race/ethnicity, age, nationality, language, immigration status, and other aspects of user identity are explicitly specified, even diverse design teams tend to default to imagined users who belong to the dominant social group'' (Hamraie 2013)
+
+Section: ``Design Justice and Lead User Innovation''
+``Von Hippel demonstrates that information asymmetry between manufacturers and users is one of the underlying forces that supports lead user innovation. In a nutshell, when the cost (in time and energy) of communicating a specific kind of user need to the manufacturer is high, it often makes more sense for users to modify products on their own than to attempt to convince manufacturers to do so ... [but] does not engage with race, gender, class, or other axes of structural inequality''
+
+Section ``Participatory Design'':
+``In Scandinavia, the field of participatory design (PD) was created by trade unionists working with software developers such as Kristen Nygaard. They hoped to redesign industrial processes, software interfaces, and workplace decision-making structures'' (Gregory 2003)
+
+``Asaro (2000) traces the roots of PD to the Norwegian Industrial Democracy Project (NIDP). In the 1960s, Scandinavian designers and researchers were concerned with the ways that the introduction of new technology in a workplace is often used to eliminate jobs, deskill workers, and otherwise benefit the interests of owners and managers over the interests of workers''
+
+``The Nordic approach to PD is also characterized by an emphasis on the normative value of democratic decision making in the larger technological transformation of work, not only the microlevel pragmatic benefits of improved user interface design. However, in the US context, this broader concern is often lost in translation. Here, PD has sometimes (at worst) been reduced to an extractive process to gather new product ideas'' (Byrne and Alexander 2006)
+
+``... These approaches certainly increase end user input into key design decisions, but most of them have little to say about community accountability, ownership, profit sharing, or credit for innovation''
+
+Section ``Design Justice as Community Organizing'':
+``Design justice practitioners choose to work in solidarity with and amplify the power of community-based organizations. This is unlike many other approaches to PD, in which designers partner with a community but tend to retain power in the process: power to convene and structure the work, to make choices about who participates, and, usually, to make key decisions at each point. Analysis of political power in the design process -- who sits at the table, who holds power over the project, what decision-making process is used -- will be fundamental to the successful future articulation of design justice in theory and practice.''
+
+Excellent sections on ``Disability Justice and Queer Crip Design'' and ``\#MoreThanCode: Findings from the Technology for Social Justice Project''
+
+``Community-driven design means that communities get to make critical decisions throughout the process; along the way, this approach helps community members develop technical knowledge and skills''
+
+T4SJ Project synthesized hundreds of concrete suggestions for community accountability into the following recommendations:
+- Adopt codesign methods
+- Develop specific, concrete mechanisms for community accountability
+- Center community needs over tools
+- Invest in education (both formal and informal) that teaches codesign methods to more practitioners
+- Create tech clinics, modeled on legal clinics
+- Avoid `parachuting' technologists into communities
+- Stop reinventing the wheel!
+- Support maintenance, not just `innovation'},
+  creationdate     = {2024-02-18T13:31:31},
+  keywords         = {design, transformation, justice, participatory},
+  modificationdate = {2024-02-24T17:36:30},
+  owner            = {izzy_olivine},
+  year             = {2020},
+}
+
+@Misc{UdoewaF2022,
+  author           = {Victor Udoewa and Marc Fonteijn},
+  date             = {2022-07-21},
+  title            = {A radically different approach to participatory design},
+  howpublished     = {Service Design Show podcast},
+  url              = {https://podcasters.spotify.com/pod/show/servicedesignshow/episodes/A-radically-different-approach-to-participatory-design--Victor-Udoewa--Episode-154-e1l7atk},
+  comment          = {Introduction to what Udoewa calls ``radical participatory design'' (rpd) using radical meaning ``from the root'', indicating that it is participatory from the top to the bottom
+
+participatory design - design with potential users or even other stakeholders
+
+rpd - not just design with by design by, with meta-methodology (not simply methods or methodologies) and with the community:
+- the community is always present and always leading
+- community members outnumber professional designers
+- community members own the outcomes / artifacts and the narratives around these
+
+Reason for participatory design may be:
+- improve design outcomes
+- mutual learning
+- justice or democratic purpose
+- change after design because participation leads to ownership by the community
+
+Considers epistemologies and ontologies and how they relate to design
+
+Epistemologies - ways of knowing - have been dominated by Western ideas, especially post-enlightenment, around institutional knowledge, which may be thought of as 3rd person. But there is also 1st person and 2nd person (interrelational, e.g. culture, spiritual) knowledge, and these may also break down further to different types such as embodied knowing, intuitive knowing, aesthetic knowing etc. All these are types of expertise, e.g. lived experiential knowledge. [made me think of Beiner2023]
+
+Ontologies - ways of being - again many have been lost during the enlightenment and by colonialisation of ways of being. We don't just have different world views, we have different worlds.
+
+rpd is decolonial and indigenous - enabling many ways of knowing and of being
+
+Within participatory design the dominant role is designer as facilitator - but it is impossible to get past the inherent power in this role
+
+Roles within rpd:
+- designer as community member, alongside all the other skills brought by community members
+- community member as designer
+- community member as facilitator, even if this requires gradual development to support members
+
+rpd includes various methods, e.g.:
+- participatory appraisal - identify what each community member brings
+- future design
+- positive deviance
+
+communities may not want to be defined by what they lack but by what they bring},
+  creationdate     = {2024-02-24T15:51:55},
+  keywords         = {design, justice, transformation, participatory},
+  modificationdate = {2024-02-24T16:22:48},
+  owner            = {izzy_olivine},
+}
+
+@Article{Udoewa2022,
+  author           = {Victor Udoewa},
+  date             = {2022-11-14},
+  journaltitle     = {Design Science},
+  title            = {An introduction to radical participatory design: decolonising participatory design processes},
+  eprint           = {https://www.cambridge.org/core/services/aop-cambridge-core/content/view/63F70ECC408844D3CD6C1A5AC7D35F4D/S2053470122000245a.pdf/an-introduction-to-radical-participatory-design-decolonising-participatory-design-processes.pdf},
+  comment          = {Critiques participatory design - useful for references too
+
+RPD - participatory to the root
+It is a meta-methodology - practiioners can use any guide, toolkit or methodology in a rpd way
+
+Discusses the different meanings of particpatory design
+- interaction with the community (for whom the design is `for')
+- a specific method use as useability testing, interviews, etc
+- a way of conducting a method
+- a methodology or collection of methods or guiding principles
+- something else, currently unknown
+
+Goals of PD:
+- mutual learning
+- eleciting the community's perspective
+- ownership or facillitating better outcomes and change
+- interacting after launch
+
+Criticisms of process evaluation, understanding of power, culture and other dynamics
+
+``It would be epistemologically biased and supremacist to cite published critiques, preferring the written word, when communities have known and experienced these problems before they were ever written. So I am sharing a critique based on the experience of communities and projects of which I have been a part.''
+
+``If designers invite community members to participate, they are reinforcing the power differential, the fact that they have the power to invite or not to invite. They have the power to choose who, when, where, how, and if to invite. All the choices are in their hands. The very act of ‘empowering’ users or community members, reinforces the designer’s own power to do so and the seeming lack of power community members have to participate in their own way on their own terms''
+
+``I will call PD, which maintains and strengthens power imbalances between designers and community members, colonial participatory design (CPD). I will use the terms RPD, critical PD, relational PD, and postcolonial PD interchangeably.'' [post-(colonial) rather than postcolonial]
+
+Defines and reviews colonialisation and literature on this - more than land can be colonised - and work on decolonising PR
+
+Histories of PD and participatory research tend to only go back to 1970's or 1940's which is the colonial history of PD nad PR. Identifies examples of PD from oral histories, and archeaology and challenges the epistemology of PR
+
+``community design is inherently participatory, and communities of humans have always engaged in PD processes for hundreds of thousands of years''
+
+Developd a typology based on 3 dimensions, each with a range of involvement from the community and the designers:
+1. Who initiates the work, and how much do they initiate?
+2. Who participates, and how fully do they participate? all phases – research, synthesis, design, and implementation (but also there are meetings, decisions, and practice design that often happen without community)
+3. Who leads the process, regardless of participation, and how much do they lead?
+
+- Community design is wholly on the community end of all these dimensions
+- Community driven-design is across the spectrum of dimension 1 (initiation), from wholly community to equally community and designer in terms of dimension 2 (participation), and wholly at the community end of dimension 3 (leadership)
+- Colonial PD covers whole spectrim of dim 1, all of dim 2 that includes designer, and designer majority of dim 3
+- RPD  covers whole spectrim of dim 1, the community majority halfs of both dim 2 and dim 3
+
+Discusses in detail the 3 criteria of RPD:
+- the community is always present and always leading
+- community members outnumber professional designers
+- community members own the outcomes / artifacts and the narratives around these},
+  creationdate     = {2024-02-24T16:25:34},
+  keywords         = {design, justice, transformation, participatory},
+  modificationdate = {2024-02-24T20:35:02},
+  owner            = {izzy_olivine},
+}
+
+@Article{LewisMB2020,
+  author           = {Jenny M Lewis and Michael Mcgann and Emma Blomkamp},
+  date             = {2020},
+  journaltitle     = {Policy \& Politics},
+  title            = {When design meets power: Design thinking, public sector innovation and the politics of policymaking},
+  doi              = {10.1332/030557319X15579230420081},
+  number           = {1},
+  pages            = {111--130},
+  url              = {https://www.researchgate.net/publication/335405058_When_design_meets_power_Design_thinking_public_sector_innovation_and_the_politics_of_policymaking},
+  volume           = {48},
+  comment          = {``Considers the use of ``design thinking'' DT in public sector, applied within policy systems, e.g. recent proliferation of PSI Labs
+
+``[DT] recasts policymaking as a more reflexive, uncertain and even ambiguous process compared with the instrumental rationality of policymaking as depicted in policy handbooks or the deliberative tribunal of participatory models'' p124
+
+Find limitations to the use of DT to date. Tonurist suggest this is because labs are small, lack stability or authority. There are also limitations in how well these approaches can scale, like in participatory approaches p125-6
+
+Survey las in Australia and NZ, so somewhat limited
+
+three approaches to policy (a) logic, (b) foundation and (c) speaking truth to power, table 1:
+- Rational - (a) deduction, induction, objectivity, (b) evidence, (c) technical expertise
+- Participatory - (a) inclusion, consultation, argumentation, collaboration, (b) discussion, (c) democratic principles
+- Design thinking - (a) innovation, humanity, intuition, abduction, (b) imaginaton, (c) creative ideas
+
+Discussion of DT p112
+Loosely human-centred
+Inspired by the participatory philosophies of theorists such as Papanek and Manzini
+Some say it is `bottom-up', narrowing the gap between designers and citizens
+Iskander 2018 argues that DT privileges the designer ahead of those who are meant to be served by the process
+
+Paper asks 3 questions:
+1. what is really new about DT in the public sector?
+2. how does it challenge or differ from more traditional approaches to policymaking?
+3. what impact, if any, does it have on the process of policymaking?
+
+and compare DT to rational-process and participatory models
+
+Discussion of PSI Labs - vanguard of DT in public sector, focus of innovation
+
+Policymaking is usually described as rational, sequential with known problems p114 Adams 2004: contemporary movement towards `evidence-based' policymaking is a species of scientism, posits verifiable social-scientific knowledge as the `modern currency of public policy' p116  emphasis on precision and closure p116
+
+Alternatives to rational are interpretative and participatory models p115
+
+``both problem construction and solution analysis is `intimately involved with relations of power' (FischerF1993 p7)
+
+DT is abductive, iterative, p114 situated p116 playful, creative, illogical p115 open and ambiguous p116
+
+```emotion and intuition' are treated as valid bases for determining viable options (Bason, 2013). This marks an important difference with deliberative approaches which, while recognising the importance of empathy in mobilising participants to gain mutual understanding, nevertheless privilege the `inherent rationality' (Renn, 2006: 35) of
+argumentative persuasion as the basis for adjudicating options''
+
+Analyse:
+- the methods used by PSI labs (e.g. a few use RCTs, many use citizen/stakeholder engagement through workshops, etc)
+- the design levels (e.g. a few engage in developing policy proposals or reforms, many consult with stakeholders)
+- stages of the innovation cycle worked at (e.g. a few evaluate programmes/trials/pilots, most generate ideas)},
+  creationdate     = {2024-02-25T10:56:18},
+  keywords         = {design, participatory, policy},
+  modificationdate = {2024-02-25T12:14:37},
+  owner            = {izzy_olivine},
+}
+
+@InBook{FischerF1993,
+  author           = {Frank Fischer and John Forester},
+  booktitle        = {The Argumentative Turn: Policy Institutions and Practices},
+  date             = {1993},
+  title            = {Editors’ Introduction},
+  doi              = {10.1215/9780822381815-001},
+  isbn             = {978-0-8223-8181-5},
+  publisher        = {Duke University Press},
+  comment          = {``By focusing on the argumentative character of policy analysis and
+planning, this book takes a practical turn from abstracted epistemological
+problems of analytical practice to the political and sociological staging
+and significance of that practice. In sociological terms, these essays
+teach us about the context-specific rhetoric character of analytical
+practices - the ways the symbolism of their language matters, the ways
+the consideration of their audiences matters, the ways they construct
+problems before solving them. In political terms, these essays teach us
+about the ways policy and planning arguments are intimately involved
+with relations of power and the exercise of power, including the concerns
+of some and excluding others, distributing responsibility as well as
+causality, imputing praise and blame as well as efficacy, and employing
+particular political strategies of problem framing and not others.'' p7},
+  creationdate     = {2024-02-25T11:24:18},
+  keywords         = {power, policy},
+  modificationdate = {2024-02-25T11:27:24},
+  owner            = {izzy_olivine},
+}
+
+@Misc{Brackett,
+  author           = {Ernest Brackett},
+  date             = {1969},
+  title            = {On in-house capability},
+  comment          = {This is quote used by Mazzucato, particularly around promotion of MazzucatoC2023, I suspect it is not quite correct and I don't know the original date
+
+Ernest Brackett (NASA) said ``if the agency stopped investing in in-house capability, it would no longer understand its own environment, not know who to collaborate, and not be able to write the terms of reference for doing so. It would be captured by brochuremanship''},
+  creationdate     = {2024-02-26T11:58:44},
+  modificationdate = {2024-02-26T12:14:55},
+  owner            = {ISargent},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}
