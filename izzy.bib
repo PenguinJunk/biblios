@@ -27344,4 +27344,44 @@ Nice bubble visualisations shoing the distribution of topics},
   owner            = {izzy_olivine},
 }
 
+@Article{ZirnS2014,
+  author           = {C\"acilia Zirn and Heiner Stuckenschmidt},
+  date             = {2014},
+  journaltitle     = {Data & Knowledge Engineering},
+  title            = {Multidimensional topic analysis in political texts},
+  doi              = {https://doi.org/10.1016/j.datak.2013.07.003},
+  issn             = {0169-023X},
+  note             = {Special Issue on Natural Language Processing and Information Systems (NLDB 2012)},
+  pages            = {38-53},
+  url              = {https://www.sciencedirect.com/science/article/pii/S0169023X1300075X},
+  volume           = {90},
+  abstract         = {Automatic content analysis is more and more becoming an accepted research method in social science. In political science researchers are using party manifestos and transcripts of political speeches to analyze the positions of different actors. Existing approaches are limited to a single dimension, in particular, they cannot distinguish between the positions with respect to a specific topic. In this paper, we propose a method for analyzing and comparing documents according to a set of predefined topics that is based on an extension of Latent Dirichlet Allocation (LDA) for inducing knowledge about relevant topics. We validate the method by showing that it can guess which member of a coalition was assigned a certain ministry based on a comparison of the parties' election manifestos with the coalition contract. We apply the method to German National Elections since 1990 and show that the use of our method consistently outperforms a baseline method that simulates manual annotation of individual sentences based on keywords and standard text comparison. In our experiments, we compare two different extensions of LDA and investigate the influence of the used seed set. Finally, we give a brief illustration of how the output of our method can be interpreted to compare positions towards specific topics across several parties.},
+  comment          = {argue that there is a need for new analysis methods that are able to discriminate between positions on different policy areas and treat them independently
+
+Analyse manefestos (of German political parties) as these are ``independent of personal opinions and opportunistic statements that influence for instance political speeches''
+
+``to compare two documents containing several topics, we first extract the topics automatically by running a topic model on each of the documents. Then, the positions towards the topics can be analyzed by measuring the distance between the corresponding topics''
+
+Use textiling for splitting documents automatically into topically coherent chunks
+
+``the underlying assumption of Latent Dirichlet Allocation, [is] that a single document always addresses a number of different topics to a certain extent which is given by the Dirichlet distribution''
+
+Tag parts of speech and experiments find that nouns are best for topic modelling, with adjectives identifying how words are percieved by the respective party. The exclude very infrequent and stop words
+
+versions of LDA:
+- Latent Dirichlet Allocation (LDA) by Blei et al. [9]
+- Labeled LDA by Ramage et al. [11] extends LDA by allowing for learning from multiply labeled documents
+- LogicLDA [12] by Andrzejewski et al. is an extension of LDA that offers the possibility to include first order knowledge
+
+Use seed words to identify topics - ``if a snippet contains a seed word for a topic, we add its topic as a label''
+
+``The result of the topic creation is a set of multinomials over word tokens that represent the different topics in a document. According to our assumptions, these multinomials represent the position of the authors of a document with respect to the respective topic''
+
+Test their approach by applying to coalition contracts. These are written by multiple parties but are expected to be mostly influenced by the party in control and thus this should be the result of the party position inference. It seems to have worked quite well.},
+  creationdate     = {2024-04-10T12:11:44},
+  keywords         = {Topic models, Political science, Text Analysis},
+  modificationdate = {2024-04-10T16:15:54},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
