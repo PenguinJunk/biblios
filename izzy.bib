@@ -27310,4 +27310,38 @@ RNN ethos mining (Duthie and Budzynska, 2018) using Hansard as a dataset},
   year             = {2021},
 }
 
+@InProceedings{HaddadanCSV2023,
+  author           = {Haddadan, Shohreh and Cabrio, Elena and Soto, Axel J. and Villata, Serena},
+  booktitle        = {AIxIA 2022 -- Advances in Artificial Intelligence},
+  date             = {2023},
+  title            = {Topic Modelling and Frame Identification for Political Arguments},
+  editor           = {Dovier, Agostino and Montanari, Angelo and Orlandini, Andrea},
+  isbn             = {978-3-031-27181-6},
+  location         = {Cham},
+  pages            = {268--281},
+  publisher        = {Springer International Publishing},
+  url              = {https://link.springer.com/chapter/10.1007/978-3-031-27181-6_19},
+  abstract         = {Presidential debates are one of the most salient moments of a presidential campaign, where candidates are challenged to discuss the main contemporary and historical issues in a country. These debates represent a natural ground for argumentative analysis, which has been always employed to investigate political discourse structure in philosophy and linguistics. In this paper, we take the challenge to analyse these debates from the topic modeling and framing perspective, to enrich the investigation of these data. Our contribution is threefold: first, we apply transformer-based language models (i.e., BERT and RoBERTa) to the classification of generic frames showing that these models improve the results presented in the literature for frame identification; second, we investigate the task of topic modelling in political arguments from the U.S. presidential campaign debates, applying an unsupervised machine learning approach; and finally, we discuss various visualisations of the identified topics and frames from these U.S. presidential election debates to allow a further interpretation of such data.},
+  comment          = {``Topics and frames cover two different viewpoints on the arguments put forward in the debate ... topics are identified by the keywords that make them distinct from the other topics ... framing is how an argument by a debater is put forward through selected words to react to the discussion about the topics in debate''
+
+Entman [10] defines framing as follows: ``To frame is to select some aspects of a perceived reality and make them more salient in a communicating text, in such a way as to promote a particular problem definition, casual interpretation, moral evaluation and/or treatment recommendation.''
+
+```automatic identification of topics and frames ... to enrich argument-based information''
+
+This paper:
+1. apply transformer-based language models (i.e., BERT and RoBERTA) to classify generic frames
+2. apply an unsupervised machine learning approach for topic modeling which takes advantage of sentence embeddings to represent the debates
+3. provide some visualisations of the identified topics and frames
+
+AjjourAWS2019 ``define frames to be non-overlapping aspects of arguments on the same subject while concealing other aspects ... first cluster the documents into topics using TF-IDF features of the debate and argument components with k-means, then they remove the topic from these clusters by using the prominent terms for each topic extracted by C-TF-IDFFootnote3 and again cluster the results into frames''
+
+``Topic modeling [26] has been used for a long time along with bag of words features and Latent Dirichlet Allocation (LDA) or other matrix factorisation models. Recently, with the advancement of Language Models, topic modeling has also been adapted to the use of transformer-based models such as BERT [8]''
+
+Nice bubble visualisations shoing the distribution of topics},
+  creationdate     = {2024-04-10T11:25:01},
+  keywords         = {politics, text mining},
+  modificationdate = {2024-04-10T11:37:52},
+  owner            = {izzy_olivine},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
